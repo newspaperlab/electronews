@@ -1,0 +1,39 @@
+{
+  "updated": "2026-11-03",
+  "articles": [
+    {
+      "id": "buds-on-us-20261028",
+      "date": "2026-10-28",
+      "source": "Samsung Mobile Press",
+      "url": "https://www.samsungmobilepress.com/latest-news",
+      "category": {
+        "ko": "오디오",
+        "en": "Audio",
+        "ja": "オーディオ",
+        "zh": "音频"
+      },
+      "locales": {
+        "ko": {
+          "title": "Galaxy Buds On, 미국 출시 소식",
+          "summary": "Samsung Mobile Press가 Galaxy Buds On의 미국 출시를 알렸습니다. 오픈이어 청취 경험을 강조한 제품입니다.",
+          "body": "Samsung Mobile Press의 10월 28일 게시물은 Galaxy Buds On의 미국 출시를 소개합니다.\n\n이번 소식은 미국 시장 기준입니다. 국내 판매 여부와 가격, 기능 제공 범위는 한국 공식 안내를 별도로 확인해야 합니다. 이 기사는 직접 사용한 리뷰가 아니라 공식 발표의 요약입니다."
+        },
+        "en": {
+          "title": "Galaxy Buds On arrives in the US",
+          "summary": "Samsung Mobile Press announced the US launch of Galaxy Buds On, highlighting an open-ear listening experience.",
+          "body": "An October 28 post from Samsung Mobile Press introduces the US launch of Galaxy Buds On.\n\nThis news concerns the US market. Local availability, pricing and feature support should be checked separately with Samsung in your country. This article summarizes an official announcement and is not a hands-on review."
+        },
+        "ja": {
+          "title": "Galaxy Buds On、米国で発売",
+          "summary": "Samsung Mobile Pressは、オープンイヤーのリスニング体験を特徴とするGalaxy Buds Onの米国発売を案内しました。",
+          "body": "Samsung Mobile Pressの10月28日の投稿は、Galaxy Buds Onの米国発売を紹介しています。\n\n米国市場についての情報です。各国での販売、価格、機能の提供範囲は現地の公式案内を確認してください。本記事は公式発表の要約であり、実機レビューではありません。"
+        },
+        "zh": {
+          "title": "Galaxy Buds On在美国推出",
+          "summary": "Samsung Mobile Press宣布Galaxy Buds On在美国推出，主打开放式聆听体验。",
+          "body": "Samsung Mobile Press于10月28日发布的消息介绍了Galaxy Buds On在美国的推出。\n\n这则消息针对美国市场。当地上市情况、价格和功能支持范围需另行查看所在地区的官方公告。本文为官方发布摘要，并非实际体验评测。"
+        }
+      }
+    }
+  ]
+}
