@@ -1,6 +1,159 @@
 {
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "articles": [
+    {
+      "id": "micro-rgb-explained-20261103",
+      "date": "2026-11-03",
+      "published": "2026-11-04",
+      "source": "Samsung Newsroom",
+      "url": "https://news.samsung.com/global/video-inside-the-tech-samsung-micro-rgb-tv",
+      "category": {
+        "ko": "디스플레이",
+        "en": "Displays",
+        "ja": "ディスプレイ",
+        "zh": "显示技术"
+      },
+      "locales": {
+        "ko": {
+          "title": "Micro RGB TV, 큰 화면보다 작은 광원을 읽어야 하는 이유",
+          "summary": "삼성전자가 기술 소개 영상을 공개했다. RGB 광원과 화면 처리, 표면 특성은 각각 다른 문제를 다룬다.",
+          "body": "11월 3일 공개된 것은 무엇인가\n삼성전자는 Micro RGB TV의 광원 기술을 소개하는 영상을 11월 3일 뉴스룸에 게시했다. 영상 공개는 제품의 기술 설명에 해당한다. 이 날짜를 모든 국가의 판매 시작일로 해석해서는 안 된다. 가격과 크기별 공급 일정은 지역별 제품 안내를 따로 확인할 정보다.\n\nRGB와 광원이라는 단어\nRGB는 빨강·초록·파랑을 뜻한다. TV를 이해할 때는 빛을 만드는 부분과 그 빛으로 영상을 표현하는 과정을 나누어 생각하면 좋다. 이번 소개는 작은 RGB LED를 강조한다. 제조사가 말하는 색 표현의 장점을 이해하는 출발점이지만, 명칭 하나로 다른 패널 방식과 모든 특성이 같다고 볼 수는 없다.\n\n화질은 한 가지 숫자로 끝나지 않는다\n편집부의 관점에서 실제 시청 경험에는 밝은 방에서의 반사, 어두운 장면의 표현, 시청 거리와 입력 영상이 함께 작용한다. 영상 처리 기능과 표면의 반사 특성 역시 같은 항목이 아니다. 어느 한 기능의 홍보 설명만으로 모든 콘텐츠에서 더 좋은 화면이라고 결론 내리기 어렵다.\n\n구매자는 무엇을 비교해야 하나\n매장에서 같은 영상과 비슷한 설정으로 여러 화면을 비교하는 것이 유용하다. 벽면 크기뿐 아니라 설치 위치의 조명과 소파 거리도 고려해야 한다. 이번 기사는 제조사의 기술 소개를 읽는 해설이며 독립 측정이나 실사용 평가가 아니다. 실제 모델의 사양, 지역 가격, 보증 조건이 확인되기 전에는 구매 판단을 확정할 근거가 부족하다."
+        },
+        "en": {
+          "title": "Micro RGB TV: reading the light source behind the screen",
+          "summary": "Samsung’s new explainer separates a large-screen experience into illumination, image processing and surface behavior.",
+          "body": "What happened on November 3?\nSamsung posted a video explaining its Micro RGB TV technology. This is a technical presentation, not a universal retail launch notice. Local prices, sizes and availability need to be checked separately.\n\nUnderstanding RGB illumination\nRGB refers to red, green and blue. It helps to distinguish the part that produces light from the process that turns it into an image. Samsung highlights small RGB LEDs. That provides a starting point for understanding its color claims, but a product name alone does not establish equivalence with other display architectures.\n\nMore than one quality metric\nOur analysis is that reflections in a bright room, dark-scene behavior, viewing distance and source material all influence the experience. Image processing and surface reflection control address different problems. One promoted feature cannot demonstrate superiority for every kind of content.\n\nWhat to compare\nCompare displays using similar material and settings, and consider lighting and seating distance at home. This is an explanation of a manufacturer presentation, not an independent measurement or hands-on review. Model-specific specifications, local pricing and warranty remain necessary before a purchase decision."
+        },
+        "ja": {
+          "title": "Micro RGB TV、画面の裏にある光源を読む",
+          "summary": "Samsungが技術紹介動画を公開。光源、映像処理、表面の特性は別々に考えたい。",
+          "body": "11月3日の公開内容\nSamsungはMicro RGB TVの技術解説動画をニュースルームに掲載した。技術紹介であり、全世界で同日に販売が始まったという意味ではない。価格やサイズ別の供給は地域ごとの案内を確認する必要がある。\n\nRGB光源とは\nRGBは赤・緑・青を指す。光を作る部分と、その光で映像を表す過程を分けると理解しやすい。今回の紹介は小さなRGB LEDを強調するが、名称だけで他の表示方式と性質が同じとは判断できない。\n\n画質は一つの指標ではない\n編集部は、明るい部屋での反射、暗い場面、視聴距離、入力映像が体験に関わると考える。映像処理と表面の反射対策も別の問題だ。一つの機能説明であらゆる映像への優位性が証明されるわけではない。\n\n比較のポイント\n似た映像と設定で比較し、自宅の照明や座席距離も考えたい。本記事はメーカー説明の解説であり、実測レビューではない。購入には型番別の仕様、現地価格、保証の確認が必要だ。"
+        },
+        "zh": {
+          "title": "Micro RGB TV：理解大屏背后的光源",
+          "summary": "Samsung发布技术介绍视频。光源、图像处理与表面反射需要分别理解。",
+          "body": "11月3日发生了什么\nSamsung在新闻室发布Micro RGB TV技术视频。这是技术展示，不是全球统一开售公告，地区价格、尺寸和供货时间需另外核实。\n\nRGB光源的含义\nRGB指红、绿、蓝。理解电视时，可区分产生光的部分和形成图像的过程。此次介绍强调小型RGB LED，但不能仅凭名称，就认定它与其他显示结构具有相同特性。\n\n画质不止一个指标\n编辑部分析认为，明亮房间中的反射、暗场表现、观看距离与片源都会影响体验。图像处理与表面反射控制解决的也不是同一个问题，一项宣传功能不能证明所有内容都更好看。\n\n比较时看什么\n可用相似片源与设置进行比较，并考虑家中照明和座位距离。本文解释制造商展示，并非独立测量或实际评测。购买前仍须确认具体型号、当地价格与保修条件。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Samsung Newsroom",
+          "url": "https://news.samsung.com/global/video-inside-the-tech-samsung-micro-rgb-tv"
+        }
+      ],
+      "image": {
+        "url": "assets/20261104-microrgb.svg",
+        "generated": true,
+        "alt": {
+          "ko": "기사 주제를 표현한 AI 콘셉트 일러스트",
+          "en": "AI concept illustration of the article topic",
+          "ja": "記事テーマのAIコンセプトイラスト",
+          "zh": "文章主题的AI概念插画"
+        }
+      }
+    },
+    {
+      "id": "siri-app-intents-preview-20261103",
+      "date": "2026-11-03",
+      "published": "2026-11-04",
+      "source": "Apple Developer",
+      "url": "https://developer.apple.com/news/?id=gdk2umrf",
+      "category": {
+        "ko": "소프트웨어",
+        "en": "Software",
+        "ja": "ソフトウェア",
+        "zh": "软件"
+      },
+      "locales": {
+        "ko": {
+          "title": "Siri AI가 앱 개발자에게 열렸다, 핵심은 ‘기능 연결’",
+          "summary": "Apple이 개발자 프리뷰를 공개했다. 사용자가 모든 앱 기능을 즉시 음성으로 쓸 수 있다는 뜻은 아니다.",
+          "body": "발표와 일반 배포의 차이\nApple은 11월 3일 Siri AI와 앱을 연결하는 개발자 프리뷰를 발표했다. 개발자가 먼저 기능을 만들고 시험하는 단계다. 프리뷰 공개와 일반 사용자를 위한 정식 배포는 서로 다른 사건이며, 이번 발표만으로 사용하는 모든 앱이 바로 지원된다고 볼 수 없다.\n\nApp Intents는 무엇을 잇나\n앱에는 화면뿐 아니라 검색, 기록, 예약처럼 사용자가 실행하려는 작업이 있다. App Intents는 이러한 앱 기능을 시스템과 연결하는 틀로 이해할 수 있다. 음성 요청을 받았을 때 어느 앱의 어떤 동작을 불러올지 연결 고리가 필요하다는 뜻이다. 실제 지원 범위는 개발자가 제공한 기능과 시스템 조건에 달려 있다.\n\n편리함 뒤의 설계 문제\n편집부 분석으로는 기능을 연결하는 수보다 결과를 사용자가 이해할 수 있게 만드는 일이 중요하다. 조회와 변경은 결과의 무게가 다르다. 앱이 어떤 정보를 사용하고 어떤 동작을 실행했는지, 실패하면 어디로 돌아가는지까지 설계해야 일상에서 신뢰할 수 있는 기능이 된다.\n\n지금 확인할 것\n사용자는 정식 지원 기기와 언어, 지역, 앱별 업데이트를 확인해야 한다. 개발자는 프리뷰 문서와 시험 환경에서 동작 범위를 검증할 필요가 있다. 발표는 확장의 출발점이며, 모든 복잡한 요청을 정확하게 처리한다는 성능 보증은 아니다. 실제 사용 경험에 대한 판단은 정식 서비스와 개별 앱의 구현을 보고 해야 한다."
+        },
+        "en": {
+          "title": "Siri AI opens to app developers: the connection is the story",
+          "summary": "Apple has announced a developer preview. It does not instantly make every app action available to every user.",
+          "body": "Preview versus public rollout\nApple announced the Siri AI developer preview on November 3. It gives developers an early environment for building and testing integrations. A developer preview and general customer availability are different events; installed apps do not all gain support automatically.\n\nWhat App Intents connects\nApps contain actions as well as screens: searching, recording and making arrangements, for example. App Intents can be understood as a framework connecting app capabilities to the system. A voice request needs a defined route to a particular action. Support depends on what the developer exposes and on system requirements.\n\nThe design challenge\nOur analysis is that understandable outcomes matter more than the raw number of connections. Retrieving information differs from changing it. A trustworthy experience needs to communicate what information was used, what action occurred and how to recover when something fails.\n\nWhat to check now\nUsers should verify devices, languages, regions and app updates. Developers need to test their particular implementation in the preview environment. The announcement is a starting point for wider integration, not a guarantee that every complex request will be completed correctly. Real-world judgments require the released service and individual apps."
+        },
+        "ja": {
+          "title": "Siri AIを開発者に公開、焦点はアプリ機能の接続",
+          "summary": "Appleが開発者プレビューを発表。すべてのアプリが直ちに対応するわけではない。",
+          "body": "プレビューと一般提供\nAppleは11月3日、Siri AIとアプリを結ぶ開発者プレビューを発表した。開発と試験のための初期段階であり、一般ユーザーへの正式提供とは別だ。既存アプリすべてに対応が自動追加されるものではない。\n\nApp Intentsの役割\nアプリには画面だけでなく、検索や記録などの動作がある。App Intentsは、その機能をシステムにつなぐ枠組みとして理解できる。音声の依頼を具体的な動作へ結ぶ経路が必要であり、対応範囲は開発者の実装やシステム条件による。\n\n設計上の課題\n編集部は接続数より、結果を利用者が理解できることが重要と考える。情報を見ることと変更することでは影響が違う。利用した情報、実行した動作、失敗時の戻り方まで分かる設計が信頼につながる。\n\n確認する条件\n機器、言語、地域、アプリ更新を確認したい。開発者は試験環境で自分の実装を検証する必要がある。今回の発表は拡大への出発点であり、複雑な依頼がすべて正確に完了するという保証ではない。"
+        },
+        "zh": {
+          "title": "Siri AI向开发者开放，重点是连接应用功能",
+          "summary": "Apple公布开发者预览，但不代表所有应用立即获得完整语音支持。",
+          "body": "预览不同于正式推出\nApple于11月3日宣布Siri AI开发者预览，为开发与测试集成提供早期环境。开发者预览和面向普通用户的正式上线是不同事件，已安装应用不会因此自动全部支持。\n\nApp Intents连接什么\n应用不仅有界面，也有搜索、记录等操作。可把App Intents理解为连接应用能力与系统的框架。语音请求需要明确对应到具体动作，支持范围取决于开发者实现和系统条件。\n\n设计上的挑战\n编辑部认为，比连接数量更重要的是让用户理解结果。查询与修改信息的影响不同。可靠体验应说明用了什么信息、执行了什么，以及失败后如何恢复。\n\n现在需要确认什么\n用户应核实设备、语言、地区和应用更新。开发者则需要在预览环境中验证实现。此次公告是扩展的起点，并非保证所有复杂请求都能准确完成，实际判断仍要看正式服务与具体应用。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Apple Developer",
+          "url": "https://developer.apple.com/news/?id=gdk2umrf"
+        }
+      ],
+      "image": {
+        "url": "assets/20261104-siri.svg",
+        "generated": true,
+        "alt": {
+          "ko": "기사 주제를 표현한 AI 콘셉트 일러스트",
+          "en": "AI concept illustration of the article topic",
+          "ja": "記事テーマのAIコンセプトイラスト",
+          "zh": "文章主题的AI概念插画"
+        }
+      }
+    },
+    {
+      "id": "apple-273-beta-20261103",
+      "date": "2026-11-03",
+      "published": "2026-11-04",
+      "source": "Apple Developer",
+      "url": "https://developer.apple.com/news/?id=6gpufove",
+      "category": {
+        "ko": "업데이트",
+        "en": "Updates",
+        "ja": "アップデート",
+        "zh": "系统更新"
+      },
+      "locales": {
+        "ko": {
+          "title": "Apple 27.3 베타 공개, 새 기능보다 먼저 볼 것은 호환성",
+          "summary": "iPhone부터 Mac·Watch까지 개발자 시험 단계가 시작됐다. 베타 알림은 정식 업데이트 권고와 다르다.",
+          "body": "무슨 버전이 나왔나\nApple은 11월 3일 iOS·iPadOS·macOS·tvOS·visionOS·watchOS 27.3 베타를 안내했다. 개발자에게 새 환경에서 앱이 예상대로 동작하는지 확인하라는 취지다. 베타는 출시 전 시험판을 뜻하며, 안내 날짜가 일반 사용자용 정식 버전의 배포일은 아니다.\n\n기기보다 앱의 일상을 본다\n운영체제가 바뀌면 로그인, 알림, 파일 공유와 외부 기기 연결처럼 자주 쓰는 기능도 다시 살펴봐야 한다. 새 기능 화면이 잘 열리는 것만으로 호환성 시험이 끝나지는 않는다. 사용자가 하던 일을 끝까지 마칠 수 있는지 확인하는 과정이 중요하다.\n\n개발자에게 필요한 점검\n편집부 관점에서는 실제 작업 흐름을 기준으로 시험 항목을 정하는 것이 유용하다. 예를 들어 문서를 열고 수정한 뒤 다시 저장하는 일, 알림을 눌러 원하는 화면으로 가는 일은 여러 기능을 함께 거친다. 문제가 생겼다면 기기, 버전과 재현 순서를 기록해야 수정에 도움이 되는 피드백이 된다.\n\n일반 사용자는 어떻게 읽어야 하나\n이번 발표를 모든 사용자가 바로 설치해야 한다는 의미로 받아들일 필요는 없다. 평소 쓰는 앱의 공식 지원 안내와 정식 버전 공지를 확인하는 것이 판단에 도움이 된다. 시험판의 존재만으로 성능 향상이나 안정성을 단정할 수 없으며, 실제 지원 기기와 기능은 관련 배포 문서에서 확인해야 한다."
+        },
+        "en": {
+          "title": "Apple’s 27.3 betas put compatibility ahead of novelty",
+          "summary": "The new testing cycle covers phones, tablets, computers, TV, spatial devices and watches. A beta notice is not a general upgrade recommendation.",
+          "body": "What was released?\nApple announced 27.3 betas for iOS, iPadOS, macOS, tvOS, visionOS and watchOS on November 3. The developer notice asks teams to check that apps behave as expected. A beta is a prerelease testing stage; its announcement date is not the release date of a final consumer update.\n\nLook at everyday workflows\nAn operating-system change can affect login, notifications, file sharing and accessory connections. Opening a new feature screen is not a complete compatibility test. What matters is whether a person can finish the task they came to do.\n\nA practical testing lens\nOur analysis favors end-to-end workflows. Opening a document, editing it and saving it exercises several components. Following a notification to the intended screen does too. Useful feedback records the device, version and steps required to reproduce a problem, rather than simply saying that an app feels different.\n\nFor ordinary users\nThe notice should not be interpreted as an instruction for everyone to install immediately. Check app support information and final-release announcements. The existence of a beta alone proves neither better performance nor stability. Device support and actual features need to be checked in the relevant release documentation."
+        },
+        "ja": {
+          "title": "Appleが27.3ベータを案内、新機能より先に互換性を確認",
+          "summary": "複数の機器で試験段階が始まった。ベータ案内は一般向け更新の推奨とは異なる。",
+          "body": "公開された内容\nAppleは11月3日、iOS、iPadOS、macOS、tvOS、visionOS、watchOSの27.3ベータを案内した。アプリが想定通り動くか確認するための開発者向け通知だ。試験版の発表日は、一般向け正式版の配布日ではない。\n\n日常の操作を確認する\nOS変更ではログイン、通知、ファイル共有、周辺機器接続なども確認したい。新機能の画面が開くだけでは試験は終わらない。利用者が目的の作業を最後まで完了できるかが重要だ。\n\n開発者の点検方法\n編集部は一連の作業を単位にする考え方を勧める。文書を開き、編集し、保存する流れは複数の機能を通る。問題があれば機器、バージョン、再現手順を記録することで修正に役立つ情報になる。\n\n一般利用者への意味\n全員が直ちに導入すべきという通知ではない。使用アプリの対応案内や正式版の告知を確認したい。ベータが存在するだけで性能や安定性の向上は断定できず、機器対応や実際の機能も配布文書で確かめる必要がある。"
+        },
+        "zh": {
+          "title": "Apple发布27.3测试版，先看兼容性再看新功能",
+          "summary": "多个设备平台进入测试阶段。测试版通知并不是面向所有人的升级建议。",
+          "body": "发布了哪些版本\nApple于11月3日公布iOS、iPadOS、macOS、tvOS、visionOS和watchOS的27.3测试版，提示开发者验证应用是否正常工作。测试版属于正式发布前阶段，公告日期并非普通用户正式版本的推出日期。\n\n关注日常任务\n系统改变可能影响登录、通知、文件共享及配件连接。仅仅打开新功能界面不等于完成兼容性测试，更重要的是用户能否把原本的任务做完。\n\n开发者如何检查\n编辑部建议按完整流程组织测试。例如打开文档、编辑并保存，会经过多个组件；通过通知进入目标页面也是如此。出现问题时，记录设备、版本及复现步骤，比笼统描述体验变化更有助于修复。\n\n普通用户如何理解\n不必把通知视为所有人都应立即安装的要求。可先查看应用支持说明与正式版公告。测试版的存在并不能证明性能或稳定性提高，设备范围和实际功能仍需核实发布文档。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Apple Developer",
+          "url": "https://developer.apple.com/news/?id=6gpufove"
+        }
+      ],
+      "image": {
+        "url": "assets/20261104-beta.svg",
+        "generated": true,
+        "alt": {
+          "ko": "기사 주제를 표현한 AI 콘셉트 일러스트",
+          "en": "AI concept illustration of the article topic",
+          "ja": "記事テーマのAIコンセプトイラスト",
+          "zh": "文章主题的AI概念插画"
+        }
+      }
+    },
     {
       "id": "buds-on-us-20261028",
       "date": "2026-10-28",
