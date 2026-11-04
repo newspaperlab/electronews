@@ -1,6 +1,269 @@
 {
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "articles": [
+    {
+      "id": "galaxy-ring-sleep-feature-20261103",
+      "date": "2026-11-03",
+      "published": "2026-11-05",
+      "source": "Samsung Mobile Press",
+      "url": "https://api.samsungmobilepress.com/press-releases/upgraded-sleep-apnea-feature-galaxy-ring-us-korea-approvals",
+      "category": {
+        "ko": "웨어러블",
+        "en": "Wearables",
+        "ja": "ウェアラブル",
+        "zh": "可穿戴设备"
+      },
+      "locales": {
+        "ko": {
+          "title": "갤럭시 링에도 수면무호흡 위험 평가, 손목에서 손가락으로",
+          "summary": "삼성전자는 11월 3일 갤럭시 링 지원을 발표했다. 미국 FDA 기록과 제품 공지를 함께 읽어 기능 범위와 배포 시점을 구분했다.",
+          "body": "손가락에 착용하는 기기로 확장\n삼성전자는 11월 3일 수면무호흡 위험 평가 기능을 갤럭시 링에서도 제공한다고 발표했다. 갤럭시 링은 손가락에 착용하는 웨어러블이다. 이번 변경은 수면 중 측정 장치를 손목형에서 링까지 넓힌다는 점에 있다. 삼성은 10일 이내에 유효한 이틀 밤의 기록이 필요하며, 업데이트된 기능에서 감지된 호흡 방해 수준에 관한 정보도 제공한다고 설명했다.\n\n규제 결정과 제품 제공은 다른 날짜다\n미국 FDA의 K261011 기록에는 2026년 7월 20일 결정이 기재돼 있다. 분류는 수면무호흡 위험을 평가하는 일반 판매용 기기이며, 결정 유형은 기존 기기와 실질적으로 동등하다는 510(k) 판단이다. 삼성의 발표에 따르면 한국 식품의약품안전처 허가는 10월이다. 11월 3일은 제품 기능 제공을 알린 날짜다. 규제 기록과 소프트웨어 배포 날짜는 각각 검토 완료와 이용 가능성이라는 별개의 질문에 답한다.\n\n센서가 직접 보는 것과 소프트웨어가 추정하는 것\nFDA 공개 자료에 따르면 이 기능은 빛을 이용해 맥박과 관련된 혈류 변화를 읽는 광용적맥파(PPG), 움직임 정보, PPG에서 얻은 산소포화도 관련 자료를 사용한다. 이 기록을 알고리즘이 분석해 수면 중 반복적인 호흡 방해와 관련된 패턴을 평가한다. 센서가 수집한 신호와 화면에 표시되는 위험 평가는 같은 종류의 데이터가 아니다. 후자는 측정 조건과 소프트웨어 처리에 의존하는 결과다.\n\n사용자가 확인해야 할 적용 범위\n공식 설명에서 이 기능은 18세 이상을 대상으로 중등도에서 중증 수면무호흡 징후의 위험을 평가하는 도구다. 이미 진단받은 사람을 대상으로 설계되지 않았고, 전문 의료진의 진단이나 치료를 대체하는 기능도 아니다. 이틀은 필요한 유효 기록의 기준이며, 한 번 착용하거나 기록 두 개가 생성됐다는 사실만으로 평가가 완성된다고 볼 수 없다. 기기와 휴대전화, 지역, 앱 버전의 호환성을 별도로 확인해야 한다.\n\n링을 추가한 의미와 남은 확인 사항\n편집부의 관점에서 링 지원의 의미는 같은 기능에 접근하는 착용 방식이 하나 더 생겼다는 데 있다. 손목 착용이 불편한 사람에게는 다른 선택지가 될 수 있다. 반면 링과 시계가 모든 개인에게 똑같이 맞거나 같은 신호 품질을 제공한다고 볼 근거는 없다. 삼성은 일부 이전 워치 모델에 후속 업데이트를 예고했으나 그 공지에서 정확한 날짜는 밝히지 않았다. 호환 목록과 업데이트 배포는 구매나 사용을 결정하기 전에 확인할 부분이다.\n\n화면 속 숫자는 어떤 단위인가\n갤럭시 링 기능이 제공하는 호흡 방해 정보는 이용자가 수면에 관해 설명할 자료가 될 수 있다. 다만 이 정보가 병원의 검사 결과와 같은 측정 절차를 거쳤다고 해석하면 범위를 벗어난다. FDA 요약에서 확인되는 것은 웨어러블 신호를 정해진 소프트웨어 방식으로 처리한다는 점이다. 이용 환경에서 신호가 부족하거나 유효한 밤을 채우지 못하면, 측정값이 없는 경우와 위험도가 낮다고 나온 경우를 같은 뜻으로 받아들이면 안 된다. 적용 범위를 확인할 때에는 결과 표시뿐 아니라 앱에 함께 제공되는 사용 설명도 읽는 편이 정확하다."
+        },
+        "en": {
+          "title": "Galaxy Ring gains sleep apnea risk assessment",
+          "summary": "Samsung announced Ring support on November 3. FDA records and the product announcement describe different milestones.",
+          "body": "From wrist to finger\nSamsung announced on November 3 that its updated Sleep Apnea feature is available on Galaxy Ring. The ring expands the wearable form factors supported by the software. Samsung describes two valid nights within a ten-day window and additional information about detected breathing disruptions.\n\nRegulatory decision and rollout\nThe FDA record K261011 lists July 20, 2026 as the US 510(k) decision date and identifies the device as substantially equivalent to its predicate. Samsung reports Korean authorization in October. November 3 is the availability announcement. These dates refer to regulatory review and product access respectively.\n\nSignals and interpretation\nThe FDA summary describes photoplethysmography, movement and pulse-oximetry-derived data. The software uses those signals to assess patterns associated with significant disruptions during sleep. A risk assessment is an inference from recorded signals, and measurement conditions affect the input.\n\nScope of use\nThe intended use covers adults 18 and older and signs of moderate to severe sleep apnea. The feature is not intended for people already diagnosed and does not replace clinical diagnosis or treatment. Two nights need to contain valid data. Phone, wearable, region and app compatibility matter.\n\nWhat the ring changes\nA different form factor may suit people who prefer not to wear a watch at night. That does not establish identical fit or signal quality for every user. Samsung mentions future updates for some older watches, without specifying an exact date in this notice.\n\nWhat a displayed result represents\nThe breathing disruption information can help a user describe a recorded pattern. It is derived from wearable signals rather than the same procedure as a clinical sleep study. Missing or insufficient recordings are not equivalent to a low-risk result. Read the accompanying instructions and limitations with the display."
+        },
+        "ja": {
+          "title": "Galaxy Ringに睡眠時無呼吸リスク評価、対応機器を拡大",
+          "summary": "Samsungが11月3日に提供を発表。規制上の判断日と機能の提供日は異なる。",
+          "body": "指輪型にも対応\nSamsungは11月3日、更新した睡眠時無呼吸リスク評価をGalaxy Ringに提供すると発表した。手首型に加え、指で着用する選択肢ができる。会社は10日以内に有効な2晩分の記録が必要と説明している。\n\n規制記録と提供時期\n米FDAのK261011では2026年7月20日に510(k)の実質的同等性が判断された。韓国の許可はSamsungによれば10月で、11月3日は機能提供を伝える発表日だ。\n\nセンサーと評価\nFDAの公開資料は光電容積脈波、動き、酸素飽和度に関連するデータを挙げる。ソフトウェアは睡眠中の呼吸の乱れに関係するパターンを評価する。記録した信号と算出されるリスクは区別して読む必要がある。\n\n対象と残る確認\n対象は18歳以上で、中等度から重度の兆候のリスク評価を目的とする。既に診断を受けた人向けの機能や、診断・治療の代わりではない。対応端末、地域、アプリの確認が必要だ。指輪型を選べる利点はあるが、装着感や信号の品質は人によって異なり、一部旧型Watchの更新日は今回明示されていない。\n\n表示結果の位置づけ\n呼吸の乱れに関する表示は着用機器の信号を処理したものだ。記録不足と低リスク結果は別であり、表示に付く説明も確認する。"
+        },
+        "zh": {
+          "title": "Galaxy Ring加入睡眠呼吸暂停风险评估",
+          "summary": "Samsung于11月3日公布功能可用。监管审查与软件提供需要按不同日期理解。",
+          "body": "从手腕扩展到手指\nSamsung于11月3日宣布Galaxy Ring支持更新后的风险评估。戒指为夜间测量提供另一种佩戴方式。公司说明需要在10天内获得两晚有效数据。\n\n监管与上市时间\nFDA的K261011记录显示，2026年7月20日作出510(k)实质等同决定。Samsung称韩国于10月批准，11月3日则是功能提供公告日。两种日期分别回答监管和使用的问题。\n\n数据如何转化为风险评估\nFDA资料列出光电容积脉搏波、活动数据及由光学测量得到的血氧相关信息。软件据此评估睡眠期间与明显呼吸中断有关的模式。风险评估是软件解释结果，需要区分它与传感器记录。\n\n使用范围和不确定性\n该功能面向18岁及以上人群，评估中度至重度相关迹象，不能代替临床诊疗，也并非为已确诊者设计。需核对设备、手机、地区和软件兼容性。戒指扩大了选择，但不保证对所有人都有相同佩戴效果，部分旧款手表的更新日期仍未在公告中明确。\n\n读懂结果的边界\n呼吸中断信息来自可穿戴信号处理。有效记录不足与低风险结果不同，应该同时阅读应用的使用说明与限制。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Samsung Mobile Press",
+          "url": "https://api.samsungmobilepress.com/press-releases/upgraded-sleep-apnea-feature-galaxy-ring-us-korea-approvals"
+        },
+        {
+          "name": "FDA · K261011 decision",
+          "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?ID=K261011"
+        },
+        {
+          "name": "FDA · 510(k) Summary",
+          "url": "https://www.accessdata.fda.gov/cdrh_docs/pdf26/K261011.pdf"
+        }
+      ],
+      "image": {
+        "url": "assets/20261105-ring.jpg",
+        "alt": {
+          "ko": "침대 옆 탁자에 놓인 일반 스마트 링",
+          "en": "Generic smart ring on a bedside table",
+          "ja": "ベッド脇に置いた一般的なスマートリング",
+          "zh": "床头桌上的通用智能戒指"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "xreal-aura-japan-orders-20261102",
+      "date": "2026-10-28",
+      "published": "2026-11-05",
+      "source": "Google",
+      "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+      "category": {
+        "ko": "확장현실",
+        "en": "XR",
+        "ja": "拡張現実",
+        "zh": "扩展现实"
+      },
+      "locales": {
+        "ko": {
+          "title": "XREAL AURA 일본 주문 일정 개시, 유선 Android XR 안경의 조건",
+          "summary": "Google이 10월 28일 공개한 일정상 일본 주문은 11월 2일 시작된다. 유선 연결과 앱 지원 범위가 실제 활용을 좌우한다.",
+          "body": "국가별로 달랐던 주문 시작일\nGoogle은 10월 28일 Android XR 기반 유선 안경 XREAL AURA를 소개했다. 미국·캐나다·한국은 발표 당일 주문을 받고, 일본은 11월 2일부터 주문을 시작하는 일정으로 안내됐다. 오늘 주목할 부분은 일본도 안내된 주문 기간에 들어섰다는 점이다. 주문 접수일과 구매자별 발송일은 구분해야 하며, 실제 재고와 도착 예정일은 현지 판매처 정보에 달려 있다.\n\n안경 형태가 바꾸는 설계\nXREAL은 안경형 디스플레이를 만드는 회사이고, AURA에는 Google의 Android XR이 적용된다. XR은 현실 공간에 디지털 화면을 겹치거나 시야 안에서 가상 환경을 경험하는 장치를 아우르는 용어다. 이 모델은 유선이라는 점이 중요하다. 착용부를 작게 느끼더라도 연결 장치와 케이블을 함께 배치해야 한다. 이동하며 짧게 쓰는 상황과 책상에 앉아 긴 시간 보는 상황에서는 같은 설계의 장단점이 다르게 나타난다.\n\n앱이 보이는 것과 공간 기능을 쓰는 것\nGoogle은 일반 Android 앱과 XR에 맞춘 앱을 함께 소개한다. 기존 앱 화면을 시야 안에 띄울 수 있는 것과 여러 공간 창이나 손동작에 맞춰 설계된 경험은 다르다. 앱 목록의 수가 실제로 자주 쓰는 서비스의 입력 방식, 콘텐츠 권한과 연결 기기 조건을 모두 해결하지는 않는다. 구매자는 자신이 사용하는 영상 서비스나 업무 앱이 원하는 방식으로 동작하는지부터 확인할 필요가 있다.\n\n미러링과 기기 자체 실행의 차이\n유선 미러링은 다른 장치의 화면을 안경 쪽에 표시하는 방식이다. 작업 파일과 앱을 원래 장치에서 그대로 쓰기 쉽지만 호환되는 출력과 연결 조건이 필요하다. 반대로 안경 시스템에서 앱을 실행하면 조작 방식과 계정 연결이 그 플랫폼의 조건을 따른다. 여행 중 노트북을 대신할 화면을 원하는 사람과, 집에서 영상을 크게 보는 사람에게 필요한 조건이 같지 않다.\n\n직접 비교할 항목\n편집부는 이번 제품의 의미를 Android XR을 경험할 수 있는 폼팩터의 확장으로 본다. 화면의 체감 크기나 글자 선명도, 장시간 착용감은 제조사 소개만으로 판단하기 어렵다. 시력 보정 방법, 케이블 배치, 외부 밝기, 자신이 사용할 입력 장치와 앱을 함께 확인하면 구매 목적에 맞는 비교가 가능하다.\n\n화면이 커 보이는 것과 글을 오래 읽는 것\n영상 한 편을 볼 때는 시야에서 화면이 차지하는 크기가 우선일 수 있지만, 문서 작업에서는 화면 가장자리의 글자 선명도나 고개를 움직일 때 창의 위치가 편한지가 더 중요할 수 있다. 같은 가상 화면을 두고도 자막을 읽는 사람, 작은 글씨를 편집하는 사람, 화면을 여러 개 띄우는 사람이 보는 조건은 다르다. 케이블이 연결된 상태에서 책상 위 다른 기기를 함께 써야 한다면, 착용부의 크기와 무게만으로 사용 공간을 판단하기는 어렵다."
+        },
+        "en": {
+          "title": "XREAL AURA’s Japan order window opens for wired Android XR",
+          "summary": "Google announced AURA on October 28 and listed November 2 for Japanese orders. Tethering and app behavior shape practical use.",
+          "body": "Orders opened on different dates\nGoogle introduced the wired Android XR glasses on October 28. It listed immediate orders in the US, Canada and Korea and November 2 for Japan. An order window is distinct from delivery timing, which depends on the local seller and inventory.\n\nWhat the glasses format changes\nXREAL makes glasses-style displays. Android XR puts digital windows into the user’s field of view. A wired design also means arranging the cable and connected hardware. That trade-off matters differently at a desk and on the move.\n\nApp compatibility is not one question\nGoogle discusses ordinary Android apps and apps designed for XR. Displaying an existing app window is different from supporting spatial interactions or an input method adapted to glasses. Check the services and actions you actually need rather than relying on the size of an app catalog.\n\nMirroring or running locally\nWired mirroring can display the source device’s screen, but it requires compatible output and a connection. Running an app on the XR platform brings its own account and control requirements. A travel workspace and a home theater place different demands on those options.\n\nWhere practical tests help\nThe editorial significance is a new format for Android XR. Text clarity, extended comfort, vision correction and behavior in bright surroundings remain matters to assess in the intended setting.\n\nScreen size is not reading comfort\nVideo and prolonged document work place different demands on sharpness, window placement and movement. A user with several devices at a desk should evaluate where the cable and attached hardware actually sit, alongside the weight of the glasses."
+        },
+        "ja": {
+          "title": "XREAL AURA、日本で注文受付の予定日を迎える",
+          "summary": "Googleが10月28日に公表した有線Android XR眼鏡。日本の注文開始日は11月2日と案内された。",
+          "body": "国別の受付日\n米国・カナダ・韓国では10月28日、日本では11月2日から注文を受けるとGoogleは説明した。注文開始と個別の発送日は別で、在庫と到着日は販売店の表示に従う。\n\n眼鏡型と有線の組み合わせ\nXREALの眼鏡型機器はAndroid XRで視野に画面を表示する。有線方式では接続機器とケーブルの置き方も体験の一部だ。机上で長く使う場合と移動時とでは評価が異なる。\n\nアプリとミラーリング\n通常のAndroidアプリの表示と、空間操作に最適化したアプリの利用は同じではない。有線ミラーリングは他の機器の画面を映すため、映像出力や接続の互換性が必要だ。機器上で直接実行する場合には別の操作やアカウント条件がある。\n\n用途から比較する\n編集部はAndroid XRの機器形態が広がったことに注目する。文字の読みやすさ、視力補正、ケーブルと入力機器、周囲の明るさ、長時間の装着感は、使う場所とアプリを決めてから確認したい。\n\n画面の大きさと読みやすさ\n動画と細かい文書編集では、文字の鮮明さやウィンドウの位置に対する要求が違う。机上の他機器との配線も含めて見る。"
+        },
+        "zh": {
+          "title": "XREAL AURA进入日本订购阶段，有线Android XR眼镜如何使用",
+          "summary": "Google在10月28日介绍设备，并把11月2日列为日本开放订购日。",
+          "body": "不同市场的时间\n美国、加拿大和韩国在10月28日开放订购，日本按公告自11月2日开放。订购日期不等于发货日期，库存与收货时间须看当地销售页面。\n\n眼镜形态与有线设计\nXREAL的眼镜式设备通过Android XR把数字窗口放进视野。有线方式还涉及连接设备和线缆的摆放。桌面长时间使用与外出短时间使用，对这种设计的评价可能不同。\n\n应用显示和空间交互\n普通Android应用能显示窗口，与专门为XR设计的交互不是一回事。有线镜像把其他设备的画面投到眼镜上，仍需要兼容的输出。直接在平台运行应用，则取决于账户、输入与服务条件。\n\n按实际用途检查\n编辑部关注的是Android XR设备形态的扩展。文字清晰度、视力矫正方式、明亮环境、线缆布置和长时间佩戴体验，都要结合实际场景和所用应用评估。\n\n大画面与长时间阅读\n视频与细字文档对清晰度及窗口稳定性的要求不同。桌面上有多个设备时，也应考虑线缆和连接设备的摆放。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Google",
+          "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/"
+        }
+      ],
+      "image": {
+        "url": "assets/20261105-xr.jpg",
+        "alt": {
+          "ko": "책상 위 유선 XR 안경 콘셉트",
+          "en": "Wired XR glasses concept on a desk",
+          "ja": "机に置いた有線XR眼鏡のイメージ",
+          "zh": "桌上的有线XR眼镜概念"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "macbook-pro-proled-20261028",
+      "date": "2026-10-28",
+      "published": "2026-11-05",
+      "source": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
+      "category": {
+        "ko": "노트북",
+        "en": "Laptops",
+        "ja": "ノートPC",
+        "zh": "笔记本电脑"
+      },
+      "locales": {
+        "ko": {
+          "title": "터치와 탠덤 OLED를 얹은 MacBook Pro, 11월 6일 판매 예정",
+          "summary": "Apple이 10월 28일 발표한 14·16인치 PROLED XDR 모델은 M5 Pro 또는 M5 Max를 쓴다. 화면에 붙은 숫자와 작업 환경을 함께 봐야 한다.",
+          "body": "판매 전 확인할 모델 구분\nApple은 10월 28일 PROLED XDR 화면을 갖춘 MacBook Pro를 공개하고 같은 날 예약 주문을 시작했다. 안내된 공급 시작일은 11월 6일이다. 14인치와 16인치에 M5 Pro 또는 M5 Max 조합이 있다. 이름에 MacBook Pro가 들어간다는 이유로 같은 시기 발표한 M6 14인치 제품과 화면·칩 구성이 같다고 생각하면 안 된다. 화면 기술명과 칩 이름을 함께 보는 것이 구분의 출발점이다.\n\n탠덤 OLED와 최대 밝기\nOLED는 화소가 스스로 빛을 내는 화면 기술이다. 탠덤은 발광 구조를 여러 층으로 쌓는 방식이다. Apple은 이 화면의 최대 밝기를 HDR과 SDR에서 2,000니트로 제시한다. 최대 밝기는 특정 조건에서 밝은 부분을 표시할 때의 수치로, 큰 화면 전체를 같은 밝기로 계속 구동한다는 뜻은 아니다. 색을 다루는 작업이라면 사용 환경에서 밝기가 얼마나 일관되게 유지되는지, 반사와 시야각은 어떤지가 함께 중요하다.\n\n터치는 어떤 작업에 맞을까\nMac에서 화면을 직접 조작하는 기능을 처음 제공한다는 것이 발표의 또 다른 변화다. 편집부는 화면을 짚어 확대하거나 조정할 때에는 직접 조작이 편할 수 있다고 본다. 반대로 키보드 단축키와 정밀한 포인터 조작으로 익숙한 작업에서는 손을 화면까지 옮기는 것이 더 번거로울 수 있다. 자주 쓰는 프로그램이 어떤 동작을 지원하는지에 따라 터치의 가치는 달라진다. 화면 터치 지원만으로 모든 펜이나 태블릿용 작업 흐름을 사용할 수 있다고 가정해서는 안 된다.\n\n비교의 기준을 가격표 밖으로\nApple의 미국 발표 기준 14인치 M5 Pro 모델의 시작가는 2,899달러다. 세금, 메모리·저장장치 옵션과 지역별 가격이 달라 실제 결제 금액은 다를 수 있다. 작업용 노트북을 비교할 때는 밝기와 칩 이름 외에, 필요한 외장 화면, 파일 저장 크기와 전원 연결 환경을 기준으로 구성을 좁히는 편이 도움이 된다.\n\n아직 확인이 필요한 성능\n출시 전 제조사 자료는 지원 기능을 파악하는 데 쓸 수 있다. 실제 편집 프로그램을 장시간 돌렸을 때의 화면 밝기, 발열과 배터리 소모는 같은 파일과 설정을 사용한 시험으로 비교해야 한다. 판매 시작일이 개별 주문의 배송 날짜를 확정하는 것도 아니다. 모델별 공급과 가격은 주문하려는 지역에서 확인할 사항이다.\n\n밝기 조건은 한 화면 안에서도 달라진다\n예를 들어 검은 배경의 영상에서 작은 하이라이트를 표현하는 상황과, 흰 바탕의 문서를 화면 가득 열고 오래 편집하는 상황은 패널에 요구하는 빛의 양이 다르다. 같은 최대 밝기 숫자를 두 작업에 똑같이 적용하면 사용 환경과 차이가 생긴다. 영상 편집자가 기존 장비와 비교한다면 같은 밝기 설정과 같은 클립을 놓고 자막, 암부, 밝은 영역을 각각 확인하는 편이 낫다. 촬영 현장에서 쓴다면 창가 조명과 실외 반사 조건도 별도의 비교 항목이 된다."
+        },
+        "en": {
+          "title": "Touch and tandem OLED come to MacBook Pro ahead of November 6 availability",
+          "summary": "Apple’s October 28 announcement covers 14- and 16-inch PROLED XDR models with M5 Pro or M5 Max.",
+          "body": "Identify the model first\nApple announced the PROLED XDR MacBook Pro and opened preorders on October 28. Availability starts November 6 in its announcement. The 14- and 16-inch configurations use M5 Pro or M5 Max. The separately announced M6 14-inch model is a different configuration, so the display and chip names both matter.\n\nReading the brightness specification\nTandem OLED stacks light-emitting structures. Apple quotes a 2,000-nit peak in HDR and SDR. Peak output is a measurement under particular conditions, not a promise of sustained full-screen output. For color work, stability, reflections and the working environment also matter.\n\nWhere touch could fit\nDirect touch can be convenient for some gestures. For work built around shortcuts and pointer precision, reaching for the panel may be less useful. This is an editorial judgment about workflows. Software support and input requirements determine practical value.\n\nPrice and remaining tests\nThe US starting price for the 14-inch M5 Pro version is $2,899 in Apple’s announcement. Local taxes and configurations change the total. Sustained performance, battery behavior and brightness under actual applications still need comparable testing. A launch date does not establish an individual order’s delivery date.\n\nBrightness changes with the task\nA small highlight in a dark shot and an entire white document have different output demands. Compare the same clip and settings, then examine shadows, highlights and reflections in the actual lighting used for work."
+        },
+        "ja": {
+          "title": "タッチとタンデムOLEDを採用したMacBook Pro、11月6日発売予定",
+          "summary": "10月28日に発表されたPROLED XDRモデルは14・16インチでM5 ProまたはM5 Maxを搭載する。",
+          "body": "モデルを区別する\nAppleは10月28日に発表・予約開始し、11月6日からの供給を案内した。同時期のM6搭載14インチとは構成が異なるため、画面とチップの名称を確認したい。\n\nピーク輝度の読み方\nタンデムOLEDは発光構造を積層する方式だ。AppleはHDRとSDRで最大2,000ニトと説明する。ピーク値は一定条件の指標で、画面全体が常時その明るさになるわけではない。反射や輝度の安定性も作業には関わる。\n\nタッチの用途\n直接操作が便利な場面はあるが、ショートカットやポインターに慣れた作業では手を伸ばす手間もある。アプリが対応する操作を確認し、他の入力機器との互換性を推定だけで判断しないようにしたい。\n\n価格と実測\n米国の14インチM5 Pro構成は2,899ドルから。地域や構成で支払額は変わる。長時間の作業での発熱、電池、画面の挙動は同条件の試験を待ちたい。発売日と注文ごとの配送日も異なる。\n\n作業別の輝度\n暗い映像の小さなハイライトと白い文書の全画面表示では条件が異なる。同一の素材と設定で暗部、明部、反射を確認したい。"
+        },
+        "zh": {
+          "title": "触控与串联OLED进入MacBook Pro，计划11月6日发售",
+          "summary": "Apple于10月28日公布14英寸及16英寸PROLED XDR机型，搭载M5 Pro或M5 Max。",
+          "body": "先识别具体机型\nApple在10月28日发布并开放预订，公告中的上市日期是11月6日。同期发布的14英寸M6版本属于不同配置，应同时核对屏幕和芯片名称。\n\n峰值亮度如何理解\n串联OLED采用叠层发光结构。Apple给出的HDR及SDR峰值为2,000尼特。峰值对应特定条件，并不等同于持续全屏亮度。做色彩工作还要考虑反射和亮度稳定性。\n\n触控适合哪些任务\n直接触控可能便于部分手势操作，但习惯快捷键和精确指针的工作未必因此更快。编辑部认为，关键在所用应用对操作的支持，而不能由触控推断所有外设或平板工作流兼容。\n\n价格与未验证表现\n美国14英寸M5 Pro版本起价2,899美元，实际价格取决于地区与配置。长时间编辑时的发热、续航和亮度仍需同条件实测。上市日也不能保证单笔订单何时送达。\n\n按任务比较亮度\n暗场中的小高光与整屏白色文档所需输出不同。可在相同素材、设置和工作光线下分别比较暗部、亮部及反射。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Apple Newsroom",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/"
+        }
+      ],
+      "image": {
+        "url": "assets/20261105-macbook.jpg",
+        "alt": {
+          "ko": "편집 작업실의 일반 노트북",
+          "en": "Generic laptop in an editing studio",
+          "ja": "編集室の一般的なノートPC",
+          "zh": "编辑工作室里的通用笔记本电脑"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "imac-m6-20261027",
+      "date": "2026-10-27",
+      "published": "2026-11-05",
+      "source": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
+      "category": {
+        "ko": "데스크톱",
+        "en": "Desktops",
+        "ja": "デスクトップ",
+        "zh": "台式电脑"
+      },
+      "locales": {
+        "ko": {
+          "title": "M6 iMac 11월 6일 공급 예정, 올인원 PC에서 비교할 것",
+          "summary": "Apple은 10월 27일 M6를 탑재한 24인치 iMac을 공개했다. 칩의 세대 변화와 책상 위 구성을 함께 따져봤다.",
+          "body": "칩이 바뀐 24인치 일체형\nApple은 10월 27일 24인치 iMac에 M6를 탑재한 새 모델을 발표했다. 10월 28일에 예약 주문을 시작하고 11월 6일부터 고객에게 배송하고 매장에서 공급한다는 일정이다. iMac은 화면과 컴퓨터를 하나로 묶은 데스크톱이다. 이 구조에서는 CPU의 성능뿐 아니라 화면이 내 자리와 작업에 맞는지가 구매 판단을 좌우한다. 이미 별도 모니터와 입력 기기를 갖고 있는 경우에는 교체 비용도 달라진다.\n\nM6 성능 숫자를 읽는 순서\nApple은 이전 세대 제품과 비교한 여러 작업의 속도 수치를 제시한다. 그 수치는 비교 대상, 테스트 프로그램과 기기 구성에 따라 달라진다. 예를 들어 사진 보정에서 특정 처리 단계가 빨라졌다고 해서 자료 복사, 앱 실행과 내보내기를 포함한 모든 작업의 시간이 같은 비율로 줄어든다고 말할 수 없다. 자신의 반복 작업에서 시간이 가장 오래 걸리는 구간이 무엇인지 먼저 나누는 편이 정확하다.\n\n일체형의 편리함과 교체 주기\n컴퓨터와 화면이 함께 오면 책상에 배치하고 연결할 부품이 줄어든다. 반면 화면은 여전히 충분한데 컴퓨터만 더 빨라야 하는 시점이 올 수 있다. 별도 모니터와 본체를 쓰는 방식과 비교할 때 이 차이는 성능표보다 장기 사용 비용에 영향을 줄 수 있다. 편집부는 일체형의 강점을 단순한 배치와 일관된 사용 환경에서 찾는다. 화면 크기나 높이를 세밀하게 바꾸는 사람에게는 다른 기준이 더 중요하다.\n\n구성표를 읽는 실제 방법\n작업 파일의 크기와 보유한 외장 저장장치, 동시에 열어두는 프로그램을 기준으로 메모리와 저장 용량을 선택할 수 있다. 연결하려는 주변 기기가 많다면 모델별 포트의 개수와 규격, 별도 허브의 필요 여부도 확인해야 한다. 구매 가능한 구성 중에서 어떤 옵션이 필요한지를 확인한 뒤 비교해야 시작 가격의 차이가 실제 지출에 어떤 영향을 주는지 알 수 있다.\n\n공급 일정과 남은 확인\n10월 27일 발표와 10월 28일 사전 주문, 11월 6일 공급 시작은 서로 다른 단계다. 국가와 모델에 따라 재고나 수령 일정은 달라질 수 있다. 제조사의 성능 수치만으로 사용 중 소음이나 장시간 작업의 속도, 특정 프로그램과 장비의 호환성을 확정할 수 없다. 자주 하는 작업에 대한 비교 자료와 판매 지역의 구성표가 함께 있어야 판단이 쉬워진다.\n\n보유 장비가 다르면 비교 대상도 달라진다\n예를 들어 이미 큰 외장 모니터가 있고 그 화면으로 작업하는 사람이 iMac의 화면을 거의 쓰지 않는다면, 새 컴퓨터의 화면에 포함된 비용을 어떻게 볼지부터 달라진다. 반대로 화면과 카메라를 한 자리에서 처음 갖추는 사람에게는 초기 설정과 케이블 정리가 덜 복잡할 수 있다. 두 경우 모두 제조사의 칩 성능 비교는 같은 자료지만, 어떤 장비를 재사용하고 어떤 장비를 교체하는지에 따라 구매의 의미는 달라진다. 견적을 볼 때는 본체 한 줄보다 책상에 필요한 전체 구성을 기준으로 생각할 만하다."
+        },
+        "en": {
+          "title": "M6 iMac is due November 6: what an all-in-one buyer should compare",
+          "summary": "Apple announced the 24-inch M6 iMac on October 27. The display and desk setup matter alongside the chip.",
+          "body": "An updated all-in-one\nApple announced the 24-inch M6 iMac on October 27, with orders from October 28 and availability from November 6. An iMac combines a computer and screen, so the fit of the display and desk matters alongside performance.\n\nRead benchmarks by task\nManufacturer comparisons depend on the baseline, app and configuration. A faster photo-processing step does not imply the same gain for importing, editing and exporting an entire project. Identify the slow part of your recurring workload before applying a benchmark to it.\n\nConvenience and replacement cycles\nAn all-in-one reduces setup components. It can also tie the replacement of a usable screen to the replacement of the computer. Our analysis is that a simpler desk is valuable for some users, while adjustable displays and independent upgrades matter more for others.\n\nCompare the complete setup\nMemory, storage and ports should be checked against open apps, project files and peripherals. Include any hub or external drive in the cost. The listed availability date is separate from local stock and delivery. Sustained speed, noise and compatibility still need independent checks for the intended work.\n\nExisting equipment changes the comparison\nSomeone who already relies on a large display may value the bundled screen differently from a buyer setting up a new desk. Both see the same chip benchmarks, but total setup cost and equipment reuse differ."
+        },
+        "ja": {
+          "title": "M6搭載iMacは11月6日供給予定、一体型ならではの比較点",
+          "summary": "Appleが10月27日に24インチモデルを発表した。チップと画面を一緒に選ぶ製品だ。",
+          "body": "発表、予約、供給\nAppleは10月27日に発表し、28日から予約、11月6日から供給と案内した。画面と本体が一体なので、机との相性も性能と同じく選択に関わる。\n\n比較数値の前提\nメーカーの速度比較は対象機種、アプリ、構成に依存する。特定の写真処理が速くても、取り込みから書き出しまで同じ割合で短くなるとは限らない。自分の作業のボトルネックを見たい。\n\n一体型の交換時期\n設置する機器は少なくなるが、画面が十分でも本体だけ更新したい時期はあり得る。シンプルな設置と、画面を別々に交換できる構成では使い方に応じて価値が変わる。\n\n購入前の照合\nアプリとファイルに必要なメモリー、容量、周辺機器用の端子を確認する。地域や構成別の在庫・到着日は異なる。長時間の性能や音、互換性は実際の作業条件での比較が必要だ。\n\n手持ちの機器で比較が変わる\n大きい外部画面を持つ人と初めて一式を揃える人では、画面が付く価値が違う。既存機器の再利用まで含めて費用を比べたい。"
+        },
+        "zh": {
+          "title": "M6版iMac计划11月6日供货，一体机该比较什么",
+          "summary": "Apple在10月27日公布24英寸M6 iMac。芯片之外，屏幕与桌面布局也影响选购。",
+          "body": "发布与供货\nApple于10月27日发布，10月28日开始预订，11月6日起供货。iMac把显示器和电脑合在一起，屏幕是否适合桌面和工作，与芯片速度同样值得关注。\n\n性能数字的基准\n厂商比较取决于基准机型、程序和配置。某一步照片处理加快，并不代表导入、编辑和导出全部同比例缩短。先找出自己经常等待的环节，再判断数字是否相关。\n\n布置与更换周期\n一体机可以减少布置的设备，但也可能遇到屏幕仍合用、只想更换电脑的情况。简洁布置和分别升级，各自适合不同的使用条件。\n\n配置与未决事项\n按照同时运行的应用、文件和外设核对内存、存储与接口，把扩展设备也计入费用。供货日不等于各地区库存与订单到货日。持续性能、噪声和应用兼容性仍需按实际任务比较。\n\n已有设备决定比较范围\n已有大显示器的用户与首次配置桌面的用户，对随附屏幕的评价不同。应把旧设备可继续使用的价值计入整套成本。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Apple Newsroom",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/"
+        }
+      ],
+      "image": {
+        "url": "assets/20261105-imac.jpg",
+        "alt": {
+          "ko": "자연광이 드는 책상의 일체형 PC",
+          "en": "All-in-one computer on a daylit desk",
+          "ja": "自然光が入る机の一体型PC",
+          "zh": "自然光桌面上的一体式电脑"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "ipad-mini-oled-20261026",
+      "date": "2026-10-26",
+      "published": "2026-11-05",
+      "source": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+      "category": {
+        "ko": "태블릿",
+        "en": "Tablets",
+        "ja": "タブレット",
+        "zh": "平板电脑"
+      },
+      "locales": {
+        "ko": {
+          "title": "8.5인치 OLED iPad mini, 11월 6일 공급을 앞두고 볼 변화",
+          "summary": "새 iPad mini는 A20 Pro와 OLED를 탑재했다. 작은 태블릿에서 화면 크기, 반사와 이동 중 연결을 함께 고려할 만하다.",
+          "body": "작은 iPad의 화면을 바꾼 업데이트\nApple은 10월 26일 8.5인치 OLED 화면과 A20 Pro를 넣은 iPad mini를 발표했다. 미국을 포함한 대상 시장에서는 10월 28일부터 사전 주문을 안내했고, 첫 배송과 매장 공급은 11월 6일부터 시작할 예정이다. 다른 지역은 주문 시작 시각이 다를 수 있다. 발표가 먼저 있었고 실제 판매 일정은 이번 주에 진행된다는 점이 이번 기사의 배경이다.\n\nOLED가 만드는 대비와 반사의 차이\nOLED는 화소마다 빛을 내는 방식이다. 어두운 부분을 표현할 때 필요한 화소의 빛을 줄일 수 있어 대비에 영향을 준다. Apple은 이전 iPad mini 대비 최대 밝기가 두 배를 넘는다고 설명한다. 이 수치는 제조사가 제시한 피크 비교이며, 밝은 환경에서 화면이 실제로 얼마나 읽기 쉬운지는 반사와 자동 밝기 조절, 콘텐츠에도 좌우된다. 일부 구성의 나노 텍스처 옵션은 표면의 반사 처리와 관련되고, 밝기 수치와 같은 항목은 아니다.\n\n휴대성은 숫자보다 작업으로 비교\niPad mini는 크기가 작은 태블릿이라 이동 중 문서 확인, 독서나 가벼운 필기에 맞을 수 있다. 반면 PDF 전체 페이지를 띄우고 여백에 필기하거나 두 앱을 나란히 쓰는 경우에는 큰 화면이 더 편할 수 있다. 편집부는 손에 들고 쓰는 시간과 책상에서 화면을 나누어 쓰는 시간을 기준으로 화면 크기를 선택하는 편이 낫다고 본다. 선명한 화면이 작업 공간의 물리적 크기까지 늘리지는 않는다.\n\n이동 중 통신과 내구성\nApple은 무선 네트워크에 N1을 탑재하고 Wi‑Fi 7을 지원한다고 설명했다. 해당 기능의 이점은 접속하는 공유기와 네트워크 환경에 달려 있다. IP67 표시는 정해진 시험 조건에서 방진·방수 성능을 평가한 등급이다. 실제 생활에서 모든 물 노출을 견딘다는 보증처럼 이해할 수는 없으며, 사용·보증 조건은 제품 설명을 확인해야 한다.\n\n사전 주문에서 남는 질문\n화면 옵션과 저장 용량, 셀룰러 연결이 필요한지에 따라 비용은 달라진다. 판매 개시일이 모든 구성이 같은 날 배송된다는 의미는 아니다. 화면 반사나 눈의 피로, 배터리 지속 시간은 실제 콘텐츠와 환경에 따라 달라져 발표 자료만으로 우열을 단정하기 어렵다. 구매할 지역의 구성표와 자신이 읽는 문서 크기를 함께 보는 것이 이 변화의 실용적 가치를 판단하는 출발점이다.\n\n실제 문서를 띄워보는 비교\n작은 화면이 휴대하기 좋다는 말은 책가방과 손에 드는 무게를 설명하지만, 공부나 업무에 충분하다는 판단까지 대신하지는 않는다. 자주 읽는 교과서 PDF에서 한 페이지 전체와 확대가 필요한 표를 번갈아 열어보고, 필기 앱에서 화면을 나눴을 때 실제로 남는 공간을 확인하는 방식이 도움이 된다. 태블릿으로 화면을 많이 보는 장소가 창가인지 이동 중인지에 따라 반사와 연결의 우선순위도 다르다. 같은 OLED라는 이름보다 자신이 자주 반복하는 작업을 기준으로 비교할 수 있다."
+        },
+        "en": {
+          "title": "The 8.5-inch OLED iPad mini heads toward November 6 availability",
+          "summary": "Apple’s update combines an OLED display and A20 Pro. For a compact tablet, reflections and workspace matter alongside brightness.",
+          "body": "A display update for the small iPad\nApple announced the 8.5-inch OLED iPad mini with A20 Pro on October 26. Its US announcement lists October 28 preorders and November 6 availability. Local order timing and actual shipment depend on the market and configuration.\n\nContrast, brightness and reflections\nOLED pixels emit their own light. Apple says peak brightness exceeds twice that of the preceding iPad mini. Peak output is not a complete measure of readability: reflections, automatic brightness and content affect it too. A nano-texture option changes the surface treatment, a distinct consideration.\n\nCompare tasks, not just dimensions\nA compact tablet can suit reading while holding it or checking documents on the move. Working with a full PDF page and notes or placing two apps side by side may favor a larger display. Our analysis is that the right size depends on how often the device is handheld versus used as a divided workspace.\n\nMobility and remaining checks\nThe N1 chip supports Wi-Fi 7, whose usefulness also depends on the network. IP67 reflects specified test conditions. Check local configurations, service terms and delivery dates. Independent comparisons are needed for sustained battery life and visibility with the reader’s own content.\n\nCompare with a familiar document\nA small tablet is easier to carry, but that does not settle whether a full textbook page and annotations fit comfortably. Compare actual documents and split-screen space. Bright surroundings and on-the-move use also change the importance of reflections and connectivity."
+        },
+        "ja": {
+          "title": "8.5インチOLEDのiPad mini、11月6日の供給前に見る変化",
+          "summary": "A20 ProとOLEDを搭載。小型機では画面の反射や作業領域も重要になる。",
+          "body": "予約と販売の日程\nAppleは10月26日に発表した。米国などでは10月28日に予約を始め、11月6日から供給予定だ。地域や構成によって実際の受け取り日は異なる。\n\nOLEDと表面処理\nOLEDは画素が自ら発光する。Appleは従来機の2倍を超えるピーク輝度を示すが、読みやすさは反射や自動調整、映像にも左右される。ナノテクスチャーは表面処理の選択肢であり、輝度とは別の比較項目だ。\n\n小型画面の用途\n手に持って読む用途には小型が合いやすい。一方、PDF全体への書き込みや複数アプリの同時表示では大きい画面に利点がある。画質の向上が作業領域を広げるわけではない。\n\n接続と購入時の確認\nN1はWi‑Fi 7に対応するが、ネットワーク側の条件が関わる。IP67は所定の試験に基づく等級だ。容量、セルラーの必要性、画面仕様、実際の納期を地域別に確認し、電池や視認性は実使用条件の比較を待ちたい。\n\n普段の資料で比べる\n小型で持ち運びやすくても、教科書PDF全体と書き込みが同時に見やすいとは限らない。使う資料と分割表示、照明を確かめたい。"
+        },
+        "zh": {
+          "title": "8.5英寸OLED iPad mini计划11月6日供货",
+          "summary": "新款配备A20 Pro与OLED。小平板的可用性还取决于反光和实际工作空间。",
+          "body": "订购与供货日期\nApple在10月26日发布。美国等市场于10月28日开放预订，计划11月6日起供货。具体订单到货时间随市场和配置变化。\n\n对比度和表面反射\nOLED像素自行发光。Apple称峰值亮度超过上一代两倍，但阅读体验还受反光、自动亮度及内容影响。纳米纹理是表面处理选项，与峰值亮度属于不同比较项目。\n\n尺寸要放到任务中看\n小屏适合手持阅读或途中查文档，整页PDF批注和并排使用应用可能更适合大屏。编辑部认为要按手持与桌面分屏的使用比例选尺寸。画质提升并不能扩大物理工作区域。\n\n连接与未验证表现\nN1支持Wi‑Fi 7，效果还依赖接入网络。IP67对应规定测试条件。应核对当地的存储、蜂窝连接、屏幕选项及交付信息。实际续航、反光和可视性仍要用日常环境比较。\n\n用常见文档实测\n轻便不等于整页教材与批注都易于查看。应比较实际文档、分屏剩余面积、常用环境的光照与网络。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Apple Newsroom",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/"
+        }
+      ],
+      "image": {
+        "url": "assets/20261105-ipad.jpg",
+        "alt": {
+          "ko": "창가에서 노트 위로 들어 올린 일반 태블릿",
+          "en": "Generic tablet held above a notebook by a window",
+          "ja": "窓辺でノートの上に持ったタブレット",
+          "zh": "窗边笔记本上方手持的通用平板电脑"
+        },
+        "generated": true
+      }
+    },
     {
       "id": "micro-rgb-explained-20261103",
       "date": "2026-11-03",
