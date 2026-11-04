@@ -155,6 +155,108 @@
       }
     },
     {
+      "id": "sony-ult-field-1-smoke-blue-20261103",
+      "date": "2026-11-03",
+      "published": "2026-11-04",
+      "source": "Sony Europe",
+      "url": "https://www.sony.eu/presscentre/sony-introduces-new-smoke-blue-colour-to-ult-field-1-delivering-powerful-bass-in-a-compact-design",
+      "category": {
+        "ko": "오디오",
+        "en": "Audio",
+        "ja": "オーディオ",
+        "zh": "音频"
+      },
+      "locales": {
+        "ko": {
+          "title": "소니 ULT FIELD 1에 스모크 블루, 휴대용 스피커 사양 읽는 법",
+          "summary": "소니가 기존 휴대용 스피커에 새 색상을 더했다. 배터리와 방진·방수 표기에는 각각 시험 조건이 붙는다.",
+          "body": "스모크 블루가 추가됐다\n소니 유럽은 11월 3일 휴대용 무선 스피커 ULT FIELD 1에 스모크 블루 색상을 추가한다고 발표했다. 검정, 오프화이트, 포레스트 그레이, 주황에 이은 선택지다. ULT 버튼을 켜면 저음을 강조하는 기존 모델의 기능도 함께 소개했다.\n\n최대 12시간을 읽는 방법\n소니가 제시한 최대 12시간은 ULT 기능을 켜고 볼륨을 25로 맞춘 조건의 수치다. 같은 제품도 볼륨이나 재생 곡, 주변 온도에 따라 지속 시간이 달라질 수 있다. 야외에서 오래 쓸 계획이라면 한 번의 측정치보다 자신의 볼륨과 충전 여건을 고려하는 편이 낫다.\n\nIP67의 두 숫자\n앞 숫자 6은 방진, 뒤 숫자 7은 정해진 조건의 침수 시험을 가리킨다. 소니 자료는 캡을 단단히 닫고 수심 1m에서 30분 시험했다고 설명한다. 떨어뜨려 외장이 변형된 경우에는 방진·방수 성능도 영향을 받을 수 있다. 국내 가격과 판매 일정은 한국 판매처에서 따로 확인해야 한다."
+        },
+        "en": {
+          "title": "Sony adds Smoke Blue to the ULT FIELD 1",
+          "summary": "The portable speaker gains a colour option. Its battery and water resistance figures come with test conditions.",
+          "body": "A colour update\nSony Europe announced Smoke Blue for its ULT FIELD 1 on November 3. It joins four existing colours. The speaker’s ULT button emphasises bass.\n\nThe 12-hour figure\nSony lists up to 12 hours with ULT enabled and volume at 25. Playback, volume and temperature can change that result. Outdoor users should plan charging around their own conditions.\n\nReading IP67\nThe first digit covers dust and the second refers to a defined immersion test. Sony tested the speaker at one metre for 30 minutes with the cap secured. Impact damage may affect protection. Local prices and availability need a regional check."
+        },
+        "ja": {
+          "title": "ソニーのULT FIELD 1にスモークブルー",
+          "summary": "携帯スピーカーの新色。電池と防水の仕様には試験条件がある。",
+          "body": "新色の追加\nソニー欧州は11月3日、既存の4色にスモークブルーを加えると発表した。ULTボタンは低音を強調する。\n\n最大12時間の条件\nULTをオンにし音量25で測定した値。楽曲や音量、周囲温度によって結果は変わる。屋外で使う際には充電の手段も考えたい。\n\nIP67の意味\n最初の数字は防じん、次の数字は所定の浸水試験を示す。ソニーの試験はキャップを閉じ、水深1mで30分。衝撃で外装が損傷すれば保護性能が低下しうる。価格と発売日は地域の案内を確認したい。"
+        },
+        "zh": {
+          "title": "索尼ULT FIELD 1新增烟蓝色",
+          "summary": "便携音箱增加一种配色，续航与防水数据都有测试条件。",
+          "body": "新增配色\n索尼欧洲11月3日宣布为现有四种配色增加烟蓝色。ULT按键可增强低音。\n\n最长12小时的条件\n索尼在开启ULT且音量设为25时测得该数值。曲目、音量和环境温度都会影响续航。户外长时间使用时，可以结合自己的音量和充电条件来安排。\n\n如何理解IP67\n前一位表示防尘，后一位表示规定的浸水测试。索尼将盖子扣紧后在1米水深测试30分钟。撞击造成的外壳损伤可能影响防护。当地价格和上市安排需查阅当地渠道。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Sony Europe",
+          "url": "https://www.sony.eu/presscentre/sony-introduces-new-smoke-blue-colour-to-ult-field-1-delivering-powerful-bass-in-a-compact-design"
+        }
+      ],
+      "image": {
+        "url": "assets/sony-ult-field-1-smoke-blue-20261103.webp",
+        "generated": true,
+        "alt": {
+          "ko": "AI 생성 콘셉트 일러스트 · 소니 ULT FIELD 1에 스모크 블루, 휴대용 스피커 사양 읽는 법",
+          "en": "AI-generated conceptual illustration · Sony adds Smoke Blue to the ULT FIELD 1",
+          "ja": "AI生成のコンセプトイラスト · ソニーのULT FIELD 1にスモークブルー",
+          "zh": "AI生成的概念插画 · 索尼ULT FIELD 1新增烟蓝色"
+        }
+      }
+    },
+    {
+      "id": "lg-gallery-joseon-20261103",
+      "date": "2026-11-03",
+      "published": "2026-11-04",
+      "source": "LG Global Newsroom",
+      "url": "https://www.lg.com/global/newsroom/news/media-entertainment-solution/lg-gallery-brings-local-art-into-homes-around-the-world-debuting-with-korean-heritage/",
+      "category": {
+        "ko": "스마트 TV",
+        "en": "Smart TV",
+        "ja": "スマートテレビ",
+        "zh": "智能电视"
+      },
+      "locales": {
+        "ko": {
+          "title": "TV에 들어온 근정전과 달항아리, LG 갤러리+가 공개한 21점",
+          "summary": "LG전자가 TV용 예술 서비스에 조선 왕실 문화를 소재로 한 디지털 작품을 추가했다.",
+          "body": "TV로 보는 조선 왕실 문화\nLG전자는 11월 3일 LG 갤러리+의 지역 예술 시리즈 첫 주제로 한국의 조선 왕실 문화를 공개했다. 첫 컬렉션은 궁궐 건축, 왕실 회화, 도자기와 공예품을 소재로 한 디지털 작품 21점으로 구성됐다. 경복궁 근정전 내부와 경회루 야경도 영상 작품에 담겼다.\n\n전시물을 화면으로 옮기는 방식\n일월오봉도나 백자 달항아리도 디지털 작품으로 재해석했다. LG에 따르면 디지털 트윈 기업 위프코가 제작에 디지털 자료를 제공했고, 헤디트가 기획과 제작을, 엘팩토리가 플랫폼 연동과 유통을 맡았다. 화면을 통해 단청이나 기둥 같은 디테일을 보여줄 수 있지만, 실제 건물의 규모감과 관람 동선은 영상의 연출에 따라 달라진다.\n\n내 TV에서도 볼 수 있나\n갤러리+는 LG TV의 예술 콘텐츠 서비스다. 회사 안내는 webOS 25 이상을 실행하는 LG 스마트 TV와 일부 추가 기기를 지원 대상으로 안내한다. 프리미엄 이용에는 로그인과 결제수단 등록이 필요하다. TV를 새로 사기 전에 기존 모델의 소프트웨어 버전과 해당 컬렉션의 이용 조건부터 확인할 만하다."
+        },
+        "en": {
+          "title": "Joseon royal heritage comes to LG Gallery+",
+          "summary": "LG’s television art service introduces 21 digital works inspired by Korean royal culture.",
+          "body": "A collection of 21 works\nLG announced the collection on November 3. The opening series draws on Joseon palace architecture, royal paintings, ceramics and artefacts. Videos feature Gyeongbokgung’s throne hall and Gyeonghoeru Pavilion at night.\n\nFrom heritage to screen\nDigital reinterpretations include the Sun, Moon and Five Peaks painting and porcelain moon jars. LG credits WIPCO for digital assets, HEDIT for creative development and ELFACTORY for integration and distribution. The camera can reveal decorative details, while framing determines how viewers experience scale.\n\nAccess on an LG TV\nLG lists smart TVs running webOS 25 or later and selected other devices. Premium access requires sign-in and a payment method. Check the software version and collection terms on your existing set."
+        },
+        "ja": {
+          "title": "LG Gallery+で朝鮮王朝の文化を楽しむ",
+          "summary": "宮殿建築や王室絵画、陶磁器に着想を得たデジタル作品21点が加わる。",
+          "body": "最初の地域コレクション\nLGは11月3日、朝鮮王朝の宮殿や王室文化を題材とする21作品を発表した。景福宮の勤政殿内部や夜の慶会楼も映像に登場する。\n\n文化財を画面へ\n日月五峰図や白磁の月壺をデジタルアートとして再解釈した。LGによるとWIPCOがデジタル素材、HEDITが企画制作、ELFACTORYが配信の連携を担当した。映像で細部を追える一方、空間の見え方は撮影と演出に左右される。\n\n視聴の条件\nLGはwebOS 25以降のスマートテレビなどを対象として案内している。プレミアム利用にはログインと支払い方法の登録が必要。手持ちの機器のソフトウェアと利用条件を確認したい。"
+        },
+        "zh": {
+          "title": "LG Gallery+推出朝鲜王室文化数字艺术系列",
+          "summary": "电视艺术服务新增21件作品，主题包括宫殿、绘画和陶瓷。",
+          "body": "首个地方艺术系列\nLG于11月3日公布首批21件作品，灵感来自朝鲜王朝宫殿和王室文化。影像作品展示景福宫勤政殿内部和庆会楼夜景。\n\n从文物到屏幕\n作品对《日月五峰图》和白瓷月亮罐等进行了数字再创作。LG称WIPCO提供数字素材，HEDIT负责策划制作，ELFACTORY负责平台对接和分发。影像能呈现装饰细节，空间感则取决于镜头选择。\n\n如何观看\nLG列出的设备包括运行webOS 25及更新版本的智能电视。高级服务需要登录并登记付款方式。可以先查看现有设备的软件版本和作品的使用条件。"
+        }
+      },
+      "sources": [
+        {
+          "name": "LG Global Newsroom",
+          "url": "https://www.lg.com/global/newsroom/news/media-entertainment-solution/lg-gallery-brings-local-art-into-homes-around-the-world-debuting-with-korean-heritage/"
+        }
+      ],
+      "image": {
+        "url": "assets/lg-gallery-joseon-20261103.webp",
+        "generated": true,
+        "alt": {
+          "ko": "AI 생성 콘셉트 일러스트 · TV에 들어온 근정전과 달항아리, LG 갤러리+가 공개한 21점",
+          "en": "AI-generated conceptual illustration · Joseon royal heritage comes to LG Gallery+",
+          "ja": "AI生成のコンセプトイラスト · LG Gallery+で朝鮮王朝の文化を楽しむ",
+          "zh": "AI生成的概念插画 · LG Gallery+推出朝鲜王室文化数字艺术系列"
+        }
+      }
+    },
+    {
       "id": "buds-on-us-20261028",
       "date": "2026-10-28",
       "source": "Samsung Mobile Press",
