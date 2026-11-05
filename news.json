@@ -1,6 +1,273 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "articles": [
+    {
+      "id": "sony-mdr3r-usbc-20261105",
+      "date": "2026-11-05",
+      "published": "2026-11-06",
+      "source": "Sony Europe",
+      "url": "https://www.sony.eu/presscentre/sony-introduces-usb-cr-wired-headphones-mdr-3r-a-modern-take-on-the-first-walkmanr-headphones-mdr-3",
+      "category": {
+        "ko": "오디오",
+        "en": "Audio",
+        "ja": "オーディオ",
+        "zh": "音频"
+      },
+      "locales": {
+        "ko": {
+          "title": "소니 MDR-3R, 워크맨 시대 유선 헤드폰을 USB-C로 다시 잇다",
+          "summary": "유럽에서 11월 판매를 예고했다. 충전·페어링 부담을 줄이는 대신 USB 오디오 호환성과 개방형 구조를 살펴봐야 한다.",
+          "body": "소니가 USB-C 유선 헤드폰 MDR-3R을 11월 5일 발표했다. 1979년 첫 워크맨과 함께 등장한 MDR-3의 개념을 바탕으로, 현재의 휴대전화에 연결하기 쉬운 단자와 통화용 마이크, 선에 달린 리모컨을 더한 제품이다. 유럽 발표 기준 11월 판매 예정이며 일반형 권장가격은 59유로 또는 49파운드다. 발표 당일부터 모든 국가에서 같은 가격으로 살 수 있다는 뜻은 아니다.\n\n무선 대신 연결 절차를 줄인 선택\n소니는 음악 재생기와 헤드폰을 오랫동안 만들어온 전자기업이다. MDR-3R은 무선 연결과 전용 충전 케이스를 중심으로 하는 완전무선 이어폰과 다른 사용 방식을 제안한다. 지원 기기에 선을 꽂아 쓰기 때문에 블루투스 페어링과 헤드폰 충전 일정을 관리하지 않아도 된다. 그렇다고 전력을 전혀 쓰지 않는다는 뜻은 아니다. USB로 연결되는 오디오 기기는 연결 대상의 전원과 오디오 지원을 이용하며, 케이블이 차지하는 공간과 휴대전화 단자 사용도 실제 편의성에 영향을 준다.\n\n회사는 기존 MDR-3와 같은 23mm 드라이버를 사용해 원래 음색에 가까운 방향으로 조정했다고 설명했다. 드라이버는 전기 신호를 소리로 바꾸는 진동 장치다. 지름 숫자만으로 더 크고 작은 다른 헤드폰과 음질의 우열을 정할 수는 없다. 장착 구조와 조정, 귀에 닿는 방식도 함께 작용한다. 원형과 비슷한 소리라는 설명 역시 제조사의 설계 의도이며, 이번 기사는 실물을 들어보고 두 제품을 비교한 청음기가 아니다. 제품의 실제 소리는 별도의 평가가 필요한 부분이다.\n\nUSB-C 모양과 오디오 호환성\n공식 안내는 USB Audio Class 1.0 지원 기기와 호환된다고 명시한다. USB-C는 단자의 형태를 가리키므로 같은 모양의 구멍이 있다고 모든 기능이 똑같이 작동하는 것은 아니다. 소니도 연결 기기와 운영체제, 앱에 따라 설정이 필요하거나 일부 기능이 제대로 작동하지 않을 수 있다고 안내했다. 음악 재생뿐 아니라 통화 마이크와 리모컨까지 사용할 계획이라면 자신의 기기에서의 지원 범위를 확인해야 한다. 예전 워크맨을 닮았다고 구형 재생기에 바로 연결할 수 있다고 생각해서도 안 된다.\n\n제품은 가벼운 개방형 구조를 강조하며, 일반형에는 바꿔 끼울 수 있는 파란색과 주황색 이어패드를 제공한다. 개방적인 구조는 귀를 완전히 감싸는 밀폐형과 다른 착용·차음 특성을 갖는다. 조용한 실내에서의 가벼운 착용감과 시끄러운 교통수단에서 소리를 듣는 조건을 같은 기준으로 평가하기 어렵다. 주변 소리를 줄이는 성능을 가장 우선하는 사람이라면 외형의 복고적 매력과 자신이 필요한 기능을 나눠 판단할 필요가 있다. 제조사의 편안함 설명이 모든 사람의 착용감을 대신할 수는 없다.\n\n동시에 발표한 Stranger Things 에디션은 69유로 또는 59파운드로 일반형보다 높다. 작품 협업에 따른 디자인과 포장 차이가 구매 판단의 한 요소지만, 이를 음질 향상으로 바꿔 설명할 근거는 없다. 지역별 재고와 정확한 판매 시작일, 한국 가격은 이번 유럽 자료만으로 확인되지 않는다. 이 제품이 보여주는 변화는 새 무선 규격 경쟁보다 충전과 연결 절차를 덜어내는 유선 선택지의 확장이다. 이는 공개된 기능을 바탕으로 한 해석이며, 실제 사용 만족도를 미리 단정하는 평가는 아니다."
+        },
+        "en": {
+          "title": "Sony revives a Walkman-era idea with USB-C MDR-3R headphones",
+          "summary": "European sales are planned for November. A simple wired connection still requires compatible USB audio.",
+          "body": "Sony announced the USB-C wired MDR-3R on November 5. It revisits the idea behind the MDR-3 introduced with the first Walkman in 1979, adding a modern connector, call microphone and inline remote. European availability is scheduled for November at a suggested €59 or £49. That does not establish the same price or immediate availability in every country.\n\nLess connection management\nSony has a long history in players and headphones. This model offers a different routine from true-wireless earbuds and their charging cases: plug into a supported device without Bluetooth pairing or headphone charging. It still uses power through the connection, occupies the device's port and introduces a cable. Those practical constraints matter alongside the simpler setup.\n\nSony says 23mm drivers, matching the original size, are tuned toward the earlier sound. A driver converts electrical signals to sound; diameter alone cannot rank sound quality against another headphone. Mounting, tuning and fit also matter. The claimed resemblance describes the manufacturer's intention, not a listening comparison conducted for this article.\n\nConnector shape is not full compatibility\nThe stated requirement is USB Audio Class 1.0 support. USB-C describes a connector, not identical behavior on every device. Sony cautions that settings may be needed and some functions can vary with hardware, operating system and app. Buyers planning calls and remote control should check those functions, not just playback. A Walkman-inspired design does not imply direct compatibility with older players.\n\nThe lightweight open-ear structure and interchangeable blue and orange pads emphasize a particular fit. An open structure has different isolation characteristics from a sealed design. Quiet-room comfort and listening on noisy transport are different tests. People prioritizing noise reduction should separate styling from functional requirements; a manufacturer's comfort description cannot determine everyone's fit.\n\nThe simultaneous Stranger Things edition is priced at €69 or £59. Its collaboration design and packaging may appeal, but they are not evidence of improved sound. Exact local stock, country-specific launch dates and Korean pricing are not established by this European release. The significance is a wired option that reduces pairing and charging management, an interpretation of the disclosed features rather than a hands-on recommendation."
+        },
+        "ja": {
+          "title": "Sony MDR-3R、ウォークマン時代の発想をUSB-Cで再構成",
+          "summary": "欧州で11月発売予定。充電やペアリング不要でもUSBオーディオ対応の確認は必要。",
+          "body": "Sonyは11月5日、USB-C有線ヘッドホンMDR-3Rを発表した。1979年の初代ウォークマンとともに登場したMDR-3の発想を受け継ぎ、現代の端子、通話マイク、インラインリモコンを加える。欧州では11月発売予定で一般版の希望価格は59ユーロまたは49ポンド。全世界で即日同価格という意味ではない。\n\n接続の管理を減らす\n音楽プレーヤーとヘッドホンに長い歴史を持つSonyが、完全ワイヤレスと充電ケースとは異なる使い方を提案する。対応機器に挿せばBluetoothのペアリングやヘッドホンの充電を管理せずに使える。ただし無電力ではなく接続先の電源を使い、端子を占有し、ケーブルも必要になる。簡単さと合わせて考えたい条件だ。\n\n同社は原型と同じ23mmドライバーを用い、当時に近い音を目指したと説明する。ドライバーは電気信号を音にする部品で、直径だけで音質の優劣は決められない。取り付け、調整、装着も影響する。原型との類似はメーカーの設計意図であり、本記事で実機を聴き比べた結果ではない。\n\n端子の形と互換性\n公式条件はUSB Audio Class 1.0対応だ。USB-Cは端子形状で、同じ形でも全機能が同じとは限らない。Sonyも機器、OS、アプリにより設定が必要、または一部機能が動作しない場合を示す。通話やリモコンも使うなら再生以外の対応も確認したい。昔のウォークマン風の外観が旧型プレーヤーへの接続を保証するわけでもない。\n\n軽い開放的な構造と交換可能な青・オレンジのパッドを特徴とする。開放型は密閉型と遮音や装着条件が異なり、静かな室内と騒がしい交通機関を同じ基準では評価できない。騒音低減を重視するなら復刻的な外観と必要機能を分けるべきだ。快適という説明も全員の装着感を代弁しない。\n\n同時発表のStranger Things版は69ユーロまたは59ポンド。協業デザインと包装は選択理由になっても音質向上の証拠ではない。各国の在庫、正確な販売日、韓国価格は欧州発表だけでは不明だ。充電とペアリング管理を減らす有線の選択肢が広がるというのが本稿の解釈で、実使用の満足度を保証するものではない。"
+        },
+        "zh": {
+          "title": "索尼MDR-3R用USB-C重接随身听时代的有线耳机理念",
+          "summary": "欧洲计划11月销售，无需充电配对，但仍需确认USB音频兼容。",
+          "body": "索尼11月5日发布USB-C有线耳机MDR-3R，延续1979年初代Walkman配套MDR-3的理念，加入现代接口、通话麦克风和线控。欧洲计划11月销售，普通版建议价59欧元或49英镑，并不表示全球同日同价上市。\n\n减少连接管理\n索尼长期生产音乐播放器和耳机。这款产品提供不同于真无线耳机与充电盒的使用方式：插入支持的设备，无需管理蓝牙配对和耳机充电。但它并非不耗电，而是从连接设备获取电源，同时占用接口并需要线缆，这些都影响实际便利性。\n\n公司称使用与原版同尺寸的23毫米驱动单元，调音接近早期声音。驱动单元把电信号变成声音，直径本身不能决定相对其他耳机的音质。安装、调音和佩戴也有影响。接近原声是厂商设计目标，并非本刊实机对比聆听的结论。\n\n接口形状不等于完整兼容\n官方条件为支持USB Audio Class 1.0。USB-C描述接口形态，不保证每台设备功能相同。索尼提示，硬件、系统和应用不同，可能需要设置，部分功能也可能无法正常使用。若需要通话与线控，应核对这些功能而不只看能否播放。复古Walkman造型也不代表可直接连接旧播放器。\n\n产品强调轻量开放式结构，并提供可替换蓝色和橙色耳垫。开放结构与密闭式的隔音和佩戴条件不同，安静室内与嘈杂交通工具的需求不能混为一谈。优先考虑降噪的人，应分开衡量复古外观与功能，厂商的舒适描述无法代替每个人的佩戴感受。\n\n同期Stranger Things版建议价69欧元或59英镑。合作设计和包装可以吸引购买，但不能当成音质提升的依据。各地库存、准确开售日与韩国价格无法从欧洲公告确认。本稿认为其意义是扩展减少充电和配对管理的有线选择，这不是实际使用满意度的预先保证。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Sony Europe",
+          "url": "https://www.sony.eu/presscentre/sony-introduces-usb-cr-wired-headphones-mdr-3r-a-modern-take-on-the-first-walkmanr-headphones-mdr-3"
+        },
+        {
+          "name": "Sony · product and compatibility",
+          "url": "https://www.sony.co.uk/headphones/products/mdr-3r?sku=mdr3rsi.ce7"
+        }
+      ],
+      "image": {
+        "url": "assets/20261106-sony.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "책상 위 일반 USB-C 유선 헤드폰, AI 참고 장면",
+          "en": "Generic USB-C wired headphones on a desk, AI reference",
+          "ja": "机上の一般的なUSB-C有線ヘッドホン、AI参考画像",
+          "zh": "桌上的通用USB-C有线耳机，AI参考场景"
+        }
+      }
+    },
+    {
+      "id": "razer-hammerhead-v3-chroma-20261105",
+      "date": "2026-11-05",
+      "published": "2026-11-06",
+      "source": "Razer",
+      "url": "https://www.razer.com/newsroom/product-news/hammerhead-v3-chroma",
+      "category": {
+        "ko": "게이밍 오디오",
+        "en": "Gaming audio",
+        "ja": "ゲーム用オーディオ",
+        "zh": "游戏音频"
+      },
+      "locales": {
+        "ko": {
+          "title": "레이저 Hammerhead V3 Chroma, USB-C 유선 이어폰에 ANC와 듀얼 드라이버",
+          "summary": "90도 단자로 가로 화면 게임의 케이블 간섭을 줄이는 설계다. PC 전용 기능과 방수 등급의 범위를 구분해야 한다.",
+          "body": "레이저가 USB-C 유선 게이밍 이어폰 Hammerhead V3 Chroma를 11월 5일 발표했다. 외부 소음을 줄이는 피드포워드 ANC와 11mm 다이내믹 드라이버·6mm 트위터의 조합, 90도로 꺾인 USB-C 단자가 주요 특징이다. 배터리 지속시간을 늘리는 무선 제품과 달리, 기기에 직접 연결하는 사용 방식을 앞세웠다. 다만 발표문에는 지역별 판매 시작일과 가격이 명시되지 않아 국내 구매 조건은 추가 확인이 필요하다.\n\n손에 닿는 케이블까지 설계 대상으로\n레이저는 게임용 주변기기와 소프트웨어를 만드는 기업이다. 이 제품의 직각 단자는 휴대전화나 휴대용 게임기를 가로로 잡을 때 곧게 튀어나온 선이 손바닥에 걸리는 상황을 줄이려는 설계다. 실제로 얼마나 편한지는 기기 단자의 위치와 보호 케이스, 손을 올리는 방식에 따라 달라질 수 있다. 단자가 90도라는 사실만으로 모든 기기에서 간섭이 사라진다고 보기는 어렵다. 구입 전 사용할 기기의 충전 단자 주변 공간을 확인하는 것이 사양표보다 직접적인 단서가 될 수 있다.\n\n피드포워드 ANC는 이어폰 바깥쪽에서 들어오는 소음을 감지해 이를 상쇄할 신호를 만드는 방식이다. 반대 위상의 소리로 원치 않는 소음을 줄이는 원리를 쓰지만, 모든 소리가 완전히 사라지는 것은 아니다. 귀에 얼마나 잘 밀착되는지와 주변 소음의 종류도 결과에 영향을 준다. 회사가 제시한 기능 이름과 실제 지하철·실내에서의 차음 성능은 구분해야 한다. 이번 발표에는 독립 시험의 소음 감소 측정치가 담기지 않았으며, 본지는 실물 차음 성능을 측정하지 않았다.\n\n두 드라이버와 PC 기능의 범위\n11mm 드라이버는 저음 쪽을, 6mm 트위터는 높은 음역을 담당하도록 구성했다고 회사는 설명했다. 서로 다른 장치에 역할을 나눠 주는 설계지만 부품 수나 지름만으로 게임 내 위치 파악이 더 정확하다고 단정할 수 없다. 귀 모양, 게임 자체의 음향 처리와 개인 설정도 영향을 준다. THX Surround Sound 7.1은 PC에서 Razer Synapse를 통해 사용하는 기능이다. 이를 USB-C로 연결되는 모든 휴대전화와 휴대용 게임기에 똑같이 적용되는 기능처럼 읽으면 안 된다.\n\n유선 연결은 블루투스 전송 경로와 이어폰 배터리 충전 관리 부담을 줄인다. 그러나 회사의 지연 관련 홍보 표현을 게임 화면부터 소리 출력까지 전체 과정의 지연이 절대 0이라는 측정 결과로 바꿀 수는 없다. 게임과 운영체제의 처리는 별도로 남는다. 이 점은 빠른 반응이 필요한 게임에서 연결 방식을 비교할 때 중요하다. 제품을 선택할 때에는 무선의 자유로움과 유선의 단순함뿐 아니라 휴대전화 단자를 오디오에 쓰는 동안 충전이 필요한지도 함께 생각해야 한다.\n\nIPX4 등급은 물이 튀는 상황에 대한 방수 수준이며 수영이나 물속 사용을 뜻하지 않는다. X는 이 표기에서 먼지 보호 등급을 제시하지 않았다는 의미로 읽어야 한다. 리모컨에는 볼륨·재생·ANC 조절과 마이크가 포함되고, RGB 조명도 제공한다. 조명 선택의 폭은 시각적 기능이며 음질 성능의 증거는 아니다. 실제 호환 기기 목록과 판매 조건, 착용 안정성은 아직 확인할 항목으로 남는다. 공개 사양을 보면 휴대 게임과 일상 통화를 한 유선 장치로 묶으려는 제품이라는 해석은 가능하지만, 구매 권고에는 실사용 자료가 더 필요하다."
+        },
+        "en": {
+          "title": "Razer pairs wired USB-C audio with ANC in Hammerhead V3 Chroma",
+          "summary": "A right-angle connector targets handheld comfort; PC-only features and splash resistance have limits.",
+          "body": "Razer announced the USB-C wired Hammerhead V3 Chroma on November 5. It combines feed-forward active noise cancellation, an 11mm dynamic driver with a 6mm tweeter, and a right-angle USB-C connector. Rather than extending wireless battery life, it prioritizes a direct connection. The release does not specify local sale dates or prices, leaving Korean purchase conditions unconfirmed.\n\nThe cable is part of the design\nRazer makes gaming peripherals and software. Its angled connector aims to reduce a protruding cable's interference with a hand holding a phone or handheld horizontally. Actual comfort still depends on port location, protective cases and grip. A 90-degree plug does not eliminate interference on every device; checking space around the intended device's port may be more useful than the headline specification.\n\nFeed-forward ANC detects incoming noise outside the earbud and generates a cancelling signal. It does not erase every sound. Seal and noise type affect the result, so a named feature should be separated from measured isolation on transport or indoors. The release supplies no independent noise-reduction measurements, and this article does not report a hands-on isolation test.\n\nDrivers and platform limits\nRazer assigns lower frequencies to the 11mm driver and higher frequencies to the 6mm tweeter. Dividing duties does not itself prove better positional accuracy. Ear shape, game audio processing and settings also matter. THX Surround Sound 7.1 is a PC feature accessed through Razer Synapse; it should not be assumed available identically on every USB-C phone or handheld.\n\nA wired link avoids Bluetooth transmission and earbud charging management. The company's latency language is not proof that the whole path from game processing to sound has literally zero delay. Operating-system and game processing remain. Buyers should weigh cable simplicity against wireless freedom, and consider whether using the port for audio conflicts with charging needs.\n\nIPX4 concerns splashes, not swimming or immersion. The X does not specify a dust-protection rating. Inline controls handle volume, playback and ANC alongside a microphone; RGB lighting is visual customization, not evidence of audio quality. Device compatibility, local terms and secure fit still need checking. The disclosed design aims to combine handheld gaming and calls, but a purchase recommendation would require additional real-use evidence."
+        },
+        "ja": {
+          "title": "Razer Hammerhead V3 Chroma、有線USB-CにANCと2ドライバー",
+          "summary": "横持ちを意識した90度端子。PC専用機能と防滴の範囲は分けて読む必要がある。",
+          "body": "Razerは11月5日、USB-C有線イヤホンHammerhead V3 Chromaを発表した。フィードフォワードANC、11mmダイナミックドライバーと6mmツイーター、90度USB-C端子を組み合わせる。無線の電池時間ではなく直接接続を重視する。発表文に地域別発売日や価格はなく、韓国での購入条件は未確認だ。\n\nケーブルも設計の一部\nRazerはゲーム周辺機器とソフトウェアの企業だ。直角端子はスマートフォンや携帯ゲーム機を横持ちするとき、まっすぐ突き出す線の手への干渉を減らす狙いがある。実際の快適さは端子位置、ケース、握り方次第で、全機種で干渉が消えるわけではない。使用機器の端子周辺の空間を確認したい。\n\nフィードフォワードANCは外側で騒音を検知し、打ち消す信号を作る方式だ。すべての音を消すものではなく、密着と騒音の種類で結果が変わる。機能名と電車や室内での実測性能は別である。独立試験の減衰量は発表に含まれず、本稿も実機試験を行っていない。\n\nドライバーと対応範囲\n同社は11mmで低音、6mmで高音を担当させると説明する。役割分担がゲーム内位置の正確さを直接証明するわけではない。耳の形、ゲーム側の処理、設定も関係する。THX Surround Sound 7.1はPCでRazer Synapseから使う機能で、全USB-C携帯電話やゲーム機で同じように使えると考えるべきではない。\n\n有線はBluetooth伝送とイヤホンの充電管理を省ける。一方、メーカーの遅延表現を、ゲーム処理から出音まで全経路の遅延が厳密にゼロという実測結果にはできない。OSやゲームの処理は残る。無線の自由さ、有線の単純さに加え、音声に端子を使う間の充電需要も考えたい。\n\nIPX4は水しぶきへの保護で、水泳や水没用ではない。Xは防じん等級を示していない。リモコンで音量、再生、ANCを操作し、マイクとRGBも備えるが、照明は音質の証拠ではない。対応機器、販売条件、装着の安定性は確認が必要だ。携帯ゲームと通話を一つの有線機器にまとめる方向は読み取れるが、購入判断には実使用資料がさらに必要となる。"
+        },
+        "zh": {
+          "title": "雷蛇Hammerhead V3 Chroma将USB-C有线与主动降噪结合",
+          "summary": "90度接口面向横握游戏，PC专属功能与防溅水能力仍有适用范围。",
+          "body": "雷蛇11月5日发布USB-C有线游戏耳机Hammerhead V3 Chroma，配备前馈式主动降噪、11毫米动圈加6毫米高音单元，以及90度USB-C接头。重点是直接连接而非延长无线续航。公告未列地区开售日期和价格，韩国购买条件仍待确认。\n\n把线缆纳入设计\n雷蛇生产游戏外设和软件。直角接头旨在减少横握手机或掌机时，直出的线缆与手掌干涉。实际舒适度仍取决于接口位置、保护壳和握姿，90度并不保证所有设备都不碰手。查看自己设备接口周围空间，比只看规格更直接。\n\n前馈ANC从耳机外侧检测噪声，再产生抵消信号，并不能消除所有声音。密封程度和噪声类型会改变效果，因此功能名称不能代替通勤或室内的实测隔音。公告没有独立降噪测量，本稿也未测试实机。\n\n单元与平台限制\n公司称11毫米单元负责低频，6毫米高音单元负责高频，但分工和尺寸不能直接证明游戏定位更准。耳形、游戏音频处理及设置也会影响。THX Surround Sound 7.1需在PC通过Razer Synapse使用，不能视为所有USB-C手机和掌机的相同功能。\n\n有线可省去蓝牙传输与耳机充电管理，但厂商的延迟宣传不能变成从游戏处理到声音输出全链路严格零延迟的测量结论。系统与游戏处理仍然存在。选择时除了无线自由和有线简便，也要考虑接口用于音频时是否妨碍充电。\n\nIPX4针对溅水，不等于能游泳或浸水，X也没有声明防尘等级。线控提供音量、播放和ANC操作并带麦克风，RGB只是视觉定制，不能证明音质。兼容设备、当地销售条件和佩戴稳定性仍需确认。规格显示产品试图兼顾掌机游戏与通话，但购买建议还需要更多实际使用资料。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Razer",
+          "url": "https://www.razer.com/newsroom/product-news/hammerhead-v3-chroma"
+        }
+      ],
+      "image": {
+        "url": "assets/20261106-razer.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "일반 휴대 게임기 옆 유선 이어폰, AI 참고 장면",
+          "en": "Generic wired earphones beside a handheld, AI reference",
+          "ja": "携帯ゲーム機脇の一般有線イヤホン、AI参考画像",
+          "zh": "通用掌机旁的有线耳机，AI参考场景"
+        }
+      }
+    },
+    {
+      "id": "motorola-signature27-camera-20261105",
+      "date": "2026-11-05",
+      "published": "2026-11-06",
+      "source": "Motorola",
+      "url": "https://motorolanews.com/motorola-signature-27-dxomark/",
+      "category": {
+        "ko": "스마트폰 카메라",
+        "en": "Phone cameras",
+        "ja": "スマホカメラ",
+        "zh": "手机影像"
+      },
+      "locales": {
+        "ko": {
+          "title": "모토로라 Signature 27 카메라 173점…‘2026년 출시’와 전체 순위의 차이",
+          "summary": "공식 발표의 최고 표현에는 평가한 기기라는 범위가 붙는다. DXOMARK 원문에서는 장점과 어두운 환경의 한계가 함께 확인된다.",
+          "body": "모토로라가 Signature 27의 카메라가 DXOMARK에서 종합 173점과 Gold Label을 받았다고 11월 5일 발표했다. 회사는 2026년에 출시된 스마트폰 중 최고 카메라라고 소개했지만, 이 표현에는 DXOMARK가 평가한 기기라는 범위가 붙는다. 같은 날 확인한 DXOMARK 시험 페이지에는 전체 순위 2위가 표시됐다. 출시 연도를 한정한 표현과 전체 누적 순위가 서로 다른 질문에 답한다는 점을 먼저 읽어야 한다.\n\n점수는 특정 시험 체계의 결과\n모토로라는 스마트폰 등 통신기기를 만드는 브랜드이고, Signature 27은 회사가 영상 기능을 강조하는 제품이다. DXOMARK는 카메라를 비롯한 기기의 품질을 측정·평가하는 기술 기업이다. 종합 점수는 자체 시험에서 여러 조건의 결과를 합친 것이지 사진 한 장의 품질을 나타내는 물리 단위가 아니다. 다른 제품보다 몇 점 높다는 사실을 사진이 몇 퍼센트 좋다는 뜻으로 바꿀 수 없다. 또한 시험 대상이 아닌 기기를 포함한 전 세계 모든 제품에 대한 결론으로 확장할 근거도 없다.\n\n공식 사양에는 5000만화소 주 카메라와 초광각, 2억화소 잠망경 망원 카메라가 포함된다. 잠망경 방식은 빛의 경로를 접어 얇은 기기 안에 망원용 광학 구조를 넣는 설계다. DXOMARK는 3배 망원 카메라와 약 3~6배 구간에서의 세부 표현을 강점으로 설명했지만, 더 먼 거리에서는 전용 장거리 망원 구성을 갖춘 경쟁 제품보다 세부 보존이 떨어질 수 있다고 적었다. 화소 수가 크다는 사실만으로 모든 배율의 결과가 같아지는 것은 아니다.\n\n좋은 점수에도 남는 촬영 조건\n시험은 노출과 색, 자동초점, 인물 표현을 장점으로 꼽는 한편 저조도 영상에서 움직임이 있으면 노이즈가 드러날 수 있다고 설명했다. 매우 어두운 장면에서의 움직임과 세부 표현도 한계다. 밤에 정지한 피사체를 찍는 것과 움직이는 아이나 반려동물을 찍는 것은 요구 조건이 다르다. 따라서 밤 사진이 좋다는 한 문장으로 모든 야간 촬영을 설명하기보다, 정지·움직임과 사진·영상으로 나눠 보는 편이 구매 목적에 더 가깝다. 이는 공개된 시험 항목을 이용한 독해이며 본지의 실물 촬영 경험은 아니다.\n\n제조사 자료는 Qualcomm과 DXOMARK와의 협력도 설명한다. 평가 결과를 볼 때에는 시험 기관의 역할과 제조사의 공동 개발·최적화 설명을 함께 읽는 것이 유용하다. 그렇다고 협력 사실만으로 점수가 틀렸다고 단정할 수는 없다. 오히려 원문에 나온 강점과 약점, 시험 범위, 비교 제품을 직접 확인해야 하는 이유다. 한 개의 종합 순위보다 자신이 주로 찍는 장면에서 어떤 결과가 있었는지가 더 구체적인 판단 자료가 된다.\n\n이번 소식은 카메라 평가 결과를 발표한 것이며, 한국 판매 시작일이나 국내 가격을 확정하는 자료는 아니다. 운영체제와 카메라 처리 업데이트 뒤 결과가 달라질 가능성, 앞으로 평가될 제품에 따른 순위 변화도 남아 있다. 독자는 173점이라는 숫자와 함께 시험 날짜, 평가 대상, 촬영 조건을 기록해 비교할 수 있다. 특히 확대 촬영을 많이 하는 사람과 어두운 곳의 움직임을 영상으로 남기는 사람은 같은 점수를 보고도 다른 결론을 내릴 수 있다. 최고라는 수식어를 자신의 촬영 목적에 맞는 질문으로 바꾸는 것이 이번 발표를 읽는 실용적인 방법이다."
+        },
+        "en": {
+          "title": "Motorola Signature 27 scores 173: a camera ranking needs its boundaries",
+          "summary": "The manufacturer’s claim is scoped to tested 2026 releases; the test also reports limitations.",
+          "body": "Motorola said on November 5 that the Signature 27 earned a DXOMARK camera score of 173 and a Gold Label. Its “best” claim concerns tested smartphones launched in 2026. The DXOMARK test page checked the same day showed second place in the overall ranking. A launch-year subset and an all-time tested-device ranking answer different questions.\n\nA score belongs to a test system\nMotorola makes communications devices; Signature 27 emphasizes imaging. DXOMARK measures device quality using its own methods. A combined score summarizes conditions, rather than expressing a physical unit of picture quality. A points difference cannot be converted into a percentage improvement, or extended to every untested phone worldwide.\n\nSpecifications include 50MP main and ultrawide cameras and a 200MP periscope telephoto. Periscope optics fold the light path to fit a telephoto assembly inside a thin device. DXOMARK highlights the 3x camera and detail around 3x–6x, but notes weaker very-long-range detail than rivals with dedicated longer-range hardware. More pixels do not ensure equal results at every zoom setting.\n\nConditions behind the strengths\nThe test praises exposure, color, autofocus and portraits, while identifying noise with motion in low-light video and reduced detail in extremely dark moving scenes. A stationary night subject differs from a moving child or pet. Separating stillness from movement and photos from video is more useful than a blanket night-camera claim. This is an interpretation of published tests, not our own shooting experience.\n\nMotorola also describes collaboration with Qualcomm and DXOMARK in development and optimization. The evaluator's role and the manufacturer's collaboration disclosure should be read together. Collaboration alone does not establish an incorrect score; it reinforces the value of checking the original strengths, weaknesses, scope and comparisons. Results for a reader's typical scenes can matter more than one total rank.\n\nThis is an evaluation announcement, not confirmation of Korean pricing or launch. Software changes may affect processing and future tested devices may change rankings. Record the date, tested population and scene conditions alongside 173. A long-range photography user and someone filming movement in darkness can reasonably draw different conclusions from the same score. Translate the superlative into questions about the images you actually need."
+        },
+        "ja": {
+          "title": "Motorola Signature 27は173点、「2026年発売」と総合順位の違い",
+          "summary": "最高という表現には評価対象と発売年の範囲がある。試験には弱点も記されている。",
+          "body": "Motorolaは11月5日、Signature 27がDXOMARKでカメラ総合173点とGold Labelを得たと発表した。「最高」は2026年発売かつ評価済み機種という範囲の表現だ。同日確認した試験ページの総合順位は2位。発売年で区切った集団と全体順位は異なる問いへの答えである。\n\n点数は試験体系に属する\nMotorolaは通信機器ブランドで、本機は撮影機能を重視する。DXOMARKは独自手法で品質を測定する技術企業だ。総合点は複数条件の結果をまとめたもので画質の物理単位ではない。点差を何%高画質と換算したり、未評価の全製品へ結論を拡張したりはできない。\n\n仕様は5000万画素の主・超広角と2億画素の潜望鏡式望遠など。潜望鏡式は光路を折り曲げ薄い端末内に望遠光学系を収める。DXOMARKは3倍望遠と約3～6倍の細部を評価した一方、より遠距離では専用長距離望遠を持つ競合に劣る場合を示した。画素数だけで全倍率の品質は決まらない。\n\n条件別の強弱\n試験は露出、色、AF、人物表現を評価する一方、暗所動画の動きでノイズが出ることや、極端な暗所での細部低下も記す。静物の夜景と動く子どもやペットは別の課題だ。静止と動き、写真と動画に分けて読む方が、夜に強いという一言より購入目的に合う。これは公開試験の読解で、本誌の撮影経験ではない。\n\nメーカーはQualcommやDXOMARKとの開発・最適化協力も説明する。評価機関の役割と協力の開示を併せて読む必要があるが、それだけで点数が誤りとは断定できない。原文の長所、短所、対象、比較相手を確認する理由になる。普段の撮影場面の結果は総合順位より役立つ場合がある。\n\n今回は評価発表であり韓国価格や発売日の確定ではない。更新による処理の変化、今後の評価機種による順位変動もあり得る。173点とともに日付、対象、条件を記録したい。遠距離写真を重視する人と暗所の動きを動画にする人は、同じ点から異なる結論に至り得る。最高という表現を自分の撮影目的の問いに変えることが実用的だ。"
+        },
+        "zh": {
+          "title": "摩托罗拉Signature 27获173分，发布年份榜与总榜不同",
+          "summary": "厂商最高表述限定于已测2026年机型，测试原文也列出弱点。",
+          "body": "摩托罗拉11月5日称，Signature 27获得DXOMARK相机综合173分和Gold Label。“最高”限定于2026年发布且已被测试的机型。同日查看的DXOMARK测试页显示全球总榜第二，按发布年份筛选与全体已测设备总榜回答的是不同问题。\n\n分数属于具体测试体系\n摩托罗拉生产通信设备，这款机型强调影像。DXOMARK以自有方法测评设备品质。综合分是多个条件的汇总，不是画质的物理单位。分差不能换算成画质提升百分比，也不能推广到全球全部未测手机。\n\n规格包括5000万像素主摄及超广角、2亿像素潜望长焦。潜望结构折叠光路，以在薄机身内容纳长焦光学系统。DXOMARK肯定3倍镜头及约3至6倍细节，但指出更远距离可能不及配备专用长距离长焦的对手。像素更多不保证各倍率结果一致。\n\n看清条件与短板\n测试肯定曝光、色彩、对焦和人像，也指出低光视频遇到运动可能出现噪声，以及极暗运动场景的细节限制。夜间静物与移动的孩子、宠物需求不同。应分清静止与运动、照片与视频，而非用一句夜拍强概括。本稿是在解读公开测试，并非自己的实拍体验。\n\n厂商还披露与Qualcomm、DXOMARK在开发优化上的合作，应将评估机构角色与合作说明一起阅读。合作本身不能证明评分错误，却说明直接查看原文优缺点、范围和对手的必要。自己常拍场景的结果可能比单一总榜更有用。\n\n这是评估结果公告，不确定韩国价格或上市日。软件更新可能改变处理，未来新增测试设备也可能改变排名。比较时应把173分与日期、受测范围及拍摄条件一起记录。重视远摄与重视暗处运动视频的人，面对同分也可能作不同选择；把最高转成自己的拍摄问题，才是实用读法。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Motorola",
+          "url": "https://motorolanews.com/motorola-signature-27-dxomark/"
+        },
+        {
+          "name": "DXOMARK · independent camera test, 2026-11-05",
+          "url": "https://www.dxomark.com/motorola-signature-27-camera-test/"
+        }
+      ],
+      "image": {
+        "url": "assets/20261106-motorola.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "꽃을 촬영하는 일반 스마트폰 사용 장면, AI 참고 이미지",
+          "en": "Generic smartphone photography scene, AI reference",
+          "ja": "花を撮る一般スマートフォンの場面、AI参考画像",
+          "zh": "通用手机拍摄花卉的场景，AI参考图"
+        }
+      }
+    },
+    {
+      "id": "samsung-uk-black-friday-20261104",
+      "date": "2026-11-04",
+      "published": "2026-11-06",
+      "source": "Samsung Newsroom UK",
+      "url": "https://news.samsung.com/uk/samsung-black-friday-deals-2026-which-deal-is-right-for-me",
+      "category": {
+        "ko": "유통·구매 조건",
+        "en": "Retail offers",
+        "ja": "販売条件",
+        "zh": "销售与优惠"
+      },
+      "locales": {
+        "ko": {
+          "title": "삼성 영국 할인 시작…‘VAT 환급’ 문구는 세금 환급이 아니다",
+          "summary": "11월 4일 공개한 혜택은 영국 조건이다. 결제 할인·보상판매·추후 캐시백의 차이와 서로 다른 마감일을 읽어야 한다.",
+          "body": "삼성전자가 11월 4일 영국 블랙프라이데이 혜택 안내를 공개했다. 스마트폰과 태블릿, TV, 모니터, 가전 등 여러 제품군을 묶었지만 할인 마감일과 신청 절차는 상품마다 다르다. 특히 일부 TV와 가전의 ‘VAT를 돌려받는다’는 표현은 정부의 세금 환급이 아니라, 조건을 충족한 구매자에게 삼성이 제공하는 판촉 캐시백이라는 점을 약관에 명시했다. 한국의 판매 조건과는 별개의 영국 행사다.\n\n바로 깎이는 가격과 나중에 받는 돈\n삼성전자는 스마트폰부터 대형 가전까지 판매하는 전자기업이다. 이번 안내에서 Galaxy S26은 11월 17일까지 250파운드 할인, Galaxy Tab S12 계열은 코드 적용 시 최대 140파운드 할인 등으로 제시됐다. ‘최대’는 모든 구성에 동일한 할인액이 붙는다는 뜻이 아니다. 용량과 모델, 판매처 조건을 확인해야 한다. 결제창에서 즉시 줄어드는 금액과 구매 뒤 별도로 신청하는 캐시백은 지출 시점이 다르다. 둘을 더한 최종 부담을 계산하더라도 처음 결제해야 할 금액은 따로 남는다.\n\nVAT 관련 혜택은 대상 제품과 영국·맨섬의 18세 이상 거주자 등 조건이 있으며, 안내된 구매 경로와 기한을 따라야 한다. 약관은 부가세 포함 가격 100파운드의 경우 캐시백이 16.67파운드라고 예시했다. 세율을 상품가격 전체에 그대로 곱한 금액과 다른 이유는 표시가격 안에 이미 세금이 포함돼 있기 때문이다. 예시의 계산 구조를 이해하는 것이 모든 TV에 같은 금액이 적용된다고 생각하는 것보다 정확하다. 대상 여부와 신청 기간, 증빙 요건은 해당 행사 약관에서 다시 확인해야 한다.\n\n보상판매와 재활용도 같은 혜택이 아니다\n기존 스마트폰을 넘기는 보상판매는 모델과 상태에 따라 값이 달라진다. 재활용을 조건으로 한 할인은 반납 제품의 중고 매입가와 구분해야 한다. 회사는 일부 재활용 프로그램에서 수거 준비가 안 됐을 때 할인액에 해당하는 추가 부담이 생길 수 있다고 안내했다. 구매 가격만 비교하고 반납 의무를 잊으면 예상한 혜택과 실제 비용이 달라질 수 있다. 기기를 보내기 전 데이터 처리와 수거 일정까지 확인하는 것이 할인 코드 입력만큼 필요한 절차다.\n\n기간도 하나가 아니다. 안내에 따르면 일부 스마트폰 혜택은 11월 17일까지, 태블릿과 이어폰·TV 등 여러 혜택은 12월 1일까지 이어지며 추가 보상판매 등에는 다른 기한이 적용된다. 가격 보장 역시 지정된 판매처와 비교 기간, 청구 절차가 따로 있는 조건부 프로그램이다. 어디서든 더 싼 가격을 찾으면 자동으로 차액을 돌려준다는 약속으로 이해할 수 없다. 비교 대상은 같은 모델과 구성인지부터 맞춰야 하고, 결제 전에 적용 약관을 보관하면 이후 신청 과정을 확인하는 데 도움이 된다.\n\n국제 독자에게 이 소식의 핵심은 영국의 할인 폭을 원화로 바꿔 국내 가격과 바로 비교하는 데 있지 않다. 배송 가능 지역과 보증, 결제 조건, 행사 대상 거주 요건이 다르기 때문이다. 실제로 구매를 검토한다면 필요한 제품의 총 결제액과 되돌려 받을 금액, 반납 의무를 분리해 적는 편이 유용하다. 이번 자료는 행사 조건을 설명하는 공지이며, 가장 저렴한 판매처를 독립적으로 조사한 결과는 아니다. 재고와 행사 페이지의 조건은 달라질 수 있어 최종 결제 단계의 내용을 확인해야 한다."
+        },
+        "en": {
+          "title": "Samsung UK’s Black Friday offers require more than a headline discount",
+          "summary": "The November 4 guide concerns UK terms, with different deadlines and redemption steps.",
+          "body": "Samsung published its UK Black Friday guide on November 4, covering phones, tablets, TVs, monitors and appliances. Deadlines and claim steps vary. Crucially, its “VAT back” offer on selected products is promotional cashback funded by Samsung, not a government tax refund. These are UK conditions, not Korean retail terms.\n\nUpfront price versus later repayment\nSamsung spans mobile devices and major appliances. The guide lists £250 off Galaxy S26 until November 17 and up to £140 off eligible Galaxy Tab S12 purchases with a code. “Up to” does not mean every configuration receives the maximum. Model, storage and channel matter. An immediate discount and later claimed cashback change cash flow differently; even when combined in a final-cost calculation, the initial payment remains a separate figure.\n\nThe VAT-equivalent promotion is limited by product, purchase channel and residency requirements, including UK and Isle of Man residents aged 18 or over. Its example returns £16.67 on a £100 VAT-inclusive price. That differs from simply applying the tax rate to the full selling price because tax is already included. Check eligibility, claim windows and evidence in the promotion terms rather than applying the example to every TV.\n\nTrade-in differs from recycling\nPhone trade-in values vary by device and condition. A recycling incentive is not the old product's resale value. Some programmes warn of an additional charge if collection conditions are not met. Ignoring return obligations can change the expected saving. Data handling and collection arrangements deserve attention alongside discount codes.\n\nSelected phone offers end November 17; many tablet, earbud, TV and other offers run to December 1, with separate deadlines for additional promotions. Price protection also restricts eligible retailers, comparison dates and claims. It is not an automatic refund whenever any cheaper price appears. Match the exact model and configuration and keep the applicable terms before paying.\n\nInternational readers should not simply convert a UK saving into won and compare local prices. Delivery, warranty, payment and residency conditions differ. Separate the initial payment, later cashback and return obligations. This article explains disclosed offers; it is not an independent cheapest-retailer survey. Stock and terms can change, making the final checkout conditions important."
+        },
+        "ja": {
+          "title": "Samsung英国セール、VAT相当還元は税金の返金ではない",
+          "summary": "11月4日発表の英国向け条件。即時割引、下取り、後日の還元は手順と締切が異なる。",
+          "body": "Samsungは11月4日、英国のブラックフライデー案内を公表した。スマートフォン、タブレット、TV、モニター、家電が対象だが、締切と申請手順は異なる。とくに一部製品のVAT還元は、政府の税金返金でなくSamsung負担の販促キャッシュバックだと規約に明記する。韓国の販売条件とは別だ。\n\n即時値引きと後日の還元\n同社は携帯機器から大型家電まで販売する。案内にはGalaxy S26の11月17日まで250ポンド引き、対象Tab S12のコード適用で最大140ポンド引きなどがある。最大額は全構成共通ではなく、モデル、容量、販売経路を確認する必要がある。決済時の値引きと購入後の申請還元では資金の動く時期が異なる。最終負担を合算しても最初に支払う金額は別に残る。\n\nVAT相当還元には対象製品、経路、英国・マン島の18歳以上の居住者などの条件がある。規約は税込100ポンドなら16.67ポンドの還元と例示する。販売価格に税がすでに含まれるため、総額に税率をそのまま掛ける計算とは違う。全TVに同額と考えるのでなく、対象、申請期間、証拠資料を個別規約で確かめたい。\n\n下取りとリサイクルを区別\n旧スマートフォンの下取り額は機種と状態で変わる。リサイクル条件の割引は中古買取価格とは異なる。一部プログラムでは回収準備ができないと追加負担が発生し得る。返却義務を忘れると期待した節約額が変わる。データ処理と回収日程もコード入力と同様に必要だ。\n\n一部スマートフォンは11月17日、多くのタブレット、イヤホン、TVなどは12月1日までで、追加企画には別期限がある。価格保証にも指定店、比較期間、請求手続きがあり、どこかで安値が見つかれば自動返金という約束ではない。同じモデルと構成で比べ、購入前の規約を残すとよい。\n\n海外読者は英国の値引きを単純換算して国内価格と比べられない。配送、保証、決済、居住条件が異なるからだ。初回支払い、後日還元、返却義務を分けて記録したい。本稿は公表条件の説明で、最安店の独立調査ではない。在庫や条件は変わるため決済直前にも確認が必要だ。"
+        },
+        "zh": {
+          "title": "三星英国促销开启，VAT等额返现并非税务退款",
+          "summary": "11月4日指南针对英国，直接折扣、以旧换新与事后返现的截止日和步骤不同。",
+          "body": "三星11月4日发布英国黑五指南，涉及手机、平板、电视、显示器和家电，但截止日期与申请步骤各不相同。部分产品的“VAT返还”在条款中明确为三星出资的促销返现，并非政府退税。这是英国活动，不是韩国销售条件。\n\n即时降价与事后返现\n三星销售移动设备及大家电。指南列出Galaxy S26至11月17日减250英镑、适用Tab S12用代码最高减140英镑等。“最高”不代表全部配置同额，需核对型号、容量和渠道。结账直减与购后申请返现的现金流时间不同，即便合算最终成本，首笔付款仍需单独考虑。\n\nVAT等额返现限制产品、购买路径和居住资格，包括英国及马恩岛18岁以上居民等。条款示例为含税100英镑返16.67英镑，因为标价已含税，不能直接把税率乘以总价。示例不是所有电视都返同额，具体资格、窗口与凭证须看活动条款。\n\n以旧换新不等于回收奖励\n旧手机折抵随型号和成色变化，回收条件优惠也不是旧品二手买价。部分项目提示，如未准备好收件，可能补收与优惠相关费用。忽略交旧义务会改变预期节省，清除数据和安排回收与输入优惠码同样重要。\n\n部分手机优惠至11月17日，许多平板、耳机、电视等至12月1日，附加活动另有期限。价格保障也限定零售商、比价日期和申请步骤，并非任何地方发现低价就自动退款。应比较相同型号配置，并在付款前保留适用条款。\n\n国际读者不宜把英国优惠直接换汇与本地价比较，配送、保修、付款和居住条件均可能不同。实际购买时应分列首付款、后续返现与交旧义务。本稿解释已披露条件，不是独立最低价调查。库存和条件可能变化，最终结账内容仍需确认。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Samsung Newsroom UK",
+          "url": "https://news.samsung.com/uk/samsung-black-friday-deals-2026-which-deal-is-right-for-me"
+        }
+      ],
+      "image": {
+        "url": "assets/20261106-samsung.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "일반 전자제품 전시 공간, AI 참고 장면",
+          "en": "Generic electronics showroom, AI reference",
+          "ja": "一般的な家電展示空間、AI参考画像",
+          "zh": "通用电子产品展厅，AI参考场景"
+        }
+      }
+    },
+    {
+      "id": "amd-q3-2026-hardware-demand-20261103",
+      "date": "2026-11-03",
+      "published": "2026-11-06",
+      "source": "AMD",
+      "url": "https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000188/q32026991.htm",
+      "category": {
+        "ko": "반도체",
+        "en": "Semiconductors",
+        "ja": "半導体",
+        "zh": "半导体"
+      },
+      "locales": {
+        "ko": {
+          "title": "AMD 데이터센터 매출 97% 증가…게임 부문은 같은 방향이 아니었다",
+          "summary": "11월 3일 발표한 3분기 실적은 9월 26일 종료 기간의 결과다. 데이터센터·PC·게임의 서로 다른 수요를 나눠 읽었다.",
+          "body": "AMD가 11월 3일 발표한 2026년 3분기 실적에서 데이터센터 매출은 약 85억달러로 전년 동기보다 97% 늘었다. 그러나 같은 발표에서 게임 사업 매출은 7억7300만달러로 40% 감소했다. 회사 전체의 기록적 매출을 PC와 게임기 시장 전반의 동일한 성장으로 읽을 수 없는 이유다. 실적 대상 기간은 9월 26일 끝난 분기이며, 발표일에 벌어진 하루의 판매 변화가 아니다.\n\n같은 반도체 회사 안의 다른 시장\nAMD는 서버용 EPYC 프로세서와 AI 연산용 Instinct GPU, PC용 Ryzen 등 반도체를 설계한다. CPU는 여러 작업을 제어·처리하는 중심 연산 장치이고 GPU는 많은 계산을 병렬로 처리하는 데 쓰인다. 게임 그래픽과 AI 계산이 GPU라는 이름을 공유해도 고객과 사용 환경, 제품 구성이 다르다. 데이터센터용 장비의 주문 확대를 소비자용 그래픽카드 판매량 증가와 같은 뜻으로 바꾸면 안 된다. 이번 수치는 시장별로 나눠 읽어야 제품 수요의 방향을 볼 수 있다.\n\n전체 분기 매출은 133억7700만달러로 전년 동기 92억4600만달러보다 45% 증가했다. 회사는 데이터센터 성장을 EPYC 수요와 Instinct MI450 계열 출시에 연결해 설명했다. 반면 클라이언트·게임 합산 부문 매출은 약 37억달러로 8% 줄었다. 이 안에서 PC 쪽 클라이언트 매출은 약 29억달러로 7% 늘었다. 합산 부문의 감소를 곧바로 PC 프로세서 사업의 감소라고 쓰면, 서로 반대 방향인 하위 사업의 변화를 놓치게 된다. 합산 값과 구성 항목의 기준이 중요한 사례다.\n\n매출이 말해주지 않는 소비자 가격\n게임 매출 감소의 배경으로 회사는 세미커스텀과 그래픽 매출 감소를 들었다. 세미커스텀은 고객의 요구를 반영해 설계하는 맞춤형 반도체 사업을 가리킨다. 매출에는 판매 수량뿐 아니라 제품 종류와 단가도 영향을 주므로, 40% 감소를 게임 이용자 수가 40% 줄었다는 식으로 해석할 수 없다. 마찬가지로 데이터센터 성장률은 노트북이나 그래픽카드의 국내 소매가격을 직접 결정하는 숫자가 아니다. 구입을 앞둔 사람에게는 실제 제품의 재고와 가격, 성능 자료가 별도로 필요하다.\n\n실적 표에는 일반회계기준(GAAP)과 조정 수치인 non-GAAP가 함께 실렸다. GAAP 영업이익은 약 28억달러, 조정 영업이익은 약 39억달러로 다르다. 조정 수치는 회사가 특정 항목을 제외해 사업 추세를 설명하려는 보조 지표이며, 법정 회계 수치와 이름 없이 섞어 쓰면 비교가 흐려진다. 서로 다른 지표의 분모와 조정 항목을 같은 기준으로 맞추는 것이 성장률을 읽는 출발점이다. 이 기사는 주가의 적정 수준을 판단하는 투자 분석이 아니라 제품 시장을 이해하기 위한 실적 해설이다.\n\nAMD는 4분기 매출을 약 170억달러, 오차 범위 ±3%로 전망했다. 이는 아직 끝나지 않은 기간에 대한 회사의 예상이며 실제 달성된 매출이 아니다. 출하 일정과 고객 수요, 공급 여건에 따라 달라질 수 있다. 공개된 실적에서 읽을 수 있는 변화는 AI 서버 투자가 커지는 가운데 소비자 하드웨어의 하위 시장은 서로 다르게 움직인다는 점이다. 특정 신제품의 출시일이나 앞으로의 할인 여부를 이 자료로 확정할 수는 없다. 독자에게 유용한 비교는 회사 전체 성장률 하나보다 자신이 구매하려는 기기가 속한 사업의 조건이다."
+        },
+        "en": {
+          "title": "AMD’s data-center growth does not tell the whole consumer-hardware story",
+          "summary": "The November 3 results cover a quarter ended September 26, with distinct data-center, PC and gaming trends.",
+          "body": "AMD reported on November 3 that third-quarter data-center revenue reached about $8.5 billion, up 97% year on year, while gaming revenue fell 40% to $773 million. Record company revenue does not mean uniform growth across PCs and consoles. The results cover the quarter ended September 26, not a one-day sales change on the announcement date.\n\nDifferent markets within one designer\nAMD designs EPYC server processors, Instinct AI GPUs and Ryzen PC processors. CPUs coordinate general processing, while GPUs handle many calculations in parallel. Gaming graphics and AI computing share the GPU label but differ in customers, environments and products. More data-center orders are not interchangeable with more consumer graphics-card sales.\n\nTotal revenue was $13.377 billion, versus $9.246 billion a year earlier, up 45%. AMD links data-center growth to EPYC demand and the MI450-series launch. Combined Client and Gaming revenue fell 8% to about $3.7 billion, yet Client revenue itself rose 7% to about $2.9 billion. Calling the combined decline a PC-processor decline would miss opposite trends within the segment.\n\nRevenue is not a retail price\nAMD attributes the gaming decline to lower semi-custom and graphics revenue. Semi-custom refers to chips tailored to customers' needs. Product mix and prices affect revenue alongside units, so a 40% decline cannot be translated into 40% fewer gamers. Data-center growth also does not directly determine Korean laptop or GPU prices. Buyers still need actual stock, price and performance information.\n\nThe tables contain GAAP and adjusted non-GAAP results. Operating income is about $2.8 billion under GAAP and $3.9 billion adjusted. Adjustments exclude specified items to help describe trends; mixing measures without labels obscures comparisons. Matching definitions and adjustments matters before comparing growth. This is hardware-market context, not an assessment of the stock's value.\n\nAMD forecasts fourth-quarter revenue around $17 billion, plus or minus 3%. That is an estimate for an unfinished period, not achieved sales, and can change with shipments, demand and supply. The results show AI-server expansion alongside divergent consumer-hardware markets. They do not establish a specific product launch or future discount. A buyer's relevant business conditions may be more informative than the company's overall growth rate."
+        },
+        "ja": {
+          "title": "AMDデータセンター売上97%増、ゲーム事業とは異なる動き",
+          "summary": "11月3日発表は9月26日終了四半期の結果。データセンター、PC、ゲームの需要を分けて読む。",
+          "body": "AMDは11月3日、2026年第3四半期のデータセンター売上が約85億ドルで前年同期比97%増と発表した。一方、ゲームは40%減の7億7300万ドル。全社の記録的売上をPCやゲーム機全体の一様な成長とは読めない。対象は9月26日終了四半期で、発表日の1日の変化ではない。\n\n同じ設計会社の異なる市場\nAMDはサーバー用EPYC、AI用Instinct GPU、PC用Ryzenなどを設計する。CPUは全般的な処理を担い、GPUは多くの計算を並列で行う。ゲームとAIがGPUという名前を共有しても、顧客、環境、製品は違う。データセンターの注文増を民生用グラフィックスの販売増と同一視できない。\n\n全社売上は133億7700万ドルで前年の92億4600万ドルから45%増。会社はEPYC需要とMI450系投入を成長要因に挙げる。Client and Gaming合計は約37億ドルで8%減だが、Client単体は約29億ドルで7%増。合計の減少をPCプロセッサーの減少と書くと、内部の逆方向の動きを見落とす。\n\n売上と小売価格は別\nゲーム減収はセミカスタムとグラフィックスの減少によるという。セミカスタムは顧客の要求を反映したチップ設計事業だ。売上には数量だけでなく製品構成と単価が影響するため、40%減を利用者40%減とは換算できない。データセンター成長も韓国のPCやGPU価格を直接決めない。購入には実際の在庫、価格、性能資料が別途必要だ。\n\n表にはGAAPと調整後non-GAAPがあり、営業利益は前者が約28億ドル、後者が約39億ドル。調整値は特定項目を除く補助指標で、名称なく混ぜると比較が曖昧になる。定義と調整項目をそろえることが先決だ。本稿は製品市場の解説で、株価評価ではない。\n\n第4四半期売上予想は約170億ドル、幅±3%。未終了期間の会社予想で、達成済みではない。出荷、需要、供給で変化し得る。AIサーバー拡大と民生市場内の異なる動きが今回のポイントで、個別製品の発売や値引きは確定できない。全社成長率より、自分が買う機器に関係する条件が重要になる。"
+        },
+        "zh": {
+          "title": "AMD数据中心营收增97%，游戏业务并未同步增长",
+          "summary": "11月3日公告对应9月26日结束季度，数据中心、PC与游戏需求需分别看。",
+          "body": "AMD于11月3日公布第三季度数据中心营收约85亿美元，同比增长97%，但游戏营收7.73亿美元，同比下降40%。全公司创纪录不代表PC与游戏机市场同步增长。数据对应9月26日结束季度，并非公告当天的销售变化。\n\n同一家设计公司的不同市场\nAMD设计EPYC服务器处理器、Instinct AI GPU和Ryzen PC处理器等。CPU负责广泛的控制与处理，GPU适合并行计算。游戏图形与AI计算虽共用GPU名称，客户、环境与产品却不同，数据中心订单增长不等于消费显卡销量增长。\n\n总营收133.77亿美元，上年同期92.46亿美元，增长45%。公司把数据中心增长与EPYC需求及MI450系列上市联系起来。客户端与游戏合计约37亿美元，同比降8%，其中客户端本身却约29亿美元、增7%。把合并分部下降直接写成PC处理器下降，会错过内部相反趋势。\n\n营收不是零售价\n公司称游戏下降来自半定制及图形营收减少。半定制指按客户需求设计芯片。营收除了数量，还受产品组合与单价影响，因此降40%不能换算成玩家少40%。数据中心增速也不直接决定韩国笔记本或显卡售价。消费者仍需实际库存、价格和性能资料。\n\n报表同时列GAAP与调整后non-GAAP，营业利润分别约28亿和39亿美元。调整值剔除指定项目以辅助解释趋势，不能不标名称混用。比较前应统一定义与调整范围。本稿解读硬件市场，不评估股票价值。\n\nAMD预计第四季度营收约170亿美元、上下3%，这是未结束期间的预测，不是已实现销售，可能受出货、需求与供应改变。已披露结果显示AI服务器扩张与消费硬件内部不同走势并存，却不能确定具体新品上市日或后续折扣。与购买设备有关的业务条件，可能比全公司增长率更有意义。"
+        }
+      },
+      "sources": [
+        {
+          "name": "AMD",
+          "url": "https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000188/q32026991.htm"
+        },
+        {
+          "name": "AMD · quarterly SEC report, period ended 2026-09-26",
+          "url": "https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000191/amd-20260926.htm"
+        }
+      ],
+      "image": {
+        "url": "assets/20261106-amd.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "작업대 위 일반 서버 회로기판, AI 참고 장면",
+          "en": "Generic server circuit board on a workbench, AI reference",
+          "ja": "作業台の一般的なサーバー基板、AI参考画像",
+          "zh": "工作台上的通用服务器电路板，AI参考场景"
+        }
+      }
+    },
     {
       "id": "galaxy-ring-sleep-feature-20261103",
       "date": "2026-11-03",
