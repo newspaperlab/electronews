@@ -1,6 +1,265 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "articles": [
+    {
+      "id": "galaxy-smarttag3-us-availability-20261106",
+      "date": "2026-11-06",
+      "published": "2026-11-07",
+      "source": "Samsung US Newsroom",
+      "url": "https://news.samsung.com/us/latest-samsung-devices-galaxy-buds-on-galaxy-smarttag3-available-now/",
+      "category": {
+        "ko": "위치추적 액세서리",
+        "en": "Item finders",
+        "ja": "紛失防止タグ",
+        "zh": "物品查找器"
+      },
+      "locales": {
+        "ko": {
+          "title": "갤럭시 SmartTag3 미국 판매, 60m 찾기에는 조건이 붙는다",
+          "summary": "11월 6일 판매를 발표했다. 가까이서 방향을 찾는 기능과 주변 기기를 거쳐 위치를 갱신하는 기능은 다르다.",
+          "body": "삼성전자가 Galaxy SmartTag3의 미국 판매를 11월 6일 시작했다고 발표했다. 한 개 묶음은 29.99달러, 네 개 묶음은 99.99달러다. 열쇠나 여행가방 등에 붙여 찾는 액세서리로, 회사는 이전 세대보다 얇은 디자인과 최대 60m 방향 안내 등을 소개했다. 다만 60m는 특정 호환 기기와 장애물이 없는 조건에서의 수치다. 어디서나 60m 안의 물건 위치를 항상 정확히 보여준다는 보증과는 다르다.\n\n가까이 찾기와 멀리서 갱신하기\nSmartTag 계열은 스마트폰과 연결해 분실 물품을 찾도록 돕는 제품이다. 이번 설명에는 거리·방향을 안내하는 Compass View와 Galaxy Find Network를 통한 위치 갱신이 함께 나온다. 전자는 가까이에서 물건을 찾는 기능이고, 후자는 주변의 참여 기기가 신호를 감지하는 네트워크에 의존한다. 두 방식을 하나의 연속 실시간 추적 기능처럼 생각하면 기대가 달라질 수 있다. 가방 안의 태그가 스스로 이동통신망에 계속 접속하는 전용 GPS 추적기라고 설명할 근거는 없다.\n\nCompass View의 공식 조건은 안드로이드 12 이상 Galaxy 기기 가운데 UWB 또는 Bluetooth Channel Sounding을 지원하는 모델이다. 회사가 밝힌 Channel Sounding 지원 목록에는 Galaxy Z Fold8 Ultra·Fold8과 S26 Ultra·S26 Plus가 포함된다. 향후 추가 가능성과 지금 지원되는 기기는 구분해야 한다. 같은 회사의 스마트폰이라도 기능이 같지 않으므로 구매 전 정확한 모델을 대조해야 한다. 발표가 언급하는 여러 운영체제 지원도 모든 정밀 탐색 기능의 동일한 제공을 뜻한다고 확대할 수 없다.\n\n60m는 실내 보장 거리가 아니다\n공식 각주는 송수신기 사이에 장애물이 없는 가시선 조건을 기준으로 든다. 벽과 전자기기 등은 거리·방향 정확도를 낮출 수 있다. 공항 수하물 구역이나 집의 여러 방처럼 장애물이 많은 환경에서 수치를 그대로 적용하기 어렵다. 성능 숫자는 무엇과 어떻게 비교했는지 함께 읽어야 한다. 회사는 이전 세대보다 약 세 배 멀다고 설명하지만, 이 기사는 두 제품을 같은 환경에서 직접 측정한 시험 결과를 제공하지 않는다.\n\n새 Place Notification은 설정한 구역 안팎으로 이동했을 때 알림을 주는 시험 기능이다. 사용자가 설정에서 켜야 하며 주변 환경에 따라 표시 위치와 실제 위치가 다를 수 있다. 이동 감지 알림 역시 휴대전화와 연결이 끊겼을 때 주변 참여 Galaxy 기기의 감지에 의존한다. 회사는 알림이 늦거나 아예 도착하지 않을 수 있다고 명시했다. 따라서 특정 시각의 알림이 없다는 사실을 물건이 움직이지 않았다는 증거로 받아들이면 안 된다. 위치 기록은 최대 7일까지 보관된다.\n\n독자가 살펴볼 부분은 최대 거리보다 사용하는 휴대전화와 주로 물건을 놓는 환경이다. 여행가방 찾기를 보조할 수 있지만 항공사의 수하물 처리 기록을 대신하지는 않는다. 태그가 물건에서 떨어지면 물건과 태그의 위치도 달라진다. 고정 상태를 점검하고 사용하지 않는 위치 공유를 관리하는 것이 실제 활용의 일부다. 이번 가격은 미국 공지 기준이며 국내 가격과 판매 조건은 별도로 확인해야 한다. 제품을 통한 편의는 생기지만 정확도와 알림 조건을 알고 사용하는 것이 중요하다."
+        },
+        "en": {
+          "title": "Galaxy SmartTag3 reaches US retail, with limits behind its 60-metre claim",
+          "summary": "The November 6 release separates nearby directional finding from network-assisted updates.",
+          "body": "Samsung announced US sales of Galaxy SmartTag3 from November 6 at $29.99 for one or $99.99 for four. The item finder targets keys and luggage, with a thinner design and directional guidance up to 60 metres. That distance depends on compatible hardware and unobstructed conditions, not guaranteed accuracy everywhere within a circle.\n\nTwo ways of finding\nCompass View gives nearby distance and direction; Galaxy Find Network updates depend on participating devices detecting a signal. These should not be combined into an assumption of continuous live tracking. The announcement does not establish a standalone cellular GPS tracker.\n\nCompass View requires a Galaxy device on Android 12 or later with UWB or Bluetooth Channel Sounding. Samsung lists Fold8 Ultra, Fold8, S26 Ultra and S26 Plus for Channel Sounding; possible future additions are not current support. Check the exact model. Mentioned cross-OS support does not establish identical precision functions on every platform.\n\nWhat 60 metres measures\nThe footnote specifies line of sight without obstacles. Walls and nearby electronics can reduce range and accuracy. Airports and multi-room homes differ from that setup. Samsung calls it roughly three times the prior generation's distance, but this report has not independently measured both products under matching conditions.\n\nPlace Notification is a trial feature requiring activation and may show an imprecise location. Movement alerts when disconnected depend on nearby opted-in Galaxy devices. Samsung warns of delays or missing notifications; no alert is not proof that an object stayed still. Location history is stored for up to seven days.\n\nCompatibility and the usual environment matter more than a maximum distance. The tag can assist with luggage but does not replace airline handling records. If detached, its position is no longer the item's position. Secure attachment and managing unnecessary sharing form part of practical use. Prices are from the US release; Korean sale conditions require separate confirmation. The benefit comes with understanding its limits."
+        },
+        "ja": {
+          "title": "Galaxy SmartTag3米国発売、60m探索には条件",
+          "summary": "近距離の方向探索と周辺機器経由の位置更新は別機能。",
+          "body": "Samsungは11月6日、Galaxy SmartTag3の米国発売を発表した。1個29.99ドル、4個99.99ドル。鍵や荷物向けで薄型化と最大60mの方向案内を説明するが、対応端末と障害物のない条件が前提。半径内の常時正確な位置保証ではない。\n\n二つの探索方法\nCompass Viewは近距離の方向・距離、Galaxy Find Networkは周囲の参加端末による更新だ。これを連続リアルタイム追跡と一体視すべきではない。独立した携帯回線GPS追跡器だとする根拠もない。\n\nCompass ViewにはAndroid 12以降のUWBまたはBluetooth Channel Sounding対応Galaxyが必要。後者の対象はFold8 Ultra、Fold8、S26 Ultra、S26 Plusと案内する。将来追加と現対応は別で、機種を照合したい。複数OS対応という表現も全精密機能の同等提供を保証しない。\n\n60mの基準\n注記は見通しで障害物がない状態。壁や電子機器で距離と精度が低下し得る。空港や複数の部屋は同条件ではない。旧世代の約3倍という説明も、本誌が同環境で実測した結果ではない。\n\nPlace Notificationは試験機能で有効化が必要、表示と実位置も異なる場合がある。切断時の移動通知は周囲の同意済みGalaxyに依存し、遅延や未着もあり得る。通知がないことは静止の証拠ではない。履歴は最大7日。\n\n最大距離より自分の端末と環境が重要だ。荷物探しを補助しても航空会社の管理記録には代わらず、外れれば物とタグの位置は違う。固定と不要な共有の管理も実用の一部。価格は米国条件で韓国販売は別確認となる。限界を理解して使うことが便利さにつながる。"
+        },
+        "zh": {
+          "title": "Galaxy SmartTag3美国开售，60米查找有条件",
+          "summary": "近距离方向查找不同于附近设备协助更新位置。",
+          "body": "三星11月6日宣布Galaxy SmartTag3在美国开售，单个29.99美元、四个99.99美元。产品用于钥匙、行李，强调更薄及最长60米方向指引。但距离取决于兼容硬件和无障碍条件，并非范围内始终精确。\n\n两种查找方式\nCompass View给近距离方向与距离，Galaxy Find Network依赖附近参与设备发现信号更新位置，不能合并理解为连续实时追踪。公告也不证明它是独立蜂窝GPS追踪器。\n\nCompass View需Android 12以上且有UWB或Bluetooth Channel Sounding的Galaxy。后者名单包括Fold8 Ultra、Fold8、S26 Ultra和S26 Plus；未来可能增加不等于现在支持。应核对确切型号，多OS支持也不代表全部精确功能相同。\n\n60米的基准\n注脚为收发两端无障碍视距，墙壁与电子设备可能降低距离和准确性。机场或多房住宅不等于测试环境。厂商称约前代三倍，但本稿未同环境独立实测。\n\nPlace Notification是需开启的试用功能，显示位置可能不同于实际。断连移动警报依赖附近同意参与的Galaxy，可能延迟或收不到，因此没有警报不能证明物品没动。位置历史最多保存七天。\n\n自己的手机与常用环境比最大距离更关键。标签可辅助找行李，但不代替航司行李记录；脱落后标签位置也不等于物品位置。牢固安装和管理不必要共享是实际使用的一部分。价格为美国条件，韩国销售另查，便利性建立在理解限制之上。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Samsung US Newsroom",
+          "url": "https://news.samsung.com/us/latest-samsung-devices-galaxy-buds-on-galaxy-smarttag3-available-now/"
+        }
+      ],
+      "image": {
+        "url": "assets/20261107-tag.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "가방과 열쇠 옆 일반 위치추적 태그, AI 참고 장면",
+          "en": "Generic item-finder tag beside luggage and keys, AI reference",
+          "ja": "荷物と鍵の一般タグ、AI参考画像",
+          "zh": "行李钥匙旁的通用查找标签，AI参考图"
+        }
+      }
+    },
+    {
+      "id": "qualcomm-starlink-terrestrial5g-20261104",
+      "date": "2026-11-04",
+      "published": "2026-11-07",
+      "source": "Qualcomm",
+      "url": "https://www.qualcomm.com/news/releases/2026/11/spacex-selects-qualcomm-to-accelerate-starlink-mobile-s-nationwi",
+      "category": {
+        "ko": "통신 인프라",
+        "en": "Network infrastructure",
+        "ja": "通信基盤",
+        "zh": "通信基础设施"
+      },
+      "locales": {
+        "ko": {
+          "title": "Starlink Mobile에 퀄컴 기지국 칩…이번 발표는 지상의 5G다",
+          "summary": "2027년 미국 구축 시작을 목표로 한다. 위성 접속과 지상 기지국, 앞으로의 6G 구상을 구분해야 한다.",
+          "body": "퀄컴이 11월 4일 SpaceX의 Starlink Mobile 미국 지상 5G망에 Dragonwing 통신 인프라 플랫폼을 공급한다고 발표했다. 적용 대상은 위성에 들어가는 스마트폰 칩이 아니라 지상 기지국의 무선·분산 처리 장비다. SpaceX는 2027년 구축을 시작하고 다년 계약에 걸쳐 수만 개 사이트를 배치할 계획이라고 설명했다. 발표 당일 전국 서비스가 개통됐다는 뜻은 아니다.\n\n위성 브랜드 아래의 지상망\n퀄컴은 스마트폰용 반도체와 통신 기술로 알려졌지만 기지국 등 인프라용 플랫폼도 만든다. Starlink는 위성 통신으로 익숙한 이름이어서 이번 계약 역시 위성과 휴대전화 사이의 직접 연결로 오해하기 쉽다. 그러나 공식 발표가 명시한 범위는 지상 5G 기지국이다. 회사는 위성과 지상을 통합하는 장기 구상을 말하지만, 이번 공급 장비의 역할과 현재 확인된 배포 단계는 구분해야 한다. 두 연결 방식이 같은 브랜드 안에 있어도 물리적인 망 구성은 다르다.\n\n선정된 제품은 Dragonwing QRU100과 QDU100이다. 회사 설명에서 QRU100은 무선 장치 쪽 처리를, QDU100은 지연에 민감한 물리계층 처리 등을 담당한다. 물리계층은 정보를 실제 무선 신호로 보내고 받는 데 가까운 단계다. 스마트폰 안의 앱이 빠르다는 설명과는 다른 종류의 연산이다. 기지국은 많은 단말의 신호를 동시에 처리해야 하므로 처리량과 전력, 지연을 함께 고려한다. 이처럼 인프라용 칩의 변화는 사용자가 만지는 기기 바깥에서 통신 경험을 만드는 요소다.\n\n64T64R을 속도 배수로 읽지 않기\n발표에는 64개 송신과 64개 수신 경로를 쓰는 Massive MIMO 구성이 등장한다. 여러 안테나 경로를 이용해 통신 용량과 주파수 활용을 높이려는 설계다. 그러나 숫자 64가 한 사람의 휴대전화 속도를 64배로 만든다는 뜻은 아니다. 실제 속도는 주파수와 대역폭, 기지국까지 거리, 접속자 수, 백홀 연결 등 여러 조건의 영향을 받는다. 공식 자료의 설계 목표를 실제 전국망에서 측정한 이용자 속도로 바꿔 적어서는 안 된다.\n\n회사는 효율적인 처리가 사이트마다 소비하는 전력과 구축 경제성을 개선하도록 설계됐다고 밝혔다. 장비 하나의 전력 효율과 전체 망의 총 전력 사용량도 구분할 필요가 있다. 사이트 수와 이용량이 늘면 전체 소비량은 별도로 달라질 수 있다. 이번 발표에는 모든 설치 지역과 상용 요금제, 일반 가입자의 정확한 이용 시작일이 제시되지 않았다. ‘미국 전국’이라는 목표가 한국을 포함한 세계 동시 서비스를 확정하는 것도 아니다. 독자는 자신의 통신사와 이용 지역에 적용되는 공지를 따로 확인해야 한다.\n\n두 회사는 향후 AI 기반 6G 발전을 위한 토대라는 표현도 썼다. 하지만 이번에 배치한다고 밝힌 것은 5G다. 장기 기술 방향과 당장 계약한 상용 장비를 나눠 읽으면 미래 규격을 이미 제공하는 것처럼 오해하지 않을 수 있다. 소비자에게 의미 있는 후속 자료는 실제 구축 지역, 연결 가능한 단말과 가입 조건, 운영 중인 망의 품질 측정이다. 현재 확정된 소식은 공급 플랫폼 선정과 2027년부터의 구축 계획이다. 스마트폰 교체나 새로운 요금제 가입을 지금 결정할 만큼의 세부 서비스 정보는 아직 공개되지 않았다."
+        },
+        "en": {
+          "title": "Qualcomm’s Starlink Mobile deal concerns terrestrial 5G base stations",
+          "summary": "Deployment is planned to begin in the US in 2027; satellite access and future 6G ambitions are separate.",
+          "body": "Qualcomm announced November 4 that it will supply Dragonwing platforms for Starlink Mobile's US terrestrial 5G base stations. These are radio and distributed-processing systems, not phone chips aboard satellites. SpaceX plans deployment from 2027, with tens of thousands of sites across a multi-year agreement. The announcement is not nationwide service opening that day.\n\nTerrestrial equipment under a satellite brand\nQualcomm develops infrastructure as well as phone technology. Starlink's satellite association can obscure the stated scope: ground-based 5G. A longer-term satellite-and-terrestrial vision does not make the selected equipment or current rollout stage identical to direct satellite access.\n\nThe QRU100 handles radio-unit processing; QDU100 supports latency-sensitive physical-layer work. That layer is close to transmitting and receiving radio signals, different from phone-app performance. Base stations process many devices, balancing throughput, power and delay. Infrastructure shapes an experience outside the hardware users hold.\n\nReading 64T64R\nThe announcement specifies 64 transmit and 64 receive paths for Massive MIMO. Multiple antenna paths aim to improve capacity and spectrum use; 64 does not mean one phone becomes 64 times faster. Bands, bandwidth, distance, congestion and backhaul matter. Design aims are not measured nationwide user speeds.\n\nQualcomm says efficient processing targets site power and deployment economics. Efficiency per site differs from total network consumption as sites and traffic grow. Exact locations, retail plans and subscriber launch dates are not fully disclosed. A nationwide US objective is not a worldwide launch including Korea; local operator notices remain necessary.\n\nThe companies also describe foundations for future AI-native 6G. The actual deployment announced is 5G. Separate future direction from contracted equipment. Useful next evidence includes live coverage, compatible devices, subscription terms and network measurements. Platform selection and a planned 2027 start are established; there is not yet enough retail detail to infer a phone replacement or plan purchase."
+        },
+        "ja": {
+          "title": "Starlink MobileにQualcomm基盤、今回は地上5Gの話",
+          "summary": "米国展開は2027年開始予定。衛星接続や将来6G構想とは区別が必要。",
+          "body": "Qualcommは11月4日、Starlink Mobileの米国地上5G基地局にDragonwingを供給すると発表した。対象は無線・分散処理装置で、衛星内のスマホチップではない。SpaceXは2027年開始、複数年で数万サイトを計画する。発表日の全国開通ではない。\n\n衛星名の下の地上設備\nQualcommは端末以外に基地局技術も開発する。Starlinkの衛星イメージとは別に、今回は地上5Gが明示範囲だ。衛星と地上の長期統合構想は、選ばれた装置や現段階を衛星直接通信と同じにしない。\n\nQRU100は無線装置側、QDU100は遅延に敏感な物理層を処理する。物理層は無線信号の送受信に近く、スマホアプリ速度とは別。多数端末を扱う基地局では処理量、電力、遅延を併せて考える。手に持つ端末の外の設備も体験を作る。\n\n64T64Rの意味\n送信64、受信64経路のMassive MIMOで容量と周波数利用を改善する狙いだ。個人の速度64倍ではなく、周波数、帯域、距離、混雑、バックホールに左右される。設計目標を全国利用者の実測値とはできない。\n\nサイトの電力効率と網全体の総消費は別で、サイトや通信量の増加でも変わる。詳細地域、料金、加入者の開始日は全面公開されていない。米国全国という目標は韓国を含む世界一斉開始ではなく、地域の事業者案内を要する。\n\n将来AI型6Gへの基盤とも説明するが、発表の配備は5Gだ。長期方向と契約装置を分けたい。次に必要なのは実稼働地域、対応端末、契約、品質測定。確定したのは基盤選定と2027年開始計画で、今の買い替えを決める詳細情報ではない。"
+        },
+        "zh": {
+          "title": "Starlink Mobile选择Qualcomm，此次重点是地面5G",
+          "summary": "美国计划2027年开始部署，不能与卫星连接或未来6G愿景混同。",
+          "body": "Qualcomm11月4日宣布为Starlink Mobile美国地面5G基站供应Dragonwing平台，针对无线和分布式处理设备，不是卫星上的手机芯片。SpaceX计划2027年开始，多年部署数万个站点，非公告当天全国开通。\n\n卫星品牌下的地面网\nQualcomm除手机技术外也做基础设施。Starlink的卫星形象容易混淆本次明确范围：地面5G。长期天地融合愿景不等于此次设备就是手机直连卫星。\n\nQRU100处理无线单元，QDU100处理敏感于延迟的物理层。物理层靠近无线信号收发，不同于手机应用性能。基站同时处理很多终端，要兼顾吞吐、功耗和时延，手中设备之外也在塑造通信体验。\n\n64T64R不是64倍网速\n64发64收的Massive MIMO旨在提高容量与频谱效率，不代表单人速度64倍。频段、带宽、距离、拥塞和回传均影响结果，设计目标不能写成全国用户实测速度。\n\n每站效率也不等于全网总耗电，站点和流量增长会改变总量。具体地区、零售套餐和用户开通日未全部披露，美国全国目标也不表示韩国等地同时上线，仍需当地运营商公告。\n\n公司提到未来AI原生6G基础，但本次部署是5G。应分清愿景与已签设备，后续看实际覆盖、终端、资费和质量测量。已确定的是平台选择和2027年开始计划，尚不能据此决定现在换手机或购套餐。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Qualcomm",
+          "url": "https://www.qualcomm.com/news/releases/2026/11/spacex-selects-qualcomm-to-accelerate-starlink-mobile-s-nationwi"
+        }
+      ],
+      "image": {
+        "url": "assets/20261107-mobile.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "도시 외곽의 일반 지상 이동통신 안테나, AI 참고 장면",
+          "en": "Generic terrestrial cellular antennas, AI reference",
+          "ja": "一般の地上携帯基地局、AI参考画像",
+          "zh": "通用地面蜂窝天线，AI参考图"
+        }
+      }
+    },
+    {
+      "id": "razer-raiju-signature-20261103",
+      "date": "2026-11-03",
+      "published": "2026-11-07",
+      "source": "Razer",
+      "url": "https://www.razer.com/newsroom/product-news/raiju-v3-pro-signature-edition",
+      "category": {
+        "ko": "게임 주변기기",
+        "en": "Gaming peripherals",
+        "ja": "ゲーム周辺機器",
+        "zh": "游戏外设"
+      },
+      "locales": {
+        "ko": {
+          "title": "1337개 한정 Raiju 컨트롤러, 2000Hz는 PC 조건부터 봐야",
+          "summary": "11월 3일 발표한 Signature Edition은 마그네슘 구조와 260g 무게를 내세웠다. 수집 가치와 조작 성능은 구분할 필요가 있다.",
+          "body": "레이저가 Raiju V3 Pro Signature Edition 컨트롤러를 11월 3일 발표했다. 초도 물량은 개별 일련번호가 붙은 1337개로 제한하며, 마그네슘 합금 외골격과 260g 무게를 특징으로 내세웠다. PlayStation 5 공식 라이선스 제품이지만 최대 2000Hz 무선 폴링 수치는 PC에서의 조건이다. 콘솔 인증과 특정 PC 성능 수치를 같은 범위의 약속으로 읽지 않는 것이 중요하다.\n\n한정판의 재료와 실제 손의 경험\n레이저는 게임용 주변기기와 설정 소프트웨어를 만든다. Raiju는 2016년부터 이어진 컨트롤러 계열이며 이번 제품은 재료와 마감을 강조한 한정판이다. 금속 구조, 유리 터치패드, 표면 소재는 외관과 촉감에 영향을 줄 수 있지만, 이것만으로 사용자의 반응속도가 향상된다는 결론을 낼 수 없다. 260g 역시 회사가 제시한 무게이며 손 크기와 잡는 방식에 따라 가볍게 느끼는 정도가 달라진다. 이 기사는 실물을 쥐어본 사용기나 장시간 피로도 시험이 아니다.\n\n스틱에는 비접촉 TMR 센서를 사용한다고 설명했다. TMR은 자기적 변화를 전기 신호로 읽는 센서 방식으로 이해할 수 있다. 접촉식 부품의 마모 문제를 줄이려는 접근이지만, 센서 이름만으로 어떤 고장도 생기지 않는다거나 모든 입력 오차가 없어진다고 단정할 수 없다. 스틱의 중심 부근에서 입력을 무시하는 데드존과 감도 설정도 조작감에 영향을 준다. 같은 하드웨어를 쓰더라도 게임별 설정과 사용 습관을 맞추는 작업이 남는다.\n\n2000Hz와 전체 지연은 다른 숫자\n폴링레이트는 장치가 입력 정보를 보고하는 빈도를 말한다. 2000Hz라면 이론상 보고 간격은 0.5밀리초지만, 게임에서 버튼을 누르고 화면이 바뀔 때까지 모든 지연이 0.5밀리초라는 뜻은 아니다. 게임 처리와 렌더링, 모니터 표시가 뒤따르기 때문이다. 레이저는 PC에서 HyperPolling Wireless로 최대 수치를 제공한다고 밝혔다. 이를 PS5에서도 동일한 조건으로 제공된다고 적을 수 없다. PC 호환성은 Sony Interactive Entertainment가 시험하거나 보증하지 않았다는 각주도 있다.\n\n사용자가 다시 지정할 수 있는 다기능 버튼 여섯 개와 교체 가능한 스틱 캡, 뒤쪽 버튼 커버 등도 포함한다. 버튼을 손가락이 닿는 위치에 배치하면 엄지를 스틱에서 떼지 않고 명령을 넣을 선택지가 생긴다. 반면 추가 입력 위치에 익숙해지는 시간이 필요할 수 있고, 모든 게임이 같은 명령 배치를 쓰는 것도 아니다. 설정 앱과 프로필 저장 기능을 활용할 때에는 사용하는 플랫폼과 게임 규칙을 함께 확인해야 한다. 부품 개수가 곧바로 모든 사용자에게 더 나은 조작을 뜻하지는 않는다.\n\n공식 제품 페이지는 Razer.com과 일부 RazerStore 판매를 안내하지만, 이번 보도자료만으로 한국 재고와 가격, 실제 배송일은 확인되지 않는다. 초도 한정 수량은 희소성 설명이지 향후 중고가격 상승을 보장하지 않는다. 독자가 비교할 기준은 한정 번호보다 필요한 입력 기능, 지원 환경, 보증과 총 구매 비용이다. 이 제품은 성능 주변기기와 수집품의 성격이 만나는 사례로 볼 수 있다. 이는 공개된 구성에 대한 해석이며, 실제 구매 만족도나 경쟁 성적을 예측하는 주장은 아니다."
+        },
+        "en": {
+          "title": "Razer’s limited Raiju controller puts PC polling conditions in focus",
+          "summary": "The November 3 edition combines a 260g magnesium structure with features whose platform conditions matter.",
+          "body": "Razer announced Raiju V3 Pro Signature Edition on November 3, with an initial 1,337 individually numbered units, a magnesium-alloy structure and 260g weight. It is officially licensed for PS5, but the maximum 2,000Hz wireless polling specification applies on PC. Licensing and a PC performance figure cover different things.\n\nMaterials versus feel\nRaiju dates to 2016; this edition emphasizes construction and finish. Metal, glass and grip materials can affect touch, but do not establish faster human reactions. Published weight also does not decide comfort for every hand and grip. This is not a hands-on fatigue review.\n\nContactless TMR sticks sense magnetic changes electrically. The approach aims to avoid contact wear, but the sensor label does not guarantee no failures or input errors. Dead zones and sensitivity influence control, and game-specific settings still matter.\n\nPolling versus complete latency\nAt 2,000 reports a second, the theoretical interval is 0.5ms. That is not the entire button-to-screen delay: game processing, rendering and display follow. Razer specifies HyperPolling Wireless on PC, not an identical PS5 guarantee. Its footnote says PC compatibility has not been tested or endorsed by Sony Interactive Entertainment.\n\nSix remappable multifunction buttons, alternative stick caps and back-button covers extend customization. Extra inputs can keep thumbs on the sticks, but require learning and differ across games. Check platform, app and game rules when storing profiles; more parts do not ensure better control for everyone.\n\nThe product page lists Razer.com and selected RazerStores, while Korean price, stock and delivery are not established by the release. Limited supply does not guarantee resale appreciation. Compare required inputs, platform support, warranty and total cost. The overlap between performance peripheral and collectible is an interpretation of the package, not a prediction of satisfaction or competitive results."
+        },
+        "ja": {
+          "title": "限定Raijuコントローラー、2000HzはPC条件を確認",
+          "summary": "260gのマグネシウム構造と、環境別の対応条件を整理する。",
+          "body": "Razerは11月3日、Raiju V3 Pro Signature Editionを発表した。初回1337個の個別番号、マグネシウム構造、260gを特徴とする。PS5公式ライセンス品だが最大2000Hz無線ポーリングはPC条件であり、同じ保証範囲ではない。\n\n素材と装着感は別\n2016年から続くRaijuの本版は素材と仕上げを重視する。金属やガラス、グリップは触感に影響しても人の反応向上を証明しない。公表重量も全員の快適さを決めない。本稿は実機の疲労試験ではない。\n\n非接触TMRは磁気変化を電気信号で読む方式。接触摩耗を避ける狙いはあるが、全故障や入力誤差ゼロの保証にはならない。デッドゾーンと感度、ゲーム設定も操作を左右する。\n\nポーリングと総遅延\n毎秒2000回は理論上0.5ms間隔だが、押して表示されるまでの総遅延ではない。ゲーム処理、描画、画面が続く。最大値はPCのHyperPolling Wirelessで、PS5同条件とは書けない。PC互換はSony Interactive Entertainmentが試験・保証したものではないという注記もある。\n\n割り当て可能な6ボタン、交換スティック、背面カバーを備える。親指を離さず入力できる選択は増えるが、慣れが必要でゲームごとに違う。アプリ、環境、ゲーム規則も確認したい。部品数だけで全員の操作向上は決まらない。\n\n公式ページはRazer.comと一部店舗を案内するが韓国価格、在庫、配送日は発表だけでは不明。限定数は中古値上がりの保証でもない。必要機能、環境、保証、総費用で比べたい。性能機器と収集品の交差というのは構成の考察で、満足や競技成績の予測ではない。"
+        },
+        "zh": {
+          "title": "限量Raiju手柄，2000Hz先看PC适用条件",
+          "summary": "11月3日版本主打260克镁合金结构，收藏价值和操作性能需分开。",
+          "body": "雷蛇11月3日发布Raiju V3 Pro Signature Edition，首批1337个独立编号，镁合金结构、260克。它是PS5官方授权产品，但最高2000Hz无线轮询针对PC，授权范围和PC性能数字不同。\n\n材料不等于手感结论\nRaiju始于2016年，此版强调材料工艺。金属、玻璃及握把可影响触感，却不能证明人的反应更快。公布重量也不决定所有手型舒适度，本稿不是实机疲劳测试。\n\n非接触TMR通过磁性变化形成电信号，意在避免接触磨损，但名称不能保证永不故障或零输入误差。死区、灵敏度及游戏设置仍影响操作。\n\n轮询不同于总延迟\n每秒2000次理论间隔0.5毫秒，不代表从按键到画面全部只需0.5毫秒，游戏处理、渲染及显示仍在后面。最高值针对PC HyperPolling Wireless，不能写成PS5同条件。脚注还称PC兼容未获Sony Interactive Entertainment测试或认可。\n\n六个可映射多功能键、替换摇杆帽和背键盖扩展定制，可减少拇指离开摇杆，但需学习且游戏需求不同。应用、平台和游戏规则均需核对，零件多不保证人人更好操作。\n\n官网列Razer.com和部分门店，韩国价格、库存和配送未由公告确认。限量不保证转售价上涨。应比较输入需求、平台、保修及总成本。性能外设与收藏品相交是对配置的分析，并非满意度或比赛成绩预测。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Razer",
+          "url": "https://www.razer.com/newsroom/product-news/raiju-v3-pro-signature-edition"
+        },
+        {
+          "name": "Razer · product specifications and platform FAQ",
+          "url": "https://www.razer.com/console-controllers/razer-raiju-v3-pro-signature-edition"
+        }
+      ],
+      "image": {
+        "url": "assets/20261107-raiju.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "거실 책상 위 일반 게임 컨트롤러, AI 참고 장면",
+          "en": "Generic controller on a living-room table, AI reference",
+          "ja": "居間の一般コントローラー、AI参考画像",
+          "zh": "客厅桌上的通用手柄，AI参考图"
+        }
+      }
+    },
+    {
+      "id": "motorola-amar-babu-president-20261104",
+      "date": "2026-11-04",
+      "published": "2026-11-07",
+      "source": "Lenovo",
+      "url": "https://news.lenovo.com/pressroom/press-releases/lenovo-names-amar-babu-new-motorola-mobility-president/",
+      "category": {
+        "ko": "기업·제품 전략",
+        "en": "Company strategy",
+        "ja": "企業・製品戦略",
+        "zh": "公司与产品战略"
+      },
+      "locales": {
+        "ko": {
+          "title": "모토로라 새 수장 Amar Babu, 발표는 11월·취임은 내년 1월",
+          "summary": "레노버가 11월 4일 인사를 공개했다. 고급형 제품과 기기 생태계 확대는 방향이며 개별 제품의 출시 확정은 아니다.",
+          "body": "레노버가 Amar Babu를 Mobile Business Group 총괄과 Motorola 글로벌 사장으로 선임한다고 11월 4일 발표했다. 실제 효력 발생일은 2027년 1월 1일이다. Babu는 현재 레노버 아시아태평양 사업을 이끌고 있으며 당분간 그 역할을 유지하며 인수인계를 진행한다. 지금 발표된 인사를 이미 완료된 조직 전환으로 설명하기보다, 연말까지의 준비와 새해 취임을 나눠 보는 것이 정확하다.\n\nPC 회사와 스마트폰 브랜드의 연결\n레노버는 PC와 서버, 스마트폰 등 기기를 판매하며 Motorola는 그룹의 모바일 사업을 이루는 브랜드다. 이번 인사는 제품 하나의 책임자가 아니라 글로벌 모바일 사업의 리더십에 관한 소식이다. 발표에 따르면 Babu는 Intelligent Devices Group을 이끄는 Luca Rossi에게 보고하고, Rossi는 올해 말까지 Motorola 사장 직무대행을 이어간다. 후임을 발표한 날과 기존 책임자의 역할이 끝나는 날이 다르다는 점이 전환 일정의 핵심이다.\n\n회사가 강조한 방향은 고급형 제품 성장과 여러 기기의 생태계 확장, 미국·인도·일본 등 시장에서의 경쟁력 강화다. 생태계는 스마트폰 한 대의 성능을 넘어 다른 기기와 서비스가 함께 작동하는 관계를 말한다. 예를 들어 기기 사이의 작업 연속성과 계정, 주변기기 호환성 같은 요소가 사용자 경험에 영향을 줄 수 있다. 이는 용어의 일반적 설명이며 이번 발표가 특정 기능을 새로 제공한다고 확인한 목록은 아니다. 전략 표현과 실제 제품 사양을 섞어 읽지 않을 필요가 있다.\n\n경력과 성과의 범위를 읽기\nBabu는 2007년 레노버에 합류했고 사업 관리와 운영, 서비스, 시장 책임 등을 맡았다고 회사는 설명했다. 발표는 아시아태평양의 PC와 모바일 사업 성과를 배경으로 제시한다. 그러나 지역 사업에서의 경험이 글로벌 제품 전략의 결과를 미리 보증하지는 않는다. 국가마다 통신사 유통과 가격, 경쟁 브랜드, 소비자 수요가 다르기 때문이다. 회사가 제시한 성과 설명은 인사 배경이고 앞으로의 실적은 이후 제품과 사업 자료에서 따로 확인해야 한다.\n\n소비자에게 당장 바뀌는 것은 무엇일까. 이번 자료는 기존 기기의 운영체제 업데이트 일정이나 보증 조건, 한국 신제품의 판매일을 바꾼다고 밝히지 않았다. 리더십 변화에 관심을 갖되 구매 중인 기기의 지원 기간은 해당 제품의 공식 안내로 판단해야 한다. 고급형에 집중한다는 표현만으로 보급형을 중단한다거나 모든 제품 가격이 오른다고 추정하는 것도 근거가 부족하다. 발표에 없는 결정은 확인되지 않은 상태로 남겨두는 편이 맞다.\n\n앞으로 확인할 지점은 1월 취임 이후의 실제 제품 발표와 지역별 판매, 소프트웨어 지원 공지다. 기기 사이 연결을 내세우는 전략이라면 자신이 쓰는 PC와 휴대전화가 어떤 기능을 공유하는지 구체적으로 보는 것이 유용하다. 동일 그룹의 브랜드라는 사실만으로 모든 연동이 자동 제공되지는 않는다. 이번 인사는 회사가 모바일 제품의 우선순위를 어디에 두려는지 보여주는 신호로 해석할 수 있지만, 그 방향이 독자에게 주는 편의는 실행된 기능과 지원 조건으로 평가해야 한다. 발표일, 취임일, 제품 시행일은 끝까지 별개의 시간표다."
+        },
+        "en": {
+          "title": "Motorola names Amar Babu president, effective January 2027",
+          "summary": "Lenovo’s November 4 appointment outlines premium and ecosystem priorities, not individual product launches.",
+          "body": "Lenovo announced on November 4 that Amar Babu will become Mobile Business Group general manager and Motorola global president, effective January 1, 2027. He currently leads Asia Pacific and will retain that role during transition. Announcing a successor is different from completing the organizational change.\n\nConnecting PCs and the mobile brand\nLenovo sells PCs, infrastructure and smartphones; Motorola is a mobile brand within the group. This appointment concerns global business leadership, not one product. Babu will report to Intelligent Devices Group head Luca Rossi, who remains acting Motorola president through year-end. The outgoing acting responsibility and new appointment have different dates.\n\nPriorities include premium growth, a broader device ecosystem and stronger positions in markets such as the US, India and Japan. An ecosystem concerns relationships among devices and services, including continuity, accounts and accessory compatibility. Those are explanations of the term, not a newly promised feature list. Strategy is different from product specifications.\n\nExperience is not a guarantee\nLenovo says Babu joined in 2007 and has worked across management, operations, services and market leadership. Regional business performance provides appointment context, not proof of future global results. Carrier channels, prices, competition and demand vary by country; later product and business data must show execution.\n\nThe release does not change existing-device update schedules, warranties or Korean launch dates. Use product-specific support notices for purchases. Premium emphasis does not establish discontinuation of affordable devices or price rises across the range. Unannounced decisions remain unknown.\n\nUseful next evidence is actual products, regional availability and support policies after January. For cross-device ambitions, check which functions your PC and phone really share; common ownership does not automatically provide every integration. The appointment signals priorities, but user value must be judged through delivered features. Announcement, appointment and product implementation remain separate timelines."
+        },
+        "ja": {
+          "title": "Motorola新社長Amar Babu、発表は11月で就任は翌1月",
+          "summary": "高級機と機器連携の拡大は方針で、個別製品発売の確定ではない。",
+          "body": "Lenovoは11月4日、Amar BabuをMobile Business Group責任者兼Motorolaグローバル社長に任命すると発表した。発効は2027年1月1日。現在のアジア太平洋責任者を移行中も続ける。後任発表と組織変更完了は別だ。\n\nPCとモバイルの接点\nLenovoはPC、インフラ、スマホを扱い、Motorolaはグループのモバイルブランド。単品でなく世界事業の人事で、BabuはIntelligent Devices GroupのLuca Rossiへ報告する。Rossiは年末まで社長代行を続けるため役割終了と新就任の日付を区別したい。\n\n高級機成長、機器エコシステム、米国・インド・日本などでの強化を方針とする。エコシステムは機器とサービスの連携で、作業継続、アカウント、周辺機器互換などが関係し得る。これは用語の説明で新機能一覧ではない。方針を仕様と混同できない。\n\n経験と将来成果\n同社によるとBabuは2007年入社で管理、運営、サービス、市場責任を経験。地域実績は人事の背景で世界戦略の成功保証ではない。国ごとに流通、価格、競争、需要が違い、今後の実行は製品や業績で確認する。\n\n発表は既存機の更新、保証、韓国発売日の変更を示していない。購入には機種別案内を使いたい。高級機重視だけで廉価機終了や一律値上げを推定できず、非発表の決定は未確認のままだ。\n\n次に見るのは1月以降の製品、地域展開、支援方針。連携を重視するなら自分のPCと電話で実際に共有できる機能を確認する。同一グループでも全連携が自動で提供されない。人事は優先順位の信号だが価値は実装で評価し、発表・就任・実施を分けたい。"
+        },
+        "zh": {
+          "title": "摩托罗拉任命Amar Babu，明年1月正式生效",
+          "summary": "11月4日公告涉及高端与生态方向，并非具体新品上市承诺。",
+          "body": "联想11月4日宣布Amar Babu将任Mobile Business Group总经理及摩托罗拉全球总裁，2027年1月1日生效。他现任亚太负责人，过渡期仍保留该职责。宣布接班人不等于组织转换已经完成。\n\nPC与移动品牌连接\n联想经营PC、基础设施和手机，摩托罗拉是集团移动品牌。本次涉及全球业务领导，不是单品负责人。Babu向Intelligent Devices Group的Luca Rossi汇报，后者继续代任至年底，需分清职责结束与新任生效日期。\n\n公司强调高端增长、设备生态及美国、印度、日本等市场。生态涉及设备与服务关系，如任务连续性、账户和配件兼容。这些是术语解释，不是新功能承诺清单，战略不能当成产品规格。\n\n经验不是结果保证\n公司称Babu2007年加入，经历管理、运营、服务及市场岗位。区域成绩是任命背景，不保证全球成果，因为各国渠道、价格、竞争与需求不同，执行仍需后续产品和业绩证据。\n\n公告没有改变既有设备更新、保修或韩国上市日。购买仍应看具体型号支持公告。强调高端不代表已决定停止平价机或全线涨价，未公布决定应保留未知。\n\n后续看1月后实际产品、地区供应和软件支持。若关注跨设备，应确认自己的PC和手机确实共享哪些功能，同属集团不保证所有互联。人事显示优先方向，但消费者价值要以落地功能评估；公告、任职和产品实施是不同时间表。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Lenovo",
+          "url": "https://news.lenovo.com/pressroom/press-releases/lenovo-names-amar-babu-new-motorola-mobility-president/"
+        }
+      ],
+      "image": {
+        "url": "assets/20261107-leadership.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "일반 회의실 탁자 위 노트북과 스마트폰, AI 참고 장면",
+          "en": "Generic laptop and phone on a meeting table, AI reference",
+          "ja": "会議机の一般PCと電話、AI参考画像",
+          "zh": "会议桌上的通用电脑与手机，AI参考图"
+        }
+      }
+    },
+    {
+      "id": "galaxy-buds4pro-nina-edition-20261106",
+      "date": "2026-11-06",
+      "published": "2026-11-07",
+      "source": "Samsung Germany",
+      "url": "https://news.samsung.com/de/samsung-und-popstar-nina-chuba-prasentieren-exklusive-limited-edition-der-galaxy-buds4-pro",
+      "category": {
+        "ko": "오디오·한정판",
+        "en": "Audio editions",
+        "ja": "オーディオ限定版",
+        "zh": "音频限定版"
+      },
+      "locales": {
+        "ko": {
+          "title": "Galaxy Buds4 Pro 독일 한정판, 추가 구성품과 오디오 기능은 따로 보기",
+          "summary": "11월 6일 2000개 한정 번들을 발표했다. 일반형과 같은 249유로지만 고음질 기능에는 호환 기기 조건이 있다.",
+          "body": "삼성전자 독일 법인이 가수 Nina Chuba와 협업한 Galaxy Buds4 Pro 한정 번들을 11월 6일 발표하고 같은 날 판매를 안내했다. 물량은 2000개이며 독일 Amazon을 통해 일반 Galaxy Buds4 Pro와 같은 249유로에 제공한다고 밝혔다. 새 오디오 모델의 출시라기보다 기존 이어폰에 전용 케이스와 액세서리를 더한 지역 한정 구성이다. 한국에서 같은 가격과 조건으로 판매한다는 공지는 아니다.\n\n무엇이 추가되고 무엇이 유지되나\n구성에는 흰색 Buds4 Pro, 협업 디자인 케이스, 다섯 개 장식이 달린 꼰 팔찌가 포함된다. Nina Chuba는 독일의 가수로, 장식들은 곡에서 아이디어를 얻었다고 회사는 설명했다. 이어폰을 음악 재생 장치와 패션 소품 양쪽으로 보여주는 상품이다. 다만 포장과 부속품의 차이가 곧 새로운 음향 하드웨어의 개발을 뜻하지는 않는다. 이번 자료는 협업판만의 드라이버나 음질 개선 수치를 별도로 제시하지 않았다. 일반형과 비교한다면 먼저 이어폰 본체와 추가 구성품을 나눠 봐야 한다.\n\n회사는 Buds4 Pro의 최대 24비트·96kHz 고음질 기능도 소개했다. 비트 수는 디지털 오디오 신호의 값을 표현하는 정밀도와, 샘플링 주파수는 1초에 신호를 표본으로 읽는 횟수와 관계한다. 그러나 표기 숫자만으로 모든 음악과 모든 휴대전화에서 체감 음질이 같다고 할 수는 없다. 원본 콘텐츠와 연결 방식, 설정, 착용 상태 등이 함께 영향을 준다. 특히 한정판에 이 숫자가 적혀 있다는 사실을 일반형보다 더 높은 품질이라고 읽을 근거는 없다. 공개 수치는 기반 제품의 기능 설명이다.\n\n호환성과 기본 설정의 차이\n공식 각주는 고음질 기능이 지정된 Galaxy 스마트폰·태블릿과 소프트웨어 조건에서 작동한다고 설명한다. 기본적으로 꺼져 있어 설정에서 활성화해야 한다는 안내도 있다. 따라서 지원 제품을 가지고 있어도 처음 연결한 순간 모든 기능이 자동 적용된다고 볼 수 없다. 제품 이름만 확인하는 대신 정확한 모델과 One UI 버전, 관련 설정을 살펴봐야 한다. 다른 브랜드의 휴대전화와 연결할 때에는 기본 재생과 특정 고급 기능의 지원 범위가 다를 수 있다는 점도 구분할 필요가 있다.\n\n머리 동작으로 통화를 받는 기능과 호환 Galaxy의 통역 기능 역시 소개됐다. 이것은 이어폰 자체가 모든 언어와 앱에서 독립적으로 통역한다는 뜻이 아니다. 연동 기기와 지역, 소프트웨어의 세부 조건을 따라야 한다. 이번 글은 공개 기능의 범위를 정리한 것으로 실제 통화 품질이나 번역 정확도를 시험하지 않았다. 구매자는 자신이 사용할 전화와 원하는 기능이 맞는지 확인한 뒤, 협업 디자인에 별도 가치를 두는지 판단할 수 있다. 다른 사람의 취향과 자신의 기능 요구는 같지 않다.\n\n한정 2000개라는 숫자는 발표된 공급 범위이지 향후 중고가격이나 재판매 수익을 보장하는 수치가 아니다. 실제 재고와 배송 가능 지역, 반품·보증 조건은 판매처에서 확인해야 한다. 특히 해외 구매에서는 표시가격을 환율로 바꾼 값만으로 최종 비용을 판단하기 어렵다. 이번 소식의 핵심은 정규 제품의 기능 위에 문화 협업과 구성품을 얹는 판매 방식이다. 음질을 위해 고르는 제품인지, 디자인과 기념품을 함께 원하는 구매인지 나눠 보면 한정판이라는 말에 가려진 비교 기준이 드러난다."
+        },
+        "en": {
+          "title": "Samsung’s Nina Chuba Buds4 Pro bundle separates style from audio features",
+          "summary": "The 2,000-unit German bundle is listed at €249, with device conditions behind high-quality audio.",
+          "body": "Samsung Germany announced a Nina Chuba Galaxy Buds4 Pro bundle on November 6, available that day through Amazon Germany. It is limited to 2,000 units at €249, the regular model's stated price. This is a regional accessory bundle, not a newly developed audio model or a Korean sales announcement.\n\nWhat changes\nThe package combines white Buds4 Pro, a collaboration case and a braided bracelet with five song-inspired charms. Nina Chuba is a German singer. The product combines listening hardware and fashion, but packaging and accessories do not establish new audio hardware. No edition-specific driver or measured sound improvement is disclosed. Separate the earbuds from added items when comparing the standard version.\n\nSamsung describes up to 24-bit/96kHz audio. Bit depth concerns signal-value precision and sampling frequency concerns samples over time. Those numbers alone do not ensure identical experience across content and phones; source, connection, settings and fit matter. They describe the base product, not proof that the limited edition sounds better.\n\nSupport and activation\nThe footnotes limit the high-quality feature to specified Galaxy phones or tablets and software. It is off by default and needs enabling. Compatible hardware does not mean every feature starts automatically. Check exact model, One UI version and settings; basic playback and advanced functions can differ on another brand's phone.\n\nHead gestures for calls and interpreting with compatible Galaxy devices are also described. This does not make the earbuds independent translators for every language and app. Device, regional and software conditions apply. This report has not tested call quality or translation accuracy. Match your phone and required features before assigning value to the collaboration design.\n\nThe 2,000-unit figure describes announced supply, not guaranteed resale returns. Check stock, shipping, returns and warranty at the retailer. For cross-border purchases, exchange-rate conversion alone does not establish total cost. The news illustrates cultural accessories layered over a regular product. Distinguishing audio needs from design and collectible interest provides a clearer comparison than the limited-edition label alone."
+        },
+        "ja": {
+          "title": "Galaxy Buds4 Pro独限定版、付属品と音機能を分けて見る",
+          "summary": "2000個限定で249ユーロ。高音質機能は対応端末の条件付き。",
+          "body": "Samsungドイツは11月6日、Nina ChubaとのBuds4 Pro限定セットを発表し同日販売を案内した。Amazonドイツで2000個、通常品と同じ249ユーロ。新音響モデルでなく地域限定の付属品セットで、韓国同条件ではない。\n\n変わる構成\n白いBuds4 Pro、協業ケース、曲に着想した5飾りの編みブレスレットを含む。Nina Chubaはドイツの歌手。音楽機器とファッションを組み合わせるが、包装や付属品は新ドライバーや音質改善の証拠ではない。通常品と比べるなら本体と追加品を分けたい。\n\n最大24bit/96kHzも紹介する。ビット深度は信号値の精度、サンプリングは時間ごとの測定頻度に関わる。ただし数字だけで全音源・端末で同じ体験とはならず、元音源、接続、設定、装着も影響する。基本製品の機能で限定版の音質優位を示さない。\n\n対応と初期設定\n高音質機能には指定Galaxy端末とソフト条件があり、初期状態は無効で有効化が必要。対応機器でも自動で全機能は始まらない。機種、One UI、設定を確認し、他社電話では基本再生と高度機能の範囲を分けたい。\n\n頭の動作での通話と対応Galaxyの通訳も説明するが、全言語・アプリで独立翻訳する意味ではない。地域とソフトも条件。本稿は通話や翻訳精度を試験していない。必要機能を照合した上でデザインへの価値を判断する。\n\n2000個は供給数で、中古価格上昇を保証しない。在庫、配送、返品、保証は販売店で確認する。海外購入は換算価格だけで総費用を決められない。通常品に文化協業の付属品を重ねる販売方式であり、音と記念品の目的を分けると比較しやすい。"
+        },
+        "zh": {
+          "title": "Galaxy Buds4 Pro德国限定套装，配件与音频功能分开看",
+          "summary": "2000套、249欧元，高音质功能仍受兼容设备限制。",
+          "body": "三星德国11月6日发布Nina Chuba合作Buds4 Pro套装并宣布当日销售，德国Amazon独家2000套，249欧元，与普通款标价相同。这是地区配件组合，不是新音频型号，也非韩国同条件开售。\n\n变化在组合\n含白色Buds4 Pro、合作保护套和五个歌曲主题饰物的编织手链。Nina Chuba是德国歌手，商品结合音频和时尚，但包装配件不证明新驱动或音质提升。应把耳机本体与额外物品分开比较。\n\n官方介绍最高24位96kHz，位深关系信号数值精度，采样率关系每段时间取样次数。但数字不保证各内容、手机体验相同，音源、连接、设置和佩戴也有影响。这是基础产品功能，不证明限定版更好听。\n\n兼容与开启\n高音质限定指定Galaxy手机、平板及软件，默认关闭，需启用。有兼容硬件不等于自动开启全部功能，应核对型号、One UI和设置。其他品牌手机的基础播放与高级功能范围也需分开。\n\n头部动作接电话及兼容Galaxy翻译不代表耳机可独立翻译所有语言应用，仍受地区与软件条件影响。本稿未测试通话和翻译准确性，应先匹配手机需求再判断设计价值。\n\n2000套是供货规模，不保证二手升值。库存、配送、退货及保修需看零售商，海外购买也不能只按汇率换算决定总成本。这是在常规硬件上叠加文化合作配件的销售案例，分清音频需求与收藏兴趣更利于比较。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Samsung Germany",
+          "url": "https://news.samsung.com/de/samsung-und-popstar-nina-chuba-prasentieren-exklusive-limited-edition-der-galaxy-buds4-pro"
+        }
+      ],
+      "image": {
+        "url": "assets/20261107-nina.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "일반 무선 이어폰과 팔찌, AI 참고 장면",
+          "en": "Generic earbuds and bracelet, AI reference",
+          "ja": "一般イヤホンとブレスレット、AI参考画像",
+          "zh": "通用耳机与手链，AI参考图"
+        }
+      }
+    },
     {
       "id": "rog-xg-station3-egpu-20261106",
       "date": "2026-11-04",
