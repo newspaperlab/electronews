@@ -2,6 +2,516 @@
   "updated": "2026-11-06",
   "articles": [
     {
+      "id": "rog-xg-station3-egpu-20261106",
+      "date": "2026-11-04",
+      "published": "2026-11-06",
+      "source": "ASUS",
+      "url": "https://press.asus.com/news/press-releases/asus-rog-xg-station-3-external-graphics-dock/",
+      "category": {
+        "ko": "PC·확장",
+        "en": "PC expansion",
+        "ja": "PC拡張",
+        "zh": "PC扩展"
+      },
+      "locales": {
+        "ko": {
+          "title": "노트북 밖으로 꺼낸 그래픽카드, ROG XG Station 3가 연결하는 책상",
+          "summary": "Thunderbolt 5 외장 GPU 도크를 공개했다. 단자 모양보다 노트북의 지원 기능과 전체 구성 비용이 중요하다.",
+          "body": "밖에서는 가벼운 노트북을 들고 다니고, 집에서는 더 강한 그래픽 성능을 쓰고 싶다면 외장 GPU가 한 선택지가 된다. ASUS ROG는 11월 4일 공개 페이지에서 XG Station 3를 소개했다. 데스크톱용 그래픽카드를 노트북 바깥에 장착하고 Thunderbolt 5로 연결하는 도크다. 본문 도입부에는 11월 3일이 적혀 있어 공개 페이지의 날짜와 하루 차이가 있다.\n\n선 하나가 맡는 여러 역할\n회사가 제시한 기본 양방향 대역폭은 최대 80Gbps이며, 호환 노트북에 최대 140W USB Power Delivery도 제공한다. 그래픽 데이터와 충전을 함께 처리하면 책상 위 케이블을 줄일 수 있다. 다만 노트북이 요구하는 전력과 지원하는 연결 방식에 따라 실제 구성이 달라진다.\n\n외장 GPU의 이점은 그래픽카드를 나중에 교체할 수 있다는 데 있다. 노트북 내부에 고정된 GPU와 달리 책상 쪽 장치를 업그레이드하는 방식이다. 반면 도크와 그래픽카드, 연결 케이블이 추가되고 휴대할 부품도 커진다. ‘가벼운 노트북 한 대’라는 장점은 이동할 때만 성립할 수 있다.\n\nUSB-C가 있다고 바로 연결되는 것은 아니다\nThunderbolt는 단자 외형이 아니라 데이터 연결 기능을 포함하는 규격이다. USB-C 포트가 보인다는 이유만으로 같은 확장 기능을 기대하면 안 된다. 구매 전에는 노트북의 정확한 모델과 외장 그래픽 지원, 운영체제, 그래픽 드라이버를 확인해야 한다.\n\n또한 도크의 링크 대역폭을 그래픽카드 자체의 성능과 동일하게 볼 수 없다. 외부 연결을 거치는 구조에서는 작업 종류와 화면 연결 방식 등이 결과에 영향을 준다. 같은 카드의 데스크톱 장착 결과가 노트북 도크에서도 그대로 나온다고 가정하기 어렵다.\n\n이번 제품은 노트북을 버리지 않고 책상 환경을 확장하려는 사람에게 검토할 만한 구성을 제시한다. 판단 순서는 단순하다. 쓰고 싶은 프로그램이 무엇인지 정하고, 현재 노트북의 지원 범위를 확인한 뒤, 도크와 카드 비용을 다른 PC 구성과 비교하는 것이다. 공개 사양은 그 계산의 출발점이다."
+        },
+        "en": {
+          "title": "ROG XG Station 3 moves the graphics card outside the laptop",
+          "summary": "Thunderbolt 5 can combine expansion and charging, subject to the host's capabilities.",
+          "body": "ASUS's XG Station 3 page is dated November 4, while the release body carries November 3. The external GPU dock connects a desktop graphics card to a compatible laptop over Thunderbolt 5, with up to 80Gbps bidirectional bandwidth and up to 140W host charging.\n\nBuilding the desk around the laptop\nThe attraction is separate upgradeability: the card at home can change without replacing the traveling computer. The trade-off includes the dock, card and cabling.\n\nA USB-C-shaped port alone does not establish support. Check the exact host model, operating system and drivers. Link bandwidth is also not a guarantee of the same result as installing the card inside a desktop.\n\nStart with the intended workload and the existing laptop's capabilities, then compare the complete cost with another PC configuration. The announcement provides specifications, not a measured performance comparison."
+        },
+        "ja": {
+          "title": "ROG XG Station 3、GPUをノートPCの外へ",
+          "summary": "Thunderbolt 5による拡張は、接続先の対応確認が前提になる。",
+          "body": "ASUSのXG Station 3公開ページは11月4日付で、本文は11月3日と記載される。デスクトップGPUを外付けし、Thunderbolt 5でノートPCにつなぐ。双方向最大80Gbpsとホストへの最大140W給電を案内する。\n\n机と持ち歩きを分ける\nGPUだけを更新できる一方、ドックとカード、配線が増える。USB-C形状だけでは対応を判断できず、正確なPC型番とOS、ドライバーを確認したい。\n\n外部接続を使うため、デスクトップ内蔵時と同じ性能を保証する数値でもない。目的の作業を決め、対応と総費用を比較することが選択の出発点になる。"
+        },
+        "zh": {
+          "title": "ROG XG Station 3把显卡移到笔记本外",
+          "summary": "Thunderbolt 5扩展需要先确认主机支持。",
+          "body": "ASUS的XG Station 3页面日期为11月4日，正文标注11月3日。它通过Thunderbolt 5连接桌面显卡与兼容笔记本，公布双向最高80Gbps及最高140W主机供电。\n\n分开考虑移动与桌面\n显卡可以独立升级，但还需要底座、显卡和线缆。USB-C外形并不代表具备相同扩展功能，应核对具体主机、系统与驱动。\n\n外接链路也不保证显卡获得与桌面内装完全相同的表现。先确定工作负载，再比较兼容性和整套成本，比只看接口数字更有用。"
+        }
+      },
+      "sources": [
+        {
+          "name": "ASUS",
+          "url": "https://press.asus.com/news/press-releases/asus-rog-xg-station-3-external-graphics-dock/"
+        }
+      ],
+      "image": {
+        "url": "assets/20261106-amd.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "작업대 위 일반 서버 회로기판, AI 참고 장면",
+          "en": "Generic server circuit board on a workbench, AI reference",
+          "ja": "作業台の一般的なサーバー基板、AI参考画像",
+          "zh": "工作台上的通用服务器电路板，AI参考场景"
+        }
+      }
+    },
+    {
+      "id": "rog-720hz-oled-frame-time-20261106",
+      "date": "2026-10-28",
+      "published": "2026-11-06",
+      "source": "ASUS",
+      "url": "https://press.asus.com/news/press-releases/rog-swift-oled-pg259qws-ace-720hz-gaming-monitor/",
+      "category": {
+        "ko": "모니터",
+        "en": "Displays",
+        "ja": "モニター",
+        "zh": "显示器"
+      },
+      "locales": {
+        "ko": {
+          "title": "720Hz OLED의 1.39밀리초, 모니터 숫자가 실력이 되기까지",
+          "summary": "ASUS가 24.5인치 FHD OLED 두 모델을 소개했다. 주사율과 픽셀 응답시간, 게임의 프레임률을 나눠 봤다.",
+          "body": "모니터가 1초에 화면을 720번 갱신한다면 한 번의 갱신 간격은 약 1.39밀리초다. ASUS가 10월 28일 공개한 ROG Swift OLED PG259QWS Ace의 720Hz를 시간으로 바꾸면 나오는 값이다. 함께 소개한 XG259QWPG Ace는 540Hz다. 두 제품 모두 24.5인치, 1920×1080 해상도의 OLED를 사용한다.\n\n주사율과 응답시간은 다른 시계다\n720Hz는 화면 갱신 빈도이며, 회사가 제시한 0.02ms GTG는 특정 회색 단계 사이의 픽셀 전환 시간이다. 둘은 측정 대상이 다르다. 0.02ms를 마우스를 누르고 화면이 바뀔 때까지 걸리는 전체 시간으로 읽으면 안 된다.\n\n실제로는 입력 장치와 게임 처리, CPU와 GPU의 렌더링, 화면 표시까지 여러 단계가 연결된다. 모니터가 빠르더라도 게임이 충분한 프레임을 만들지 못하면 720개의 서로 다른 새 장면을 매초 공급할 수 없다. 반대로 고주사율의 장점을 보려면 해상도와 화질 설정을 낮추는 선택도 생길 수 있다.\n\n작은 FHD 화면이 겨냥한 사람\n이 제품은 넓은 작업 공간보다 경쟁 게임에서의 움직임 표현에 초점을 둔다. 문서 편집이나 고해상도 사진 작업을 주로 하는 사람에게는 720Hz보다 해상도와 화면 면적, 글자 선명도가 더 중요한 기준일 수 있다. 높은 숫자가 모든 용도에서 상위 선택을 뜻하지는 않는다.\n\n밝기도 조건을 함께 읽어야 한다. 공개된 최대 밝기 수치가 화면 전체를 항상 같은 밝기로 보여준다는 뜻은 아니다. 실내 조명과 반사, 실제 콘텐츠의 밝은 영역이 체감에 영향을 준다. OLED의 장시간 고정 화면 사용과 보증 조건도 확인할 부분이다.\n\n약 1.39ms라는 계산은 제품의 목표를 이해하는 출발점이다. 구매 판단은 자신이 하는 게임에서 현재 PC가 내는 프레임과 모니터 설정을 먼저 확인한 뒤 내려야 한다. 주사율은 빠른 장면을 보여줄 가능성을 넓히지만, 사용자의 실력 향상을 수치로 보장하지 않는다."
+        },
+        "en": {
+          "title": "What 720Hz OLED's 1.39 milliseconds actually means",
+          "summary": "Refresh rate, pixel transitions and game frame rate answer different questions.",
+          "body": "ASUS introduced two 24.5-inch FHD OLED esports displays on October 28: the PG259QWS Ace at 720Hz and XG259QWPG Ace at 540Hz.\n\nSeparate the clocks\nOne refresh at 720Hz takes about 1.39ms, calculated as 1,000 divided by 720. The quoted 0.02ms GTG measures a pixel transition, not the complete delay from mouse input to an image.\n\nThe PC must also render frames. A fast display cannot create distinct new game states that the system has not produced. Competitive settings may therefore involve a trade-off with resolution and visual quality.\n\nFor document or photo work, workspace and text detail may matter more than extreme refresh. Peak brightness is likewise not a promise of constant full-screen brightness.\n\nCheck frame rates in the games you actually play before buying. The display expands what can be shown; it does not guarantee improved player performance."
+        },
+        "ja": {
+          "title": "720Hz OLEDの約1.39msは何を意味するか",
+          "summary": "リフレッシュレートと画素応答、ゲームのfpsは別の指標だ。",
+          "body": "ASUSは10月28日、24.5型FHD OLEDの720Hzモデルと540Hzモデルを発表した。720Hzを時間に直すと1回約1.39msになる。\n\n違う時計を区別する\n0.02ms GTGは画素の階調変化で、マウス入力から表示までの全遅延ではない。PCが十分なフレームを生成できるかも重要だ。\n\n競技ゲームでは速さが魅力でも、文書や写真では解像度や作業領域が優先される場合がある。最大輝度も常時全面の明るさではない。自分のゲームで出るfpsと設定を確認し、用途に合うか判断したい。"
+        },
+        "zh": {
+          "title": "720Hz OLED的约1.39毫秒意味着什么",
+          "summary": "刷新率、像素响应与游戏帧率需要分开。",
+          "body": "ASUS10月28日公布24.5英寸FHD OLED的720Hz和540Hz机型。720Hz每次刷新间隔约为1.39毫秒。\n\n区分不同计时\n0.02ms GTG是像素灰阶转换，不是鼠标输入到画面的全部延迟。电脑还需实际生成足够帧数，显示器不能凭空产生新的游戏画面。\n\n竞技游戏以外，文档和照片工作可能更看重分辨率与面积。峰值亮度也不等于持续全屏亮度。先测自己常玩游戏的帧率与设置，再判断高刷新是否有用。"
+        }
+      },
+      "sources": [
+        {
+          "name": "ASUS",
+          "url": "https://press.asus.com/news/press-releases/rog-swift-oled-pg259qws-ace-720hz-gaming-monitor/"
+        }
+      ],
+      "image": {
+        "url": "assets/20261104-microrgb.svg",
+        "generated": true,
+        "alt": {
+          "ko": "기사 주제를 표현한 AI 콘셉트 일러스트",
+          "en": "AI concept illustration of the article topic",
+          "ja": "記事テーマのAIコンセプトイラスト",
+          "zh": "文章主题的AI概念插画"
+        }
+      }
+    },
+    {
+      "id": "asus-onimusha-gpu-edition-20261106",
+      "date": "2026-10-27",
+      "published": "2026-11-06",
+      "source": "ASUS",
+      "url": "https://press.asus.com/news/press-releases/asus-tuf-gaming-radeon-rx-9070-xt-onimusha-special-edition/",
+      "category": {
+        "ko": "그래픽카드",
+        "en": "Graphics cards",
+        "ja": "グラフィックス",
+        "zh": "显卡"
+      },
+      "locales": {
+        "ko": {
+          "title": "귀무자 디자인을 입은 RX 9070 XT, 한정판 GPU는 무엇을 비교할까",
+          "summary": "ASUS가 게임 협업판을 공개했다. 소장 가치와 냉각 구조, 실제 성능을 각각 판단할 필요가 있다.",
+          "body": "PC 안쪽의 부품이 수집품처럼 보이는 시대다. ASUS는 10월 27일 공개 페이지에서 TUF Gaming Radeon RX 9070 XT의 ‘Onimusha Special Edition’을 소개했다. 파란색과 금색으로 게임의 분위기를 표현하고 게임을 묶어 제공하는 구성이다. 본문에는 10월 26일이 적혀 있어 페이지 표기와 차이가 있다.\n\n이름 뒤의 사양부터 읽기\n기반은 AMD RDNA 4 계열 RX 9070 XT이며, 공개 사양은 16GB GDDR6 메모리와 256비트 메모리 버스다. 협업판 이름이 붙었다고 GPU 자체가 별도의 세대로 바뀌는 것은 아니다. 외관과 구성품의 차이, 냉각과 전력 설정의 차이를 나눠 보는 것이 우선이다.\n\n세 개의 팬과 큰 냉각 구조도 특징으로 제시됐다. 여기서 팬 개수만으로 소음이나 온도를 예측하기는 어렵다. 같은 GPU라도 케이스 내부 공기 흐름, 실내 온도, 전력 설정에 따라 동작이 달라지기 때문이다. 실제 비교에는 같은 조건에서 측정한 결과가 필요하다.\n\n멋진 카드가 내 케이스에 들어가는가\n카드의 외형을 고르기 전에는 길이와 두께, 전원 연결에 필요한 공간을 확인해야 한다. 다른 확장카드나 전면 팬과 겹치면 설치할 수 없는 경우가 생긴다. 전원공급장치 용량과 커넥터도 시스템 전체를 기준으로 살펴봐야 한다.\n\n게임 번들은 조건이 가치의 일부다. 지역과 판매처에 따라 적용 여부가 달라질 수 있고, 등록 기간이나 이용 계정 조건이 붙을 수도 있다. 발표에 게임이 포함됐다는 문구가 있어도 실제 구매 페이지의 제공 방식과 마감일을 다시 읽어야 한다.\n\n협업판에 추가 비용을 낼지는 성능과 별도로 결정할 수 있다. 좋아하는 작품의 디자인을 오래 쓰고 싶다는 이유도 구매 동기가 된다. 다만 같은 칩을 쓰는 다른 카드보다 얼마나 빠른지를 외관만으로 설명해서는 안 된다. 디자인의 만족과 시스템에 맞는 구성, 비교 가능한 성능 자료가 각각 갖춰졌을 때 판단이 선명해진다."
+        },
+        "en": {
+          "title": "An Onimusha-themed RX 9070 XT: what makes an edition valuable?",
+          "summary": "Collectible design and measurable graphics performance are separate comparisons.",
+          "body": "ASUS's October 27 page introduces a TUF Gaming RX 9070 XT Onimusha edition with blue-and-gold styling and a game bundle. The release body is dated October 26. Core specifications include 16GB GDDR6 and a 256-bit memory bus.\n\nStart with the underlying card\nA collaboration name does not create a new GPU generation. Compare the design, included items, cooling and power settings separately.\n\nFan count alone cannot establish noise or temperature. Case airflow and workload affect both, so performance claims need comparable measurements.\n\nBefore choosing the appearance, check physical clearance and power connections. Bundle eligibility and redemption deadlines also belong in the purchase calculation.\n\nPaying for a favorite design can be a personal preference. It should not be mistaken for evidence that the edition is faster than another card using the same GPU."
+        },
+        "ja": {
+          "title": "鬼武者仕様のRX 9070 XT、限定版をどう比較するか",
+          "summary": "デザインの価値と測定できる性能を分けて考える。",
+          "body": "ASUSの10月27日付ページは、青と金のTUF Gaming RX 9070 XT鬼武者版とゲーム同梱を紹介した。本文の日付は26日。16GB GDDR6、256bitバスを採用する。\n\nまず基本のGPUを見る\n作品名が付いてもGPUの世代が変わるわけではない。外観、同梱品、冷却、電力設定を分けて比較したい。\n\nファン数だけでは温度や騒音は分からず、ケースの風量や負荷も影響する。寸法と電源、ゲームの登録条件も確認が必要だ。好きなデザインへの対価と、同じGPUの他製品より速いという評価は別である。"
+        },
+        "zh": {
+          "title": "鬼武者主题RX 9070 XT，限定版该比较什么",
+          "summary": "收藏设计与可测量性能是两种价值。",
+          "body": "ASUS10月27日页面介绍蓝金配色的TUF Gaming RX 9070 XT鬼武者版及游戏捆绑，正文日期为26日。公布规格包括16GB GDDR6、256位总线。\n\n先看基础显卡\n合作名称不代表新一代GPU。外观、附带内容、散热和功率设置应分开比较，风扇数量也不能单独证明温度与噪声。\n\n安装前应确认尺寸、电源及接口空间，游戏还需核对地区、兑换期限等条件。为喜欢的设计付费是个人选择，不应把它当成同芯片性能更强的证据。"
+        }
+      },
+      "sources": [
+        {
+          "name": "ASUS",
+          "url": "https://press.asus.com/news/press-releases/asus-tuf-gaming-radeon-rx-9070-xt-onimusha-special-edition/"
+        }
+      ],
+      "image": {
+        "url": "assets/20261106-amd.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "작업대 위 일반 서버 회로기판, AI 참고 장면",
+          "en": "Generic server circuit board on a workbench, AI reference",
+          "ja": "作業台の一般的なサーバー基板、AI参考画像",
+          "zh": "工作台上的通用服务器电路板，AI参考场景"
+        }
+      }
+    },
+    {
+      "id": "arc-pro-b70-local-memory-20261106",
+      "date": "2026-10-27",
+      "published": "2026-11-06",
+      "source": "ASUS",
+      "url": "https://press.asus.com/news/press-releases/asus-ugen-intel-arc-pro-b70-32gb-ai-accelerator/",
+      "category": {
+        "ko": "PC·메모리",
+        "en": "PC memory",
+        "ja": "PCメモリー",
+        "zh": "PC内存"
+      },
+      "locales": {
+        "ko": {
+          "title": "32GB 그래픽 메모리는 어디에 쓰일까, Arc Pro B70의 다른 기준",
+          "summary": "ASUS가 로컬 AI용 UGen 카드를 공개했다. 게임용 카드와 다른 메모리·소프트웨어 조건을 살펴봤다.",
+          "body": "그래픽카드의 메모리 용량을 볼 때 게임의 고해상도 텍스처부터 떠올리기 쉽다. 로컬 AI에서는 같은 메모리에 모델의 가중치와 실행 중 데이터가 함께 들어간다. ASUS가 10월 27일 공개 페이지에서 소개한 UGen Intel Arc Pro B70 32GB는 이 수요를 겨냥한다. 본문 발표 날짜는 10월 23일로 표기돼 있다.\n\n모델을 담는 공간과 계산하는 속도\n공개된 메모리는 32GB ECC GDDR6다. ECC는 메모리 오류를 감지하고 정정하는 기능을 가리킨다. 용량은 실행할 데이터를 담을 수 있는지와 연결되지만, 생성 속도는 연산 성능과 메모리 대역폭, 프로그램 구현에도 영향을 받는다. 32GB라는 숫자만으로 다른 카드보다 항상 빠르다고 말할 수는 없다.\n\n모델의 매개변수 수 역시 필요한 메모리를 하나로 정해주지 않는다. 데이터 표현 정밀도와 양자화 방식, 입력 길이, 동시에 처리하는 요청에 따라 사용량이 달라진다. 같은 모델 이름을 봤더라도 실행 설정이 다르면 결과를 그대로 비교하기 어렵다.\n\n여러 장을 꽂으면 하나처럼 합쳐지는가\n회사는 다중 카드 구성을 통한 확장을 제시한다. 그러나 카드별 용량을 더한 값과 프로그램이 자동으로 하나의 메모리처럼 쓰는 것은 다른 문제다. 소프트웨어가 작업과 데이터를 나누어 처리할 수 있어야 하고, 카드 사이의 데이터 이동도 고려해야 한다.\n\n공식 자료는 지원 가능한 여러 실행 도구를 열거한다. 실제 구매 전에는 사용하려는 프레임워크의 버전과 해당 GPU 지원 상태를 확인하는 것이 먼저다. 예제 하나가 실행된다는 사실과 평소 쓰는 모든 작업이 안정적으로 돌아간다는 것은 같은 수준의 검증이 아니다.\n\n이 카드의 의미는 모든 PC에 AI용 GPU가 필요하다는 데 있지 않다. 자기 컴퓨터 안에서 큰 데이터를 처리하려는 사용자가 게임 프레임률 외의 기준으로 부품을 비교한다는 변화에 있다. 필요한 모델과 소프트웨어를 정한 뒤 메모리·전력·실행 성능을 함께 계산해야 용량의 가치를 알 수 있다."
+        },
+        "en": {
+          "title": "What 32GB of graphics memory means for local AI",
+          "summary": "ASUS's UGen Arc Pro B70 targets a different workload from a gaming comparison.",
+          "body": "ASUS's UGen Arc Pro B70 page is dated October 27, with October 23 in the body. The card offers 32GB ECC GDDR6 for local AI workloads.\n\nCapacity is not speed\nMemory must hold model data and working state. Whether a model fits is different from how quickly it runs. Precision, quantization, context length and concurrent requests all change the requirement.\n\nECC concerns error detection and correction; it does not by itself establish generation speed. Likewise, adding memory across several cards does not automatically create one transparent pool. The software must support partitioning and communication.\n\nBegin with the intended model and framework, then check the supported versions and measured workload. The interesting shift is that some buyers now evaluate a graphics card through memory and software compatibility as much as gaming frame rates."
+        },
+        "ja": {
+          "title": "32GBのGPUメモリー、ローカルAIでは何に使うか",
+          "summary": "容量と実行速度、ソフト対応を分けて確認する。",
+          "body": "ASUSのUGen Arc Pro B70公開ページは10月27日付、本文は23日付だ。32GB ECC GDDR6でローカルAIを狙う。\n\n入ることと速いことは違う\nモデルの重みや作業データを保存する容量と、処理速度は別の指標だ。精度、量子化、入力長、同時処理数で必要量は変わる。\n\n複数カードの容量を足しても、全ソフトが自動的に一つの領域として使えるわけではない。使いたいモデルとフレームワークを先に決め、対応版と実測を確認することが重要になる。"
+        },
+        "zh": {
+          "title": "32GB显存用于什么，Arc Pro B70提供另一种比较标准",
+          "summary": "本地AI需要同时看容量、速度与软件支持。",
+          "body": "ASUS的UGen Arc Pro B70页面为10月27日，正文标注23日。显卡以32GB ECC GDDR6面向本地AI。\n\n装得下不等于跑得快\n模型权重与运行状态需要显存，但执行速度还涉及运算、带宽和程序。精度、量化、输入长度与并发都会改变容量需求。\n\n多卡容量相加也不意味着软件自动获得统一空间，需要分配和通信支持。应先确定模型与框架，再检查版本兼容和实际负载表现，而非仅按显存数字购买。"
+        }
+      },
+      "sources": [
+        {
+          "name": "ASUS",
+          "url": "https://press.asus.com/news/press-releases/asus-ugen-intel-arc-pro-b70-32gb-ai-accelerator/"
+        }
+      ],
+      "image": {
+        "url": "assets/20261106-amd.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "작업대 위 일반 서버 회로기판, AI 참고 장면",
+          "en": "Generic server circuit board on a workbench, AI reference",
+          "ja": "作業台の一般的なサーバー基板、AI参考画像",
+          "zh": "工作台上的通用服务器电路板，AI参考场景"
+        }
+      }
+    },
+    {
+      "id": "windows8gb-memory-update-20261106",
+      "date": "2026-11-03",
+      "published": "2026-11-06",
+      "source": "Microsoft",
+      "url": "https://blogs.windows.com/windowsexperience/2026/11/03/raising-the-bar-for-8-gb-windows-11-pcs-whats-improved-and-how-to-get-it/",
+      "category": {
+        "ko": "Windows",
+        "en": "Windows",
+        "ja": "Windows",
+        "zh": "Windows"
+      },
+      "locales": {
+        "ko": {
+          "title": "8GB PC를 덜 답답하게, Windows가 메모리를 쓰는 순서를 바꾼다",
+          "summary": "마이크로소프트가 반응성과 메모리 개선을 소개했다. 업데이트 효과와 메모리 증설의 역할을 함께 살펴봤다.",
+          "body": "브라우저 탭 몇 개와 문서를 열었을 뿐인데 시작 메뉴까지 늦게 반응하면, 사용자는 컴퓨터 전체가 느려졌다고 느낀다. 마이크로소프트는 11월 3일 8GB 메모리 Windows 11 PC에서 이런 일상 동작을 개선하는 작업을 소개했다. 핵심은 메모리를 더 효율적으로 쓰고, 지금 사용자가 요청한 작업에 우선순위를 주는 것이다.\n\n기다리는 작업부터 줄이기\n회사는 사용자가 활동하는 동안 검색 색인 같은 백그라운드 작업의 부담을 낮추고, 앱 실행 경로를 줄이는 접근을 설명했다. 체감 속도는 CPU의 최고 성능만으로 정해지지 않는다. 클릭한 작업이 자원을 얻기까지 얼마나 기다리는지도 영향을 준다.\n\n공식 자료에는 특정 복합 작업을 최대 40% 빠르게 끝냈다는 내부 시험 결과가 있다. 같은 PC에서 여러 앱과 탭을 연 조건의 비교이므로, 모든 8GB PC가 모든 작업에서 40% 빨라진다는 의미로 확대해서는 안 된다. 자신의 기기에서는 저장장치와 프로세서, 상주 프로그램의 영향을 함께 받는다.\n\n소프트웨어 개선이 RAM을 늘려주지는 않는다\n8GB라는 물리적 용량 자체는 업데이트로 바뀌지 않는다. 동시에 쓰는 앱이 많거나 큰 영상과 3D 데이터를 다루면 여전히 더 큰 메모리가 유리할 수 있다. 반응성을 개선하는 일과 대규모 작업을 담을 공간을 늘리는 일은 서로 보완 관계다.\n\n회사가 안내한 적용 기준은 Windows 11 26H2 빌드 26300.9818 이상이다. Edge와 Microsoft 365, Teams 같은 앱의 업데이트도 일부 개선과 연결된다. PC마다 제공 시점과 지원 상태가 다를 수 있으므로 Windows Update에서 자신의 기기에 제시되는 내용을 확인해야 한다.\n\n오래된 PC를 쓰는 사람에게 이번 소식은 무조건 새 제품을 사라는 얘기보다 현실적인 확인 순서를 준다. 업데이트와 앱 상태를 먼저 살피고, 평소 작업 중 메모리 사용량을 확인한 뒤, 업그레이드 가능한 모델인지 알아보는 것이다. 불편의 원인을 분리해야 지출도 정확해진다."
+        },
+        "en": {
+          "title": "Windows works on making 8GB PCs feel less constrained",
+          "summary": "Responsiveness improvements and additional physical memory solve different parts of the problem.",
+          "body": "Microsoft described Windows 11 memory and responsiveness work on November 3. The approach prioritizes active interactions and reduces competing background work.\n\nRead the test carefully\nAn internal multitasking scenario completed up to 40% faster on the same test PC. It is a specific comparison, not a promise for every application or 8GB machine.\n\nSoftware can reduce wasted work without increasing physical RAM. Heavy video, 3D or extensive multitasking may still benefit from more capacity.\n\nMicrosoft points to Windows 11 26H2 build 26300.9818 or later and relevant app updates. Availability can vary. Check what Windows Update offers for the actual device rather than assuming identical rollout.\n\nBefore replacing a PC, inspect updates, typical memory usage and hardware upgrade options. Separating interaction delays from capacity limits makes the decision more useful."
+        },
+        "ja": {
+          "title": "8GB PCの待ち時間を減らすWindowsの改善",
+          "summary": "反応性の改善と物理メモリーの増設は役割が違う。",
+          "body": "Microsoftは11月3日、8GB Windows 11 PCのメモリーと反応性の改善を紹介した。操作中の処理を優先し、裏で競合する仕事を抑える方針だ。\n\n試験結果の範囲を読む\n複数アプリを開く特定試験で最大40%高速化したというが、全PC・全作業の保証ではない。更新で物理RAM自体が増えるわけでもない。\n\n案内基準は26H2ビルド26300.9818以降と関連アプリ更新。提供時期は機器で異なる。買い替え前に更新状況、普段のメモリー使用量、増設可否を分けて確認したい。"
+        },
+        "zh": {
+          "title": "Windows如何让8GB电脑减少等待",
+          "summary": "响应优化与增加物理内存解决不同问题。",
+          "body": "微软11月3日介绍Windows 11的内存与响应优化，包括优先处理当前操作、减少后台竞争。\n\n看清测试范围\n某个内部多任务流程最多快40%，不代表所有8GB电脑及应用都有同等提升。软件优化也不会增加物理RAM容量。\n\n官方指向26H2构建26300.9818或更新版本及相关应用更新，实际提供时间可能不同。换电脑前，可先查看更新状态、常用负载的内存占用和硬件升级可能，区分等待原因与容量不足。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Microsoft",
+          "url": "https://blogs.windows.com/windowsexperience/2026/11/03/raising-the-bar-for-8-gb-windows-11-pcs-whats-improved-and-how-to-get-it/"
+        }
+      ],
+      "image": {
+        "url": "assets/20261105-macbook.jpg",
+        "alt": {
+          "ko": "편집 작업실의 일반 노트북",
+          "en": "Generic laptop in an editing studio",
+          "ja": "編集室の一般的なノートPC",
+          "zh": "编辑工作室里的通用笔记本电脑"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "windows-vulnerability-update-20261106",
+      "date": "2026-11-05",
+      "published": "2026-11-06",
+      "source": "Microsoft",
+      "url": "https://blogs.windows.com/windowsexperience/2026/11/05/a-new-standard-for-vulnerability-management-in-the-ai-era/",
+      "category": {
+        "ko": "PC·보안",
+        "en": "PC security",
+        "ja": "PCセキュリティ",
+        "zh": "PC安全"
+      },
+      "locales": {
+        "ko": {
+          "title": "취약점이 많이 고쳐졌다는 소식, PC 사용자는 무엇을 봐야 할까",
+          "summary": "마이크로소프트가 보안 업데이트의 발견·검증·배포 방식을 설명했다. 수정 개수와 내 PC의 보호 상태는 같은 지표가 아니다.",
+          "body": "보안 업데이트에 수정 항목이 크게 늘었다는 소식은 두 가지로 읽힌다. 문제가 그만큼 많았다는 뜻일 수도 있고, 이전보다 넓은 범위를 찾아 고쳤다는 뜻일 수도 있다. 마이크로소프트는 11월 5일 Windows 취약점 관리 방식을 설명하며, AI를 활용한 발견과 엔지니어의 검증, 신속한 배포를 함께 강조했다.\n\n개수보다 중요한 것은 적용 여부\n회사에 따르면 2026년 10월 Windows 월간 보안 업데이트는 1,100개가 넘는 CVE를 다뤘다. CVE는 공개된 보안 취약점을 식별하는 번호 체계다. 이 수치만으로 이전 Windows보다 더 위험해졌다거나, 업데이트 후 모든 위험이 사라졌다고 판단할 수는 없다. 발견 범위와 보고 방식, 수정 대상이 함께 작용하기 때문이다.\n\n개인 사용자에게 더 직접적인 질문은 자신의 PC에 해당 보호가 적용됐는지다. 업데이트를 내려받았어도 재시작이 남아 있으면 설치가 끝나지 않은 상태일 수 있다. Windows Update의 상태와 업데이트 기록을 확인하는 일이 뉴스의 큰 숫자를 읽는 것보다 실용적이다.\n\n누적 업데이트를 이해하는 법\nWindows의 보안 업데이트는 누적 방식으로 제공된다. 조직에서는 어떤 기기부터 적용할지 우선순위를 정할 수 있지만, 이를 각 취약점 패치를 사용자가 임의로 골라 조립하는 방식으로 생각하면 혼동하기 쉽다. 실제 배포 단위와 지원 버전을 기준으로 관리해야 한다.\n\n한편 업데이트의 품질도 중요하다. 보안을 강화하면서 업무 프로그램이나 주변기기가 작동하지 않으면 적용이 늦어질 수 있다. 마이크로소프트가 여러 테스트와 협력사 검증을 설명한 이유도 발견 속도만 높여서는 보호가 완성되지 않기 때문이다.\n\n이번 발표에서 읽을 변화는 AI가 모든 보안 판단을 대신한다는 것이 아니다. 더 많은 문제를 찾는 작업과, 수정 내용을 검증하고 사용자 기기에 전달하는 작업이 함께 커지고 있다는 점이다. 일반 사용자에게 남는 행동은 복잡하지 않다. 자신의 지원 버전과 업데이트 상태를 확인하고, 제공된 공식 안내에 따라 설치를 마무리하는 것이다."
+        },
+        "en": {
+          "title": "What a large Windows vulnerability count tells a PC owner",
+          "summary": "Fix counts and the protection actually installed are different measures.",
+          "body": "Microsoft described its vulnerability-management approach on November 5, combining AI-assisted discovery, engineering validation and deployment. It says the October Windows security update addressed more than 1,100 CVEs.\n\nFrom disclosure to protection\nA CVE identifies a disclosed vulnerability. The count alone cannot establish that a system has become more dangerous or that every risk is eliminated. Discovery and reporting affect the total.\n\nFor an individual, installation status matters more directly. Downloading an update and completing installation, including any restart, are different states.\n\nWindows security updates are cumulative. Deployment priorities concern which devices update first, rather than assembling a personal selection of isolated fixes.\n\nThe announcement describes a process, not the removal of engineering judgment. Check the device's supported version and Windows Update status, then complete the officially offered installation."
+        },
+        "ja": {
+          "title": "Windowsの修正件数が多い時、利用者は何を見るか",
+          "summary": "件数と自分のPCに適用された保護は別の指標だ。",
+          "body": "Microsoftは11月5日、AIによる発見支援、技術者の検証、配布を組み合わせる方針を説明した。10月のWindows更新では1,100件超のCVEに対応したという。\n\n公開情報から適用へ\nCVEは脆弱性の識別番号だ。件数だけで危険性の増減は断定できない。個人利用では、更新を取得しただけでなく再起動を含めインストールが完了したかが重要になる。\n\nWindowsのセキュリティ更新は累積方式だ。まず自分の対応バージョンとWindows Updateの状態を確認し、公式案内に沿って適用を終えたい。"
+        },
+        "zh": {
+          "title": "Windows修复数量很大，用户应关注什么",
+          "summary": "漏洞数量与设备实际安装的保护不是同一指标。",
+          "body": "微软11月5日介绍结合AI辅助发现、工程验证与部署的漏洞管理方式，称10月Windows更新处理了超过1100个CVE。\n\n从披露走向安装\nCVE是漏洞识别编号，数量本身不能说明系统更危险或所有风险已消失。对个人更直接的问题，是下载后是否完成安装及所需重启。\n\nWindows安全更新采用累积方式，部署优先级主要决定哪些设备先更新。检查受支持版本及Windows Update状态，比只看修复总数更能判断自己的保护情况。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Microsoft",
+          "url": "https://blogs.windows.com/windowsexperience/2026/11/05/a-new-standard-for-vulnerability-management-in-the-ai-era/"
+        }
+      ],
+      "image": {
+        "url": "assets/20261104-beta.svg",
+        "generated": true,
+        "alt": {
+          "ko": "기사 주제를 표현한 AI 콘셉트 일러스트",
+          "en": "AI concept illustration of the article topic",
+          "ja": "記事テーマのAIコンセプトイラスト",
+          "zh": "文章主题的AI概念插画"
+        }
+      }
+    },
+    {
+      "id": "thinkcentre-x-ultra-november-20261106",
+      "date": "2026-09-03",
+      "published": "2026-11-06",
+      "source": "Lenovo",
+      "url": "https://news.lenovo.com/pressroom/press-releases/hybrid-ai-for-business-devices-displays-solutions/",
+      "category": {
+        "ko": "미니 PC",
+        "en": "Mini PCs",
+        "ja": "ミニPC",
+        "zh": "迷你电脑"
+      },
+      "locales": {
+        "ko": {
+          "title": "1.6리터 PC에 최대 128GB, ThinkCentre X Ultra의 11월 일정 읽기",
+          "summary": "9월 발표에서 11월 공급을 예고한 소형 PC다. 통합 메모리와 실제 판매 구성을 구분해 살펴봤다.",
+          "body": "작은 PC가 곧 가벼운 작업용이라는 공식은 점점 흐려진다. 레노버가 9월 3일 발표한 ThinkCentre X Ultra는 1.6리터 본체에 최대 128GB 통합 메모리를 제시했다. 당시 안내한 공급 시작 시점은 2026년 11월, 예상 시작가는 3,100유로였다. 이번 기사는 그 출시 예정 시점에 맞춰 공개 사양의 의미를 살펴본 해설이며, 오늘 새로 발표된 제품이라는 뜻은 아니다.\n\n통합 메모리의 ‘최대’를 읽는 법\n이 제품은 CPU와 그래픽 처리에서 사용하는 메모리를 한 시스템 안에서 배분하는 구성을 강조한다. 메모리 128GB와 그래픽용으로 배분할 수 있는 용량을 별개로 더해 총량을 계산하면 안 된다. 같은 자원을 어떤 작업에 나눠 쓰는지에 관한 설명이기 때문이다.\n\n대용량 메모리는 큰 데이터와 모델을 담는 데 도움이 되지만, 실행 속도를 단독으로 결정하지는 않는다. 프로세서 구성과 냉각, 사용하는 프로그램이 데이터를 처리하는 방식도 함께 작용한다. 작은 부피에 많은 자원을 담았다는 사실과 장시간 부하에서의 실제 동작은 나눠 확인할 필요가 있다.\n\n작아진 본체 바깥의 공간도 계산해야\n1.6리터는 본체의 크기를 이해하는 기준이다. 모니터와 주변기기, 전원 연결에 필요한 공간까지 사라지는 것은 아니다. 책상 배치를 바꾸려는 사람은 포트 위치와 케이블 동선, 통풍 공간을 함께 봐야 한다. 기기를 모니터 뒤에 숨길 계획이라면 흡·배기 방향도 중요하다.\n\n공급 일정과 예상 가격은 지역별 실제 판매와 다를 수 있다. 특히 ‘최대 128GB’와 ‘시작가’가 같은 구성이라고 읽으면 예산을 잘못 잡기 쉽다. 구매 가능한 모델의 메모리와 저장장치, 운영체제 포함 여부를 한 장의 구성표로 확인하는 편이 낫다.\n\n이 PC가 보여주는 방향은 본체 크기와 메모리 규모의 관계가 달라지고 있다는 것이다. 모든 사용자가 최대 구성을 선택할 필요는 없다. 자신의 프로그램이 요구하는 용량을 먼저 확인하고, 공간과 소음, 확장 가능성까지 합쳐 판단해야 작은 PC의 장점이 실제 책상에서도 살아난다."
+        },
+        "en": {
+          "title": "ThinkCentre X Ultra's November window: read the configuration",
+          "summary": "The compact PC was announced in September, with up to 128GB of unified memory.",
+          "body": "Lenovo's September 3 announcement scheduled ThinkCentre X Ultra availability from November 2026, with an expected starting price of €3,100. This is a look at that planned window, not a new launch announcement today.\n\nOne shared resource\nThe 1.6-litre system advertises up to 128GB unified memory. Graphics allocations should not be added again as if they were separate physical capacity.\n\nCapacity helps determine what fits, while processor, cooling and software affect execution. A small enclosure is not itself evidence of sustained-load behavior.\n\nAlso distinguish the maximum configuration from the starting price. Check the exact memory, storage, operating system and local availability of a purchasable model.\n\nThe practical comparison includes ventilation, cable access and expansion as well as desk space. Choose around the workload rather than automatically buying the maximum specification."
+        },
+        "ja": {
+          "title": "ThinkCentre X Ultra、11月予定と実際の構成を読む",
+          "summary": "9月発表の小型PCが示した最大128GB統合メモリー。",
+          "body": "Lenovoは9月3日、ThinkCentre X Ultraを11月から、想定開始価格3,100ユーロで案内した。本稿はその予定時期の仕様解説で、本日の新発表ではない。\n\n共有する容量\n1.6L本体の最大128GB統合メモリーでは、GPUに割り当てる分を別の物理容量として足さないよう注意したい。容量と処理速度も異なる。\n\n最大構成と開始価格が同じモデルとは限らない。実売構成のメモリー、保存容量、OSと地域の供給状況を確認し、通風や配線、拡張性まで含めて比較する必要がある。"
+        },
+        "zh": {
+          "title": "ThinkCentre X Ultra的11月计划，先读实际配置",
+          "summary": "9月发布的迷你电脑标注最高128GB统一内存。",
+          "body": "联想9月3日公布ThinkCentre X Ultra，计划11月供应，预计起价3100欧元。本文是在计划窗口解读规格，并非今天新发布。\n\n共享容量不能重复相加\n1.6升机身最高128GB统一内存，分给图形的部分不能再当作独立物理容量相加。装得下多少与运行多快也不同。\n\n最高配置不一定对应起价。应核对实际型号的内存、存储、系统和当地供应，并把散热、线缆与扩展空间一起纳入小电脑的桌面规划。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Lenovo",
+          "url": "https://news.lenovo.com/pressroom/press-releases/hybrid-ai-for-business-devices-displays-solutions/"
+        }
+      ],
+      "image": {
+        "url": "assets/20261105-imac.jpg",
+        "alt": {
+          "ko": "자연광이 드는 책상의 일체형 PC",
+          "en": "All-in-one computer on a daylit desk",
+          "ja": "自然光が入る机の一体型PC",
+          "zh": "自然光桌面上的一体式电脑"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "sony-ecmw5-float-audio-20261106",
+      "date": "2026-10-14",
+      "published": "2026-11-06",
+      "source": "Sony Europe",
+      "url": "https://www.sony.eu/presscentre/sony-introduces-the-ecm-w5-wireless-microphone-with-high-resolution-audio-recording-and-stable-connectivity",
+      "category": {
+        "ko": "촬영·오디오",
+        "en": "Creator audio",
+        "ja": "撮影・音声",
+        "zh": "拍摄与音频"
+      },
+      "locales": {
+        "ko": {
+          "title": "32비트 플로트 무선 마이크, 소니 ECM-W5가 줄이려는 녹음의 부담",
+          "summary": "11월 유럽 판매를 예고했다. 넓은 기록 범위가 마이크 배치와 현장 모니터링까지 대신하는 것은 아니다.",
+          "body": "영상은 다시 찍을 수 있어도 현장의 대사를 똑같이 되풀이하기는 어렵다. 인터뷰나 학교 행사에서 소리가 갑자기 커지면 녹음 단계부터 곤란해진다. 소니가 10월 14일 발표한 ECM-W5는 이런 제작 상황을 겨냥한 무선 마이크다. 유럽에서는 11월 판매, 한 세트 권장가격 410유로 또는 350파운드로 안내했다.\n\n플로트 기록과 소리의 출발점\n제품은 호환 카메라에서 32비트 플로트 오디오를 영상과 함께 기록하는 기능을 강조한다. 플로트 형식은 후반 작업에서 레벨을 조정할 여지를 넓힐 수 있다. 하지만 마이크 자체가 받을 수 없는 소리나, 부적절한 위치 때문에 묻힌 목소리까지 자동 복원하는 기술로 생각하면 곤란하다.\n\n옷깃에 닿는 마찰음과 바람, 말하는 사람과의 거리도 그대로 중요하다. 좋은 녹음은 파일 형식과 함께 마이크를 어디에 두었는지에서 시작된다. 예를 들어 목소리보다 옷 스치는 소리가 크게 들어오면 편집에서 음량만 바꿔 해결하기 어렵다.\n\n무선 연결과 백업은 서로 보완한다\n소니는 송신기 내장 저장공간을 이용한 백업 기록과 호환 장비를 통한 모니터링도 소개했다. 무선 전송이 편리해도 전파 환경이나 장애물로 상황이 달라질 수 있으므로, 실제 기록이 남는 경로를 이해하는 것이 중요하다. 백업을 켜두었다면 촬영 후 파일을 찾고 영상과 맞추는 과정도 준비해야 한다.\n\n카메라 연결 방식 역시 확인할 부분이다. MI 슈를 통한 기능과 USB-C 어댑터 사용은 연결 대상에 따라 지원 범위가 달라진다. 단자가 맞는지만 보지 말고, 사용하려는 카메라에서 원하는 기록 형식과 채널이 지원되는지 살펴야 한다.\n\n제작자가 얻고 싶은 것은 복잡한 숫자보다 다시 찍지 않아도 되는 신뢰다. 그 신뢰는 제품 사양 하나로 완성되지 않는다. 현장 전에 짧게 시험 녹음하고, 헤드폰으로 확인하며, 필요한 백업이 남는지 점검하는 과정과 장비가 함께 맞물려야 한다."
+        },
+        "en": {
+          "title": "Sony ECM-W5: what 32-bit float can and cannot simplify",
+          "summary": "The November European sales plan brings recording flexibility, with compatibility conditions.",
+          "body": "Sony announced the ECM-W5 on October 14, planning European availability in November at €410 or £350 for the set. Compatible cameras can record 32-bit float audio with video.\n\nStart at the microphone\nFloat recording offers more room for level adjustment in post-production. It does not automatically repair wind, clothing friction or a microphone positioned too far from the speaker.\n\nTransmitter backup and monitoring complement wireless transmission. Understand where the backup is stored and how it will be aligned with the picture afterward.\n\nMI Shoe functionality and USB-C connections have their own device requirements. Check the exact camera and desired recording mode, not just connector shape.\n\nA short test recording and listening check remain valuable. Reliability comes from the workflow and equipment together rather than the file format alone."
+        },
+        "ja": {
+          "title": "Sony ECM-W5、32bit floatで変わる録音と残る準備",
+          "summary": "欧州で11月発売予定。配置とモニタリングも重要だ。",
+          "body": "Sonyは10月14日にECM-W5を発表し、欧州で11月、セット410ユーロまたは350ポンドを案内した。対応カメラで動画と32bit float音声を記録する。\n\n音の入り口を整える\n編集時のレベル調整の余地は広がるが、風や衣擦れ、遠すぎるマイク配置を自動で直せるわけではない。\n\n送信機のバックアップ保存先や映像との同期方法も理解したい。MIシューとUSB-Cの対応は機器次第だ。短い試し録りとヘッドホン確認を組み合わせることで、仕様が現場の安心につながる。"
+        },
+        "zh": {
+          "title": "索尼ECM-W5，32位浮点解决什么录音负担",
+          "summary": "欧洲计划11月销售，摆位与监听仍不可省略。",
+          "body": "索尼10月14日发布ECM-W5，欧洲计划11月上市，套装建议价410欧元或350英镑。兼容相机可把32位浮点音频与视频一起记录。\n\n先照顾声音入口\n浮点记录增加后期调整电平的空间，却不能自动消除风噪、衣物摩擦或过远的拾音距离。\n\n发射器备份与监听可补充无线传输，需要了解保存位置及后续同步。MI热靴、USB-C功能也应按具体设备核对。短暂试录和耳机检查仍是可靠工作流的一部分。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Sony Europe",
+          "url": "https://www.sony.eu/presscentre/sony-introduces-the-ecm-w5-wireless-microphone-with-high-resolution-audio-recording-and-stable-connectivity"
+        }
+      ],
+      "image": {
+        "url": "assets/20261106-razer.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "일반 휴대 게임기 옆 유선 이어폰, AI 참고 장면",
+          "en": "Generic wired earphones beside a handheld, AI reference",
+          "ja": "携帯ゲーム機脇の一般有線イヤホン、AI参考画像",
+          "zh": "通用掌机旁的有线耳机，AI参考场景"
+        }
+      }
+    },
+    {
+      "id": "sony-walkman-m3-november-20261106",
+      "date": "2026-10-15",
+      "published": "2026-11-06",
+      "source": "Sony Europe",
+      "url": "https://www.sony.eu/presscentre/sony-updates-its-premium-walkmanr-lineup-including-new-signature-series-walkmanr-nw-wm1zm3-and-nw-wm1am3-digital-music-players",
+      "category": {
+        "ko": "휴대용 오디오",
+        "en": "Portable audio",
+        "ja": "携帯オーディオ",
+        "zh": "便携音频"
+      },
+      "locales": {
+        "ko": {
+          "title": "스마트폰 옆에 다시 놓이는 워크맨, 11월 예정 고급 플레이어의 선택 기준",
+          "summary": "소니가 NW-WM1ZM3와 NW-WM1AM3의 유럽 판매를 예고했다. 재료 설명과 청음 평가는 분리해서 읽을 필요가 있다.",
+          "body": "휴대전화로 음악을 듣는 시대에 별도의 플레이어를 사는 이유는 무엇일까. 알림과 앱을 떼어놓고 음악에 집중하려는 사람, 보유한 유선 헤드폰을 원하는 방식으로 연결하려는 사람이 있을 수 있다. 소니가 10월 15일 발표한 NW-WM1ZM3와 NW-WM1AM3는 그런 전용 오디오 시장의 제품이다. 유럽 판매 예정은 11월이다.\n\n서로 다른 가격이 묻는 질문\n공개 권장가는 WM1ZM3 4,999유로, WM1AM3 2,499유로다. 한화 환산만으로 국내 판매가를 예측하기보다 지역별 가격과 보증, 실제 판매 구성을 확인해야 한다. 고가 제품일수록 구입 뒤 어떤 환경에서 사용할지 먼저 정해두는 편이 합리적이다.\n\n소니는 섀시와 내부 부품, 전원 회로의 설계를 자세히 설명한다. 이런 정보는 제품이 무엇을 지향하는지 보여주지만, 재료의 가격이나 순도가 곧 청취 만족도의 순위가 되는 것은 아니다. 사용자의 헤드폰과 음원, 음량, 청취 환경이 함께 작용한다.\n\n배터리 숫자에도 사용 조건이 있다\n공식 발표는 특정 재생 조건에서 최대 사용시간을 제시한다. 연결 방식과 파일 형식, 화면 사용에 따라 실제 시간이 달라질 수 있으므로, 최대 수치를 하루의 모든 사용에 그대로 대입하면 안 된다. 발표 본문의 스트리밍 표현과 각주의 오프라인 조건도 일치 여부를 추가 확인할 부분이다.\n\n전용 플레이어를 선택한다면 음질뿐 아니라 보관 중인 음악을 옮기는 과정, 자주 쓰는 서비스의 지원, 화면과 조작 방식까지 확인해야 한다. 스마트폰과 별도 기기를 충전하고 관리하는 부담도 생긴다. 음악에 집중하는 장점과 기기가 하나 늘어나는 수고를 함께 따지는 셈이다.\n\n이번 제품은 모든 음악 청취자가 바꿔야 할 표준이라기보다 전용 기기에 높은 비중을 두는 선택지를 보여준다. 자신이 실제로 쓰는 헤드폰으로 들어볼 기회가 있다면 그 경험이 사양표보다 직접적인 판단 자료가 된다. 공개 자료만으로 두 모델의 청감 차이를 평가할 수는 없다."
+        },
+        "en": {
+          "title": "A dedicated Walkman beside the smartphone",
+          "summary": "Sony's planned November premium players invite a workflow comparison as well as a specification comparison.",
+          "body": "Sony announced the NW-WM1ZM3 and NW-WM1AM3 on October 15 for European sales from November. Suggested prices are €4,999 and €2,499 respectively.\n\nWhy a separate player?\nA dedicated device can separate listening from phone notifications and serve a chosen wired-headphone setup. It also adds charging, music management and another item to carry.\n\nChassis materials and power-circuit descriptions explain design choices; they do not rank listening satisfaction. The headphones, recordings and listening environment remain important.\n\nBattery figures require their stated conditions. The release's streaming wording and offline footnote also warrant clarification rather than repeating a single unconditional runtime.\n\nCheck service compatibility, controls and local warranty alongside sound. A listening comparison with the headphones actually used is more direct evidence than assuming a sonic result from materials or price."
+        },
+        "ja": {
+          "title": "スマートフォンの隣に置く専用ウォークマン",
+          "summary": "11月予定の高級機は、音と管理の手間を合わせて考えたい。",
+          "body": "Sonyは10月15日、NW-WM1ZM3とWM1AM3を発表した。欧州で11月予定、希望価格は4,999ユーロと2,499ユーロだ。\n\n専用機を持つ理由\n通知から離れた音楽体験や有線ヘッドホンとの組み合わせが魅力になり得る。一方で充電や音楽転送、持ち物の管理は増える。\n\n素材や電源回路は設計意図を示すが、満足度の順位を決めるものではない。電池時間にも条件があり、本文と脚注の説明は確認が必要だ。実際のヘッドホンでの試聴、使うサービス、保証も含めて判断したい。"
+        },
+        "zh": {
+          "title": "手机旁再放一台Walkman，专用播放器如何选择",
+          "summary": "索尼计划11月供应高端机型，音频之外还要看使用流程。",
+          "body": "索尼10月15日公布NW-WM1ZM3与WM1AM3，欧洲计划11月销售，建议价分别4999及2499欧元。\n\n为何需要独立设备\n离开通知专注音乐、连接自己的有线耳机都可能是理由，但也增加充电、传歌和携带管理。\n\n机身材料及电路说明表达设计方向，不能直接代表听感排名。续航有条件，正文与脚注的描述也需核实。使用实际耳机试听，并检查服务、操作和本地保修，比仅凭材料或价格推断更有帮助。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Sony Europe",
+          "url": "https://www.sony.eu/presscentre/sony-updates-its-premium-walkmanr-lineup-including-new-signature-series-walkmanr-nw-wm1zm3-and-nw-wm1am3-digital-music-players"
+        }
+      ],
+      "image": {
+        "url": "assets/20261106-sony.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "책상 위 일반 USB-C 유선 헤드폰, AI 참고 장면",
+          "en": "Generic USB-C wired headphones on a desk, AI reference",
+          "ja": "机上の一般的なUSB-C有線ヘッドホン、AI参考画像",
+          "zh": "桌上的通用USB-C有线耳机，AI参考场景"
+        }
+      }
+    },
+    {
+      "id": "logitech-supply-peripherals-20261106",
+      "date": "2026-10-27",
+      "published": "2026-11-06",
+      "source": "Logitech",
+      "url": "https://news.logitech.com/press-releases/news-details/2026/Logitech-Announces-Q2-Fiscal-Year-2027-Results/default.aspx",
+      "category": {
+        "ko": "주변기기·산업",
+        "en": "Peripherals",
+        "ja": "周辺機器",
+        "zh": "外设"
+      },
+      "locales": {
+        "ko": {
+          "title": "마우스와 키보드도 반도체 공급을 탄다, 로지텍 실적에서 읽은 변수",
+          "summary": "매출 증가와 별개로 부품 공급 문제가 다음 분기 전망에 반영됐다. 제품 수요와 공급을 나눠 읽었다.",
+          "body": "주변기기는 PC 본체보다 단순해 보이지만, 작은 반도체 하나가 공급 일정에 영향을 줄 수 있다. 로지텍이 10월 27일 발표한 2027회계연도 2분기 실적은 이 점을 보여준다. 매출은 12억 2,000만 달러로 전년 동기 대비 달러 기준 3% 증가했다. 회사는 동시에 부품 공급업체의 생산 차질을 다음 분기 변수로 설명했다.\n\n회계연도 이름과 달력부터 구분하기\n2027회계연도라는 이름이 붙었다고 2027년에 벌어진 일을 뜻하지는 않는다. 기업이 정한 회계기간과 달력의 연도는 다를 수 있다. 이번 발표일은 2026년 10월 27일이며, 비교 대상도 바로 앞 분기가 아니라 전년 같은 회계분기다. 숫자를 읽을 때 시점이 먼저 정리돼야 한다.\n\n달러 기준 매출 증가율과 환율 영향을 제거한 증가율도 구분된다. 전자는 실제 보고 통화로 본 변화이고, 후자는 환율 변동을 조정해 사업 흐름을 보려는 비교다. 둘 중 큰 숫자만 골라 제품이 더 많이 팔렸다고 단정할 수는 없다.\n\n수요가 있어도 물건을 바로 만들 수 없는 이유\n회사는 공급업체 시설이 재가동됐지만 필요한 수준의 생산량에 아직 못 미친다고 설명했다. 이는 주문하려는 고객의 존재와 제품을 공급할 능력이 다른 문제라는 뜻이다. 여러 제품이 한 부품에 의존하면, 작은 차질이 최종 제품 여러 종류로 번질 수 있다.\n\n그렇다고 이 자료로 특정 마우스나 키보드의 국내 품절을 예측할 수는 없다. 어느 모델에 어떤 부품이 들어가고 지역별 재고가 얼마나 있는지는 별도의 정보다. 소비자는 실제 판매처의 재고와 배송일을 확인하고, 급히 필요하다면 대체 모델의 기능을 함께 비교하는 편이 낫다.\n\n이번 발표의 관전점은 성장률 하나보다 수요와 공급의 간격이다. 주변기기 시장도 반도체 생산, 물류, 제품 출시 일정이 연결된 산업이다. 손에 쥐는 작은 도구의 가격표 뒤에 그런 복잡한 경로가 있다는 사실을 실적 자료가 드러냈다."
+        },
+        "en": {
+          "title": "Even mice and keyboards depend on chip supply",
+          "summary": "Logitech's results separate sales growth from the ability to supply the next quarter.",
+          "body": "Logitech reported fiscal Q2 2027 results on October 27, 2026. Sales were $1.22 billion, up 3% in US dollars year over year. It also described a supplier production constraint affecting its outlook.\n\nRead the period first\nA fiscal-year label does not mean the quarter occurred in that calendar year. The comparison here is with the same fiscal quarter a year earlier.\n\nDemand and availability are separate\nThe supplier facility had restarted but was not yet producing at the required level, according to the company. A small component can affect several finished products.\n\nThat does not identify a shortage of any particular local mouse or keyboard. Consumers still need retailer stock and delivery information rather than a prediction drawn from group results.\n\nThe useful lesson is the gap between customer demand and production capacity. Peripheral devices participate in the same connected semiconductor and logistics system as larger computers."
+        },
+        "ja": {
+          "title": "マウスやキーボードも半導体供給に左右される",
+          "summary": "Logitechの決算では売上成長と供給能力を分けて読む。",
+          "body": "Logitechは2026年10月27日、2027年度第2四半期の売上12億2,000万ドル、前年同期比ドル基準3%増を発表した。同時に供給業者の生産制約も説明した。\n\n年度と供給を分ける\n会計年度の名称は暦年と同じではない。比較相手も前四半期ではなく前年同期だ。\n\n部品施設は再開しても必要量には届かないという。小部品が複数製品に影響し得るが、これだけで特定の国内製品の品切れは予測できない。購入時は実際の在庫と配送予定を確認したい。"
+        },
+        "zh": {
+          "title": "鼠标键盘也依赖芯片供应",
+          "summary": "Logitech财报中的销售增长与供货能力需要分开。",
+          "body": "Logitech于2026年10月27日公布2027财年第二季度收入12.2亿美元，按美元同比增长3%，同时说明供应商产能约束。\n\n先看期间，再看供应\n财年名称不等于日历年份，同比也不是环比。供应设施虽然重开，仍未达到公司所需产量。\n\n小部件可能影响多款成品，但集团数据不能直接预测某款本地鼠标或键盘缺货。消费者仍需查看商店库存与送达时间。外设同样处在半导体和物流相互连接的供应链中。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Logitech",
+          "url": "https://news.logitech.com/press-releases/news-details/2026/Logitech-Announces-Q2-Fiscal-Year-2027-Results/default.aspx"
+        }
+      ],
+      "image": {
+        "url": "assets/20261105-macbook.jpg",
+        "alt": {
+          "ko": "편집 작업실의 일반 노트북",
+          "en": "Generic laptop in an editing studio",
+          "ja": "編集室の一般的なノートPC",
+          "zh": "编辑工作室里的通用笔记本电脑"
+        },
+        "generated": true
+      }
+    },
+    {
       "id": "sony-mdr3r-usbc-20261105",
       "date": "2026-11-05",
       "published": "2026-11-06",
