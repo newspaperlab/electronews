@@ -1,6 +1,277 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "articles": [
+    {
+      "id": "sony-bravia-ucd-displays-20261106",
+      "date": "2026-11-06",
+      "published": "2026-11-08",
+      "source": "Sony Europe",
+      "url": "https://www.sony.eu/presscentre/sony-bravia-powers-sustainable-future-ready-learning-at-university-college-dublins-oconnor-centre-for-learning",
+      "category": {
+        "ko": "디스플레이",
+        "en": "Displays",
+        "ja": "ディスプレイ",
+        "zh": "显示设备"
+      },
+      "locales": {
+        "ko": {
+          "title": "98인치 화면 40대가 들어간 강의 공간, 소니 BRAVIA의 업무용 설계",
+          "summary": "11월 6일 공개한 UCD 도입 사례는 3월 개관한 시설 이야기다. 화면 크기뿐 아니라 제어·반사·전력 관리가 중요하다.",
+          "body": "소니가 11월 6일 아일랜드 유니버시티 칼리지 더블린(UCD)의 O’Connor Centre for Learning에 98인치 BRAVIA BZ53L 디스플레이 40대를 설치한 사례를 공개했다. 시설 자체는 2026년 3월 문을 열었다. 새 화면을 이날 처음 판매했다는 소식이나 11월에 건물을 개관했다는 뜻이 아니다. 이번 발표는 이미 운영 중인 학습 공간에서 대형 화면과 제어·음향 시스템을 어떻게 묶었는지 설명하는 도입 사례다.\n\n가정용 TV와 다른 설치 과제\nBRAVIA는 소니의 디스플레이 브랜드이며 이번 제품은 업무용 Professional Display 계열이다. 발표에 따르면 큰 공간에는 98인치, 중소 규모 교실에는 85인치 BZ30L을 함께 배치했다. 화면이 커지면 뒤쪽에서 자료를 볼 여지가 늘지만 글자 크기와 좌석 거리, 시야각은 여전히 중요하다. 한 방에 맞는 크기를 모든 방에 똑같이 적용하는 것보다 공간과 자료의 용도를 맞춰야 한다. 화면 대각선 길이만으로 수업의 가독성을 결정할 수 없는 이유다.\n\n회사는 BZ53L의 반사 억제 기술과 최대 780니트 밝기를 소개했다. 니트는 면적당 빛의 밝기를 나타내는 단위로, 사용 환경을 비교할 때 한 단서가 된다. 그러나 최대 밝기 숫자가 모든 콘텐츠의 실제 표시 밝기나 방 전체의 조명을 뜻하지는 않는다. 창과 천장 조명의 위치, 화면 표면 반사, 화면에 담는 글자와 배경의 대비가 함께 작용한다. 이 기사에서는 강의실을 직접 방문해 어느 좌석에서 얼마나 잘 보이는지 측정하지 않았다.\n\n화면 뒤에 있는 통합 작업\n시스템 통합을 맡은 ISSAV | Econocom은 협업 공간 35곳의 시청각 설비를 구성했고, 소니 화면과 제어 장치, 프로젝션, 회의용 카메라, 강의 녹화, 무선 음향 등을 연결했다고 설명했다. 학습 공간 30곳이라는 시설 수와 통합 대상 35곳은 같은 분류의 숫자가 아니므로 그대로 비교해 모순이라고 볼 수 없다. 장비가 서로 연결돼도 사용자가 매번 다른 조작법을 배워야 한다면 운영 부담이 남는다. 공통 제어 환경을 만든다는 설명은 이런 실무 문제와 관련된다.\n\n전력 관리는 사용 방식까지 포함한다\n회사는 입력 신호가 없을 때 화면 전원을 끄는 기능과 주변 밝기에 맞춘 조절, 절전 설정 대시보드를 소개했다. 필요하지 않은 시간에 큰 화면을 계속 켜두는 일을 줄이려는 기능이다. 하지만 기능이 있다는 사실만으로 이 시설의 실제 전력 소비가 몇 퍼센트 줄었다고 계산할 수는 없다. 운용 시간과 설정, 이전 설비의 조건이 있어야 비교가 가능하다. 친환경 재료나 가벼운 섀시라는 제품 설명도 전체 시설의 환경 효과와는 범위를 구분해야 한다.\n\n이번 사례가 보여주는 변화는 대형 화면을 하나씩 구매하는 데서 공간 전체의 운영을 설계하는 쪽으로 관심이 넓어진다는 점이다. 이는 공개된 도입 구성에서 읽은 해석이며 학습 성과가 좋아졌다는 독립 연구 결과는 아니다. 학교뿐 아니라 회의실과 공공 안내 공간에서도 화면, 입력 기기, 음향, 조명, 관리 방식을 함께 비교할 이유가 있다. 실제 계약 가격과 장기간의 고장·전력 실적은 이번 자료에 모두 공개되지 않았다. 구매 판단에는 사례의 멋진 사진보다 자기 공간에서의 시야와 운영 조건을 확인하는 과정이 필요하다."
+        },
+        "en": {
+          "title": "Sony’s 40 large-format displays show the system behind a teaching room",
+          "summary": "The November 6 case study concerns a facility opened in March, with control, reflections and power as well as size.",
+          "body": "Sony published a November 6 case study of 40 98-inch BRAVIA BZ53L displays at UCD's O'Connor Centre for Learning. The facility opened in March 2026. This is not a November building opening or first sale of a new screen; it describes an operating installation combining displays, control and audio.\n\nBeyond a home television\nThese are professional displays, with 98-inch units in large spaces and 85-inch BZ30Ls in smaller rooms. Size can help distant viewers but text size, distance and viewing angle remain important. Matching rooms and content matters more than applying one diagonal everywhere.\n\nSony highlights reflection control and up to 780 nits. Nits describe luminance, not the room's lighting or guaranteed brightness of every image. Window and ceiling-light positions, surface reflection and content contrast matter together. This is not an on-site visibility measurement.\n\nIntegration behind the screen\nISSAV | Econocom delivered AV across 35 collaboration spaces, linking displays with control, projection, cameras, recording and wireless audio. Thirty learning spaces and 35 integration areas are different classifications, not automatically contradictory counts. Consistent controls address the practical burden of learning different systems in every room.\n\nManaging energy in use\nNo-signal shutdown, ambient-light adjustment and an Eco Dashboard aim to avoid unnecessary operation. Their presence does not establish a measured percentage reduction at this facility without hours, settings and a prior baseline. Recycled material and chassis weight also differ in scope from a whole-building environmental outcome.\n\nThe case illustrates a shift from buying screens to designing room operations—an interpretation, not independent proof of improved learning. Meeting rooms and public displays likewise require input, sound, light and management choices. Contract prices and long-term failure or power data are not fully published. Evaluate sightlines and operating conditions in the intended space rather than relying on installation photographs."
+        },
+        "ja": {
+          "title": "98型40台の学習空間、Sony BRAVIAの業務用設計",
+          "summary": "11月6日公開の事例は3月開設施設。大きさに加え制御・反射・電力が重要。",
+          "body": "Sonyは11月6日、UCDのO’Connor Centreに98型BZ53Lを40台導入した事例を公表した。施設は2026年3月開設で、11月の開館や新製品初売りではない。画面と制御・音響を統合した運用例だ。\n\n家庭TVとは違う課題\n業務用で、大空間に98型、中小室に85型BZ30Lを置く。大きさだけでなく文字、距離、視野角が重要で、部屋と用途を合わせる必要がある。\n\n反射抑制と最大780ニトを説明する。ニトは輝度で部屋全体の照明や全画像の保証値ではない。窓、照明、反射、文字背景の対比が関係し、本稿は現場視認性を実測していない。\n\n画面の裏の統合\nISSAV | Econocomが35協働空間を担当し、制御、投影、カメラ、録画、無線音響を連携。学習空間30と統合対象35は別分類で即矛盾ではない。共通操作は部屋ごとの学習負担を減らす実務課題だ。\n\n使用時の電力\n無信号時停止、周囲光調整、Eco Dashboardを紹介するが、実施設の削減率には時間、設定、旧設備の基準が必要。再生材や重量も建物全体の効果とは範囲が違う。\n\n画面購入から空間運営へというのは事例の考察で、学習向上の独立研究ではない。会議や公共案内でも入力、音、光、管理を一緒に検討したい。価格や長期故障・消費実績は全面公開されず、写真より自分の空間の視界と条件が判断材料になる。"
+        },
+        "zh": {
+          "title": "40台98英寸屏幕进入教学空间，索尼商用显示如何集成",
+          "summary": "11月6日案例对应3月开放设施，尺寸之外还涉及控制、反光与用电。",
+          "body": "索尼11月6日公布UCD O’Connor Centre导入40台98英寸BZ53L案例。设施2026年3月开放，并非11月开馆或新屏首卖，而是现有显示、控制和音频整合案例。\n\n不同于家庭电视\n商用屏在大空间用98英寸，中小房间配85英寸BZ30L。尺寸之外要看文字、距离和视角，不能一套尺寸套用所有房间。\n\n官方强调抗反射和最高780尼特。尼特是亮度，不是全室照明或每幅内容的保证值；窗、灯、表面反射和内容对比同样重要。本稿未现场测量可视性。\n\n屏幕后整合\nISSAV | Econocom负责35处协作空间，接入控制、投影、摄像、录课和无线音频。30学习空间与35整合区分类不同，不能直接判矛盾。共同控制解决每间都学不同操作的负担。\n\n使用中的电力\n无信号关机、环境光调整和Eco Dashboard旨在减少空耗，但实际节电比例还需使用时长、设置和旧系统基线。再生材料、机身重量也不同于整栋环境效果。\n\n从买屏走向空间运营是基于配置的分析，不是学习提升的独立研究。会议室及公共显示也需一起比较输入、声音、光与管理。价格及长期故障耗电未全公开，应看自家空间视线和运营条件，不只看案例图片。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Sony Europe",
+          "url": "https://www.sony.eu/presscentre/sony-bravia-powers-sustainable-future-ready-learning-at-university-college-dublins-oconnor-centre-for-learning"
+        }
+      ],
+      "image": {
+        "url": "assets/20261108-bravia.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "대형 일반 화면이 있는 빈 강의실, AI 참고 장면",
+          "en": "Generic teaching room with a large blank display, AI reference",
+          "ja": "大型画面の一般教室、AI参考画像",
+          "zh": "配大型空白屏幕的通用教室，AI参考图"
+        }
+      }
+    },
+    {
+      "id": "m5stack-corematrix-availability-20261108",
+      "date": "2026-11-08",
+      "published": "2026-11-08",
+      "source": "M5Stack · official store, checked 2026-11-08",
+      "url": "https://shop.m5stack.com/products/m5stack-core-matrix-dev-kit-esp32-c61",
+      "category": {
+        "ko": "개발 기기",
+        "en": "Development hardware",
+        "ja": "開発機器",
+        "zh": "开发硬件"
+      },
+      "locales": {
+        "ko": {
+          "title": "M5Stack CoreMatrix 판매 확인, 256개 LED로 만드는 작은 상태판",
+          "summary": "공식 판매가 29.90달러와 ESP32-C61 사양을 확인했다. 원문 출시일은 미공개여서 확인일과 구분했다.",
+          "body": "M5Stack 공식 스토어에서 ESP32-C61 기반 CoreMatrix 개발 기기의 29.90달러 판매와 주문 가능 상태를 11월 8일 확인했다. 앞면은 16×16 흰색 LED 배열이며 모션 센서와 버튼, 무선 통신을 한 작은 장치에 묶었다. 판매 페이지에는 원래 발표·출시 날짜가 명시되지 않아 이 기사는 11월 8일을 출시일로 주장하지 않는다. 가격과 재고도 확인 당시의 표시로, 결제 시점에는 달라질 수 있다.\n\n작은 화면보다 상태 표시 장치\nM5Stack은 모듈형 개발 기기와 센서를 만드는 기업이다. CoreMatrix는 완성된 스마트폰 앱처럼 정해진 용도를 실행하는 소비자 제품보다는 사용자가 프로그램을 올려 쓰는 IoT 제어기에 가깝다. 16×16을 곱하면 표시점은 256개다. 사진과 긴 문장을 보여주는 고해상도 화면과는 다르지만, 간단한 아이콘과 상태 변화, 움직임에 대한 반응을 표현하는 데 활용할 수 있다. 실제로 어떤 표시를 할지는 개발자가 만드는 프로그램에 달려 있다.\n\n회사 사양은 160MHz 단일 코어 RISC-V 프로세서, 16MB 플래시와 8MB PSRAM이다. 플래시는 프로그램과 데이터를 보관하는 비휘발성 메모리이고, PSRAM은 실행 중 사용할 작업 공간으로 이해할 수 있다. 두 용량을 더해 전부 같은 저장 공간이라고 읽으면 안 된다. 또한 160MHz는 동작 주파수이지 여러 기기에서 실행한 프로그램의 처리속도를 직접 비교하는 점수는 아니다. LED 표시와 센서 읽기, 무선 송신을 어떻게 함께 처리하는지에 따라 실제 프로그램의 반응이 달라진다.\n\n무선 규격과 센서의 역할\n2.4GHz Wi-Fi 6 지원은 5GHz나 6GHz까지 모두 지원한다는 뜻이 아니다. 사용할 공유기의 대역과 주변 간섭 환경을 맞춰야 한다. BMI270 6축 IMU는 가속도와 회전 움직임을 읽어 방향 기반 동작을 만드는 데 쓸 수 있다. 그러나 센서가 있다는 것만으로 위치를 지도 위에 정확히 표시하는 장치가 되지는 않는다. 어떤 데이터를 어떻게 계산하고 보정하는지 프로그램이 필요하다. 부품 이름과 완성된 응용 기능을 구분하는 것이 개발 기기를 고를 때 중요하다.\n\n제품에는 microSD 슬롯, 부저와 사용자 버튼 세 개, 확장 인터페이스가 들어간다. 기본 상자 구성은 본체와 육각렌치로 안내돼 있으며, 모든 외부 센서나 배터리까지 함께 제공된다고 볼 수는 없다. 확장 모듈을 더하려면 연결 규격과 전원 조건, 소프트웨어 지원을 확인해야 한다. USB-C가 보인다고 아무 장치를 같은 방식으로 연결하는 것도 아니다. 개발을 처음 시작한다면 만들려는 반응 하나를 정하고 필요한 모듈과 예제 지원을 먼저 확인하는 편이 전체 부품을 무작정 늘리는 것보다 명확하다.\n\n29.90달러는 해외 배송비와 지역별 세금까지 포함한 최종 구매금액이 아니다. 스토어는 배송비를 결제 단계에서 계산한다고 안내한다. 독자에게 이 제품은 작은 상태판과 센서 입력을 통합하는 새로운 선택지로 볼 수 있지만, 기존 프로젝트에 바로 꽂으면 완성되는 부품은 아니다. 이는 공개된 구성의 해석이며 직접 작성한 프로그램을 실물에서 시험했다는 주장은 아니다. 발표일 미공개와 판매 확인일을 분리해 기록하고, 실제 주문 전 문서·재고·총 비용을 확인하는 것이 이번 판매 정보를 활용하는 방법이다."
+        },
+        "en": {
+          "title": "M5Stack lists CoreMatrix, a compact 256-LED IoT controller",
+          "summary": "The official listing shows $29.90 and ESP32-C61 hardware; its original launch date is not disclosed.",
+          "body": "M5Stack's official store showed CoreMatrix available to order for $29.90 when checked on November 8. It combines an ESP32-C61, 16×16 white LED matrix, motion sensing, buttons and wireless connectivity. The listing does not disclose an original launch date, so November 8 is a check date, not a claimed release date. Price and stock may change.\n\nA programmable status panel\nM5Stack makes modular development hardware. This is an IoT controller users program, not a fixed-purpose finished app. Sixteen by sixteen gives 256 display points, useful for icons and feedback rather than photographs or long text. The actual behavior depends on software.\n\nSpecifications include a 160MHz single-core RISC-V processor, 16MB flash and 8MB PSRAM. Flash retains programs and data; PSRAM provides working memory. They should not be added as interchangeable storage. Clock frequency alone is not a cross-device performance benchmark. Scheduling display, sensing and transmission affects response.\n\nWireless and motion\n2.4GHz Wi-Fi 6 does not establish 5GHz or 6GHz support. Check router bands and interference. The BMI270 six-axis IMU measures acceleration and rotation for motion-based interaction, not automatic map positioning. Applications still need processing and calibration; a component name is not a finished feature.\n\nmicroSD, buzzer, three user buttons and expansion interfaces are included. The package lists the device and a hex key, not every external sensor or battery. Check module connectors, power and software. USB-C does not make every accessory interchangeable. Start with one intended behavior and verify documentation and examples before multiplying parts.\n\nThe listed price excludes shipping calculated at checkout and is not a complete landed cost. CoreMatrix offers an integrated status-display option, but does not finish an existing project just by being plugged in. That is a hardware interpretation, not a claim of hands-on testing. Keep the unknown launch date separate from the verified sale listing, then check documents, stock and final cost before ordering."
+        },
+        "ja": {
+          "title": "M5Stack CoreMatrix販売確認、256LEDの小さな状態表示",
+          "summary": "公式価格29.90ドルと仕様を確認。元の発売日は未公表で確認日と区別する。",
+          "body": "M5Stack公式店でCoreMatrixの29.90ドル販売と注文可能表示を11月8日に確認した。ESP32-C61、16×16白LED、動き検出、ボタン、無線を統合する。元の発表・発売日は非記載で、8日は確認日である。価格と在庫は変わり得る。\n\nプログラムする状態板\nモジュール開発機器の同社によるIoT制御器で、用途固定の完成アプリではない。16×16は256点。写真や長文よりアイコンと反応向けで、実際の動作はソフト次第だ。\n\n160MHz単核RISC-V、16MBフラッシュ、8MB PSRAMを搭載。前者メモリは保存、後者は作業用で合算できない。クロックも機器間の性能点数ではなく、表示・計測・送信の処理設計で反応が変わる。\n\n無線と動き\n2.4GHz Wi-Fi 6は5/6GHz全対応ではない。ルーターと干渉を確認する。BMI270六軸IMUは加速度・回転を読むが自動で地図上の位置を出すわけではなく、処理と補正が必要だ。\n\nmicroSD、ブザー、3ボタンと拡張端子を備え、同梱は本体と六角レンチ。全センサーや電池込みではない。接続、電力、ソフトを確認し、USB-Cだけで全機器互換と考えない。一つの反応を決め資料と例を確認したい。\n\n送料は決済時計算で表示額は総費用ではない。状態表示の統合選択肢という考察で、実機プログラム試験ではない。未知の発売日と確認日を分け、文書、在庫、総額で判断したい。"
+        },
+        "zh": {
+          "title": "M5Stack CoreMatrix在售，256颗LED构成小型状态板",
+          "summary": "官网列29.90美元与ESP32-C61规格，原始发布日期未披露，本文明确为核查日。",
+          "body": "11月8日核查M5Stack官网，CoreMatrix标29.90美元且可下单，集成ESP32-C61、16×16白LED、动作传感、按钮和无线。原始公告上市日未列出，8日是核查日而非声称发布日，价格库存可能变。\n\n可编程状态板\n该模块开发企业的产品是用户编程的IoT控制器，不是固定用途成品应用。256显示点适合图标反馈，不同于照片长文屏，行为取决于程序。\n\n160MHz单核RISC-V、16MB闪存和8MB PSRAM，前者持久保存、后者工作内存，不能当同类存储相加。频率也不是跨设备性能分数，显示、传感和发送的调度影响响应。\n\n无线与动作\n2.4GHz Wi-Fi 6不等于支持5/6GHz，应查路由频段与干扰。六轴BMI270读加速度旋转，不自动提供地图定位，仍需计算校准，零件名不等于完成应用。\n\n有microSD、蜂鸣器、三个用户键和扩展接口，盒内列本体及六角扳手，不含全部传感电池。扩展要核对连接、电源及软件，USB-C也非万能互换。从一个目标反应与文档示例开始更清晰。\n\n运费结账计算，标价不是到手总成本。它提供集成状态板选择，却非插上即完成项目；这是规格分析，不是实机程序测试。分清未知发布日与核查日，订购前查文档、库存和总额。"
+        }
+      },
+      "sources": [
+        {
+          "name": "M5Stack · official store, checked 2026-11-08",
+          "url": "https://shop.m5stack.com/products/m5stack-core-matrix-dev-kit-esp32-c61"
+        }
+      ],
+      "image": {
+        "url": "assets/20261108-matrix.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "일반 개발 보드와 LED 모듈이 있는 작업대, AI 참고 장면",
+          "en": "Generic development board and LED module on a workbench, AI reference",
+          "ja": "一般開発基板とLED、AI参考画像",
+          "zh": "工作台上的通用开发板与LED模块，AI参考图"
+        }
+      },
+      "sourcePublished": null,
+      "sourceChecked": "2026-11-08",
+      "dateLabels": {
+        "ko": "판매 자료 확인",
+        "en": "Listing checked",
+        "ja": "販売資料確認",
+        "zh": "销售资料核查"
+      }
+    },
+    {
+      "id": "seeed-regoggles-development-20261106",
+      "date": "2026-11-06",
+      "published": "2026-11-08",
+      "source": "Seeed Studio",
+      "url": "https://www.seeedstudio.com/blog/2026/11/06/introducing-regoggles-building-open-smart-goggles-together/",
+      "category": {
+        "ko": "웨어러블 개발",
+        "en": "Wearable development",
+        "ja": "ウェアラブル開発",
+        "zh": "可穿戴开发"
+      },
+      "locales": {
+        "ko": {
+          "title": "Seeed reGoggles 개발 공개, 작업자의 시야를 데이터로 잇는 안경",
+          "summary": "11월 6일 개발 현황을 설명했다. 첫 시험 기기는 2027년 초 목표이며 완성품 판매가 아니다.",
+          "body": "Seeed Studio가 11월 6일 산업용 스마트 고글 플랫폼 reGoggles의 개발 현황과 초기 참여 프로그램을 공개했다. 첫 시험 기기는 2027년 초, 공식 출시는 2027년 1분기를 목표로 한다고 설명했다. 초기 참여 신청은 11월 말 시작할 계획이다. 지금 일반 구매자에게 완성품을 배송한다는 발표는 아니다. 회사도 외관과 사양, 일부 기능은 정식 출시 전까지 바뀔 수 있다고 명시했다.\n\n작업을 멈추지 않고 시야를 기록하기\nSeeed Studio는 센서와 개발 기기, 하드웨어 플랫폼을 제공하는 기업이다. reGoggles는 현장 기술자가 보는 일인칭 영상을 기록·전송해 원격 전문가나 AI 시스템에 연결하는 구상을 담는다. 휴대전화를 손에 들기 어려운 작업에서 시야를 공유하자는 접근이다. 다만 이런 활용 예시가 모든 공정에서 오류를 줄였다는 검증 결과는 아니다. 실제 현장에 쓰려면 작업 자세와 가림, 조명, 장비 무게와 영상 품질이 맞는지 확인해야 한다.\n\n공개된 구성은 1200만화소 카메라와 6축 IMU, 마이크 세 개와 스피커 두 개다. 영상·소리·움직임을 같은 시간 흐름에 맞춰 수집하는 것이 핵심 설명이다. 센서마다 따로 기록하면 어떤 소리와 동작이 같은 순간에 일어났는지 맞추기 어려울 수 있다. 동기화는 이런 자료를 비교하는 기반이지만, 그 자체로 AI 판단이 정확해지는 것은 아니다. 분석 모델과 작업 조건, 데이터 품질이 별도로 영향을 준다. 본지는 고글을 착용하거나 영상 분석 정확도를 시험하지 않았다.\n\n오픈소스의 범위도 구체적으로\n회사는 주 칩에서 실행되는 펌웨어를 완전히 공개한다고 설명했지만, 오디오와 블루투스 연결을 담당하는 보조 칩의 펌웨어는 공개하지 않는다고 밝혔다. 대신 연동 인터페이스를 제공한다. 따라서 모든 부품과 소프트웨어가 완전히 공개됐다고 요약하면 범위를 넓히는 셈이다. 개발자는 원하는 기능을 어디까지 바꿀 수 있는지, 통신과 자료 형식이 자신의 시스템과 맞는지 확인해야 한다. ‘오픈’이라는 단어보다 실제 공개되는 코드와 문서의 범위가 중요하다.\n\n전원은 외부 입력과 교체를 고려한 설계이며 목에 거는 전원 팩도 개발 중이다. 아직 확정되지 않은 배터리 사용시간을 하루 종일이라고 단정할 수 없다. 페이지에 제시된 현장 보조와 데이터 수집 기능도 기업의 연결 시스템과 함께 구현해야 한다. 기록 장치가 얼굴에 있다는 이유만으로 인터넷이 없는 환경에서도 모든 AI 기능이 자동 작동한다고 볼 수는 없다. 어떤 분석을 기기 안에서 하고 어떤 데이터를 외부로 보낼지 구성에 따라 달라진다.\n\n개발 참여자에게 이번 소식은 완제품을 고르는 기회보다 요구사항을 제안하고 시험 기기로 확인할 과정의 시작이다. 실제 작업 영상을 수집한다면 동료와 방문객의 모습, 설비 정보가 함께 들어갈 수 있어 수집 범위와 접근 권한을 운영 단계에서 정해야 한다. 이는 장치의 사용 맥락에 따른 해석이며 특정 법률 준수나 안전 인증을 받았다는 주장이 아니다. 소매 가격과 확정 배송일, 최종 인증 범위는 이번 자료에서 모두 확인되지 않는다. 11월의 개발 공개와 2027년의 목표 일정을 나눠 읽어야 현재 단계가 보인다."
+        },
+        "en": {
+          "title": "Seeed opens reGoggles development, with test units still ahead",
+          "summary": "The November 6 update targets early-2027 test units, not finished retail availability.",
+          "body": "Seeed Studio outlined reGoggles development and an Early Builder programme on November 6. First test units are expected in early 2027, with an official Q1 launch target and applications planned for late November. This is not finished-product shipping. Appearance, specifications and functions can change before release.\n\nRecording a working viewpoint\nSeeed supplies sensors and development platforms. reGoggles aims to record and stream a technician's first-person view to remote experts or AI when holding a phone is impractical. Use cases are not proof of reduced errors in every process. Posture, obstruction, lighting, weight and image quality need real-world checking.\n\nThe disclosed stack includes a 12MP camera, six-axis IMU, three microphones and two speakers. Synchronized video, sound and motion help align events; synchronization does not itself establish accurate AI judgments. Models, conditions and data quality still matter. We have not worn or tested it.\n\nDefine open source\nMain-chip firmware is to be fully open, while the audio/Bluetooth secondary-chip firmware is not; open interfaces are provided. “Everything is open” would overstate the scope. Developers must inspect code, interfaces and documents against their own integration needs.\n\nExternal power and swapping are supported in the design, with a neck-worn pack still being developed. An undisclosed runtime cannot be called all-day. Frontline functions require integration, and wearing a camera does not make every AI function work offline. Processing locations and outbound data depend on implementation.\n\nThe opportunity is to propose requirements and test early hardware, not simply choose a finished product. Recordings can include coworkers, visitors and equipment information, requiring practical decisions on capture scope and access. That is a deployment consideration, not a claim of legal compliance or safety certification. Price, firm shipping and final certification remain unclear; separate November disclosure from 2027 targets."
+        },
+        "ja": {
+          "title": "Seeed reGoggles開発公開、作業者視点をデータへ",
+          "summary": "11月6日報告。試験機は2027年初め目標で完成品販売ではない。",
+          "body": "Seeed Studioは11月6日、reGoggles開発と初期参加計画を公開した。試験機は2027年初め、公式発売は第1四半期目標で、応募は11月末予定。完成品出荷ではなく外観、仕様、機能は変わり得る。\n\n作業視点を記録\n同社はセンサーや開発基盤を扱う。電話を持てない現場で一人称映像を遠隔専門家やAIへ送る構想だ。全工程のミス削減の証明ではなく、姿勢、遮蔽、光、重量、画質を現場で確かめる必要がある。\n\n12MPカメラ、六軸IMU、3マイク、2スピーカーを公開。映像・音・動きの同期は同時点の比較を助けるがAI精度を自動保証しない。モデルと資料品質も関係し、本稿は着用試験ではない。\n\n公開範囲\n主チップのファームは公開する一方、音声・Bluetooth補助チップは非公開でインターフェース提供。全て公開と要約できず、開発者は変更可能なコードと文書を確認する必要がある。\n\n外部電源と交換を考慮し首掛け電源は開発中。未確定時間を終日とは言えない。接続システムが必要で、装着だけで全AIがオフライン稼働するわけでもない。分析場所と外部送信は実装次第だ。\n\n完成品選択より要求提案と試験の始まりである。映像には同僚や設備も入り、範囲と権限を定める必要があるが、これは法令適合や安全認証の主張ではない。価格、配送日、最終認証は未確定。11月公開と2027年目標を分けて読みたい。"
+        },
+        "zh": {
+          "title": "Seeed公开reGoggles开发，将工人视角转为数据",
+          "summary": "11月6日更新，首批测试机目标2027年初，并非成品开售。",
+          "body": "Seeed Studio11月6日介绍reGoggles开发和早期参与计划。测试机预计2027年初，正式发布目标一季度，11月底开申请。不是成品发货，外形规格功能仍可能变。\n\n记录工作视角\n公司提供传感与开发平台，目标是在不便持手机时把第一视角送远程专家或AI。应用例不证明所有工序减少错误，姿态、遮挡、照明、重量及画质仍需现场测试。\n\n公开12MP相机、六轴IMU、三麦两扬声器。视频声音动作同步便于对齐，却不自动保证AI正确，还取决于模型与数据。本稿未佩戴或实测。\n\n开源范围\n主芯片固件开放，音频蓝牙副芯片固件不开放但提供接口，所以不能说全部开源，应核查可修改代码及文档。\n\n设计支持外供电和替换，颈挂电源仍开发，不能把未知续航称全天。系统还需集成，戴上相机不等于所有AI离线运行，分析地点和数据外传取决于实现。\n\n这是提需求与测试早机的机会，不是只挑成品。记录可能含同事访客和设备，应定范围权限；这不是法律合规或安全认证声明。价格、确定发货及最终认证未全确认，需区分11月披露与2027年目标。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Seeed Studio",
+          "url": "https://www.seeedstudio.com/blog/2026/11/06/introducing-regoggles-building-open-smart-goggles-together/"
+        },
+        {
+          "name": "Seeed Studio · platform details",
+          "url": "https://www.seeedstudio.com/regoggles"
+        }
+      ],
+      "image": {
+        "url": "assets/20261108-goggles.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "일반 작업용 보안경과 카메라 모듈, AI 참고 장면",
+          "en": "Generic safety goggles and camera module, AI reference",
+          "ja": "一般保護眼鏡とカメラ部品、AI参考画像",
+          "zh": "通用护目镜与相机模块，AI参考图"
+        }
+      }
+    },
+    {
+      "id": "moto-watch2fit-polar-20261105",
+      "date": "2026-11-05",
+      "published": "2026-11-08",
+      "source": "Motorola",
+      "url": "https://motorolanews.com/the-new-moto-watch-fit-turns-health-and-wellness-into-a-lifestyle-thanks-to-insights-powered-by-polar-and-up-to-12-days-of-battery-life/",
+      "category": {
+        "ko": "스마트워치",
+        "en": "Smartwatches",
+        "ja": "スマートウォッチ",
+        "zh": "智能手表"
+      },
+      "locales": {
+        "ko": {
+          "title": "Moto Watch 2 Fit, 최대 12일 배터리와 Polar 운동 분석을 묶다",
+          "summary": "11월 5일 발표한 워치는 99유로부터 지역별 순차 출시 예정이다. 배터리 수치는 가벼운 사용 조건이다.",
+          "body": "모토로라가 Polar의 운동·회복 분석을 적용한 Moto Watch 2 Fit을 11월 5일 발표했다. 일부 시장에서는 Moto Watch Fit 27이라는 이름을 사용한다. 시작 권장가격은 99유로이며 앞으로 몇 주 동안 일부 국가와 지역에 순차 출시할 계획이다. 최대 12일 배터리를 강조하지만 공식 각주는 가벼운 사용과 좋은 조건에서의 추정치라고 명시한다. 발표일과 각 나라의 실제 구매 가능일은 같지 않다.\n\n센서 기록에 해석을 더하는 협업\n모토로라는 휴대전화와 주변 기기를 만들고, Polar는 운동 데이터 분석 기술을 제공한다. 워치에는 심박수와 움직임을 바탕으로 달리기 효율과 유산소 체력 추세를 설명하는 Running Index 등이 들어간다. 단순히 걸음 수를 보여주는 것을 넘어 기록을 일정한 지표로 읽게 하려는 구성이다. 그러나 지표가 있다는 사실만으로 모든 사람의 운동 능력을 정확히 진단한다고 볼 수는 없다. 같은 사람의 장기간 기록도 착용과 활동 조건을 맞춰 읽어야 한다.\n\n회사는 수면 단계와 회복 상태, 활동 목표 등을 설명하는 기능도 소개했다. 이런 추정은 센서와 알고리즘이 기록을 해석한 결과이며, 사용자가 직접 보고한 상태나 실제 회복과 언제나 일치한다는 보증은 아니다. 본지는 수면실이나 운동 현장에서 정확도를 검증하지 않았다. 독자에게 유용한 질문은 지표의 이름이 얼마나 많은가보다 자신의 생활에서 기록이 계속 쌓이고 이해하기 쉬운가다. 같은 브랜드의 분석 기능도 어떤 측정값과 설정을 사용하는지 알아야 의미 있게 비교할 수 있다.\n\n12일을 내 사용 일정으로 바꾸려면\n위치 기록과 화면 상시 표시, 알림과 통화 사용이 늘면 가벼운 사용 시험과 조건이 달라진다. 모토로라는 설정과 온도, 배터리 상태와 사용 패턴에 따라 결과가 달라진다고 안내했다. 그러므로 다른 워치의 ‘며칠’과 비교할 때에도 어떤 기능을 켰는지 기준을 맞춰야 한다. 며칠 동안 충전하지 않아도 된다는 말과 GPS를 계속 켠 운동 기록 시간이 같은 것은 아니다. 이번 자료는 최대치를 제시한 것이지 모든 기능을 동시에 쓴 독립 실측 결과가 아니다.\n\n1.85인치 gOLED 화면과 최대 1500니트 밝기, 이중 주파수 GPS도 공개했다. 최대 밝기는 지속되는 일반 밝기와 구분해야 한다. 이중 주파수 GPS는 위치 신호를 여러 주파수로 활용하는 접근이지만 모든 도심과 산길에서 오차가 없어지는 뜻은 아니다. 실제 기록 품질은 주변 환경과 착용·설정에 따라 확인할 부분이다. 블루투스 통화는 활성 요금제가 있는 휴대전화와의 연결을 요구한다. 워치 자체가 독립 이동통신 회선을 제공한다고 확대해 읽어서는 안 된다.\n\nQira를 손목에서 호출하는 기능은 앞으로 몇 달 안에 제공할 계획으로 설명했다. 현재 제공 기능과 향후 업데이트를 구분하고, 호환 휴대전화·계정·연결 조건을 확인해야 한다. 방수 표기도 사용 환경과 주의사항이 붙는 등급이지 모든 수중 활동의 허가증이 아니다. 한국의 확정 가격과 판매일은 이번 글로벌 발표에서 확인되지 않았다. 이 제품은 충전 간격과 운동 데이터 해석을 함께 중시하는 선택지로 볼 수 있지만, 이는 사양을 바탕으로 한 해석이다. 실제 구매 판단에는 지역별 지원과 원하는 기능을 켠 사용시간 자료가 더 필요하다."
+        },
+        "en": {
+          "title": "Moto Watch 2 Fit combines Polar insights with a qualified 12-day claim",
+          "summary": "The November 5 watch starts at €99 with staged regional rollout; battery figures use light usage.",
+          "body": "Motorola announced Moto Watch 2 Fit, also named Watch Fit 27 in some markets, on November 5. Starting MSRP is €99, with selected regional launches in the coming weeks. Up to 12 days is qualified by light usage and favourable conditions. Announcement and local availability are not the same date.\n\nInterpretation beyond sensing\nMotorola supplies devices and Polar provides fitness-analysis technology. Running Index uses recorded heart rate to describe aerobic fitness and running efficiency. It adds interpretation beyond counting steps, not an exact diagnosis of everyone's ability. Trends need consistent wearing and activity conditions.\n\nSleep, recovery and activity goals are algorithmic interpretations, not guaranteed agreement with actual recovery or self-reported feelings. This article has no independent sleep or exercise testing. A useful comparison is whether continuous records are understandable in daily life, not just the number of named features. Inputs and settings matter.\n\nPutting 12 days in context\nGPS, always-on display, notifications and calls can differ from light-use testing. Motorola lists settings, temperature, battery condition and usage as variables. Compare devices under matching functions; days between charges are different from continuous GPS workout time. The release is not an independent all-functions-on measurement.\n\nThe watch has a 1.85-inch gOLED display, peak 1,500 nits and dual-frequency GPS. Peak is not sustained normal brightness, and multiple GPS frequencies do not remove all urban or trail errors. Bluetooth calls require a connected phone with an active plan, not an implied standalone cellular subscription in the watch.\n\nWrist access to Qira is planned in coming months, with compatible phone, account and connection conditions. Water ratings also carry conditions, not universal underwater permission. Korean price and sale dates remain unconfirmed here. The device suggests a combination of charging intervals and fitness interpretation, not a tested recommendation. Regional support and realistic runtime evidence remain necessary."
+        },
+        "ja": {
+          "title": "Moto Watch 2 Fit、Polar分析と条件付き最大12日",
+          "summary": "11月5日発表、99ユーロから地域順次。電池値は軽い使用条件。",
+          "body": "Motorolaは11月5日、Polar分析のMoto Watch 2 Fitを発表した。一部市場名はFit 27、99ユーロから今後数週に地域順次。最大12日は軽い使用と良好な条件で、発表日と現地発売日は別だ。\n\n記録の先の解釈\nMotorolaの機器とPolarの運動分析を組み合わせ、Running Indexは心拍記録から体力や走行効率を示す。歩数以上の指標だが全員の能力の正確な診断ではない。同一人の傾向も装着と条件をそろえたい。\n\n睡眠、回復、活動目標はアルゴリズムの解釈で実感や実際と常時一致する保証ではない。本稿は独立試験をしていない。機能名の多さより継続記録と理解しやすさ、入力と設定を比べることが大切だ。\n\n12日の条件\nGPS、常時画面、通知、通話は軽使用と違う。会社も温度、設定、電池状態、使い方で変わると示す。充電間隔と連続GPS時間は別で全機能同時の実測ではない。\n\n1.85型gOLED、最大1500ニト、二周波GPSを搭載。ピークは通常持続輝度ではなく、GPSも全環境誤差ゼロにはならない。Bluetooth通話は契約中の電話と接続が必要で、時計独立回線ではない。\n\nQira呼び出しは数カ月後の計画で端末、アカウント、通信条件付き。耐水も無条件の水中許可ではない。韓国価格・発売日は未確認。充電間隔と運動分析を組み合わせる選択という仕様の考察で、購入には地域対応と現実的な時間資料が必要だ。"
+        },
+        "zh": {
+          "title": "Moto Watch 2 Fit结合Polar分析与有条件12天续航",
+          "summary": "11月5日公布，99欧元起分地区推出，续航按轻度使用条件。",
+          "body": "摩托罗拉11月5日发布含Polar分析的Moto Watch 2 Fit，部分市场名Fit 27，99欧元起，未来数周分地区推出。最长12天限定轻度与良好条件，公告不等于当地开售。\n\n记录之外的解读\n设备结合Polar运动技术，Running Index按心率记录解释体能与跑步效率，不只是步数，也不等于精确诊断所有人。长期趋势需统一佩戴和活动条件。\n\n睡眠、恢复与目标是算法解读，不保证始终符合实际恢复或感受。本稿无独立睡眠运动测试，比较应看日常连续记录是否易懂，而非只数功能名，输入设置也重要。\n\n12天的条件\nGPS、常亮、通知与通话不同于轻度测试，公司列设置、温度、电池状态和模式均影响。充电间隔不同于连续GPS时长，也非全功能同开实测。\n\n1.85英寸gOLED、峰值1500尼特和双频GPS已公布。峰值非持续亮度，多频也不消除全部城市山路误差。蓝牙通话需连接有有效套餐手机，不表示手表独立蜂窝。\n\nQira腕上调用为未来数月计划，需兼容手机账户连接，防水亦有条件而非所有水下许可。韩国价格日期未确认。把续航与运动解释结合是规格分析，并非实测推荐，仍需地区支持和现实使用时长资料。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Motorola",
+          "url": "https://motorolanews.com/the-new-moto-watch-fit-turns-health-and-wellness-into-a-lifestyle-thanks-to-insights-powered-by-polar-and-up-to-12-days-of-battery-life/"
+        }
+      ],
+      "image": {
+        "url": "assets/20261108-watch.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "운동화 옆 일반 스마트워치, AI 참고 장면",
+          "en": "Generic smartwatch beside running shoes, AI reference",
+          "ja": "靴の横の一般時計、AI参考画像",
+          "zh": "跑鞋旁的通用智能手表，AI参考图"
+        }
+      }
+    },
+    {
+      "id": "moto-buds2ultra-bose-20261105",
+      "date": "2026-11-05",
+      "published": "2026-11-08",
+      "source": "Motorola",
+      "url": "https://motorolanews.com/the-new-moto-buds-2-ultra-moto-buds-ultra-27-take-audio-up-a-notch-with-sound-by-bose-technology-and-bring-ai-live-translation-to-consumers/",
+      "category": {
+        "ko": "무선 오디오",
+        "en": "Wireless audio",
+        "ja": "ワイヤレス音声",
+        "zh": "无线音频"
+      },
+      "locales": {
+        "ko": {
+          "title": "Moto Buds 2 Ultra, Bose 조정과 통역을 더한 이어폰의 조건",
+          "summary": "11월 5일 발표, 199유로부터 순차 출시 예정이다. 8시간 재생과 케이스 포함 37시간, 현재 기능과 향후 호출을 구분했다.",
+          "body": "모토로라가 Bose의 음향 조정과 능동 소음 제거를 적용한 Moto Buds 2 Ultra를 11월 5일 발표했다. 일부 시장의 이름은 Moto Buds Ultra 27이다. 시작 권장가격은 199유로이며 여러 지역의 일부 국가에 앞으로 몇 주 동안 순차 출시할 계획이다. 전 세계 모든 판매점에서 발표 당일 같은 가격으로 살 수 있다는 의미는 아니다. 정확한 한국 가격과 출시일은 이번 글로벌 자료에 명시되지 않았다.\n\n두 종류의 소리 장치를 나눠 쓰기\n모토로라는 휴대전화 주변 기기군을 넓히며 Bose와 조정한 오디오를 강조한다. 이어폰에는 11mm 다이내믹 드라이버와 별도의 밸런스드 아마추어를 넣었다고 설명했다. 두 장치가 역할을 나누는 구성이지만, 숫자나 부품 수만으로 다른 이어폰보다 좋은 소리를 낸다고 단정할 수는 없다. 장착과 조정, 귀에 밀착되는 정도가 함께 영향을 준다. Bose 이름 역시 회사 간 기술 협업을 말해주는 정보이지 독자의 취향과 착용감을 대신해 판단하는 점수는 아니다.\n\nBose QuietControl ANC는 주변 소리를 감지해 줄이도록 작동하며, 주변음 듣기 모드는 외부 소리를 함께 들려주는 기능이다. 목적이 다른 두 기능을 ‘아무 소리도 안 들리게 하는 기능’으로 묶으면 부정확하다. 통화와 녹음에는 한쪽마다 마이크 세 개와 음성 감지 장치를 사용한다. 제조사는 음성 수집을 강조하지만, 본지는 거리·바람·혼잡 조건을 맞춰 실제 녹음 품질을 비교하지 않았다. 공식 사양과 실사용 평가를 구분할 필요가 있다.\n\n통역은 이어폰 혼자 하는 기능이 아니다\nAI Live Translate는 호환되는 Motorola 휴대전화와 지원 언어 등 조건에서 제공한다. 이어폰을 어떤 전화에나 연결하면 모든 언어를 독립적으로 번역한다는 뜻은 아니다. Dolby Atmos와 머리 움직임 추적 역시 지원 휴대전화와 콘텐츠 조건을 따라야 한다. 기능의 이름이 많아도 자신의 기기에 적용되지 않으면 경험은 달라진다. 구입 전 이어폰 앱의 제공 여부뿐 아니라 원하는 개별 기능의 호환 범위를 확인해야 한다. 앱이 여러 운영체제에 있다는 말과 모든 기능이 같다는 말도 다르다.\n\nQira 호출도 시점이 나뉜다. 회사는 호환 전화에서 왼쪽 이어폰을 길게 눌러 도움을 요청하는 방식을 소개하고, 말로 호출하는 방식은 앞으로 몇 달 안에 제공할 예정이라고 설명했다. 현재 가능한 조작과 미래 업데이트를 한꺼번에 이미 제공되는 기능으로 쓰면 구매자의 기대가 달라진다. 머리 동작으로 전화를 받거나 거절하는 기능, 착용 감지와 두 기기 연결 등도 앱과 기기별 조건을 확인할 항목이다. 실제 제공 일정은 지역별 공지가 더 필요하다.\n\n배터리는 한 번 충전으로 최대 8시간, 케이스를 포함하면 최대 37시간으로 안내했다. 케이스를 거치지 않고 연속 37시간 재생한다는 뜻이 아니다. 소음 제거와 통화, 볼륨 등 사용 조건이 달라지면 결과도 달라질 수 있다. 독립 매체 Notebookcheck도 공개 배터리 수치의 ANC 적용 조건이 분명하지 않다고 짚었다. 이번 발표는 음향 협업과 전화 연동을 묶은 제품의 등장이며 직접 시험한 음질 추천은 아니다. 판매 날짜와 기능 지원, 배터리 시험 조건이 더 구체화되면 독자는 자신의 전화와 생활에 맞춰 비교할 수 있다."
+        },
+        "en": {
+          "title": "Moto Buds 2 Ultra adds Bose tuning and phone-dependent translation",
+          "summary": "Announced November 5 from €199, with staged sales, distinct battery totals and future voice activation.",
+          "body": "Motorola announced Moto Buds 2 Ultra, named Buds Ultra 27 in some markets, on November 5. Starting MSRP is €199, with selected countries receiving it over coming weeks. This does not establish same-day worldwide availability or Korean pricing.\n\nTwo driver types\nThe earbuds combine Bose tuning with an 11mm dynamic driver and a balanced armature. Splitting duties does not prove superior sound from component count alone. Fit, mounting and tuning matter. Bose branding identifies collaboration, not a score that decides individual taste or comfort.\n\nQuietControl ANC reduces surrounding noise; Transparency brings outside sound into playback. They serve different purposes, not universal silence. Three microphones and a voice pickup unit per bud support calls and recording. We have not compared real recording quality under matched wind, distance and crowd conditions.\n\nTranslation depends on the phone\nAI Live Translate requires a compatible Motorola phone and supported languages. It is not independent translation for every phone and language. Atmos and head tracking also depend on devices and content. Check individual functions, not just app availability across operating systems; an app's presence does not imply feature parity.\n\nQira access has two timelines. A long press on the left bud is described for compatible phones, while spoken activation is planned in coming months. Do not treat the future update as already delivered. Head gestures, wear detection and dual-device connections also carry app/device conditions; regional schedules need confirmation.\n\nBattery claims are up to eight hours per charge or 37 including the case, not 37 uninterrupted hours without recharging. ANC, calls and volume affect conditions. Notebookcheck notes that the ANC setting behind the disclosed estimate is unclear. This is a product announcement, not our tested sound recommendation. Clearer availability, compatibility and battery protocols will support more meaningful comparisons."
+        },
+        "ja": {
+          "title": "Moto Buds 2 Ultra、Bose調整と電話連携の翻訳",
+          "summary": "199ユーロから順次予定。8時間とケース計37時間、現機能と今後の起動を区別。",
+          "body": "Motorolaは11月5日、Bose調整のMoto Buds 2 Ultraを発表した。一部名はUltra 27、199ユーロから数週に地域順次。全世界同日や韓国価格の確定ではない。\n\n2種類のドライバー\n11mmダイナミックとBAを組み合わせるが部品数だけで音質優位は証明できない。装着、設置、調整が関係しBose名も好みや快適さを決める点数ではない。\n\nANCは騒音低減、外音モードは外を混ぜる別目的だ。片側3マイクと音声検出器で通話録音を支えるが、本稿は風、距離、混雑をそろえて実測していない。\n\n翻訳は電話依存\nAI Live Translateには対応Motorolaと対応言語が必要で、全電話全言語の独立翻訳ではない。Atmosと頭部追跡も端末・内容条件付き。アプリが複数OSにあっても全機能同等とは限らない。\n\nQiraは対応電話で左長押しを説明し、声での起動は数カ月後予定。現在と更新を同じにしない。頭の動作、装着検出、2台接続も個別条件を確認し地域予定を待つ必要がある。\n\n最大8時間、ケース込み37時間は連続37時間ではない。ANC、通話、音量条件で変わり、NotebookcheckもANC条件の不明確さを指摘する。新製品発表で音質実測推奨ではない。発売、対応、試験条件の具体化後に生活と比較したい。"
+        },
+        "zh": {
+          "title": "Moto Buds 2 Ultra加入Bose调音与手机协同翻译",
+          "summary": "11月5日发布，199欧元起分批销售，需分清8小时、含盒37小时及未来唤醒。",
+          "body": "摩托罗拉11月5日发布Bose调音Moto Buds 2 Ultra，部分地区名Ultra 27，199欧元起未来数周分国推出，不表示全球同日或韩国价格确定。\n\n两类驱动\n11毫米动圈配独立动铁，分工不等于凭部件数证明更好听，佩戴、安装和调音仍重要，Bose名称是合作信息而非替个人偏好打分。\n\nANC减少噪声，通透混入外界，是不同目的。每侧三麦和语音拾取单元支援通话录音，本稿未按相同风、距离及拥挤条件比较。\n\n翻译依赖手机\nAI Live Translate需兼容Motorola及支持语言，不是任何手机独立全语种翻译。Atmos头追也需设备内容，跨系统有应用不等于功能完全一样。\n\nQira可在兼容手机通过左耳长按，口头唤醒则未来数月计划，不应混为已提供。头部动作、佩戴检测和双连接也要看个别条件及地区安排。\n\n单充最多8小时、含盒37小时，不是无需充电连续37小时，ANC、通话和音量改变条件。Notebookcheck也指出公布估计的ANC状态不清楚。本文是产品公告，不是实测音质推荐，待销售、兼容和测试更明确再与自身需求比较。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Motorola",
+          "url": "https://motorolanews.com/the-new-moto-buds-2-ultra-moto-buds-ultra-27-take-audio-up-a-notch-with-sound-by-bose-technology-and-bring-ai-live-translation-to-consumers/"
+        },
+        {
+          "name": "Notebookcheck · independent launch context, 2026-11-05",
+          "url": "https://www.notebookcheck.net/Motorola-launches-new-Dolby-Atmos-3D-earbuds-globally-with-Bose-QuietControl-ANC.1443272.0.html"
+        }
+      ],
+      "image": {
+        "url": "assets/20261108-buds.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "책상 위 일반 무선 이어폰과 케이스, AI 참고 장면",
+          "en": "Generic earbuds and charging case on a desk, AI reference",
+          "ja": "机上の一般イヤホンとケース、AI参考画像",
+          "zh": "桌上通用耳机及充电盒，AI参考图"
+        }
+      }
+    },
     {
       "id": "galaxy-smarttag3-us-availability-20261106",
       "date": "2026-11-06",
