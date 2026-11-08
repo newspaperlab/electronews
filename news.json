@@ -1,6 +1,273 @@
 {
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "articles": [
+    {
+      "id": "seeed-respeaker-clip-open-firmware-20261106",
+      "date": "2026-11-06",
+      "published": "2026-11-09",
+      "source": "Seeed Studio — reSpeaker Clip firmware and SDK explanation",
+      "url": "https://www.seeedstudio.com/blog/2026/11/06/open-source-ai-voice-recorder-firmware-sdk/",
+      "category": {
+        "ko": "오디오·개발",
+        "en": "Audio development",
+        "ja": "音声開発",
+        "zh": "音频开发"
+      },
+      "locales": {
+        "ko": {
+          "title": "AI 녹음기, 클라우드가 바뀌면? reSpeaker Clip이 내세운 공개 펌웨어",
+          "summary": "Seeed가 개발·복구 경로를 설명했다. 독립 녹음과 AI 전사·요약 기능은 서로 다른 단계다.",
+          "body": "Seeed Studio가 11월 6일 reSpeaker Clip의 공개 펌웨어와 개발 도구, 복구 절차를 설명하는 자료를 게시했다. 이 장치는 단독 녹음과 로컬 저장을 지원하고, 개발자가 녹음 데이터를 다른 음성 인식·AI 처리 흐름에 연결할 수 있도록 설계됐다고 회사는 밝혔다. 이번 소식은 그날 처음 판매됐다는 신제품 출시 확인이 아니라, 제품을 얼마나 수정하고 유지할 수 있는지에 관한 공식 설명이다.\n\nreSpeaker Clip은 개발자와 제작자를 겨냥한 착용형 AI 녹음기다. Seeed는 소형 개발 보드와 센서 등도 공급하는 업체로, 이 제품 역시 완성된 앱만 쓰는 방식 외에 개발 경로를 강조한다. 일반적인 녹음기에서 음성을 저장하는 것과 그 음성을 문장으로 바꾸거나 요약하는 것은 다른 작업이다. AI라는 이름만으로 모든 처리가 장치 안에서 이루어진다고 생각하면 실제 데이터 이동을 잘못 이해할 수 있다.\n\n공개된 코드가 바꾸는 선택권\n공식 자료에 따르면 펌웨어 기반은 nRF5340과 nRF7002 플랫폼, Zephyr RTOS에 바탕을 둔 nRF Connect SDK 3.3.0이다. 펌웨어는 녹음 상태와 연결, 저장, 전원 같은 장치 동작을 맡는다. 소스 코드와 개발 문서에 접근할 수 있으면 개발자가 이런 동작을 살피고 필요한 부분을 바꿀 출발점이 생긴다. 다만 코드가 공개됐다는 것과 하드웨어 설계 전체가 공개됐다는 것은 같은 주장으로 볼 수 없다.\n\n회사 설명에는 블루투스 OTA 업데이트와 USB 직렬 복구 경로가 함께 나온다. OTA는 케이블 없이 펌웨어를 전달하는 방식이다. USB 쪽은 직렬 연결과 mcumgr SMP를 쓰는 복구 절차로, 일반적인 native USB DFU와 혼동하지 말아야 한다. MCUboot와 업데이트 도구가 제공돼도 잘못된 펌웨어나 하드웨어 고장이 사라지는 것은 아니다. 수정할 수 있다는 장점과 복구 절차를 이해해야 한다는 부담이 함께 있다.\n\n녹음은 로컬, 분석은 선택한 구성에 따라\n단독 녹음과 저장은 AI 클라우드에 계속 연결하지 않아도 가능하다는 설명이다. 이후 전사나 요약을 어디에서 수행할지는 연결한 서비스와 소프트웨어에 달려 있다. 개발자가 로컬 처리 환경을 구성할 여지가 있다는 것과 구입 직후 모든 언어의 전사·요약이 기기 내부에서 무료로 동작한다는 주장은 다르다. 공식 자료는 후자를 보장하지 않는다.\n\n편집부의 분석으로는 이런 구조는 녹음 데이터를 자체 시스템으로 옮기거나 특정 업체 서비스에 대한 의존을 줄이려는 팀에 의미가 있다. 그러나 공개 펌웨어 자체가 개인정보 보호나 무상 AI 서비스를 보장하지는 않는다. 실제 전송 경로, 저장 위치, 접근 권한과 외부 처리 비용을 따로 검토해야 한다. 녹음 뒤 어떤 서버로 자료가 이동하는지 확인하는 작업은 장치 이름보다 중요할 수 있다.\n\n일반 독자가 자동 전사만 원한다면 개발 도구의 존재만으로 더 편한 제품이라고 판단하기 어렵다. SDK 지원과 플랫폼별 기능도 계속 바뀔 수 있어 현재 문서를 확인해야 한다. 이번 자료에는 모든 사용 환경에 적용할 전사 정확도나 배터리 수명, 장기 지원 종료일의 보장이 없다. 이 기사는 실제 녹음을 시험한 평가가 아니라 공개 자료를 통해 소유·수정·유지의 범위를 살펴본 해설이다."
+        },
+        "en": {
+          "title": "What happens when an AI recorder's cloud changes? reSpeaker Clip emphasizes open firmware",
+          "summary": "Seeed has detailed development and recovery paths. Standalone recording and AI transcription are separate stages.",
+          "body": "Seeed Studio published an explanation of reSpeaker Clip's open firmware, developer tools and recovery procedures on November 6. The company says the device supports standalone recording and local storage, with ways for developers to connect recordings to other speech-recognition and AI workflows. This is a software-maintainability explanation, not confirmation that the product first went on sale that day.\n\nreSpeaker Clip is a wearable AI recorder aimed at developers and makers. Seeed, which also supplies compact boards and sensors, emphasizes alternatives to using only a finished companion app. Capturing audio is different from transcribing or summarizing it. An AI label does not establish that every processing stage takes place inside the recorder.\n\nWhat access to code changes\nThe official explanation identifies an nRF5340 plus nRF7002 platform and nRF Connect SDK 3.3.0 built on Zephyr RTOS. Firmware handles functions such as recording states, connectivity, storage and power management. Source code and documentation give developers a starting point for inspecting and changing device behavior. Open firmware should not be confused with a claim that every hardware design is also open.\n\nThe company documents Bluetooth over-the-air updates and USB serial recovery. OTA transfers firmware without a cable. The USB route uses serial connectivity and mcumgr SMP, rather than native USB DFU. MCUboot and update tools do not remove the possibility of a faulty firmware image or hardware failure. Modification flexibility comes with a need to understand recovery procedures.\n\nLocal capture does not settle where AI runs\nStandalone capture and storage do not require a continuous AI-cloud connection. Later transcription or summarization depends on the connected service and software. The ability to build a local processing setup is different from a promise of free, fully on-device transcription and summaries in every language immediately after purchase. The release does not make that guarantee.\n\nOur interpretation is that this architecture can matter to teams moving recordings into their own systems or reducing dependence on one service provider. Open firmware alone does not guarantee privacy or free AI services. Actual transfer routes, storage locations, permissions and external processing costs still need assessment. Where recordings go after capture can matter more than the device's marketing name.\n\nFor a reader seeking only automatic transcription, the existence of developer tools does not automatically mean easier use. SDK and platform support can evolve, so current documentation matters. The material does not guarantee universal transcription accuracy, battery life or a fixed long-term support period. This report examines published information about modification and maintenance; it is not a recording-quality or hands-on review."
+        },
+        "ja": {
+          "title": "AI録音機のクラウドが変わったら　reSpeaker Clipの公開ファームウェア",
+          "summary": "Seeedが開発・復旧経路を説明。単独録音とAI文字起こし・要約は別の処理だ。",
+          "body": "Seeed Studioは11月6日、reSpeaker Clipの公開ファームウェア、開発ツール、復旧手順を説明する資料を掲載した。単独録音とローカル保存に対応し、開発者が他の音声認識やAI処理に接続できる設計という。これは修正・保守の選択肢に関する説明で、同日に初めて発売されたと確認する資料ではない。\n\nreSpeaker Clipは開発者やメイカー向けの装着型AI録音機だ。小型基板やセンサーも扱うSeeedは、完成アプリだけを使う以外の開発経路を強調する。音声の記録と文字起こし、要約は別の仕事であり、AIという名称だけで全処理が機器内で完結すると考えることはできない。\n\n資料によるとnRF5340とnRF7002を使い、Zephyr RTOSに基づくnRF Connect SDK 3.3.0を採用する。ファームウェアは録音状態、通信、保存、電源などを扱う。コードと文書があれば動作を調べて変更する出発点になるが、ファームウェア公開とハードウェア設計全体の公開は同じ意味ではない。\n\nBluetooth OTA更新とUSBシリアル復旧の経路を説明している。OTAは無線でファームウェアを渡す方式だ。USB側はシリアル接続とmcumgr SMPを使い、native USB DFUとは異なる。MCUbootや更新ツールがあっても、不適切なイメージやハード故障の可能性はなくならない。変更の自由と復旧知識の必要性は両立する。\n\n単独録音と保存にはAIクラウドへの常時接続が不要という。一方、その後の文字起こしや要約の実行場所は連携先とソフトによる。ローカル処理を構築できる余地と、購入直後に全言語の処理が機器内で無料動作する保証は別だ。資料は後者を約束していない。\n\n編集部の分析では、独自システムに記録を取り込みたいチームや、特定サービスへの依存を減らしたい用途で意味がある。ただし公開コードだけでプライバシーや無料AIを保証できない。転送経路、保存場所、権限、外部処理費用を別途調べる必要がある。\n\n自動文字起こしだけを求める利用者にとって、開発ツールがあるだけで使いやすいとは限らない。SDKや各プラットフォーム対応は変わるため最新文書を確認したい。全環境の認識精度、電池持ち、長期支援期限は保証されていない。本記事は公開情報による保守・変更範囲の解説で、録音を試したレビューではない。"
+        },
+        "zh": {
+          "title": "AI录音机的云服务改变后怎么办？reSpeaker Clip强调开放固件",
+          "summary": "Seeed解释开发与恢复路径；独立录音、转写和摘要是不同处理阶段。",
+          "body": "Seeed Studio于11月6日发布reSpeaker Clip开放固件、开发工具和恢复流程的说明。公司称设备支持独立录音与本地存储，开发者可将音频接入其他语音识别及AI流程。这是关于可修改性和维护的资料，不是确认产品当天首次上市。\n\nreSpeaker Clip面向开发者和创客，是一款可佩戴AI录音设备。Seeed也供应小型开发板与传感器，此次强调不只依赖成品应用的开发路径。保存音频不同于转写或摘要，带有AI名称不说明所有处理都在设备内部完成。\n\n官方说明采用nRF5340与nRF7002平台，以及基于Zephyr RTOS的nRF Connect SDK 3.3.0。固件负责录音状态、通信、存储和电源等功能。源代码和文档给开发者检查、修改行为的起点，但固件开放不等于所有硬件设计都开放。\n\n设备提供蓝牙OTA更新与USB串行恢复。OTA可无线传输固件，USB路径则使用串行连接和mcumgr SMP，不是native USB DFU。MCUboot与更新工具不能消除错误固件或硬件故障风险，可修改的自由仍伴随理解恢复流程的需要。\n\n独立录音与存储不要求持续连接AI云，但之后的转写、摘要在哪里执行，取决于所接服务和软件。可以构建本地处理环境，不等于买来便能免费在设备内处理所有语言，官方资料没有作出这种保证。\n\n本刊分析认为，这种结构对希望把录音接入自有系统、降低单一服务依赖的团队有意义。不过开放固件本身不保证隐私，也不保证AI服务免费。实际传输路径、存储位置、权限和外部处理费用仍需分别审查，录音后数据去哪里可能比产品名称更重要。\n\n只希望自动转写的用户，也不能仅因有开发工具便认定更易用。SDK和平台支持仍可能变化，应查当前文档。资料没有保证所有环境下的识别准确率、续航或长期支持期限。本文分析公开信息中的修改与维护范围，没有进行真实录音体验或音质测试。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Seeed Studio — reSpeaker Clip firmware and SDK explanation",
+          "url": "https://www.seeedstudio.com/blog/2026/11/06/open-source-ai-voice-recorder-firmware-sdk/"
+        }
+      ],
+      "image": {
+        "url": "assets/20261109-recorder.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "AI 생성 참고 이미지: 오디오·개발 주제를 설명하는 일반 장면",
+          "en": "AI-generated reference image: generic scene illustrating Audio development",
+          "ja": "AI生成参考画像：音声開発を説明する一般的な場面",
+          "zh": "AI生成参考图：说明音频开发主题的一般场景"
+        }
+      }
+    },
+    {
+      "id": "ti-tics100mod-industrial-ethernet-20261105",
+      "date": "2026-11-05",
+      "published": "2026-11-09",
+      "source": "Texas Instruments — Official announcement via PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/ti-simplifies-industrial-ethernet-integration-for-connected-factories-with-the-industrys-smallest-fully-featured-multiprotocol-communications-module-302930134.html",
+      "category": {
+        "ko": "산업용 연결",
+        "en": "Industrial connectivity",
+        "ja": "産業用接続",
+        "zh": "工业连接"
+      },
+      "locales": {
+        "ko": {
+          "title": "TI, 펌웨어로 통신 방식 바꾸는 산업용 이더넷 모듈 공개",
+          "summary": "TICS100MOD는 연말 공급 예정이다. 함께 발표한 IO-Link 칩의 사전 생산 물량과는 출시 단계가 다르다.",
+          "body": "텍사스 인스트루먼트(TI)가 11월 5일 EtherCAT, EtherNet/IP, PROFINET을 하나의 하드웨어에서 지원하는 TICS100MOD 통신 모듈을 발표했다. 펌웨어를 바꾸고 부팅할 때 필요한 프로토콜을 선택하는 방식이다. TI는 모듈을 2026년 말까지 공급할 계획이라고 밝혔다. 함께 공개한 TIOM2212 IO-Link 마스터는 사전 생산 물량을 지금 구할 수 있어 두 제품의 공급 단계를 구분해야 한다.\n\nTI는 공장 자동화와 자동차, 전자기기 등에 쓰이는 반도체를 공급하는 기업이다. 이번 제품은 가정용 공유기나 노트북의 인터넷 속도를 높이는 액세서리가 아니다. 생산 설비의 제어기, 센서, 액추에이터가 데이터를 주고받도록 장비 안에 넣는 부품이다. 액추에이터는 제어 명령을 실제 움직임으로 바꾸는 장치다. 공장에서 중요한 것은 데이터를 빨리 보내는 것뿐 아니라 정해진 시점에 맞춰 안정적으로 교환하는 일이다.\n\n하드웨어는 같아도 말하는 규약은 다르다\n산업용 이더넷은 물리적인 연결이 비슷해도 장비가 사용하는 통신 규약에 따라 소프트웨어와 호환성이 달라진다. EtherCAT, EtherNet/IP, PROFINET은 이름만 다른 동일 기능이 아니다. TICS100MOD의 접근법은 지원하는 규약에 맞춰 펌웨어를 구성해 같은 모듈 설계를 활용하게 하는 것이다. 세 규약을 아무 설정 없이 동시에 모두 처리한다고 해석해서는 안 된다.\n\n공식 발표에 따르면 모듈은 AM2612 마이크로컨트롤러와 DP83826AI 이더넷 물리 계층 부품을 기반으로 한다. 두 개의 Arm Cortex-R5F 코어와 외부 메모리를 통합해 프로토콜 소프트웨어를 실행한다. 시스템온모듈, 즉 SoM은 이런 핵심 부품을 작은 모듈 단위로 묶어 장비 설계자가 사용할 수 있게 하는 형식이다. 완성 장비 전체를 대체하는 독립적인 공장 제어 컴퓨터를 뜻하지는 않는다.\n\n센서 가까이에서 맡는 일은 별도다\nTIOM2212는 두 채널의 IO-Link 마스터다. 상위 산업용 네트워크와 센서·액추에이터 쪽을 연결하는 역할을 겨냥한다. 이더넷 모듈과 함께 발표됐지만 같은 부품의 다른 이름은 아니다. 두 제품의 기능과 출시 단계를 섞으면 구매와 설계 계획을 잘못 세울 수 있다. 사전 생산 물량이 있다는 설명도 최종 양산 장비 검증을 대신하지 않는다.\n\n편집부의 분석으로는 여러 시장에 장비를 판매하는 업체가 통신 방식마다 별도 보드를 만드는 부담을 줄일 가능성이 있다. 다만 지원 모듈을 쓴다고 모든 완성품 인증이나 고객사의 상호운용 시험이 자동으로 끝나는 것은 아니다. 기존 제어 소프트웨어와의 연결, 펌웨어 관리, 유지보수 절차도 설계해야 한다. 실제 절감 비용과 개발 기간은 공개된 일률적인 수치가 없으므로 특정 비율로 제시하지 않는다.\n\nTI는 11월 10~13일 뮌헨 일렉트로니카에서 관련 기술을 시연할 예정이다. 이 일정은 전시일이며 TICS100MOD의 확정된 일반 판매일과 같지 않다. 공식 제품 페이지도 미리보기 단계로 표시돼 있다. 도입을 준비하는 독자는 연말 공급 계획과 현재 주문 가능한 부품을 분리해 확인하고, 필요한 프로토콜과 소프트웨어 자료가 자신의 설계에 실제로 준비돼 있는지 검토해야 한다."
+        },
+        "en": {
+          "title": "TI introduces an industrial Ethernet module with firmware-selectable protocols",
+          "summary": "TICS100MOD is planned by year-end. Its availability stage differs from the preproduction IO-Link device announced alongside it.",
+          "body": "Texas Instruments announced TICS100MOD on November 5, supporting EtherCAT, EtherNet/IP and PROFINET on one hardware platform. Firmware determines the protocol selected at boot. TI plans availability by the end of 2026. In contrast, preproduction quantities of the accompanying TIOM2212 IO-Link master are available now. The two products are at different supply stages.\n\nTI supplies semiconductors for factory automation, vehicles and electronic equipment. This announcement is not about an accessory for faster home Wi-Fi or laptop internet. These components go inside machinery linking controllers, sensors and actuators. An actuator turns a control command into physical action. Factory networks need predictable, dependable exchanges at the required time as well as data throughput.\n\nSimilar wiring, different communication rules\nIndustrial Ethernet equipment can use different protocols despite similar physical connections. EtherCAT, EtherNet/IP and PROFINET are not simply three names for identical operation. TICS100MOD lets designers configure firmware for a supported protocol while reusing the module design. It should not be interpreted as automatically running all three protocols simultaneously without configuration.\n\nTI says the module uses an AM2612 microcontroller and DP83826AI Ethernet physical-layer component, integrating two Arm Cortex-R5F cores and external memory to run protocol software. A system-on-module, or SoM, packages key components into a unit that an equipment designer can integrate. It is not a complete standalone computer replacing the entire factory control system.\n\nAnother role near the sensors\nThe TIOM2212 is a dual-channel IO-Link master targeting connections between field sensors or actuators and higher-level networks. Announced together, the products remain different devices. Confusing their functions or supply stages can distort procurement and design planning. Preproduction supply also does not replace verification of a final production machine.\n\nOur interpretation is that reusable communications hardware may reduce the burden of separate boards for equipment sold into different protocol environments. It does not automatically complete every finished-product certification or customer interoperability test. Integration with existing control software, firmware management and maintenance still need design work. No universal cost or development-time saving is established, so we do not assign one.\n\nTI plans demonstrations at electronica in Munich on November 10–13. Those are exhibition dates, not a confirmed general-sale date for TICS100MOD. Its official product page is marked preview. Prospective users should separate the year-end supply plan from components orderable now, and verify that their required protocol and software resources are ready for their design."
+        },
+        "ja": {
+          "title": "TI、ファームウェアで規約を選ぶ産業用Ethernetモジュール",
+          "summary": "TICS100MODは年末までの供給予定。同時発表のIO-Link製品の試作前量産品供給とは段階が違う。",
+          "body": "テキサス・インスツルメンツは11月5日、EtherCAT、EtherNet/IP、PROFINETを同じハードウェアで支えるTICS100MODを発表した。ファームウェアを構成し、起動時に必要な規約を選ぶ。供給は2026年末までの予定だ。一方、TIOM2212 IO-Linkマスターは試作前量産の数量を現在入手可能としており、両製品の段階は異なる。\n\nTIは工場自動化、自動車、電子機器向けの半導体企業だ。今回は家庭用ルーターやノートPCを高速化するアクセサリーではない。制御器、センサー、動作を生むアクチュエーターをつなぐため、機械内部に組み込む部品だ。工場では転送量だけでなく、必要な時刻に予測できる通信が重要になる。\n\n産業用Ethernetは配線が似ていても通信規約によってソフトウェアと互換性が変わる。EtherCAT、EtherNet/IP、PROFINETは同一機能の別名ではない。このモジュールは対応規約に合わせたファームウェアで同じ設計を使う方式であり、設定なしに3規約を同時処理するという説明ではない。\n\n公式発表ではAM2612マイコンとDP83826AI物理層部品を使い、2つのArm Cortex-R5Fコアと外部メモリーを統合する。SoMは主要部品を組み合わせたモジュールを機器設計に取り込む形式で、工場の制御システム全体を置き換える完成コンピューターではない。\n\nTIOM2212は2チャネルのIO-Linkマスターで、現場のセンサー・アクチュエーターと上位ネットワークの橋渡しを狙う。併せて発表されたが同じ部品の別名ではない。機能と供給段階を混同せず、試作前量産品があっても完成装置の検証は別に必要となる。\n\n編集部の分析では、規約ごとに別基板を作る負担を減らせる可能性がある。ただし完成品認証や顧客との相互接続試験が自動で終わるわけではない。既存ソフトとの連携、更新管理、保守手順も必要だ。一律の費用削減率や開発期間短縮値は確認できない。\n\n11月10～13日のミュンヘンのelectronicaで実演予定だが、展示日は一般販売確定日ではない。公式製品ページもプレビュー表示となっている。年末供給計画と現在注文できる部品を分け、必要な規約とソフトウェア資料が自社設計に用意されているか確認したい。"
+        },
+        "zh": {
+          "title": "TI推出可用固件选择协议的工业以太网模块",
+          "summary": "TICS100MOD计划年底前供应，与同场发布的IO-Link芯片预生产供货阶段不同。",
+          "body": "德州仪器11月5日发布TICS100MOD，在同一硬件平台支持EtherCAT、EtherNet/IP和PROFINET，通过固件配置在启动时选择协议。公司计划于2026年底前供应。另一款TIOM2212 IO-Link主站器件目前可获取预生产数量，两者供货阶段需要区分。\n\nTI面向工厂自动化、汽车和电子设备提供半导体。这不是提高家庭路由器或笔记本上网速度的配件，而是集成进机器、连接控制器、传感器和执行器的部件。执行器把控制指令转为动作，工厂通信除了吞吐量，还重视按时且可预测地交换数据。\n\n工业以太网即使物理连接相似，也会因协议而有不同软件和兼容条件。EtherCAT、EtherNet/IP、PROFINET并非同一功能的不同名称。新模块允许针对所需协议配置固件，复用硬件设计，不能理解成无需设置便同时运行全部三种协议。\n\n官方称模块以AM2612微控制器和DP83826AI以太网物理层器件为基础，集成两颗Arm Cortex-R5F和外部内存来运行协议软件。SoM将关键部件封装为可集成单元，并不是替代整个工厂控制系统的独立成品电脑。\n\nTIOM2212是双通道IO-Link主站，负责连接现场传感器、执行器与上层网络。同场公布不表示两者是同一器件，混淆功能与上市阶段可能影响采购。预生产数量可购买也不替代最终设备验证。\n\n本刊分析认为，复用通信硬件可能减少为不同协议分别设计电路板的负担，但不能自动完成整机认证或客户互操作测试。现有控制软件衔接、固件管理和维护流程仍需设计。没有统一可验证的成本降幅或周期节约数字，因此不作量化承诺。\n\nTI计划在11月10日至13日慕尼黑electronica演示，展会日期不是TICS100MOD确定的公开销售日期。产品页目前标为预览。开发者应区分年底供货计划和当前可订器件，并检查所需协议与软件资料是否已经适用于自身设计。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Texas Instruments — Official announcement via PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/ti-simplifies-industrial-ethernet-integration-for-connected-factories-with-the-industrys-smallest-fully-featured-multiprotocol-communications-module-302930134.html"
+        },
+        {
+          "name": "TI — TICS100MOD product status",
+          "url": "https://www.ti.com/product/TICS100MOD"
+        },
+        {
+          "name": "TI — Multiprotocol Ethernet application brief",
+          "url": "https://www.ti.com/document-viewer/lit/html/sbaa890"
+        }
+      ],
+      "image": {
+        "url": "assets/20261109-ti.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "AI 생성 참고 이미지: 산업용 연결 주제를 설명하는 일반 장면",
+          "en": "AI-generated reference image: generic scene illustrating Industrial connectivity",
+          "ja": "AI生成参考画像：産業用接続を説明する一般的な場面",
+          "zh": "AI生成参考图：说明工业连接主题的一般场景"
+        }
+      }
+    },
+    {
+      "id": "sony-rialto65-venice2-20261029",
+      "date": "2026-10-29",
+      "published": "2026-11-09",
+      "source": "Sony Electronics — RIALTO 65 announcement",
+      "url": "https://sony.mediaroom.com/2026-10-29-Sony-Electronics-to-Launch-RIALTO-65-Camera-Extension-System,-Expanding-the-VENICE-2-Camera-to-the-65mm-Format",
+      "category": {
+        "ko": "영상 제작",
+        "en": "Cinematography",
+        "ja": "映像制作",
+        "zh": "影视制作"
+      },
+      "locales": {
+        "ko": {
+          "title": "소니 RIALTO 65, VENICE 2에 대형 센서 선택지…출시는 내년 상반기 예정",
+          "summary": "센서 면적은 35mm 풀프레임의 약 2.2배다. 65mm라는 이름과 실제 센서 치수는 구분해야 한다.",
+          "body": "소니가 10월 29일 발표한 RIALTO 65는 기존 VENICE 2 시네마 카메라와 결합하는 대형 이미지 센서 확장 시스템이다. 미국 발표 기준 공급은 2027년 상반기 예정이며 권장소비자가격은 8만 달러다. 지금 판매가 시작됐다는 소식이 아니라 내년 도입을 준비하는 제품 발표다. 기존 카메라를 유지하면서 더 큰 촬영 영역을 선택할 수 있게 하는 구성이 핵심이다.\n\nVENICE 2는 영화·광고 등 전문 영상 제작에 쓰는 소니의 CineAlta 카메라 계열이다. RIALTO 65는 일반 소비자 카메라의 외장 렌즈처럼 단독으로 쓰는 제품이 아니다. 센서가 들어 있는 카메라 헤드를 VENICE 2 본체와 연결하며 녹화 등 주요 기능은 본체가 맡는다. 소니는 전용 펌웨어 6.00 이상이 필요하다고 명시했다. 기존 장비에 붙인다는 설명만으로 모든 현재 구성에서 즉시 작동한다고 가정할 수 없다.\n\n이름 속 숫자보다 실제 촬영 영역\n센서 치수는 가로 53.75mm, 세로 35.83mm, 대각선 약 64.60mm다. 65mm는 영화 필름 규격에서 온 촬영 영역의 등급 표현으로 센서의 한 변 길이가 정확히 65mm라는 뜻은 아니다. 면적은 35mm 풀프레임 센서의 약 2.2배다. 이 비교는 면적에 관한 것이며 사진 해상도나 빛 감도가 무조건 2.2배 좋아진다는 의미로 바꿔 읽어서는 안 된다.\n\n발표된 기능에는 9.6K 1.5:1 오픈 게이트와 9.6K 2.20:1 읽기 방식이 포함된다. 오픈 게이트는 넓은 센서 영역을 활용해 후반 작업에서 화면 구성을 선택할 여지를 주는 촬영 방식이다. 실제 결과는 렌즈가 덮는 이미지 영역, 촬영 비율, 후반 작업에 따라 달라진다. 큰 센서만으로 특정한 영화적 효과나 얕은 심도가 자동으로 보장되지는 않는다.\n\n헤드 분리와 기존 워크플로의 결합\n카메라 헤드를 케이블로 분리하는 확장 모드와 본체에 직접 붙이는 스튜디오 모드를 지원한다. 공간이 좁거나 카메라 본체를 그대로 두기 어려운 구도에서 설치 선택지를 늘리려는 접근이다. 녹화는 기존 VENICE 2의 X-OCN과 AXS 메모리 작업 흐름을 활용한다. 편집부의 분석으로는 새 형식을 도입하면서 보유 장비 일부를 계속 쓰는 데 의미가 있지만, 모든 추가 비용이 사라지는 것은 아니다.\n\n렌즈 마운트는 포함되지 않으며 제삼자 마운트 어댑터가 필요하다. 더 큰 영역을 충분히 덮는 렌즈인지도 따져야 한다. 미국 권장가 8만 달러는 시스템의 발표 가격이며 지역별 세금·견적이나 전체 제작 장비 비용을 뜻하지 않는다. 옵션 케이블 등 별도 항목도 있다. 따라서 기존 카메라 보유 여부만으로 실제 도입 예산을 계산하기는 어렵다.\n\n소니는 발표 사양이 최종 제품에서 달라질 수 있고 추가 읽기 모드도 향후 업데이트로 제공될 예정이라고 밝혔다. 확정된 국내 판매일이나 국내 가격은 이번 미국 자료에서 확인되지 않았다. 영상 제작자는 센서 크기와 해상도뿐 아니라 필요한 펌웨어, 렌즈 호환성, 저장·후반 작업 조건을 함께 검토해야 한다. 이번 기사는 공개 자료 분석이며 실제 촬영이나 화질 평가를 수행한 사용기는 아니다."
+        },
+        "en": {
+          "title": "Sony RIALTO 65 adds a larger-sensor option to VENICE 2, planned for 2027",
+          "summary": "Its sensor area is about 2.2 times 35mm full frame. The 65mm format name is not the length of one sensor edge.",
+          "body": "Sony's October 29 RIALTO 65 announcement describes a larger-sensor extension system for existing VENICE 2 cinema cameras. US availability is tentatively the first half of 2027, at an announced US$80,000 MSRP. This is a future-product announcement, not confirmation of sales starting now. The key change is access to a larger imaging area while retaining the camera body.\n\nVENICE 2 belongs to Sony's CineAlta professional cinema range used for productions such as films and advertising. RIALTO 65 is not an independently usable consumer-camera accessory. Its sensor head connects to VENICE 2, whose body handles primary functions including recording. Dedicated firmware version 6.00 or later is required. Attachment to existing equipment does not establish immediate compatibility with every current setup.\n\nLook beyond the format name\nThe sensor measures 53.75 by 35.83mm, with an approximately 64.60mm diagonal. The 65mm designation comes from a cinema-film format and describes an imaging-area class, not an edge measuring exactly 65mm. Its area is about 2.2 times that of 35mm full frame. That is an area comparison, not a promise of 2.2 times the resolution or sensitivity.\n\nAnnounced readout modes include 9.6K 1.5:1 Open Gate and 9.6K 2.20:1. Open Gate uses a broad sensor area to preserve framing choices for post-production. Results still depend on lens coverage, aspect ratio and the finishing workflow. A larger sensor alone does not guarantee a particular cinematic appearance or depth of field.\n\nSeparate the head, retain the workflow\nExtension Mode separates the head from the body by cable; Studio Mode attaches it directly. This increases placement choices where a full camera body is difficult to position. Recording uses the established VENICE 2 X-OCN and AXS-media workflow. Our interpretation is that preserving some existing equipment can help adoption of the larger format, without eliminating every additional cost.\n\nThe system does not include a lens mount and requires a third-party adapter. Lens coverage of the larger image area also needs checking. The $80,000 figure is the US announced MSRP, not a regional tax-inclusive quote or a complete production-system budget. Optional accessories, including a longer cable, are separate. Owning the camera body alone is insufficient to calculate the final installation cost.\n\nSony says final specifications may differ and further readout modes are planned through software updates. The US release does not establish a Korean launch date or price. Production teams should assess firmware, lens compatibility, recording and post-production conditions alongside sensor size and resolution. This report analyzes published information; it is not a hands-on shooting or image-quality test."
+        },
+        "ja": {
+          "title": "ソニーRIALTO 65、VENICE 2に大型センサーの選択肢　2027年前半予定",
+          "summary": "撮像面積は35mmフルサイズの約2.2倍。「65mm」の名称と実寸は区別する必要がある。",
+          "body": "ソニーが10月29日に発表したRIALTO 65は、既存のVENICE 2と組み合わせる大型センサー拡張システムだ。米国発表では2027年前半の供給を予定し、希望小売価格は8万米ドル。現在の販売開始を伝えるものではない。カメラ本体を活用しながら広い撮像面積を選べる点が中心となる。\n\nVENICE 2は映画や広告などの専門制作に使うCineAltaカメラだ。RIALTO 65単体で一般カメラのように使うものではない。センサーヘッドを接続し、記録など主要機能は本体が担う。専用ファームウェア6.00以降が必要であり、既存機に付くからといって全構成ですぐ使えるとは限らない。\n\nセンサー実寸は53.75×35.83mm、対角約64.60mm。65mmは映画フィルムに由来する撮像領域の区分で、一辺が65mmという意味ではない。35mmフルサイズの約2.2倍という比較は面積の話で、解像度や感度が必ず2.2倍になるという保証ではない。\n\n9.6Kの1.5:1オープンゲートと2.20:1読み出しを発表した。オープンゲートは広い領域を使い、後処理で構図を選ぶ余地を確保する。実際の映像はレンズのカバー範囲、比率、仕上げ工程にも左右される。大型センサーだけで特定の映画的表現や浅い被写界深度が自動的に得られるわけではない。\n\nヘッドをケーブルで離す拡張モードと、本体に直結するスタジオモードがある。狭い場所などで設置の自由度を増す構成で、記録にはVENICE 2のX-OCN、AXSメディアを活用する。編集部の分析では既存資産を一部生かせるが、追加費用がなくなるわけではない。\n\nレンズマウントは含まれず、他社アダプターが必要だ。大きな領域を覆うレンズかも確認したい。8万ドルは米国発表価格で、地域別税込見積もりやシステム総額ではない。長いケーブルなどのオプションも別となるため、本体保有だけで予算は決められない。\n\n発表仕様は最終品で変わる可能性があり、追加の読み出しモードは今後の更新予定だ。米国資料から韓国の発売日・価格は確認できない。センサー寸法だけでなく、ファームウェア、レンズ、記録と後処理の条件を確認したい。本記事は公開情報の分析で、実機撮影や画質試験ではない。"
+        },
+        "zh": {
+          "title": "索尼RIALTO 65为VENICE 2提供更大传感器选项，计划2027年上半年供应",
+          "summary": "面积约为35mm全画幅的2.2倍；65mm格式名称不能当作传感器边长。",
+          "body": "索尼10月29日公布RIALTO 65大尺寸传感器扩展系统，可与现有VENICE 2电影机结合。美国公告暂定2027年上半年供应，建议零售价8万美元。这是未来产品计划，并非现在已经开售的消息，核心是在保留机身的同时增加更大的成像区域。\n\nVENICE 2属于索尼用于电影、广告等专业制作的CineAlta系列。RIALTO 65不是可独立使用的普通相机附件，其传感器机头连接VENICE 2，录制等主要功能由机身承担，并要求专用6.00或更高版本固件。适配现有设备不等于所有当前配置都能立即使用。\n\n传感器为53.75×35.83mm，对角线约64.60mm。65mm来自电影胶片格式，指成像区域级别，而非某条边恰好65mm。约2.2倍是与35mm全画幅比较的面积，不保证分辨率或感光能力也提高2.2倍。\n\n公布模式包括9.6K 1.5:1开放画幅和9.6K 2.20:1读取。开放画幅利用较广传感器区域，为后期构图保留空间。最终效果仍取决于镜头覆盖、画面比例和后期流程，大传感器本身不能自动保证特定电影观感或浅景深。\n\n扩展模式可用线缆将机头与机身分离，摄影棚模式则直接连接，旨在增加狭小位置等场景的安装选择。录制沿用VENICE 2的X-OCN与AXS存储流程。本刊分析认为，可保留部分现有资产有助于引入新格式，但不意味着所有额外支出消失。\n\n系统不含镜头卡口，需要第三方适配器，还应核查镜头能否覆盖更大画幅。8万美元是美国公告建议价，不是各地区含税报价或完整制作系统成本，较长线缆等配件另外计算，不能仅凭已有机身就确定预算。\n\n索尼表示最终规格可能变化，额外读取模式计划通过软件更新提供。美国资料没有确认韩国上市日期和价格。制作团队应同时评估固件、镜头兼容、存储及后期条件。本文基于公开资料分析，没有进行实机拍摄或画质体验测试。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Sony Electronics — RIALTO 65 announcement",
+          "url": "https://sony.mediaroom.com/2026-10-29-Sony-Electronics-to-Launch-RIALTO-65-Camera-Extension-System,-Expanding-the-VENICE-2-Camera-to-the-65mm-Format"
+        }
+      ],
+      "image": {
+        "url": "assets/20261109-sony.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "AI 생성 참고 이미지: 영상 제작 주제를 설명하는 일반 장면",
+          "en": "AI-generated reference image: generic scene illustrating Cinematography",
+          "ja": "AI生成参考画像：映像制作を説明する一般的な場面",
+          "zh": "AI生成参考图：说明影视制作主题的一般场景"
+        }
+      }
+    },
+    {
+      "id": "seeed-xiao-stm32c5-canfd-20261104",
+      "date": "2026-11-04",
+      "published": "2026-11-09",
+      "source": "Seeed Studio — XIAO STM32C5 announcement",
+      "url": "https://www.seeedstudio.com/blog/2026/11/04/introducing-xiao-stm32c5-the-first-stm32-powered-xiao-with-native-can-fd-and-programmable-imu-heating/",
+      "category": {
+        "ko": "개발 보드",
+        "en": "Development boards",
+        "ja": "開発ボード",
+        "zh": "开发板"
+      },
+      "locales": {
+        "ko": {
+          "title": "손끝 크기 XIAO에 CAN FD와 센서 가열 기능…STM32C5 보드 공개",
+          "summary": "Seeed가 11월 4일 소개한 보드는 통신과 움직임 측정을 함께 다룬다. 두 번째 CAN 채널에는 별도 부품이 필요하다.",
+          "body": "Seeed Studio가 11월 4일 STM32 기반의 첫 XIAO 개발 보드를 소개했다. XIAO STM32C5는 144MHz Arm Cortex-M33 코어를 쓰는 STM32C5A3CG를 중심으로 CAN FD 통신과 6축 관성 센서, 센서 주변 가열 저항을 한 보드에 묶었다. 공식 소개에서는 미납땜형 9.90달러, 핀 납땜형 10.90달러로 구매 가능하다고 안내했다. 발표일과 구매 가능 안내가 함께 제시됐지만 국가별 배송·재고 일정까지 같다는 의미는 아니다.\n\nSeeed는 소형 개발 보드와 센서, 연결 장치를 공급하는 업체다. XIAO는 프로젝트에 넣을 수 있는 작은 제어 보드 계열이며 완성형 로봇이나 일반 소비자용 컴퓨터가 아니다. 프로그램을 작성하고 외부 장치와 연결해야 목적에 맞는 동작을 한다. 이번 제품의 변화는 STM32 생태계를 이 작은 보드 계열로 가져오면서 통신과 움직임 제어에 필요한 기능을 함께 제공한다는 점이다.\n\nCAN 제어기 두 개가 곧 단자 두 쌍은 아니다\nCAN FD는 제어 장치와 센서 등이 메시지를 주고받는 통신 방식이다. 프로세서 내부의 제어기는 메시지를 처리하고, 트랜시버는 이를 실제 배선에 맞는 전기 신호로 바꾼다. 이 보드에는 두 개의 CAN FD 제어기가 있지만, 한 채널에만 TI TCAN3403-Q1 트랜시버가 연결돼 CANH·CANL 접점으로 나온다. 두 번째 채널을 물리적인 버스로 쓰려면 외부 트랜시버를 추가해야 한다.\n\n가열 기능도 센서를 저절로 정확하게 만드는 마법은 아니다. 가속도계와 자이로로 구성된 관성 센서는 온도 변화에 따라 정지 상태에서도 측정값이 달라질 수 있다. 보드는 펌웨어로 가열 저항을 제어해 예열하거나, 온도 피드백을 이용해 조건을 관리할 수 있게 한다. 실제 보정 성능은 제어 코드와 주변 환경에 달려 있으며, 공식 소개만으로 특정 오차 수치가 보장된다고 말할 수 없다.\n\n저장 공간과 실시간 작업은 구분해야 한다\n공식 사양은 내부 프로그램 플래시 1MB, SRAM 256KB, 외부 플래시 16MB다. 외부 저장 공간은 센서 기록이나 설정, 통신 로그에 쓸 수 있지만 실행 중 작업 메모리가 같은 양으로 늘어났다는 뜻은 아니다. USB-C 연결과 배터리 충전 기능도 제공된다. 소형 기록 장치를 만들 때 유용할 수 있으나 최종 사용 시간은 배터리와 가열 동작, 통신 설정을 포함한 설계에 달려 있다.\n\n편집부의 분석으로는 이 보드는 작은 로봇의 센싱과 제어를 나누거나, CAN 연결 장치의 데이터를 수집하려는 개발자에게 출발점이 될 수 있다. 다만 보드를 구매하는 것과 산업 장비의 안전성·신뢰성을 검증하는 것은 별개의 작업이다. 공식 데모가 있다는 이유만으로 어떤 모터와도 바로 호환되거나 완제품 인증이 끝났다고 해석해서는 안 된다. 배선과 전원, 소프트웨어 구성을 직접 맞춰야 한다.\n\n개발 환경은 공식 안내의 STM32CubeIDE, Zephyr 기반 PlatformIO, MicroPython 지원 자료를 출발점으로 확인할 수 있다. 기능별 지원 상태와 예제는 현재 문서를 확인해야 한다. 별도로 예고한 CAN FD 분석기는 이번 보드와 다른 개발 항목이며, 같은 날짜에 판매를 시작했다고 확인되지 않았다. 필요한 기능이 지금 보드에 있는지, 추가 하드웨어나 향후 소프트웨어에 달렸는지를 나누어 보는 것이 구매 판단에 도움이 된다."
+        },
+        "en": {
+          "title": "XIAO STM32C5 brings CAN FD and controlled sensor heating to a tiny board",
+          "summary": "Seeed's November 4 introduction combines communication and motion sensing. A second physical CAN channel requires an extra transceiver.",
+          "body": "Seeed Studio introduced its first STM32-powered XIAO development board on November 4. Built around the STM32C5A3CG and its 144MHz Arm Cortex-M33 core, XIAO STM32C5 combines CAN FD communication, a six-axis inertial sensor and heating resistors around the sensor. The announcement listed availability at US$9.90 without soldered headers and $10.90 with headers. That does not establish identical stock or delivery dates in every country.\n\nSeeed supplies compact boards, sensors and connected devices. XIAO is a family of small controllers for projects, not a finished robot or general consumer computer. It needs application code and external connections. The change is the combination of the STM32 ecosystem with communication and motion-control features in this small board family.\n\nTwo controllers are not two complete physical buses\nCAN FD lets controllers and sensors exchange messages. A controller handles those messages, while a transceiver translates them into electrical signals for the wiring. Although the chip has two CAN FD controllers, only one channel has the onboard TI TCAN3403-Q1 transceiver and exposed CANH/CANL connections. Using the second as a physical CAN bus requires an external transceiver.\n\nHeating is also not an automatic guarantee of accuracy. Accelerometer and gyroscope readings can shift with temperature even while a sensor is stationary. Firmware can control the board's heating resistors for warm-up and use temperature feedback to manage conditions. Actual correction depends on code and environment; the introduction alone does not guarantee a particular measurement error.\n\nStorage is different from working memory\nThe specifications list 1MB of internal program flash, 256KB of SRAM and 16MB of external flash. Extra storage can hold sensor records, configuration or communication logs; it does not add an equal amount of live working memory. USB-C and battery charging are included. Runtime in a portable design still depends on the battery, heating activity and communication configuration.\n\nOur interpretation is that the board can provide a starting point for separating sensing and control in a small robot, or logging CAN-connected equipment. Buying a board is different from verifying industrial safety and reliability. An official demonstration does not establish compatibility with every motor or certification of a finished system. Wiring, power and software must fit the application.\n\nSeeed points to STM32CubeIDE, PlatformIO with Zephyr, and MicroPython development resources. Current documentation should establish which functions and examples are supported. A separately mentioned CAN FD analyzer remains a different development item; the release does not establish its sale on the board's introduction date. Buyers should distinguish features already on this board from those needing extra hardware or future software."
+        },
+        "ja": {
+          "title": "XIAO STM32C5登場　小型基板にCAN FDとセンサー加熱機能",
+          "summary": "Seeedが11月4日に紹介。通信と動作計測をまとめるが、2本目の物理CANバスには外付け部品が必要だ。",
+          "body": "Seeed Studioは11月4日、STM32を初めて採用したXIAO開発ボードを紹介した。144MHzのArm Cortex-M33を備えるSTM32C5A3CGを中心に、CAN FD、6軸慣性センサー、その周囲の加熱抵抗を搭載する。公式発表は未はんだ付け版9.90米ドル、ピン実装版10.90米ドルで購入可能と案内した。ただし各国の在庫や配送日が同一という意味ではない。\n\nSeeedは小型ボードやセンサー、接続機器を提供する企業だ。XIAOはプロジェクトに組み込む制御基板のシリーズで、完成ロボットや一般向けPCではない。コードを書き、外部機器につなぐ必要がある。今回の変化は、この小さなシリーズにSTM32の開発環境と通信・動作制御機能を持ち込んだことだ。\n\nCAN FDでは制御機器やセンサーがメッセージを交換する。コントローラーはメッセージを処理し、トランシーバーが配線に合う電気信号へ変換する。制御器は2系統あるが、TI TCAN3403-Q1とCANH・CANL接点が用意されるのは1系統のみ。2系統目を物理バスとして使うには外付けトランシーバーが要る。\n\n加熱も自動的な精度保証ではない。加速度計とジャイロは温度で値がずれる場合があり、抵抗をファームウェアで制御して予熱し、温度フィードバックで条件を管理する仕組みだ。補正の成果はコードと環境に依存し、発表だけから特定の誤差が保証されるとは言えない。\n\n仕様は内部プログラムフラッシュ1MB、SRAM 256KB、外部フラッシュ16MB。外部容量はログや設定保存に使えるが、実行中の作業メモリーが同量増えるわけではない。USB-Cと充電機能も備える。携帯機器の稼働時間は電池、加熱、通信設定を含む設計次第になる。\n\n編集部の分析では、小型ロボットで計測と制御を分担させたり、CAN機器の記録を集めたりする出発点になり得る。ただし購入と産業装置の安全性・信頼性検証は別だ。公式デモがあっても、あらゆるモーターとの互換性や完成品認証を意味しない。配線、電源、ソフトウェアを用途に合わせる必要がある。\n\n公式案内はSTM32CubeIDE、Zephyrを使うPlatformIO、MicroPythonの資料を示す。機能別の対応は最新文書で確認したい。別途予告されたCAN FDアナライザーは別の開発項目で、同日に発売されたとは確認されていない。現在の基板でできることと、追加部品や将来の更新が必要なことを分けて判断したい。"
+        },
+        "zh": {
+          "title": "XIAO STM32C5发布：小型开发板加入CAN FD与传感器加热",
+          "summary": "Seeed于11月4日介绍新板，将通信和运动感知结合；第二路物理CAN总线仍需外接收发器。",
+          "body": "Seeed Studio在11月4日介绍首款采用STM32的XIAO开发板。XIAO STM32C5围绕144MHz Arm Cortex-M33内核的STM32C5A3CG，集成CAN FD、六轴惯性传感器及周边加热电阻。公告列出无焊接排针版本9.90美元、已焊排针版本10.90美元并称可购买，但不代表各国库存和配送时间完全一致。\n\nSeeed提供小型开发板、传感器和连接设备。XIAO是用于项目的控制板系列，不是成品机器人或普通电脑，需要编程并连接外部设备。此次变化是在紧凑系列中引入STM32生态，同时提供通信和运动控制所需功能。\n\nCAN FD让控制器和传感器交换消息。控制器处理消息，收发器将其转换成适合线路的电信号。芯片有两路CAN FD控制器，但仅一路接入板载TI TCAN3403-Q1并引出CANH、CANL。第二路若要成为物理总线，必须增加外部收发器。\n\n加热并不自动保证测量精度。加速度计和陀螺仪即使静止，也可能因温度而发生读数漂移。固件可控制电阻预热，并结合温度反馈管理条件。具体补偿效果取决于代码和环境，公告不能证明某个误差值得到保证。\n\n规格包括1MB内部程序闪存、256KB SRAM和16MB外部闪存。外部空间可存储日志和配置，不等于运行内存增加相同容量。板上还有USB-C与电池充电功能，但便携设备续航仍取决于电池、加热行为和通信配置。\n\n本刊分析认为，它可作为小型机器人感知与控制分工、CAN设备数据记录的起点。购买开发板不等于完成工业安全与可靠性验证；官方演示也不保证兼容所有电机或完成整机认证。接线、电源和软件仍需针对用途设计。\n\n官方列出STM32CubeIDE、结合Zephyr的PlatformIO和MicroPython资源，具体功能支持应以当前文档为准。另行预告的CAN FD分析仪是另一开发项目，不能说与开发板同日上市。区分现有功能、额外硬件需求及未来软件更新，才有助于判断是否适合购买。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Seeed Studio — XIAO STM32C5 announcement",
+          "url": "https://www.seeedstudio.com/blog/2026/11/04/introducing-xiao-stm32c5-the-first-stm32-powered-xiao-with-native-can-fd-and-programmable-imu-heating/"
+        },
+        {
+          "name": "Seeed Studio Wiki — XIAO STM32C5 getting started",
+          "url": "https://wiki.seeedstudio.com/xiao_stm32c5_getting_started/"
+        }
+      ],
+      "image": {
+        "url": "assets/20261109-xiao.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "AI 생성 참고 이미지: 개발 보드 주제를 설명하는 일반 장면",
+          "en": "AI-generated reference image: generic scene illustrating Development boards",
+          "ja": "AI生成参考画像：開発ボードを説明する一般的な場面",
+          "zh": "AI生成参考图：说明开发板主题的一般场景"
+        }
+      }
+    },
+    {
+      "id": "renesas-rzt2n-industrial-control-20261105",
+      "date": "2026-11-05",
+      "published": "2026-11-09",
+      "source": "Renesas — RZ/T2N introduction",
+      "url": "https://www.renesas.com/en/about/newsroom/new-rzt2n-mpu-integrates-motor-control-industrial-ethernet-and-application-processing-robots-and",
+      "category": {
+        "ko": "산업용 반도체",
+        "en": "Industrial chips",
+        "ja": "産業用半導体",
+        "zh": "工业芯片"
+      },
+      "locales": {
+        "ko": {
+          "title": "르네사스 RZ/T2N, 모터 제어·산업 통신·리눅스를 한 칩에",
+          "summary": "최대 4축 제어용 기능을 통합했다. 칩·평가 보드 공급과 2027년 기능 안전 소프트웨어 일정은 구분된다.",
+          "body": "르네사스가 11월 5일 공개한 RZ/T2N은 최대 4축 모터 제어와 산업용 이더넷, 리눅스 애플리케이션 처리를 한 칩에 통합한 64비트 마이크로프로세서다. 회사는 칩과 평가 보드를 발표 당일부터 공급한다고 밝혔다. 반면 관련 기능 안전 소프트웨어는 2027년 하반기 제공 예정으로 설명했다. 하드웨어를 지금 구할 수 있다는 것과 모든 소프트웨어 구성이 완성됐다는 것은 다른 일정이다.\n\n르네사스는 자동차·산업 장치 등에 쓰는 제어용 반도체와 아날로그·전원·연결 솔루션을 공급하는 업체다. RZ/T2N은 스마트폰이나 게임용 PC의 교체 부품이 아니라 로봇, 다축 서보, PLC 같은 장비를 설계하는 개발자용 부품이다. PLC는 기계의 동작 순서를 제어하는 산업용 제어기다. 이런 장치에서는 복잡한 프로그램 실행과 정해진 시간 안에 모터를 제어하는 작업을 함께 다뤄야 한다.\n\n서로 다른 일을 나누는 두 종류의 코어\n공식 사양은 최대 1.2GHz Cortex-A55 코어 두 개와 최대 800MHz Cortex-R52 코어 두 개다. 앞쪽은 애플리케이션 처리, 뒤쪽은 실시간 제어를 맡는 구성이다. 주파수를 모두 더해 하나의 성능 점수처럼 읽을 수는 없다. 중요한 차이는 계산량만이 아니라 제어 명령을 일정한 시간에 실행하는 능력과 프로그램 역할 분담에 있다.\n\n각 R52에는 오류 정정 기능인 ECC를 갖춘 576KB의 밀결합 메모리가 제공된다. 프로세서 가까이에서 사용하는 메모리는 제어 코드의 실행 시간 변동을 줄이는 데 도움을 줄 수 있다. 최대 4축이라는 설명도 모터를 연결하기만 하면 완성 로봇이 된다는 뜻은 아니다. 모터 구동 회로와 위치 측정 장치, 전원 및 제어 소프트웨어가 필요하고 전체 장비에 맞춘 검증을 거쳐야 한다.\n\n공장 통신과 소비자용 인터넷의 차이\nRZ/T2N은 EtherCAT, PROFINET RT/IRT, EtherNet/IP 같은 산업 통신을 지원한다. 기계끼리 데이터를 주고받을 때는 전달 내용뿐 아니라 시간 동기화와 예측 가능한 응답이 중요하다. 칩은 세 개의 기가비트 이더넷 MAC과 스위치, EtherCAT 장치 제어기를 통합하며 TSN을 활용하는 시간 동기 네트워크도 겨냥한다. 일반 웹 접속 속도를 높인다는 발표와는 목적이 다르다.\n\n편집부의 분석으로는 통신과 제어 부품을 묶으면 보드 면적과 부품 목록을 줄이고 제품군 사이에 설계를 재사용할 여지가 생긴다. 다만 회사가 설명한 절감 가능성을 모든 장비의 확정된 원가 절감률로 바꿀 수는 없다. 통합 부품 하나의 선택이 전체 설계의 전원·열·소프트웨어 구조에도 영향을 준다. 실제 개발 기간 단축은 기존 설계와 필요한 검증 수준에 따라 달라질 것이다.\n\n회사는 11월 10~13일 독일 뮌헨 일렉트로니카에서 시연을 예고했다. 이는 전시 일정이지 발표일이나 기능 안전 소프트웨어의 출시일이 아니다. 보안 부팅·펌웨어 업데이트 지원 역시 완성 장비의 안전 인증을 자동으로 의미하지 않는다. 개발자는 지금 제공되는 평가 환경과 내년 하반기 예정 기능을 구분하고, 자신의 제품에 필요한 통신·안전 요구가 어느 단계에서 충족되는지 확인해야 한다."
+        },
+        "en": {
+          "title": "Renesas RZ/T2N combines motor control, industrial networking and Linux",
+          "summary": "The chip integrates functions for up to four axes. Hardware availability and the 2027 functional-safety software plan are separate milestones.",
+          "body": "Renesas introduced the 64-bit RZ/T2N microprocessor on November 5, combining up-to-four-axis motor control, industrial Ethernet and Linux application processing. It says the device and evaluation board are available from the announcement date. Associated functional-safety software, however, is planned for the second half of 2027. Availability of the hardware does not mean every software configuration is already complete.\n\nRenesas supplies embedded processors and analog, power and connectivity components for automotive and industrial systems. RZ/T2N targets designers of robots, multi-axis servos and programmable logic controllers, or PLCs, rather than smartphone or gaming-PC upgrades. A PLC controls machinery sequences. Such equipment must combine complex application tasks with motor commands delivered within predictable deadlines.\n\nDifferent cores for different work\nThe chip has two Cortex-A55 cores at up to 1.2GHz and two Cortex-R52 cores at up to 800MHz. The former handle applications and the latter real-time processing. Adding those clock frequencies does not produce a meaningful overall performance score. The division of work and consistency of command timing matter alongside computing throughput.\n\nEach R52 has 576KB of tightly coupled memory with ECC error correction. Memory close to the processor can help reduce variation in control-code execution time. Similarly, support for up to four axes does not create a finished robot merely by connecting motors. Drive circuits, position sensing, power and control software still need system-level design and verification.\n\nFactory networking serves a different purpose\nSupported protocols include EtherCAT, PROFINET RT/IRT and EtherNet/IP. Machines require timing synchronization and predictable responses as well as correct data. RZ/T2N integrates three Gigabit Ethernet MACs, a switch and an EtherCAT SubDevice Controller, and targets time-synchronized networks using TSN. This is not primarily an announcement about faster ordinary web access.\n\nOur interpretation is that consolidating networking and control can reduce board area and the component list, while enabling reuse across products. The company's stated potential does not establish a fixed cost reduction for every machine. Choosing an integrated component also affects power, heat and software architecture. Actual development savings depend on the previous design and required verification.\n\nRenesas plans demonstrations at electronica in Munich on November 10–13. That is an exhibition schedule, not the announcement date or the release of functional-safety software. Secure boot and firmware-update support do not automatically certify a finished machine. Developers need to distinguish today's evaluation environment from functions planned for next year's second half, and establish when their own networking and safety requirements can be met."
+        },
+        "ja": {
+          "title": "ルネサスRZ/T2N、モーター制御と産業通信、Linuxを1チップに",
+          "summary": "最大4軸向け機能を統合。半導体・評価基板の供給と、2027年予定の機能安全ソフトは別日程だ。",
+          "body": "ルネサスは11月5日、最大4軸モーター制御、産業用イーサネット、Linuxアプリケーション処理を統合する64ビットMPU「RZ/T2N」を発表した。チップと評価基板は同日から提供するとする。一方、関連する機能安全ソフトウェアは2027年後半の予定だ。ハードウェアを入手できることと、全ソフト構成が完成していることは同じではない。\n\nルネサスは車載・産業向けの組み込み処理、アナログ、電源、接続部品を供給する。今回の製品はスマートフォンやゲームPCの交換部品ではなく、ロボット、多軸サーボ、PLCを設計する開発者向けだ。PLCは機械の動作順序を制御する装置で、複雑なプログラムと時間を守るモーター制御の両方が必要になる。\n\nCPUは最大1.2GHzのCortex-A55が2コア、最大800MHzのCortex-R52が2コア。前者がアプリケーション、後者がリアルタイム処理を担う。周波数を足して一つの性能値にすることはできない。処理量だけでなく命令の実行時刻の安定性や役割分担が重要だ。\n\n各R52はECC付き576KBの密結合メモリーを備え、制御コードの実行時間の変動を抑える構成となる。最大4軸という仕様も、モーターをつなげばロボットが完成する意味ではない。駆動回路、位置検出、電源、制御ソフトと装置全体の検証が要る。\n\nEtherCAT、PROFINET RT/IRT、EtherNet/IPなどの産業通信に対応する。機械同士ではデータの内容に加え、同期と予測可能な応答が必要だ。3つのギガビットEthernet MAC、スイッチ、EtherCAT SubDevice Controllerを統合し、TSNによる時刻同期ネットワークも想定する。通常のウェブ閲覧を速くする製品とは目的が異なる。\n\n編集部の分析では、統合により基板面積や部品数を減らし、製品間で設計を再利用する余地がある。ただし各装置の原価が一定割合下がると確定したわけではない。電源、発熱、ソフト構造にも影響し、開発期間短縮は従来設計と検証条件による。\n\n同社は11月10～13日のミュンヘンのelectronicaで実演を予定する。展示日と発表日、機能安全ソフトの提供日は別だ。セキュアブートや更新機能があっても完成装置の安全認証を自動取得するわけではない。現在の評価環境と来年後半の予定機能を分け、自社製品の要件を満たす時期を確認したい。"
+        },
+        "zh": {
+          "title": "瑞萨RZ/T2N将电机控制、工业网络与Linux整合进一颗芯片",
+          "summary": "集成最多四轴控制功能；芯片和评估板供应，与2027年的功能安全软件计划是不同节点。",
+          "body": "瑞萨11月5日发布64位RZ/T2N微处理器，将最多四轴电机控制、工业以太网和Linux应用处理集成在同一芯片中。公司称芯片和评估板当天即可供应，但相关功能安全软件计划于2027年下半年提供。硬件可购买不代表所有软件配置都已完成。\n\n瑞萨面向汽车、工业等领域供应嵌入式处理、模拟、电源及连接器件。RZ/T2N面向机器人、多轴伺服和可编程逻辑控制器PLC的开发者，并非手机或游戏电脑升级配件。PLC负责控制机械动作顺序，这类系统需要同时处理复杂应用和有确定时限的电机指令。\n\n芯片配有两颗最高1.2GHz Cortex-A55核心及两颗最高800MHz Cortex-R52核心，分别承担应用和实时处理。不能把时钟频率相加当作总性能分数；除了运算量，还需看命令执行时间是否稳定，以及任务如何分工。\n\n每颗R52配有576KB带ECC纠错的紧耦合内存，有助于减少控制代码执行时间波动。最多四轴并不意味着接上电机就能得到完整机器人，驱动电路、位置传感、电源、软件和整机验证仍不可少。\n\n产品支持EtherCAT、PROFINET RT/IRT及EtherNet/IP。机器之间不仅要正确传递数据，还要求同步与可预期响应。它集成三个千兆以太网MAC、交换机和EtherCAT从设备控制器，并面向结合TSN的时间同步网络，与提升普通网页访问速度的目标不同。\n\n本刊分析认为，整合控制与网络可能减少板面积和器件数量，也便于跨产品复用设计。但公司所说的潜在节约不能变成所有设备固定的成本降幅。集成器件还影响供电、散热和软件结构，实际开发周期仍取决于旧设计和验证要求。\n\n瑞萨计划于11月10日至13日在慕尼黑electronica演示。展会时间不同于发布日期及功能安全软件上市时间。安全启动和固件更新支持，也不自动等于整机取得安全认证。开发者应区分当前评估环境和明年下半年计划功能，再确认自己的通信与安全要求何时能够满足。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Renesas — RZ/T2N introduction",
+          "url": "https://www.renesas.com/en/about/newsroom/new-rzt2n-mpu-integrates-motor-control-industrial-ethernet-and-application-processing-robots-and"
+        }
+      ],
+      "image": {
+        "url": "assets/20261109-renesas.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "AI 생성 참고 이미지: 산업용 반도체 주제를 설명하는 일반 장면",
+          "en": "AI-generated reference image: generic scene illustrating Industrial chips",
+          "ja": "AI生成参考画像：産業用半導体を説明する一般的な場面",
+          "zh": "AI生成参考图：说明工业芯片主题的一般场景"
+        }
+      }
+    },
     {
       "id": "sony-bravia-ucd-displays-20261106",
       "date": "2026-11-06",
