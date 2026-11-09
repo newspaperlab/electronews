@@ -1,6 +1,289 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "articles": [
+    {
+      "id": "apple-homeview-november-availability-20261110",
+      "date": "2026-10-13",
+      "published": "2026-11-10",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "Apple — HomeView announcement and availability",
+      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+      "sources": [
+        {
+          "name": "Apple — HomeView announcement and availability",
+          "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/"
+        },
+        {
+          "name": "9to5Mac — HomeView launch coverage",
+          "url": "https://9to5mac.com/2026/10/13/apple-homeview-announced-features-price-release-date/"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "애플 홈뷰, 11월 13일 출시 예정…공용 화면의 개인화는 어떻게 작동하나",
+          "summary": "미국 발표 가격은 299달러다. 얼굴 인식과 연동 기기의 잠금 상태가 메시지·일정 표시를 좌우한다.",
+          "body": "애플의 7인치 가정용 디스플레이 홈뷰가 11월 13일 미국 등 첫 판매 시장에서 출시를 앞두고 있다. 제품 발표와 미국 사전 주문은 10월 13일에 시작됐다. 미국 발표 가격은 탁상형과 벽걸이형 모두 299달러다. 두 모델의 판매 개시일은 같지만 설치 형태와 음향 구성은 다르다. 이번 미국 발표에 한국 출시일과 국내 판매가는 제시되지 않았다.\n\n홈뷰는 애플이 음악 재생과 영상통화, 스마트홈 조작을 집 안의 공용 화면에 넣은 기기다. 리퀴드 레티나는 애플이 이 제품의 디스플레이에 쓰는 이름이며, 7인치는 대각선 길이다. 화면은 달력이나 타이머를 표시하고 호환 조명과 다른 가정용 기기를 관리하는 데 쓰인다. 같은 화면을 여러 사람이 번갈아 본다는 점에서 한 사람이 휴대하는 아이폰이나 아이패드와 사용 환경이 다르다. 애플은 이 차이를 다루기 위해 등록한 사람을 얼굴로 구별하는 기능을 넣었다.\n\n개인 내용이 열리는 조건\n애플은 메시지와 캘린더 같은 개인 내용을 표시할 때 얼굴 인식과 연동된 아이폰 또는 아이패드의 상태를 함께 확인한다고 밝혔다. 등록된 사람이 인식되고, 연결한 기기가 가까이 있으며, 그 기기의 잠금이 최근에 해제돼야 한다. 제품 발표는 개인 정보를 읽는 기능을 이 조건에 묶어 설명한다. 예를 들어 가족 공용 위치에서 타이머를 볼 때와 개인 일정을 호출할 때는 화면이 접근하는 정보의 종류가 다르다. 구입 전에 어떤 구성원에게 어떤 연동 기기가 필요한지 확인할 이유다.\n\nA18 칩의 시큐어 익스클레이브는 카메라와 마이크 데이터 처리 영역을 나머지 시스템과 분리하는 구조다. 애플 설명에 따르면 시리 요청에는 기기 내 처리나 프라이빗 클라우드 컴퓨트가 사용될 수 있다. 하드웨어 안에서 일부 감지 정보를 처리하는 것과 모든 음성 요청을 인터넷 없이 수행하는 것은 별개의 기능이다. 사용자가 가진 기기의 애플 인텔리전스 지원 여부와 사용하는 서비스, 언어에 따라 가능한 요청을 따로 살펴야 한다.\n\n탁상형은 화면을 세우는 받침대에 저음을 내는 부품을 넣었다. 벽걸이형은 벽 설치를 전제로 두 개의 드라이버와 별도 음향 조정을 적용한다는 설명이다. 두 모델의 미국 가격이 같아도 설치 위치와 소리가 퍼지는 조건, 전원 배선은 다르다. 주방 조리대에 놓을 때는 화면을 보기 편한 각도가 중요하고, 복도 벽에 달 때는 전원 위치와 화면 앞을 오가는 사람의 동선을 고려하게 된다. 이는 제품 구조를 바탕으로 한 사용 환경 분석이며 실제 음질 평가는 아니다.\n\n호환 기기를 제어하는 기능도 연동 조건을 따로 봐야 한다. 집에 이미 조명이나 온도 조절기가 있다면 제품마다 지원하는 연결 방식과 앱이 다를 수 있다. 홈뷰의 화면 크기나 가격만으로 기존 장치의 조작 가능 여부를 알 수는 없다. 애플의 기기 목록과 사용 중인 기기의 모델 정보를 함께 확인할 사안이다.\n\n미국 외에도 애플은 호주, 캐나다, 인도, 뉴질랜드, 영국, 싱가포르 등을 초기 공급 일정에 포함했다. 구체적인 기능은 지원 서비스와 연동 기기에 따라 달라질 수 있다. 11월 13일은 안내된 시장의 공급 시작일이다. 국내 구매 가능 여부, 사용 언어의 지원 범위, 기존 스마트홈 기기와의 연결은 해당 시장의 공식 판매 및 지원 안내가 확인되는 시점에 판단할 수 있다."
+        },
+        "en": {
+          "title": "Apple HomeView is due November 13, with conditions on shared-screen personalization",
+          "summary": "The announced U.S. price is $299. Face recognition and the paired device’s lock state determine when personal messages and calendar content appear.",
+          "body": "Apple’s seven-inch HomeView is due in the United States and other initial markets on November 13. Apple announced it and opened U.S. preorders on October 13. Both tabletop and wall-mounted models are priced at $299 in the U.S. The start date is shared, while placement and audio design differ. The U.S. release gives no South Korean launch date or price.\n\nHomeView brings music, video calls and smart-home controls to a shared household display. Liquid Retina is Apple’s display name and seven inches is its diagonal measurement. The screen can show a calendar or timer and control compatible household devices. Multiple people use it in the same space, unlike a phone or tablet carried by one person. Apple addresses that distinction with recognition of enrolled faces.\n\nConditions for personal content\nApple says personal messages and calendar content require face recognition and a paired iPhone or iPad to be present and recently unlocked. A communal timer and a personal calendar draw on different information. Before buying, a household can check which members need a paired device and which features they intend to share.\n\nSecure Exclaves on the A18 isolate camera and microphone processing from other parts of the system. Apple says Siri requests can use on-device processing or Private Cloud Compute. Local processing of some sensor data does not establish that every spoken request works offline. Device compatibility, service and language determine what is available.\n\nThe tabletop model houses bass components in its base. The wall-mounted version has two drivers and tuning for wall placement. The same U.S. price buys different installation and acoustic arrangements. A kitchen counter raises viewing-angle questions, while a hallway wall raises power-routing and traffic considerations. This is analysis of placement and design, rather than a listening test.\n\nHome controls also depend on compatibility. Existing lights and thermostats can use different connection methods and apps. Screen size and price say nothing about whether a particular device can be controlled. Compare Apple’s supported-device information with the models already installed.\n\nAustralia, Canada, India, New Zealand, the U.K. and Singapore are among the other initial markets Apple identifies. Features depend on supported services and paired devices. November 13 is the availability date for listed markets. South Korean sales, language support and compatibility with existing home equipment require market-specific information."
+        },
+        "ja": {
+          "title": "アップルHomeView、11月13日発売予定　共用画面に個人情報を出す条件",
+          "summary": "米国価格は299ドル。顔認識に加え、連携端末のロック解除状態がメッセージや予定の表示を左右する。",
+          "body": "アップルの7インチ家庭用画面HomeViewは米国などで11月13日に発売予定だ。発表と米国予約は10月13日に始まった。卓上型と壁掛け型はともに299ドルで、発売日は同じでも設置方法と音響構成が異なる。米国発表に韓国発売日や価格は記載されていない。\n\n音楽、ビデオ通話、スマートホーム操作を家庭の共用画面にまとめる製品だ。Liquid Retinaは画面の名称で、7インチは対角の寸法を示す。タイマーや予定を見たり、対応する照明などを操作したりできる。個人が持ち歩く電話とは利用環境が異なり、登録された顔を識別する機能が用意された。\n\nメッセージや予定を表示するには顔認識だけでなく、ペアリングしたiPhoneまたはiPadが近くにあり、最近ロック解除されている必要があるとアップルは説明する。家族でタイマーを見る場合と個人予定を呼び出す場合では使う情報が違う。家族の誰に連携端末が必要か、購入前に確認できる。\n\nA18のSecure Exclavesはカメラやマイクの処理領域を分離する。Siriの要求には端末内処理またはPrivate Cloud Computeが使われ得る。一部のセンサー情報を端末で処理することと、全ての音声要求がオフラインで使えることは別だ。対応端末、言語、サービスによって機能が変わる。\n\n卓上型は台座に低音用部品を備え、壁掛け型は2基のドライバーと設置に合わせた音響調整を採用する。同価格でも設置や配線、音の広がり方は異なる。台所なら見る角度、廊下なら電源と通行経路が判断材料になる。構造に基づく分析であり、試聴による評価ではない。\n\n家電操作にも対応条件がある。既存の照明や温度調節器は接続方式やアプリが製品ごとに異なる。画面寸法や価格から対応は判断できないため、アップルの案内と自宅の機器の型番を照合したい。\n\n豪州、カナダ、インド、ニュージーランド、英国、シンガポールなども初期供給に含まれる。11月13日は案内された市場の発売日だ。韓国での販売、言語対応、既存機器との接続は各市場の公式情報で確かめたい。"
+        },
+        "zh": {
+          "title": "苹果HomeView计划11月13日上市，共用屏幕如何显示个人内容",
+          "summary": "美国公布价格为299美元。面部识别和配对设备的解锁状态会影响消息、日历的显示。",
+          "body": "苹果7英寸家用显示设备HomeView计划于11月13日在美国等首批市场上市。产品与美国预订于10月13日公布并启动。桌面款和壁挂款美国定价均为299美元，上市日期相同，安装和音响结构不同。美国公告未列出韩国上市日期及价格。\n\nHomeView把音乐、视频通话和智能家居控制集中到共用屏幕。Liquid Retina是苹果的显示屏名称，7英寸指对角线。它可显示日历、计时器并操作兼容灯具等设备。家庭成员在同一位置轮流使用，与个人随身手机的场景不同，因此苹果加入注册人脸识别。\n\n苹果称，显示消息、日历等个人内容时，除了识别已登记用户，还要求配对的iPhone或iPad在附近且近期解锁。共用计时器与调出私人日程会使用不同种类的信息。家庭在购买前可核对哪些成员需要配对设备。\n\nA18上的Secure Exclaves将相机和麦克风数据的处理区域隔离。Siri请求可使用设备端处理或Private Cloud Compute。部分感知数据在本机处理，与所有语音指令均可离线运行是两回事。支持情况还取决于设备、服务和语言。\n\n桌面款底座容纳低音部件，壁挂款使用两个驱动单元并按壁挂位置调音。即使美国价格相同，布线、安装和声场条件也不同。厨房台面侧重观看角度，走廊墙面还需考虑电源位置和人员动线。这是对结构和场景的分析，未进行试听。\n\n家居控制也要看兼容条件。已有灯具和温控器可能采用不同连接方式及应用。屏幕尺寸和价格无法说明某个设备能否控制，应把苹果支持信息与家中已安装的具体型号核对。\n\n澳大利亚、加拿大、印度、新西兰、英国和新加坡等也在初期安排内。11月13日是公告所列市场的供应日期。韩国销售、语言功能以及与家中既有设备的兼容性，应以当地发布和支持信息为准。"
+        }
+      },
+      "image": {
+        "url": "assets/20261110-homeview.jpg",
+        "alt": {
+          "ko": "햇빛 드는 주방 조리대의 일반 탁상 디스플레이",
+          "en": "Generic tabletop display on a sunlit kitchen counter",
+          "ja": "日差しの入る台所に置いた一般的な卓上ディスプレイ",
+          "zh": "阳光照进厨房时台面上的通用桌面显示设备"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "acer-predator-atlas8-retail-configurations-20261110",
+      "date": "2026-10-26",
+      "published": "2026-11-10",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "Acer Germany — Retail availability and specifications",
+      "url": "https://de-press.acer.com/476296-jetzt-im-handel-acers-neuer-handheld-pc-predator-atlas-8-hebt-mobiles-gaming-aufs-nachste-level",
+      "sources": [
+        {
+          "name": "Acer Germany — Retail availability and specifications",
+          "url": "https://de-press.acer.com/476296-jetzt-im-handel-acers-neuer-handheld-pc-predator-atlas-8-hebt-mobiles-gaming-aufs-nachste-level"
+        },
+        {
+          "name": "Acer — Predator Atlas 8 global announcement",
+          "url": "https://news.acer.com/acer-expands-gaming-portfolio-with-predator-atlas-8-handheld-powered-by-intel"
+        },
+        {
+          "name": "The Verge — U.S. retail launch",
+          "url": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "에이서 프레데터 아틀라스 8 판매권 확대…구성별로 다른 배터리와 저장 공간",
+          "summary": "5월 공개된 윈도우 휴대용 게임 PC가 독일과 미국 판매 단계에 들어갔다. 120Hz 화면과 게임 프레임은 따로 비교해야 한다.",
+          "body": "에이서의 휴대용 게임 PC 프레데터 아틀라스 8이 유럽과 미국에서 판매 단계에 들어갔다. 에이서는 5월 28일 제품을 처음 공개하고, 독일 법인은 10월 26일 현지 판매와 1299유로부터의 권장가를 안내했다. 미국에서는 더 버지가 상위 인텔 아크 G3 익스트림 구성이 11월 1일부터 베스트바이에서 1299.99달러에 판매된다고 보도했다. 숫자만 비슷할 뿐 통화와 판매 시장, 구성 조건이 다르다. 5월은 제품 발표, 10월 말과 11월 초는 시장별 소매 판매 일정이다.\n\n에이서는 노트북과 모니터 등을 만드는 대만 PC 업체다. 프레데터는 게임용 제품 브랜드다. 아틀라스 8은 윈도우 11 홈과 게임패드 조작부를 한 몸에 넣어 PC 게임을 손에 들고 실행하는 방식이다. 독일 공식 사양에는 인텔 아크 G3와 G3 익스트림, 각각의 B370·B390 그래픽 구성이 제시됐다. 제품 이름이 같아도 구매하려는 판매 페이지의 프로세서와 메모리, 저장 용량을 확인해야 비교가 성립한다.\n\n화면은 8인치, 1920×1200 해상도의 IPS 터치 패널이며 최대 120Hz와 가변 주사율을 지원한다. 120Hz는 패널이 1초에 화면을 갱신할 수 있는 최대 횟수다. 게임이 매초 만들어 내는 프레임은 그래픽 설정과 전력 한도에 따라 달라진다. 가변 주사율은 패널의 갱신 시점을 프레임 출력에 맞추는 기술이라 화면이 어긋나 보이는 현상을 줄이는 데 쓰인다. 이 기능을 지원한다는 사양으로 특정 게임의 평균 프레임이나 배터리 상태에서의 성능을 산출할 수는 없다.\n\n무게와 사용 시간의 기준\n독일 사양은 배터리 용량을 최대 80Wh로 안내하며, 80Wh 구성은 810g 미만, 60Wh 구성은 770g 미만으로 제시했다. Wh는 저장 에너지의 단위다. 같은 소비 전력으로 구동한다면 큰 배터리에서 더 오래 쓸 수 있지만, 실제 소비 전력은 게임 부하, 밝기, 무선 연결과 냉각 동작에 따라 바뀐다. 무게 역시 배터리 구성이 달라지면 달라진다. 제품군의 가장 가벼운 무게와 가장 큰 용량을 한 모델의 사양처럼 묶으면 잘못된 비교가 된다.\n\n공식 제품군은 메모리 최대 24GB와 SSD 최대 1TB를 안내한다. ‘최대’라는 표현은 모든 SKU가 그 용량을 갖췄다는 뜻이 아니다. 또한 두 개의 썬더볼트 4 단자는 독이나 외부 화면을 연결하는 데 쓸 수 있다. 편집부가 주목한 부분은 휴대 모드와 탁상 모드의 비교 기준이 다르다는 점이다. 들고 쓸 때는 무게와 손잡이, 배터리 시간이 중요하고, 독에 연결할 때는 디스플레이 출력과 충전 조건이 더 중요해진다.\n\n보관할 게임 수가 걱정된다면 메모리와 SSD의 역할도 분리해서 볼 수 있다. 메모리는 실행 중인 프로그램과 그래픽 처리가 사용하는 공간이고, SSD는 설치 파일을 저장하는 장치다. SSD 용량이 큰 구성은 설치 여유가 늘지만 메모리 용량이나 게임 성능까지 같은 비율로 늘어나는 것은 아니다.\n\n이번 자료에서 확인된 것은 제품군의 사양 범위와 일부 시장의 판매 일정이다. 국내 공식 가격과 출시일, 구성별 독립 성능·배터리 측정값은 이 발표에서 확인되지 않았다. 구매 검토 시 정확한 모델 번호와 배터리 용량, SSD 크기, 지역 보증을 먼저 맞춰 놓으면 같은 제품명 아래 섞여 있는 사양을 분리해서 볼 수 있다."
+        },
+        "en": {
+          "title": "Acer Predator Atlas 8 reaches retail with different battery and storage configurations",
+          "summary": "The Windows handheld announced in May has reached Germany and the U.S. A 120 Hz panel and a game’s frame rate measure different things.",
+          "body": "Acer’s Predator Atlas 8 has entered retail in Europe and the United States. Acer first announced it on May 28. Its German office announced retail availability on October 26 at a recommended price starting at €1,299. The Verge reported that the U.S. Arc G3 Extreme configuration went on sale at Best Buy on November 1 for $1,299.99. Those prices involve different currencies, markets and configurations. The May announcement preceded the regional retail dates.\n\nAcer is a Taiwanese PC maker and Predator is its gaming brand. Atlas 8 combines Windows 11 Home and built-in controls for handheld PC gaming. The German specifications list Arc G3 and G3 Extreme processors, paired with B370 and B390 graphics respectively. Verify the processor, RAM and storage on the exact listing before comparing prices.\n\nIts eight-inch IPS touchscreen has 1,920 by 1,200 pixels, up to 120 Hz refresh and variable refresh rate. The panel’s maximum refresh counts updates per second. The frame rate rendered by a game depends on graphics settings and power limits. Variable refresh synchronizes updates with frames to reduce tearing. The specification provides no average game frame rate or battery-powered benchmark.\n\nBattery energy and carried weight\nAcer Germany lists up to 80 Wh, with the 80 Wh configuration under 810 g and the 60 Wh configuration under 770 g. Watt-hours measure stored energy. A larger battery can last longer at equal draw, but games, brightness, radio use and cooling change that draw. Combining the lightest weight with the largest battery misrepresents the available configurations.\n\nThe family is rated for up to 24 GB of memory and a 1 TB SSD. The maxima do not describe every SKU. Two Thunderbolt 4 ports can connect a dock or external display. In our analysis, handheld use and desk use have different priorities. Weight, grip and runtime matter in the hand, while display output and charging become more relevant at a dock.\n\nRAM and SSD capacity solve different problems. Memory is used by running software and graphics processing, while the SSD holds installed files. More SSD capacity gives room for more installs without implying a proportional increase in memory or frame rates.\n\nThe releases establish the configuration range and retail timing in certain markets. They do not establish a South Korean price or release date, or independent performance and runtime for each configuration. Check the model number, battery, SSD and regional warranty to separate variants sold under the same name."
+        },
+        "ja": {
+          "title": "エイサーPredator Atlas 8が店頭へ　電池とストレージは構成別",
+          "summary": "5月発表のWindows携帯ゲームPCがドイツ、米国で販売段階に入った。120Hzの画面とゲームのフレームレートは別の指標だ。",
+          "body": "エイサーはPredator Atlas 8を5月28日に発表し、ドイツ法人は10月26日に現地販売と1299ユーロからの希望価格を案内した。The Vergeによると、米国のArc G3 Extreme構成は11月1日からBest Buyで1299.99ドル。価格の数字は似るが通貨、市場、構成が異なる。5月の発表と各地の店頭販売日は分かれている。\n\nエイサーは台湾のPCメーカーで、Predatorはゲーム向けブランドだ。本機はWindows 11 Homeと操作部を一体化した携帯PC。ドイツ仕様はArc G3とG3 Extreme、対応するB370とB390のグラフィックスを示す。同じ製品名でも販売ページのCPU、メモリー、SSDを確認したい。\n\n8インチのIPSタッチ画面は1920×1200で、最大120Hzと可変リフレッシュレートに対応する。120Hzは画面の最大更新回数。ゲーム側の描画回数は設定や電力制限で変わる。可変リフレッシュは更新をフレーム出力に合わせ、映像のずれを抑える。この仕様だけで実際のゲームの平均fpsは判断できない。\n\nドイツ仕様では80Wh構成が810g未満、60Wh構成が770g未満。Whは蓄えられるエネルギー量で、同じ消費電力なら容量が大きいほど長く使える。実際はゲーム負荷、明るさ、無線、冷却で電力が変わる。最大容量と最軽量を同一構成として比較するのは適切でない。\n\nメモリー最大24GB、SSD最大1TBも製品群の上限である。Thunderbolt 4端子が2つありドックや外部画面をつなげる。編集部の見方では、手持ちなら重さや握り、電池時間、机上なら映像出力と充電条件の比重が増す。\n\nメモリーとSSDは役割が違う。前者は実行中の処理や描画が使い、後者はインストール済みのファイルを保存する。大きなSSDは保存の余裕を増やすが、メモリーや描画性能が同じ比率で増えるわけではない。\n\n確認できたのは仕様範囲と一部市場の販売時期だ。韓国での価格・発売日や構成別の独立測定値は発表にない。型番、電池、SSD、地域保証を照合すると同名の製品を区別できる。"
+        },
+        "zh": {
+          "title": "宏碁Predator Atlas 8进入零售，电池与存储随配置而异",
+          "summary": "5月公布的Windows掌上游戏电脑已在德国和美国进入销售阶段，120Hz面板与游戏帧率应分开比较。",
+          "body": "宏碁5月28日首次公布Predator Atlas 8，德国分公司10月26日宣布在当地销售，建议价1299欧元起。据The Verge，美国Arc G3 Extreme版本11月1日起在Best Buy销售，售价1299.99美元。数字相近，但币种、市场及配置不同。5月是公布时间，零售日期取决于地区。\n\n宏碁是台湾电脑厂商，Predator是其游戏品牌。Atlas 8将Windows 11 Home和游戏控制器装在同一台掌上电脑里。德国规格列出Arc G3和G3 Extreme，分别配B370和B390图形配置。比较同名产品时，应核对具体商品的处理器、内存与存储。\n\n8英寸IPS触屏分辨率1920×1200，支持最高120Hz和可变刷新率。120Hz描述面板每秒最多更新次数，实际游戏帧率还由画质设置和功耗决定。可变刷新使屏幕与帧输出同步，减少撕裂，不能据此得出平均帧率或电池供电表现。\n\n德国规格列出80Wh版本低于810克、60Wh版本低于770克。Wh衡量储存能量。在同等功率下，大电池可运行更久，实际耗电则受游戏负载、亮度、无线和散热影响。最大电池和最低重量并非可合并成同一配置。\n\n系列最高为24GB内存和1TB SSD，并配两个Thunderbolt 4端口连接扩展坞或外屏。编辑部认为，手持与桌面使用的重点不同，前者看重量、握持与续航，后者更看重显示输出和充电条件。\n\n内存与SSD用途不同。内存供运行中的软件和图形处理使用，SSD存放安装文件。更大的SSD提供更多安装空间，不意味着内存或帧率按相同比例增加。\n\n已确认的是配置范围和部分市场销售时间。公告未给出韩国正式价格、上市日或各配置的独立性能与续航数据。核对型号、电池容量、SSD和地区保修，有助于识别同名的不同配置。"
+        }
+      },
+      "image": {
+        "url": "assets/20261110-atlas.jpg",
+        "alt": {
+          "ko": "햇빛 드는 거실 탁자에 놓인 일반 휴대용 게임기",
+          "en": "Generic handheld gaming device on a sunlit living-room table",
+          "ja": "日差しが入る居間の卓上に置かれた一般的な携帯ゲーム機",
+          "zh": "阳光照射的客厅桌上摆放的通用掌上游戏设备"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "vishay-electronica-server-power-20261109",
+      "date": "2026-11-09",
+      "published": "2026-11-10",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "Vishay — Electronica 2026 reference designs",
+      "url": "https://ir.vishay.com/news-releases/news-release-details/vishay-intertechnology-showcase-passive-and-semiconductor-0",
+      "sources": [
+        {
+          "name": "Vishay — Electronica 2026 reference designs",
+          "url": "https://ir.vishay.com/news-releases/news-release-details/vishay-intertechnology-showcase-passive-and-semiconductor-0"
+        },
+        {
+          "name": "Messe München — Electronica 2026",
+          "url": "https://electronica.de/en/trade-fair/"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "비셰이, 400V를 50V로 바꾸는 1.6kW 서버 전원 설계 전시",
+          "summary": "11월 9일 공개한 전시 계획에는 800V급 변환기와 랙용 단기 전원 보완 회로도 포함됐다.",
+          "body": "전자부품 업체 비셰이가 11월 9일 뮌헨 일렉트로니카에서 선보일 서버 전원 회로를 공개했다. 주요 예는 400V 직류 배전 버스에서 50V 중간 전압을 만드는 1.6kW DC/DC 변환기다. 650V급 질화갈륨 스위칭 소자를 활용한다고 밝혔다. 11월 9일은 전시 계획 발표일이고 행사는 현지시간 11월 10~13일이다. 이 회로가 적용된 서버나 부품 세트의 판매일은 발표에 포함되지 않았다.\n\n비셰이는 개별 반도체와 저항·커패시터 같은 수동부품을 만드는 기업이다. 이번에 나열한 것은 자사 부품이 한 전원 시스템에서 어떻게 연결되는지 보여 주는 참조 설계다. DC/DC는 입력과 출력이 모두 직류라는 뜻이다. 배전 버스는 여러 회로에 전원을 공급하는 공통 전압 경로다. 중간 버스의 50V는 이후 다른 전원 단계의 입력으로 쓸 수 있는 값이다. 서버 칩의 코어에 50V를 그대로 공급한다는 뜻으로 해석하면 회로의 역할을 오해하게 된다.\n\n전압을 내리는 구간의 계산\n1.6kW가 50V 출력에서 전달된다고 가정하면 전력은 전압과 전류의 곱이므로 전류는 약 32A다. 손실을 제외한 이상적인 계산에서 400V 쪽 전류는 4A다. 이 계산은 같은 전력을 높은 전압으로 전달하면 필요한 전류가 줄어드는 이유를 보여 준다. 실제 장치에서는 변환 손실, 발열과 냉각, 보호 장치의 제약 때문에 소비 전력이 달라진다. 650V는 스위칭 소자의 전압 등급으로, 이 예시의 400V 입력이나 50V 출력을 뜻하는 값과 구별된다.\n\n비셰이는 입력 800V에서 16분의 1 전압을 내는 12kW급 별도 설계도 예고했다. 발표된 비율을 그대로 적용하면 출력은 50V다. 1.6kW 설계와 출력 전압 계산이 같더라도 입력 조건과 전달 전력은 다르다. 더 높은 정격을 고르려면 실제 부하와 케이블, 보호 회로, 냉각을 함께 검토해야 한다. 회사는 48~50V 버스를 짧은 시간 지지하는 전기이중층 커패시터 기반 설계도 소개한다. 이런 부품은 순간 부하와 짧은 전원 변동을 다루는 용도다.\n\n설비 담당자에게 전시의 의미는 서버 성능을 높였다는 점보다 전원을 어느 단계에서 어떻게 변환할지 비교할 사례가 생긴다는 데 있다. 편집부의 해석으로는 같은 출력 용량을 비교하더라도 변환 효율을 측정한 부하 비율과 온도를 맞추고, 냉각에 쓰이는 전력까지 함께 봐야 랙 단위 전력에 미치는 효과를 판단할 수 있다. 정격만으로 운영 비용 절감 폭이나 랙당 실제 처리 성능을 추정할 근거는 부족하다.\n\n정전이나 순간 전압 저하를 검토하는 경우에는 저장 장치가 얼마나 오래 출력을 유지하는지도 별도로 봐야 한다. 짧은 부하 변화에서 전압을 지지하는 보완 회로와 장시간 설비를 가동하는 무정전 전원장치의 요구 조건은 다르다. 이번 자료는 단시간 동작을 소개했으며 지속 시간과 부하의 조합은 공개하지 않았다.\n\n전시 공지에는 이 사례들의 부하별 효율 곡선, 냉각 조건, 실제 서버 검증 결과가 제시되지 않았다. 부스에서 회로 구성을 보는 것과 데이터센터에 적용하는 사이에는 설계 검증과 안전 시험이 남는다. 구매를 검토하는 엔지니어는 전시 이후 회로도와 시험 조건, 조달 가능한 부품 목록이 공개되는지 확인할 수 있다."
+        },
+        "en": {
+          "title": "Vishay to show a 1.6 kW server power design converting 400 V to 50 V",
+          "summary": "The November 9 preview also lists an 800 V converter design and a short-duration rack power support circuit.",
+          "body": "Component maker Vishay announced its Munich electronica server power demonstrations on November 9. One design converts a 400 V DC distribution bus to a 50 V intermediate bus at 1.6 kW, using 650 V gallium nitride switching devices. November 9 was the announcement. The show runs November 10–13 local time. The announcement gives no sales date for a server or kit incorporating the design.\n\nVishay makes discrete semiconductors and passive components such as resistors and capacitors. The exhibits are reference designs showing how components can work together in a power system. DC/DC means both input and output are direct current. A distribution bus is a common voltage path feeding multiple circuits. An intermediate 50 V bus can feed another conversion stage before power reaches a processor core.\n\nCalculating current through a conversion stage\nIf 1.6 kW is delivered at 50 V, power divided by voltage gives approximately 32 A. Ignoring losses, the 400 V side would draw 4 A. The arithmetic illustrates how a higher distribution voltage reduces current for a given power. Real converters have losses, heat and protection constraints. The 650 V device rating is distinct from the example’s 400 V input and 50 V output.\n\nA separate 12 kW design takes an 800 V input and outputs one-sixteenth of that voltage, which works out to 50 V. Its input and power rating differ from the 1.6 kW design. Equipment selection requires considering loads, conductors, protection and cooling. Vishay also lists an electric double-layer capacitor design supporting a 48–50 V bus during short disturbances and peaks.\n\nFor equipment designers, the exhibition provides concrete examples of where to convert power in a rack. In our analysis, comparing efficiency requires matching load percentage and temperature and accounting for cooling power. A nominal rating alone cannot establish savings in operating costs or application performance.\n\nFor power interruptions, duration matters as well as voltage. Supporting a bus through a brief disturbance and running a rack through an extended outage impose different requirements. Vishay describes short-duration support without specifying the combination of load and runtime.\n\nThe announcement provides no load-dependent efficiency curves, cooling conditions or deployed-server results for these designs. Installation would still require design verification and safety testing. Engineers can look for circuit documentation, test conditions and orderable component lists following the demonstrations."
+        },
+        "ja": {
+          "title": "ビシェイ、400Vから50Vに変換する1.6kWサーバー電源設計を展示",
+          "summary": "11月9日の発表には、800V級の変換器とラックの短時間電源補助回路も含まれる。",
+          "body": "電子部品メーカーのビシェイは11月9日、ミュンヘンのelectronicaで展示するサーバー電源回路を発表した。1.6kWのDC/DC変換器は、650V級の窒化ガリウム素子を用いて直流400Vの配電バスから50Vの中間バスを作る。展示は現地11月10～13日。搭載サーバーやキットの販売日は示されていない。\n\n同社は個別半導体や抵抗、コンデンサーを製造する。展示は部品の組み合わせを示す参照設計だ。DC/DCは入出力とも直流、配電バスは複数回路に電力を配る共通経路を指す。中間バスの50Vは次の変換段の入力になり得る。\n\n50Vで1.6kWを出すと仮定し、電力を電圧で割ると約32Aとなる。損失を無視した400V側は4A。等しい電力なら配電電圧が高いほど電流を小さくできる。実機では損失、放熱、保護条件がある。650Vは素子の電圧定格で、入力・出力電圧とは区別する。\n\n別の12kW設計は800V入力を16分の1にし、計算上50Vを出す。出力電圧が同じでも入力条件と電力が違う。負荷、配線、保護、冷却を合わせて検討する必要がある。電気二重層コンデンサーで48～50Vのバスを一時的に支える例も示す。\n\n編集部の見方では、展示はラック内でどの段階に変換を置くか比較する材料になる。効率を比べる際は負荷率と温度をそろえ、冷却電力も考慮したい。定格だけでは運用費や処理性能の効果を判断できない。\n\n電源低下では電圧に加え継続時間も重要だ。短い変動を支える回路と長時間ラックを動かす無停電電源では要求が異なる。発表は短時間の補助を示し、負荷と持続時間の組み合わせは明らかにしていない。\n\n発表には負荷別効率、冷却条件、実サーバーでの検証結果がない。導入には設計検証と安全試験が残る。検討する技術者は回路資料、試験条件、調達可能な部品の公開を確認できる。"
+        },
+        "zh": {
+          "title": "威世将展示400V转50V的1.6kW服务器电源设计",
+          "summary": "11月9日公布的展品还包括800V转换器设计及机架短时供电辅助电路。",
+          "body": "电子元件企业威世11月9日公布慕尼黑electronica展会的服务器电源方案。一项1.6kW直流转换器利用650V等级氮化镓开关器件，把400V直流配电母线转换为50V中间母线。11月9日是预告日期，展会在当地11月10日至13日举行。公告没有给出采用该设计的服务器或套件销售日期。\n\n威世生产分立半导体及电阻、电容等无源元件。参考设计展示元件如何组成供电系统。DC/DC表示输入输出均为直流，配电母线是给多个电路供电的公共路径。50V中间母线还可以连接后续转换级，再向处理器供电。\n\n若在50V输出端传送1.6kW，用功率除以电压可得约32A。忽略损耗时，400V一侧约为4A。同功率下，提高配电电压可降低电流。实际装置有转换损耗、发热和保护约束。650V指开关器件耐压等级，应与400V输入、50V输出分开看。\n\n另一项12kW设计把800V输入降至十六分之一，按比例计算也是50V，但输入与功率等级不同。选型还需考虑负载、导线、保护和散热。威世也列出用双电层电容器短时支撑48至50V母线的设计，用于瞬时负荷与短时波动。\n\n本刊认为，展会给工程人员提供了机架供电转换位置的比较案例。比较效率要统一负载比例和温度，并计入冷却用电。仅凭额定功率无法判断运行成本节省或服务器处理性能。\n\n评估断电时，电压和维持时长都重要。短时波动支撑电路与长时间维持机架的UPS有不同要求。威世只说明了短时支撑，未公布负载与持续时间的对应关系。\n\n公告未公布随负载变化的效率曲线、冷却条件或已部署服务器的验证结果。投入实际系统还要进行设计验证及安全测试。工程人员可继续查看展后是否公开电路文档、测试条件和可采购元件清单。"
+        }
+      },
+      "image": {
+        "url": "assets/20261110-vishay.jpg",
+        "alt": {
+          "ko": "자연광이 드는 전력전자 시험대와 일반 변환 회로",
+          "en": "Generic converter circuit on a daylit power-electronics bench",
+          "ja": "自然光の入る電力電子の試験台と一般的な変換回路",
+          "zh": "自然光下的电力电子实验台与通用转换电路"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "quectel-electronica-iot-modules-20261109",
+      "date": "2026-11-09",
+      "published": "2026-11-10",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "Quectel — Official release via Business Wire",
+      "url": "https://www.businesswire.com/news/home/20261109695157/en/",
+      "sources": [
+        {
+          "name": "Quectel — Official release via Business Wire",
+          "url": "https://www.businesswire.com/news/home/20261109695157/en/"
+        },
+        {
+          "name": "Quectel — Syndicated release text",
+          "url": "https://finance.yahoo.com/technology/articles/quectel-showcases-comprehensive-end-end-090000376.html"
+        },
+        {
+          "name": "Messe München — Electronica 2026",
+          "url": "https://electronica.de/en/trade-fair/"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "퀙텔, 뮌헨서 연결 모듈과 기기 설계·조립을 함께 전시",
+          "summary": "11월 9일 발표한 전시 계획에는 통신·위치 모듈과 로봇 잔디깎이 시연이 포함됐다. 개별 제품의 판매 일정은 미공개다.",
+          "body": "무선 부품 업체 퀙텔은 11월 9일 뮌헨 일렉트로니카 전시 계획을 공개했다. 5G와 LTE, 저전력 광역 통신, 위성 통신, 와이파이·블루투스, 위성 측위 모듈과 안테나를 소개하고, 이를 적용할 기기의 설계·기판 조립 서비스도 함께 전시한다. 행사 일정은 현지시간 11월 10~13일이며 부스는 C2.601이다. 발표는 전시 항목을 알린 것으로 개별 모듈의 신규 출시나 시연 장치의 일반 판매 시점을 정한 자료는 아니다.\n\n퀙텔은 제조사가 완성품에 넣을 무선 통신·위치 측정 모듈과 안테나를 공급하는 업체다. 모듈은 칩이나 주변 회로를 작은 단위로 묶어 기기 제조사가 자신의 보드에 연결하도록 만든 부품이다. 차량이나 원격 계량기처럼 제품이 설치되는 곳에 따라 필요한 연결 종류가 달라진다. 전시장에 다양한 모듈을 모은다는 발표로 모든 통신 방식이 단일 부품에 들어간다고 볼 수는 없다. 설계자는 적용할 기기에서 각각 어떤 연결이 필요한지 먼저 정해야 한다.\n\n데이터를 보내는 방식과 위치를 알아내는 방식\n저전력 광역 통신을 뜻하는 LPWA는 대체로 작은 데이터를 간헐적으로 보내며 넓은 지역과 전력 예산을 고려하는 방식이다. 반면 와이파이나 블루투스는 사용하는 환경의 접속점이나 주변 장치에 연결하는 경우가 많다. GNSS는 여러 위성의 신호를 받아 위치를 계산하는 기술이다. 위성과 데이터를 주고받는 통신 서비스와 기능이 다르다. 같은 단말에 둘 다 필요한 경우도 있지만, 위치가 확인된다는 사실로 원격지에 데이터를 보낼 수 있다고 판단할 수는 없다.\n\n퀙텔은 위탁 설계와 제조를 뜻하는 ODM, 인쇄회로기판에 부품을 실장하는 PCBA 지원을 부품 공급과 함께 소개한다. 부스 시연 목록에는 기기 가까이에서 연산하는 엣지 AI 박스와 얼굴 인식 장치, 소형 로봇 차량, 로봇 잔디깎이가 있다. 어떤 장치가 어떤 무선 모듈을 쓰는지, 실제 운용 때 통신 범위나 배터리 시간이 얼마인지는 발표에 제시되지 않았다. 엣지에서 계산한다는 설명만으로 데이터가 외부 서비스에 전송되는지까지 알 수 없다.\n\n편집부의 해석으로는 부품과 제조 지원을 함께 검토하면 개발 초기의 안테나 배치와 기판 실장을 나중에 다시 맞추는 비용을 줄일 여지가 있다. 실제 절감 효과는 설계 변경 범위나 양산 규모에 따라 달라진다. 실내 또는 금속 외함 속에서 안테나 성능이 어떻게 달라지는지, 운영 지역의 통신사나 인증 요건을 충족하는지도 완성품 단계에서 확인할 사안이다.\n\n비슷한 장치를 비교할 때는 통신이 끊겼을 때 무엇을 계속할 수 있는지도 차이가 된다. 현장에서 판단이 필요한 로봇과 데이터를 주기적으로 보내는 계량기는 네트워크 장애의 영향을 다르게 받는다. 이 차이는 전시장에서 어떤 시연이 진행되는지와 별개로, 실제 설치 위치와 운용 절차에 맞춰 검증할 항목이다.\n\n전시의 범위는 부품 선택부터 제조 지원까지다. 프로젝트에 도입할 독자에게는 모듈 이름보다 주파수 대역, 전력 상태, 펌웨어 유지 조건과 각 지역의 공급 일정이 중요하다. 이번 자료에는 시연 제품의 가격이나 납품 조건, 장기 지원 기한이 없다. 전시 이후 공개되는 실제 부품 사양과 지원 범위를 확인해야 구매나 양산 계획을 세울 수 있다."
+        },
+        "en": {
+          "title": "Quectel to show connectivity modules alongside device design and assembly",
+          "summary": "The November 9 preview covers communications and positioning modules and includes a robotic mower demonstration. Individual sales dates are undisclosed.",
+          "body": "Wireless component maker Quectel announced its Munich electronica program on November 9. Its exhibit covers 5G, LTE, low-power wide-area networking, satellite communications, Wi-Fi, Bluetooth, positioning modules and antennas, together with device design and board assembly services. The event runs November 10–13 local time at booth C2.601. The preview identifies exhibits, with no individual module launch or general sale date for the demonstrations.\n\nQuectel supplies communication and positioning modules and antennas for manufacturers to incorporate in finished devices. A module groups a chip and associated circuits into a component that can be connected to a product’s board. A vehicle and a remote meter may need different links. The portfolio covers multiple technologies across separate components. Designers still need to determine which links each device requires.\n\nCommunication and positioning\nLPWA describes low-power wide-area options that often send small bursts of data over a wide area on a constrained energy budget. Wi-Fi and Bluetooth commonly connect to nearby infrastructure or devices. GNSS determines position from satellite signals. That function is separate from sending data via a satellite communications service. A device can know its location without having a network path to report it.\n\nQuectel is also highlighting ODM design and manufacturing services and PCBA, the assembly of components onto printed circuit boards. Demonstrations include an edge AI box, facial recognition device, robot car and robotic mower. The company does not specify which module each uses or publish field range or battery life. Computing near the device does not establish what information will also be transmitted externally.\n\nIn our analysis, reviewing hardware and manufacturing support together can reduce the need to redo antenna placement or board assembly later. The result depends on the scope of revisions and production volume. Antenna performance indoors or within a metal housing, carrier support and regional certifications still need evaluation in the finished device.\n\nCompare what a device can continue doing when a connection drops. A robot making local decisions and a meter reporting periodic readings have different failure modes. Evaluate that behavior against the installation and operating procedure rather than inferring it from a trade-show demonstration.\n\nThe exhibit spans component selection and production services. Engineers considering adoption need frequency bands, power modes, firmware support and local delivery schedules. The announcement gives no demo-device prices, fulfillment terms or long-term support deadlines. Actual component and service documentation will determine what can enter a purchasing or production plan."
+        },
+        "ja": {
+          "title": "クエクテル、ミュンヘンで無線モジュールと設計・基板実装を展示",
+          "summary": "11月9日発表の計画に通信・測位モジュールとロボット芝刈り機の実演が含まれる。個別の販売日は未公表だ。",
+          "body": "無線部品メーカーのクエクテルは11月9日、electronicaの展示内容を発表した。5G、LTE、低消費電力広域通信、衛星通信、Wi-Fi、Bluetooth、測位モジュールとアンテナに加え、機器設計と基板実装も紹介する。現地11月10～13日、ブースはC2.601。展示予定であり、個別製品の発売日を定めた資料ではない。\n\n同社は完成品に組み込む通信・測位モジュールとアンテナを供給する。モジュールはチップと周辺回路をまとめ、機器の基板に接続できるようにした部品だ。車両と遠隔メーターでは必要な接続が異なる。展示する全方式が単一部品に入るとは限らず、用途ごとに選ぶ必要がある。\n\nLPWAは消費電力を抑え、少量のデータを広い範囲で送る方式を含む。Wi-FiやBluetoothは近くの機器や設備につなぐ場面が多い。GNSSは衛星信号から位置を求め、衛星を経由してデータを送る通信サービスとは機能が異なる。位置が分かっても、それを遠隔地へ送れるとは限らない。\n\nODMは委託設計・製造、PCBAはプリント基板への部品実装を指す。実演にはエッジAIボックス、顔認識端末、ロボット車、芝刈り機が含まれる。機器ごとの無線部品、実環境での通信距離、電池時間は示されていない。機器近くで演算することだけでは外部送信の有無も分からない。\n\n編集部の見方では、部品と製造支援を一緒に検討すればアンテナ配置や基板実装の手戻りを減らせる場合がある。効果は設計変更と量産規模による。室内や金属筐体でのアンテナ性能、通信事業者の対応、地域ごとの認証は完成品で確認する課題だ。\n\n接続が切れたときに続けられる動作も比較点だ。現場で判断するロボットと定期報告するメーターでは障害の影響が違う。実演とは別に、設置場所と運用手順に照らして確認する必要がある。\n\n導入には周波数帯、電力モード、ファームウェアの保守、地域別の供給予定が必要になる。発表に実演機の価格、納品条件、長期サポート期限はない。調達や量産は実際の部品仕様と支援範囲を確認して計画することになる。"
+        },
+        "zh": {
+          "title": "移远将在慕尼黑同时展示通信模组与设备设计、组装服务",
+          "summary": "11月9日公布的参展计划包括通信和定位模组以及机器人割草机演示，单项销售日期尚未披露。",
+          "body": "无线元件企业移远通信11月9日公布electronica展出计划。展品涉及5G、LTE、低功耗广域通信、卫星通信、Wi-Fi、蓝牙、卫星定位模组和天线，并介绍设备设计及电路板组装。展会于当地11月10日至13日举行，展位C2.601。公告说明展示内容，未规定模组新品或演示设备的开售日。\n\n移远向整机厂商提供通信、定位模组和天线。模组将芯片及周边电路组合成便于接入整机电路板的部件。车辆和远程计量设备对连接的需求不同。多种技术属于整个展品组合，设计者仍需按用途选择所需连接。\n\nLPWA涵盖在有限能耗下向广域间歇传送小量数据的方式，Wi-Fi和蓝牙常连接附近设备或网络。GNSS通过接收卫星信号计算位置，功能不同于经卫星传输数据。设备能定位，并不能据此判断它能把位置上报远端。\n\n移远还介绍委托设计制造ODM和印制电路板装配PCBA。演示包括边缘AI盒、人脸识别终端、机器人小车和割草机器人。公告未说明各演示用了哪款无线模组，也未公布现场以外的通信距离和续航。靠近设备进行计算，不能用来推断是否还向外部发送数据。\n\n编辑部认为，联合评估元件与制造服务，可能减少后续调整天线和装配的工作，效果仍取决于设计改动和产量。室内或金属外壳中的天线表现、运营商兼容与地区认证，需要在整机阶段核验。\n\n设备断网后能继续做什么，也是一项比较标准。需要现场决策的机器人和定期上报的仪表会受到不同影响。这要按安装地点与运维流程验证，不能从展台演示直接推断。\n\n实际采用需要了解频段、功耗状态、固件维护条件与各地区供货。公告未给出演示设备价格、交付条款和长期支持期限。采购或量产仍以实际元件和服务文档为依据。"
+        }
+      },
+      "image": {
+        "url": "assets/20261110-quectel.jpg",
+        "alt": {
+          "ko": "무선 모듈과 안테나 케이블을 놓은 전자 작업대",
+          "en": "Radio modules and antenna leads on an electronics bench",
+          "ja": "無線モジュールとアンテナ線を置いた電子工作台",
+          "zh": "摆有无线模组与天线导线的电子工作台"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "keysight-tower-ph18-ads-photonics-20261109",
+      "date": "2026-11-09",
+      "published": "2026-11-10",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "Keysight — ADS Photonic Designer and Tower PH18",
+      "url": "https://www.keysight.com/us/en/about/newsroom/catalog/news-release.2026.1109_pr26-120-keysight-brings-radio-frequency-and-photonic-design-together-for-tower-semiconductor.html",
+      "sources": [
+        {
+          "name": "Keysight — ADS Photonic Designer and Tower PH18",
+          "url": "https://www.keysight.com/us/en/about/newsroom/catalog/news-release.2026.1109_pr26-120-keysight-brings-radio-frequency-and-photonic-design-together-for-tower-semiconductor.html"
+        },
+        {
+          "name": "Tower Semiconductor — PH18 process background",
+          "url": "https://towersemi.com/2022/06/08/06082022/"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "키사이트 ADS에 타워 PH18 지원…전기·광 신호를 한 설계에서 검증",
+          "summary": "11월 9일 공정 설계 키트 지원 인증을 발표했다. 제조 직전의 최종 검증은 타워 도구를 사용한다.",
+          "body": "계측·설계 소프트웨어 업체 키사이트가 11월 9일 자사 ADS 포토닉 디자이너에서 타워 세미컨덕터의 PH18 실리콘 포토닉스 공정 설계 키트를 지원하도록 인증했다고 발표했다. 기존에 ADS를 쓰던 고주파 회로 설계자가 같은 환경에서 PH18 광집적회로를 그리고 전자회로와 묶어 시뮬레이션할 수 있다는 것이 변화다. 발표문은 지원 인증 완료를 알렸으며 별도 소매 판매일이나 신규 칩의 출하일을 제시하지 않았다.\n\n타워는 고객이 설계한 반도체를 제조하는 파운드리다. PH18은 빛을 다루는 부품을 칩 위에 만드는 타워의 실리콘 포토닉스 공정이다. 광집적회로는 칩 안에서 빛을 전달하거나 변조·검출하는 기능을 결합한다. 전자회로에서 만든 신호를 광으로 바꿔 보낸 뒤 다시 전기 신호로 읽는 장치에서는 광소자와 전자 부품의 특성이 함께 결과에 영향을 준다. 예를 들어 송신 쪽 전기 구동 신호가 달라지면 광변조기 동작에 영향을 줄 수 있다.\n\nPDK는 공정 설계 키트의 약자다. 제조할 수 있는 구조와 설계 규칙, 시뮬레이션에 필요한 소자 모델 등을 도구에 제공한다. 키사이트는 PH18 소자의 물리 기반 모델을 전기–광–전기 신호 경로에 넣어 분석할 수 있다고 밝혔다. 회로도에서 레이아웃까지 같은 환경으로 이어 가면 여러 도구에서 모델을 변환하고 수치를 옮기는 단계가 줄어들 수 있다. 타워의 고주파 공정은 이미 ADS에서 10년 이상 활용됐고, 이번 변화는 그 작업 환경에 PH18 광회로 지원이 더해졌다는 점이다.\n\n검증 도구의 역할\n발표에는 제조 규칙에 맞는 배치 소자와 설계자 수준의 레이아웃 대 회로도 검사가 언급됐다. 후자는 배치가 회로도에 적힌 연결을 유지하는지 확인하는 검사다. 제조사 수준의 최종 검증과 테이프아웃에는 타워의 도구를 사용한다. 테이프아웃은 설계 데이터를 제조 단계로 넘기는 절차다. 설계 화면에서 검사를 통과한 것과 공장에 제출할 최종 검증이 완료된 것은 서로 다른 작업 상태다.\n\n키사이트가 언급한 1600G 이상은 고속 광링크를 설계하는 배경이다. 이번 지원으로 특정 칩이 그 속도에 도달했다고 공개한 측정값은 아니다. 편집부의 해석으로는 광학 부품과 전자 회로를 한 경로로 모의하면 문제가 생기는 위치를 제작 전에 좁혀 볼 수 있다. 실제로 설계 수정 횟수나 양산 비용이 얼마나 줄어드는지는 적용 사례와 측정 조건이 공개되어야 비교할 수 있다.\n\n검증 범위를 실제 설계에 적용하면 배치 규칙과 시스템 성능을 따로 비교하게 된다. 예를 들어 광 경로의 길이와 전기 연결을 바꾸면 모의 결과가 달라질 수 있지만, 각각을 배치할 수 있는지는 공정 규칙의 문제다. 모델에 넣은 온도나 공정 편차의 범위 역시 결과 해석에 영향을 준다. 이번 지원은 모델을 함께 실행할 수 있는 경로를 제공하며 어떤 조건까지 검증할지는 설계팀이 정해야 한다.\n\n팀이 바로 도입할 수 있는지는 사용하는 ADS 버전과 라이선스, 공정 키트 접근 권한에 달려 있다. 공개 자료에는 구체적인 가격과 고객별 접근 조건이 없다. 설계자는 기존 프로젝트에 필요한 버전과 공정 지원을 확인하고, 타워 쪽 최종 검증으로 넘기는 절차를 함께 살펴야 한다."
+        },
+        "en": {
+          "title": "Keysight ADS adds Tower PH18 support for combined electrical and photonic design",
+          "summary": "Keysight announced process-kit certification on November 9. Foundry-level verification and tapeout still use Tower tools.",
+          "body": "Test and design software provider Keysight announced on November 9 that it had certified ADS Photonic Designer to support Tower Semiconductor’s PH18 silicon photonics process design kits. RF designers already using ADS can now draw PH18 photonic circuits and simulate them with electronics in the same environment. The announcement confirms tool support. It does not specify a separate retail launch or shipments of a new chip.\n\nTower is a foundry that manufactures customer-designed chips. PH18 is its silicon photonics process for building components that handle light on a chip. Photonic integrated circuits can guide, modulate or detect light. In a link that converts an electrical signal to light and back, both electrical and optical component behavior affect the result. For example, an electrical drive signal can influence the performance of an optical modulator.\n\nA PDK, or process design kit, provides manufacturable structures, rules and device models to a design tool. Keysight says PH18 physics-based models can be used in electrical–optical–electrical simulations. A single workflow from schematic to layout can reduce transfers and model conversions. Tower’s RF processes have used ADS for more than a decade. PH18 extends that existing environment to the photonic part of a design.\n\nThe stages of verification\nThe release identifies design-rule-compliant layout devices and designer-level layout-versus-schematic checks, which compare the placed connections with the schematic. Final foundry verification and tapeout use Tower tools. Tapeout is the handoff of design data for fabrication. Passing an early design check and completing the foundry submission are different milestones.\n\nKeysight refers to optical links at 1600G and above as design context. That is not a measured speed for a chip announced with the integration. In our analysis, modeling electronic and optical behavior together could narrow down problems before fabrication. Quantifying reductions in revisions or production cost requires real designs and measured conditions.\n\nIn practice, layout rules and system performance need separate checks. Changing optical path length or an electrical connection can change the simulation, while process rules determine whether those structures can be placed. Temperature and process-variation assumptions also affect interpretation. The integration supplies a joint workflow, while designers choose the conditions to test.\n\nAdoption depends on ADS version, licensing and access to the process kit. The release does not publish prices or customer-level access terms. Designers should establish compatibility for the current project and the procedure for handing off to Tower’s final checks."
+        },
+        "ja": {
+          "title": "キーサイトADSがタワーPH18に対応　電気と光を同じ設計環境で検証",
+          "summary": "11月9日にプロセス設計キット対応の認証を発表。製造前の最終検証にはタワーのツールを使う。",
+          "body": "計測・設計ソフトのキーサイトは11月9日、ADS Photonic DesignerでタワーセミコンダクターのPH18シリコンフォトニクス用設計キットを使えるよう認証したと発表した。既存のADS利用者は高周波電子回路とPH18光集積回路を同じ環境で設計・シミュレーションできる。ツール対応の発表であり、別途の販売日や新チップの出荷日は示していない。\n\nタワーは顧客設計の半導体を製造するファウンドリーだ。PH18はチップ上に光を扱う部品を作る工程で、光集積回路は光の伝送や変調、検出を担う。電気信号を光に変え、また電気として読む経路では、電子回路と光素子の両方が性能に関わる。例えば電気駆動信号が光変調器の動作に影響する。\n\nPDKは製造可能な構造やルール、素子モデルをツールに渡す設計キットだ。PH18の物理モデルを電気・光・電気の一連のシミュレーションに使えるという。回路図からレイアウトまで同じ環境で作業すれば、モデル変換やデータ移送を減らせる可能性がある。タワーの高周波工程は10年以上ADSで扱われ、今回そこにPH18が加わる。\n\n設計ルールに沿う配置部品と、レイアウトの配線が回路図に一致するかを調べる設計者向け検査を備える。ファウンドリー水準の最終検証とテープアウトはタワーのツールで行う。テープアウトは製造に向け設計データを渡す工程で、設計中の検査合格とは段階が異なる。\n\n1600G以上という数字は高速光リンクの開発背景だ。今回の対応による特定チップの実測値ではない。編集部の見方では、電気と光を一緒に模擬することで製造前に問題箇所を絞れる可能性がある。設計のやり直しや費用の削減幅を比べるには適用例と測定条件が要る。\n\n実務では配置ルールとシステム性能を分けて確かめる。光路長や電気配線を変えるとシミュレーション結果が変わり得るが、配置できるかは工程ルールによる。温度や工程ばらつきの想定も結果に関わる。統合環境を使い、設計者が検証条件を選ぶ。\n\n実際の導入はADSの版、ライセンス、設計キットへのアクセスに左右される。価格や顧客別の条件は公表されていない。プロジェクトで必要な対応と、タワーの最終検証へ渡す手順を確認する段階だ。"
+        },
+        "zh": {
+          "title": "是德ADS支持高塔PH18，在同一环境验证电路与光路",
+          "summary": "11月9日宣布工艺设计套件支持认证，最终制造验证与流片仍使用高塔工具。",
+          "body": "测试与设计软件厂商是德科技11月9日宣布，ADS Photonic Designer已通过对高塔半导体PH18硅光子工艺设计套件的支持认证。使用ADS的高频设计人员可以在同一环境设计PH18光子集成电路，并与电子电路联合仿真。公告确认的是工具支持，没有另列零售日期或新芯片出货时间。\n\n高塔为客户制造其设计的半导体。PH18是其在芯片上制造光器件的硅光子工艺，光子集成电路可传导、调制或探测光。信号从电变成光再变回电时，电子和光学部分都会影响结果，例如电驱动波形会影响光调制器。\n\nPDK是工艺设计套件，向工具提供可制造结构、设计规则和器件模型。是德称PH18物理模型可用于电—光—电的联合仿真。从原理图到版图在同一工具内完成，有望减少模型转换与数据搬运。高塔的射频工艺使用ADS已超过十年，此次加入的是PH18光路设计。\n\n工具提供符合设计规则的版图器件及设计者级的版图与原理图检查，用来比较实际连接与原理图。最终代工验证与流片使用高塔工具。流片是将设计数据交给制造环节，与早期检查通过是不同阶段。\n\n公告中的1600G及以上是高速光链路的开发背景，不是随此次支持发布的某款芯片实测速度。编辑部认为，电路和光路一起仿真有助于在制造前定位问题。设计迭代次数和生产成本能降低多少，仍要用应用案例和测量条件比较。\n\n实际设计要分别核对版图规则和系统性能。调整光路长度或电气连接可能改变仿真结果，而结构能否布置取决于工艺规则。温度与工艺波动假设也会影响解读。联合工作流提供工具，测试哪些条件仍由设计团队决定。\n\n导入取决于ADS版本、许可证和PDK访问权限。公告未公布价格或各客户的访问条款。设计团队需核对项目所需的支持，以及向高塔最终验证流程交付的步骤。"
+        }
+      },
+      "image": {
+        "url": "assets/20261110-keysight.jpg",
+        "alt": {
+          "ko": "현미경 아래 시험 칩과 광섬유를 배치한 광회로 실험대",
+          "en": "Photonics bench with a test chip and optical fibers beneath a microscope",
+          "ja": "顕微鏡の下に試験チップと光ファイバーを配置した光回路実験台",
+          "zh": "显微镜下放有测试芯片和光纤的光子实验台"
+        },
+        "generated": true
+      }
+    },
     {
       "id": "seeed-respeaker-clip-open-firmware-20261106",
       "date": "2026-11-06",
