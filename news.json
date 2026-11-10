@@ -1,6 +1,269 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "articles": [
+    {
+      "id": "ring-robotics-drone-rover-20261110",
+      "date": "2026-11-10",
+      "published": "2026-11-11",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "Amazon — Ring Robotics announcement",
+      "url": "https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot",
+      "sources": [
+        {
+          "name": "Amazon — Ring Robotics announcement",
+          "url": "https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "링, 날아다니는 홈 카메라와 사업장 순찰 로봇 발표",
+          "summary": "미국 Rover는 12월, Drone은 내년 1월 공급 계획이다. Drone은 FCC 승인 절차가 남아 있다.",
+          "body": "아마존의 보안기기 브랜드 링이 11월 10일 이동형 보안기기 ‘링 로보틱스’를 발표했다. 실내용 비행 카메라 Drone Cam과 사업장용 바퀴형 Rover Cam 두 제품이다. 미국 공급 예정일은 Rover가 2026년 12월 16일, Drone이 2027년 1월 27일이다. 발표 가격은 각각 999.99달러와 249.99달러다. Drone에는 미국 연방통신위원회 승인이 아직 나지 않았고 승인 전 판매가 제한된다는 안내가 함께 붙었다.\n\n링은 고정형 도어벨과 카메라, 센서 등을 제공해 온 브랜드다. 이번 제품은 카메라를 고정된 위치에 더 설치하는 대신 위치를 옮겨 현장을 확인하는 경로를 더한다. 회사는 기존 링 기기와 앱을 함께 쓰는 구성을 설명한다. 알람이나 센서가 반응하면 정한 지점으로 이동해 확인하거나 일정에 따라 순찰하는 기능을 제시했다. 실제 설치에서는 기기가 통과할 공간과 충전 위치, 촬영 지점을 함께 정해야 한다.\n\n이동을 담당하는 AI Pilot은 카메라와 비전 모델, 기기 센서, 클라우드 처리를 결합한다. 설치 단계에서 공간을 지도화하고 확인할 지점을 제안하며 장애물에 대응해 이동한다는 설명이다. 로봇이 보는 영상을 처리하는 과정에 원격 계산도 포함되므로 기능을 모두 오프라인으로 사용할 수 있다고 이해해서는 안 된다. 서비스와 연결 조건은 모델별 지원 안내를 확인해야 한다. 일정 순찰 등 일부 기능에는 호환 Ring Protect 요금제가 필요하다고 명시됐다.\n\n해상도와 용도의 차이\nDrone은 실내에서 비행하며 2K 영상을, Rover는 사업장 순찰에서 최대 4K 영상을 제공한다고 회사는 밝혔다. 해상도는 영상의 세부 표현을 비교하는 한 항목이며, 장애물 회피 성능이나 모든 위치의 인식 정확도를 나타내는 수치는 아니다. 조명과 이동 속도, 관찰 각도에 따라 보이는 정보가 달라진다. 로봇이 지나갈 수 없는 곳이나 시야를 가리는 구조가 있는지 확인하는 일은 고정 카메라와 다른 설치 과제가 된다.\n\n편집부의 해석으로는 창고나 상점의 여러 지점을 한 기기가 확인할 수 있다는 장점과, 이동 중 한 곳을 비우게 되는 특성을 함께 고려해야 한다. 모든 공간을 동시에 보는 고정 카메라와 이동 경로를 따라 확인하는 장치는 관찰 시간이 다르다. 특히 센서가 울린 뒤 해당 지점까지 도착하는 시간과 장애물 변화가 실제 대응에 영향을 준다. 이번 발표에는 독립적인 이동 성공률이나 표준 환경별 도착 시간이 없다.\n\n회사는 프로펠러 소리와 Rover의 눈에 띄는 조명 등 이동 기기가 존재를 드러내는 특성도 설명했다. 조용한 장소에서 쓰는 장비라면 영상 성능뿐 아니라 작동 소음과 통행 공간도 검토 대상이 된다. 공개 자료에는 비교 가능한 소음 측정값이 제시되지 않았다.\n\n제품 가격에 지속 사용 비용이 모두 포함되는지 판단하려면 요금제와 제공 기능을 더 확인해야 한다. 가정과 사업장은 촬영되는 사람과 장소의 성격도 달라 영상 접근 권한과 보관 설정을 점검할 필요가 있다. 이는 기능 구조에 따른 운영 검토이며 실제 시험 결과를 주장한 것은 아니다. 현재 확실한 것은 제품 발표와 미국 공급 계획, Drone의 승인 대기 상태다. 국내 판매일과 지원 지역은 자료에서 확인되지 않았다."
+        },
+        "en": {
+          "title": "Ring announces a flying home camera and a business patrol robot",
+          "summary": "U.S. Rover deliveries are planned for December and Drone for January. Drone still awaits FCC authorization.",
+          "body": "Ring announced its Robotics category on November 10, comprising the indoor Drone Cam and wheeled business Rover Cam. U.S. shipments are planned for December 16, 2026 for Rover at $999.99, and January 27, 2027 for Drone at $249.99. The Drone notice says FCC authorization is pending and sales are restricted before authorization.\n\nRing previously supplied fixed cameras, doorbells and sensors. The new devices add a way to move to an observation point, working with the existing app and hardware. Ring describes scheduled patrols and investigation after a sensor or alarm triggers. Installation needs space for movement, docking and observation points.\n\nAI Pilot combines cameras, vision models, device sensors and cloud processing to map the area, suggest patrol points and navigate obstacles. The cloud component means that full offline operation should not be assumed. Check connectivity and service conditions. Some functions, including scheduled patrols, require a compatible Ring Protect plan.\n\nResolution and purpose\nDrone offers indoor 2K video while Rover streams up to 4K for businesses. Resolution describes visual detail, not obstacle-avoidance reliability or recognition accuracy everywhere. Light, motion and viewing angle affect what is visible. Access constraints and obstructed views create installation tasks specific to a moving camera.\n\nOur analysis is that covering several points with one device also means leaving other points while traveling. Continuous fixed observation and route-based inspection have different timing. Travel after a trigger and changes in obstacles affect response. The release offers no independent navigation success rates or standardized arrival times.\n\nRing also describes audible propellers and a visible Rover light tower. Quiet premises may need to consider operating sound and circulation space alongside video. Comparable noise measurements are absent.\n\nThe purchase price must be considered with plan costs and supported functions. Homes and workplaces also involve different recording contexts, access permissions and retention settings. These are operational considerations, not findings from a test. The release establishes the announcement, U.S. shipment plans and pending Drone authorization. South Korean availability is unspecified."
+        },
+        "ja": {
+          "title": "リング、飛行型家庭カメラと事業所向け巡回ロボットを発表",
+          "summary": "米国ではRoverを12月、Droneを翌1月に供給予定。DroneはFCC認可待ちだ。",
+          "body": "リングは11月10日、室内飛行型Drone Camと事業所向け車輪型Rover Camを発表した。米国出荷はRoverが2026年12月16日、999.99ドル。Droneは2027年1月27日、249.99ドルを予定する。DroneはFCC認可前で、認可まで販売が制限されるとの案内がある。\n\n固定カメラ、ドアベル、センサーを提供してきた同社が移動観察を追加する。既存アプリや機器と連携し、予定巡回や警報後の確認を行う構成だ。移動空間、充電場所、確認地点を設計する必要がある。\n\nAI Pilotはカメラ、画像モデル、センサー、クラウド処理を組み合わせて地図を作り障害物を避ける。全機能のオフライン利用は前提にできない。予定巡回など一部機能には対応Ring Protectプランが要る。\n\nDroneは2K、Roverは最大4Kだ。解像度は細部表現で、移動や認識の成功率ではない。照明、動き、角度、通れない場所や視界を遮る構造が結果に関わる。\n\n編集部は1台で複数点を見られる一方、移動中に別の地点を離れる特性に注目する。固定監視と巡回は観察時刻が異なり、警報から到着までの時間や障害物変化が影響する。独立した成功率や到着時間は未公表だ。\n\nプロペラ音やRoverの目立つ照明も説明する。静かな場所では映像に加え音と通行空間が検討点で、比較できる騒音値はない。\n\n本体価格とプラン、映像権限・保管設定も合わせて検討したい。実機試験は行っていない。確認できるのは発表、米国供給予定、Droneの認可待ちであり、韓国発売日は不明だ。"
+        },
+        "zh": {
+          "title": "Ring发布家用飞行摄像头和商用巡逻机器人",
+          "summary": "美国Rover计划12月供货、Drone明年1月，Drone仍待FCC授权。",
+          "body": "Ring于11月10日公布室内飞行Drone Cam和商用轮式Rover Cam。Rover美国出货计划为2026年12月16日，999.99美元；Drone为2027年1月27日，249.99美元。Drone尚无FCC授权，公告提醒授权前销售受限。\n\n品牌此前提供固定摄像头、门铃和传感器，此次增加移动查看路径，并与既有应用、设备协作。可按计划巡逻或在警报后前往指定点，安装要考虑通道、充电及观察位置。\n\nAI Pilot结合相机、视觉模型、机载传感与云处理，建立地图并避障，因此不能假定全部离线工作。连接条件与服务应另查，定时巡逻等部分功能要求兼容Ring Protect方案。\n\nDrone提供2K，Rover最高4K。分辨率衡量画面细节，不代表避障或识别成功率。照明、速度、角度及无法进入或被遮挡的位置都会影响观察。\n\n本刊认为，一台设备看多个点的同时，移动时也会离开其他点。固定连续观察与巡逻的时间覆盖不同，警报后到达耗时及障碍变化都会影响响应。公告没有独立导航成功率和标准到达时间。\n\n公司还提到可听见的桨声及显眼的Rover灯塔。安静场所应连同视频一起评估噪声与通行空间，公告无可比噪声数据。\n\n还需把本体与订阅费用一起考虑，并核查家庭或工作场所的影像访问、保留设置。本文未实测。当前确认的是公布、美国出货计划及Drone待授权状态，韩国上市未披露。"
+        }
+      },
+      "image": {
+        "url": "assets/20261111-ring.jpg",
+        "alt": {
+          "ko": "창고 통로의 일반 바퀴형 점검 로봇",
+          "en": "Generic wheeled inspection robot in a warehouse",
+          "ja": "倉庫通路にある一般的な車輪型点検ロボット",
+          "zh": "仓库通道中的通用轮式巡检机器人"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "samsung-gallery-google-sync-20261110",
+      "date": "2026-11-10",
+      "published": "2026-11-11",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "Samsung — Gallery sync with Google storage",
+      "url": "https://www.samsungmobilepress.com/articles/samsung-gallery-sync-photos-videos-google-storage",
+      "sources": [
+        {
+          "name": "Samsung — Gallery sync with Google storage",
+          "url": "https://www.samsungmobilepress.com/articles/samsung-gallery-sync-photos-videos-google-storage"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "삼성 갤러리, 구글 저장공간과 동기화…원본은 클라우드에 두고 기기 공간 확보",
+          "summary": "One UI 9 일부 기기부터 시작한다. 무료 15GB는 Gmail·드라이브·포토와 공유하는 용량이다.",
+          "body": "삼성전자는 11월 10일 갤러리 사진과 동영상을 구글 저장공간에 동기화하는 서비스를 소개했다. One UI 9를 쓰는 일부 갤럭시 기기부터 지원을 시작했고 단계적으로 확대한다는 설명이다. 삼성 계정과 구글 계정으로 동기화를 켜면 다른 지원 기기에서 미리보기를 보고 원본을 내려받을 수 있다. 시장과 모델에 따라 제공 범위가 달라 모든 갤럭시가 같은 날 지원된다고 판단할 수는 없다.\n\n삼성 갤러리는 갤럭시에서 사진과 동영상을 관리하는 앱이다. 이번 기능은 사용자가 기기 두 대 사이에서 파일을 매번 직접 옮기는 과정을 줄이는 데 초점이 있다. 휴대전화에서 찍은 사진을 태블릿의 갤러리에서 보려면 두 기기에 같은 삼성·구글 계정을 설정하고 각각 동기화를 활성화해야 한다. 새 기기를 마련했을 때도 같은 계정이 필요하다. 다른 계정으로 로그인하면 기존 계정에 연결된 파일이 자동으로 보인다고 기대할 수 없다.\n\n‘공간 확보’ 기능은 업로드가 끝난 원본을 기기에서 지우고 썸네일을 남긴다. 썸네일은 목록에서 사진을 식별하는 작은 미리보기다. 원본 해상도로 편집하거나 내보내려면 클라우드의 파일을 다시 내려받는 단계가 필요할 수 있다. 기기에서 사진이 계속 보인다는 것과 원본이 그 기기 안에 저장돼 있다는 것은 저장 상태가 다르다. 네트워크가 제한된 여행이나 작업 전에는 필요한 원본이 내려받아졌는지 확인하는 편이 좋다.\n\n추가 무료 용량이 생기는 구조는 아니다\n구글 계정의 기본 무료 저장공간은 최대 15GB이며 Gmail과 구글 드라이브, 구글 포토가 함께 사용한다. 갤러리 동기화는 이 계정의 남은 공간을 이용한다. 예를 들어 이메일과 드라이브 파일로 이미 대부분을 썼다면 갤러리 사진에 15GB를 따로 쓸 수 있는 것이 아니다. 용량을 비교할 때 기기 내 저장공간과 클라우드 할당량도 나눠 봐야 한다. 기기의 원본을 줄이면 휴대전화 용량이 늘지만 구글 계정의 저장량은 그와 다른 기준이다.\n\n출시 초기 갤러리에 표시할 수 있는 클라우드 항목은 서비스를 켠 뒤 갤러리를 통해 동기화한 사진과 동영상이다. 구글 저장공간에 예전부터 있던 자료는 그대로 남지만 갤러리에 모두 자동 표시되지는 않는다고 삼성은 밝혔다. 따라서 새 기능을 켰는데 과거 구글 포토 사진이 전부 보이지 않는 경우, 지원 범위를 먼저 확인해야 한다. 목록에 보이지 않는다는 현상만으로 파일이 지워졌다고 결론내릴 수 없다.\n\n설정 경로는 갤러리의 구름 아이콘이나 안내 카드, 또는 갤러리 설정의 ‘사진 및 동영상 동기화’다. 메뉴 이름과 제공 여부는 지원 기기에서 확인해야 한다. 아직 메뉴가 없다면 기존 파일을 옮기기 전에 해당 모델이 단계적 지원 대상에 들어갔는지 확인할 수 있다.\n\n편집부의 해석으로는 여러 기기의 사용 경험을 맞추는 장점과 계정·저장 상태를 함께 관리해야 하는 과제가 생긴다. 동기화는 파일 복사와 상태 반영을 포함하므로 삭제가 어떻게 전파되는지, 복원 기한이 무엇인지도 별도 지원 안내에서 확인할 필요가 있다. 이번 공지는 모든 삭제·복구 상황을 설명하지 않는다. 먼저 지원 기기와 시장, 로그인 계정, 남은 용량, 원본 저장 위치를 확인하면 기능 도입 뒤 달라진 동작을 이해하기 쉽다."
+        },
+        "en": {
+          "title": "Samsung Gallery adds Google storage sync and a way to free device space",
+          "summary": "Support starts on selected One UI 9 devices. The free 15 GB is shared with Gmail, Drive and Photos.",
+          "body": "Samsung described Gallery sync with Google storage on November 10. Support has started on selected Galaxy devices running One UI 9 and will expand in phases, subject to model and market. With Samsung and Google accounts, users can view previews on another supported device and download originals.\n\nGallery manages photos and videos on Galaxy products. The change reduces manual transfers between devices. Seeing a phone photo in a tablet’s Gallery requires the same Samsung and Google accounts and sync enabled on both. A newly configured device also needs those accounts; another account does not automatically inherit access.\n\n“Free up space” removes uploaded originals from the device while retaining thumbnails. A thumbnail is a small preview for identifying the picture. Full-resolution editing or export may require downloading the original again. A visible image in the list and a locally stored original are different states. Before traveling or working with limited connectivity, check that required originals are present.\n\nShared storage\nThe Google account’s free allowance is up to 15 GB shared across Gmail, Drive and Photos. Gallery uses available space in that account without adding a separate allowance. Existing mail and Drive files can leave little room for photos. Device storage and cloud quota also differ: removing local originals frees the phone without automatically reducing cloud usage.\n\nAt launch, Gallery shows cloud items synchronized through Gallery after enabling the service. Older material already in Google storage remains there but does not automatically appear. If older Google Photos images are absent from Gallery, check this scope before assuming deletion.\n\nSamsung lists the Cloud icon, a tip card or Gallery Settings’ photo/video sync switch as entry points. Verify the feature’s availability on the model before moving existing files if the menu is absent.\n\nOur interpretation is that the feature simplifies multi-device viewing while making account and storage-state management important. Deletion propagation and recovery periods need separate support guidance; the announcement does not cover every case. Verify the supported market and device, accounts, remaining quota and original-file location to understand the changed behavior."
+        },
+        "ja": {
+          "title": "サムスンGalleryがGoogle保存領域と同期　原本をクラウドに置き端末を整理",
+          "summary": "One UI 9の一部機種から開始。無料15GBはGmail、Drive、Photosと共用する。",
+          "body": "サムスンは11月10日、Galleryの写真・動画をGoogleストレージと同期する機能を紹介した。One UI 9の一部Galaxyで始まり、地域・機種別に順次拡大する。別の対応端末でプレビューを見たり原本をダウンロードしたりできる。\n\n携帯からタブレットへ毎回手動で移す手間を減らす。双方で同じSamsung・Googleアカウントを使い、それぞれ同期を有効にする必要がある。新端末でも同じアカウントが条件で、別のログインに自動で引き継がれるわけではない。\n\n「空き容量を増やす」はアップロード済み原本を端末から消し、縮小プレビューを残す。原寸編集や書き出しでは再ダウンロードが必要な場合がある。一覧に見える状態と原本が端末内にある状態は異なる。通信制限前には必要な原本を確認したい。\n\n無料最大15GBはGmail、Drive、Photosとの共用だ。Gallery分が追加されるのではなく残量を使う。メールなどですでに埋まっていれば写真の余裕は少ない。端末の容量とクラウド枠も別で、端末原本を消すと携帯は空くがクラウド量は別基準となる。\n\n開始時に表示するのは有効化後にGallery経由で同期した項目だ。以前からGoogleにあった写真は残るが自動で全部表示されない。見えない場合はこの範囲を確認し、削除と決めつけないようにしたい。\n\n入口は雲アイコン、案内カード、設定の写真・動画同期だ。表示がなければ既存ファイルを動かす前に機種の対応段階を確認したい。\n\n編集部は端末間閲覧の簡略化と同時に、アカウント・保存場所の管理が必要と見る。削除の伝播や復元期間は別の支援案内が必要だ。対応地域と機種、アカウント、残量、原本の場所を照合したい。"
+        },
+        "zh": {
+          "title": "三星相册接入谷歌存储同步，可保留预览并释放本机空间",
+          "summary": "从部分One UI 9设备开始，免费15GB与Gmail、云端硬盘、照片共用。",
+          "body": "三星11月10日介绍相册与谷歌存储同步，从部分运行One UI 9的Galaxy设备开始分阶段推广，受地区与型号限制。登录三星和谷歌账户后，可在其他支持设备看预览并下载原件。\n\n功能减少手机与平板间手动搬运。两个设备都需使用相同三星及谷歌账户并各自开启同步。新设备同样需要原账户，换账户不会自动得到旧内容。\n\n“释放空间”可删除已经上传的本地原件，保留缩略图。全尺寸编辑或导出可能需要再下载。列表仍显示图片与本机持有原件是不同状态，出行或网络受限前应核对所需文件。\n\n谷歌免费最多15GB与Gmail、Drive、Photos共用，相册不会新增独立额度。邮件和云盘占用会减少剩余空间。本机与云端容量也不同，删本地原件释放手机空间，不能据此判断云端用量下降。\n\n初期相册显示的是开启后通过相册同步的内容。原本已在谷歌存储中的旧照片会保留，但不会全部自动显示。看不见旧图时应先核对范围，不能直接认定被删除。\n\n入口为云图标、提示卡或设置中的照片视频同步。菜单未出现时可先查型号支持阶段，再处理原有文件。\n\n本刊认为，跨设备浏览更方便，同时需要管理账户和文件位置。删除传播、恢复期限还需查支持文档，公告未覆盖所有情况。可先确认地区、型号、账户、剩余容量和原件所在位置。"
+        }
+      },
+      "image": {
+        "url": "assets/20261111-gallery.jpg",
+        "alt": {
+          "ko": "일반 휴대전화와 태블릿을 사진첩 옆에 놓은 장면",
+          "en": "Generic phone and tablet beside a photo album",
+          "ja": "写真帳の横に置いた一般的なスマートフォンとタブレット",
+          "zh": "相册旁摆放的通用手机和平板"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "microchip-atfcd52-tactile-sensing-20261110",
+      "date": "2026-11-10",
+      "published": "2026-11-11",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "Microchip — ATFCD52 announcement",
+      "url": "https://ir.microchip.com/news-events/press-releases/detail/1427/microchip-enhances-robotic-tactile-sensing-with-high-speed-capacitance-digitizer",
+      "sources": [
+        {
+          "name": "Microchip — ATFCD52 announcement",
+          "url": "https://ir.microchip.com/news-events/press-releases/detail/1427/microchip-enhances-robotic-tactile-sensing-with-high-speed-capacitance-digitizer"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "로봇 손의 미끄러짐을 읽는 반도체…마이크로칩 ATFCD52 공개",
+          "summary": "센서 배열에 따라 최대 800Hz로 데이터를 읽는다. 힘 계산과 그립 조정은 외부 처리기가 맡는다.",
+          "body": "마이크로칩은 11월 10일 로봇의 촉각 센서용 정전용량 디지타이저 ATFCD52를 발표했다. 작은 격자 형태의 센서에서 정전용량 변화를 읽어 디지털 데이터로 바꾸는 부품이다. 회사는 배열 크기에 따라 최대 800Hz 프레임 속도를 지원하고 1펨토패럿보다 작은 변화를 구분하도록 설계했다고 설명했다. 제품은 마이크로칩이나 유통사를 통해 구매할 수 있다고 안내했다. 주문 가능 안내와 모든 지역의 실제 재고·배송일은 별도로 확인할 사안이다.\n\n마이크로칩은 제어용 반도체와 개발 도구를 공급하는 기업이다. 이번 부품은 스스로 물체를 집는 완성 로봇 손이 아니라 센서 신호를 외부 처리기에 전달하는 회로다. 카메라로 물체 위치를 찾아도 손가락과 표면이 닿는 압력이나 미끄러지는 움직임을 알려면 접촉 정보를 읽어야 한다. 부드러운 물체는 너무 세게 잡으면 손상되고 너무 약하게 잡으면 떨어질 수 있어 제어에 사용할 신호가 중요해진다.\n\n정전용량은 두 전극 사이에 전하를 저장하는 특성이다. 촉각 센서의 재료나 구조가 눌리며 변형되면 이 특성이 달라질 수 있다. ATFCD52는 이를 수치화하고, 외부 프로세서가 그 데이터로 표면에 수직인 힘과 옆 방향으로 작용하는 전단력을 계산할 수 있다는 설명이다. 센서 재료와 기구 구조, 보정 알고리즘은 전체 측정 성능에 영향을 준다. 작은 전기 변화가 읽힌다는 사양으로 모든 재료의 힘을 같은 정확도로 측정한다고 말할 수는 없다.\n\n채널과 격자 지점은 다르게 센다\n공식 사양은 최대 52채널, 송신 32선과 수신 20선 구성을 제시한다. 선들의 교차를 활용하는 2차원 배열이므로 채널 수를 곧바로 감지 지점 수로 바꾸면 안 된다. 수신 쪽에는 20개 병렬 아날로그 프런트엔드가 있어 여러 선을 동시에 읽는다. 최대 800Hz는 1초에 800프레임을 뜻하고 프레임 사이 간격은 계산상 약 1.25ms다. 이 값은 센서를 읽는 간격이며 로봇 모터가 힘을 바꾸기까지의 전체 지연을 말하지 않는다.\n\n모터와 전력 회로가 만드는 잡음도 고려한다. 회사는 주파수 호핑과 오버샘플링을 이용해 간섭을 줄이는 구성을 설명했다. 오버샘플링은 더 자주 읽은 신호를 활용해 잡음을 다루는 방법이다. 실제 그립 반응에는 센서 획득 이후 통신, 힘 계산, 제어 명령과 모터 동작이 더해진다. 편집부의 해석으로는 빠른 센서가 제어의 한 단계를 개선할 수 있어도, 전체 장치의 낙하 방지 성능은 시스템 수준에서 시험해야 한다.\n\n평가할 때는 잡을 물체의 무게뿐 아니라 표면과 형태도 맞춰야 한다. 같은 힘으로 눌러도 단단한 표면과 푹신한 표면에서 센서가 변형되는 양은 달라질 수 있다. 센서 데이터의 패턴과 실제 미끄러짐을 함께 기록해야 제어기의 판단이 맞았는지 비교할 수 있다.\n\n평가에는 EV-ATFCD52 보드와 설정·실시간 기록 소프트웨어를 제공한다. 개발자는 배열 크기와 센서 적층 재료를 바꿔 잡음과 민감도를 비교할 수 있다. 발표에는 특정 로봇 손의 성공률이나 표준 물체별 힘 오차가 없다. 도입을 검토한다면 작은 전기 변화를 읽는 능력, 배열별 속도, 외부 계산기의 처리 시간과 기구 응답을 한 흐름으로 측정할 필요가 있다."
+        },
+        "en": {
+          "title": "Microchip introduces ATFCD52 to read tactile signals for robot grippers",
+          "summary": "Acquisition reaches up to 800 Hz depending on array size. An external processor calculates forces and grip adjustments.",
+          "body": "Microchip announced the ATFCD52 capacitance digitizer on November 10. It converts changes from a fine-grid tactile sensor array into digital data. The company specifies up to 800 Hz depending on array size and sensitivity designed to resolve changes below one femtofarad. It lists the device as purchasable through Microchip or distributors; stock and delivery need regional confirmation.\n\nThe semiconductor and tool supplier provides a signal interface, rather than a complete robot hand. A camera locates an object, while contact information helps determine how hard a finger presses or whether it slips. Soft objects can be damaged by excessive grip or dropped by insufficient force.\n\nCapacitance describes charge storage between electrodes. Deformation of sensor materials can change it. ATFCD52 digitizes the change, and an external processor can calculate normal and shear forces. Material, mechanics and calibration affect the result. Electrical sensitivity alone does not establish equal force accuracy with every material.\n\nCounting channels and grid positions\nThe specification gives up to 52 channels, with up to 32 transmit and 20 receive lines. Their grid intersections make channel count different from sensing-position count. Twenty parallel analog front ends acquire receive lines simultaneously. An 800 Hz maximum corresponds to roughly 1.25 ms between frames. That is acquisition timing, not the total delay before the motor changes grip.\n\nMicrochip describes frequency hopping and oversampling to mitigate noise from motors and power electronics. Oversampling uses more frequent measurements to help handle noise. Communication, force calculation, commands and mechanics add further delay. Our interpretation is that improved acquisition is one control-loop stage; drop prevention requires system testing.\n\nMatch object surface and shape as well as weight during evaluation. Hard and soft surfaces can deform a sensor differently at equal force. Record actual slip alongside sensor patterns to assess controller decisions.\n\nAn EV-ATFCD52 board and configuration and logging software support evaluation of sensor materials and stack-ups. The release gives no hand-level success rate or force-error table for standard objects. Test sensitivity, array speed, processor timing and mechanical response together when evaluating adoption."
+        },
+        "ja": {
+          "title": "ロボットの滑りを読む半導体、Microchip ATFCD52登場",
+          "summary": "配列に応じ最大800Hzで測定。力の計算と握り調整は外部処理器が担う。",
+          "body": "マイクロチップは11月10日、触覚用静電容量デジタイザーATFCD52を発表した。格子状センサーの変化をデジタル化し、配列次第で最大800Hz、1fF未満の変化を分解する設計という。購入可能と案内するが、地域の在庫・配送日は確認が必要だ。\n\n部品は完成したロボットの手ではなく、外部処理器へ接触信号を渡す。画像で位置が分かっても、圧力や滑りは接触情報が必要になる。柔らかい物体は強すぎると壊れ、弱すぎると落ちる。\n\n電極間の電荷蓄積特性が静電容量で、センサー変形で変化し得る。数値化した信号から外部で垂直力やせん断力を求める。素材、構造、校正が精度に関わり、電気的感度だけで全材料の力精度は決まらない。\n\n最大52チャネルは送信32線と受信20線。交差点を使う2次元配列なので感知地点数とは別だ。20並列アナログ回路が受信線を同時取得する。800Hzなら計算上約1.25ms間隔だが、モーターが握りを変える全遅延ではない。\n\n周波数ホッピングとオーバーサンプリングでモーターなどの雑音を抑える。通信、計算、指令、機構応答も時間を要する。編集部は取得の改善を制御の一段と見る。落下防止はシステムで試験する必要がある。\n\n重さだけでなく表面と形も合わせる。同じ力でも硬い面と柔らかい面では変形が違い得る。実際の滑りと信号を同時記録して判断を比べたい。\n\nEV-ATFCD52基板と設定・記録ソフトで素材や積層を評価できる。手全体の成功率や標準物体別誤差は未公表だ。感度、配列速度、処理時間、機構応答を一連で測りたい。"
+        },
+        "zh": {
+          "title": "Microchip发布ATFCD52，为机器人夹爪读取触觉变化",
+          "summary": "按阵列尺寸最高800Hz采样，外部处理器负责计算力和调整抓握。",
+          "body": "Microchip11月10日公布静电容数字转换器ATFCD52，把细网格触觉阵列变化转为数字。公司称按尺寸最高800Hz，并设计为可分辨小于1fF变化。公告称可购买，地区库存和交期仍需核查。\n\n它是信号接口而非成品机器人手。视觉可以找到物体，接触信息则帮助判断压力和滑动。柔软物体可能因过紧损坏、过松掉落。\n\n电容描述电极间储存电荷的特性，材料受压变形可使其变化。芯片将其量化，外部计算法向力、剪切力。材料、机械结构、校准影响精度，电敏感度不等于所有材料的力精度。\n\n最高52通道包括32发射线和20接收线，二维交点与通道数不能等同。20路并行模拟前端同时读取接收线。800Hz约为每1.25ms一帧，这仅为获取间隔，不是电机最终响应延迟。\n\n公司使用跳频和过采样缓解电机、电源干扰。采集后还要通信、计算、发指令和机械动作。本刊认为，快速读取只是控制链的一环，防掉落仍需系统测试。\n\n评估还应匹配表面和形状，同力下软硬表面可能产生不同变形。把真实滑动与信号一起记录，才能比较控制判断。\n\nEV-ATFCD52板及配置、记录软件可评估材料与堆叠。公告未给具体机器人成功率或标准物体误差。应把敏感度、阵列速度、处理耗时和机械反应联合测量。"
+        }
+      },
+      "image": {
+        "url": "assets/20261111-tactile.jpg",
+        "alt": {
+          "ko": "폼 블록을 가볍게 집는 일반 실험용 그리퍼",
+          "en": "Generic laboratory gripper holding a foam block",
+          "ja": "フォーム材を軽くつかむ一般的な実験用グリッパー",
+          "zh": "轻握泡沫块的通用实验夹爪"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "nxp-unified-robotics-platform-20261109",
+      "date": "2026-11-09",
+      "published": "2026-11-11",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "NXP — Unified robotics platform",
+      "url": "https://www.nxp.com/company/about-nxp/newsroom/NW-NXP-UNVEILS-ROBOTICS-PHYSICAL-AI",
+      "sources": [
+        {
+          "name": "NXP — Unified robotics platform",
+          "url": "https://www.nxp.com/company/about-nxp/newsroom/NW-NXP-UNVEILS-ROBOTICS-PHYSICAL-AI"
+        },
+        {
+          "name": "NXP — Original newsroom release",
+          "url": "https://media.nxp.com/news-releases/news-release-details/nxp-unveils-unified-robotics-platform-speed-trusted-physical-ai"
+        },
+        {
+          "name": "Industrial News — Platform context",
+          "url": "https://industrialnews.co.uk/nxp-introduces-unified-robotics-development-platform/"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "NXP, 로봇용 통합 플랫폼 공개…드론 초기 기능 30분 시연 경로",
+          "summary": "공개 SDK와 참조 설계로 센싱·AI·모터 제어를 연결한다. ‘30분’은 완제품 개발 기간을 뜻하지 않는다.",
+          "body": "NXP가 11월 9일 로봇의 감지, 실시간 제어, AI 처리와 통신을 연결하는 통합 플랫폼을 발표했다. 기반은 Neural Axis Architecture라는 분산 구조다. 모듈형 오픈소스 소프트웨어 개발 키트와 미리 연동을 검증한 참조 설계를 제공해 개발자가 기능을 조립하는 작업을 지원한다. 회사는 해당 설계와 SDK로 드론의 초기 기능을 개봉 후 30분 안에 구동할 수 있다고 설명했다. 이는 지정된 개발 구성의 시작 단계에 관한 회사 주장이다.\n\nNXP는 자동차와 산업용 제어, 연결 장치 등에 쓰는 반도체를 공급한다. 로봇에서 큰 연산을 하는 처리기와 모터를 일정한 시각에 제어하는 부품은 요구 조건이 다르다. 센서를 읽고 주변을 해석하는 부분, 움직임을 명령하는 부분, 전력을 공급하는 부분을 여러 부품이 나눠 맡는다. 이번 플랫폼은 이 여러 기능을 서로 맞는 하드웨어와 소프트웨어 구성으로 제공하는 데 초점을 둔다. 특정 칩 하나가 로봇의 모든 작업을 대신한다는 구조가 아니다.\n\n첫 참조 설계는 드론에 맞춰졌다. 자율 연산에는 i.MX 95 기반 NavQ95를, 비행 관리에는 i.MX RT1064 기반 Tropic VMU/FMU를 제시했다. 센서 연결에는 MCX N947을 사용하는 100Base-T1 Sensor Node, 모터 제어에는 MCX A13 기반의 AM32 호환 전자식 속도 제어기를 포함한다. 전자식 속도 제어기는 모터에 보내는 전력을 조절하는 회로다. 이 목록은 서로 다른 역할에 맞는 처리기와 제어기를 조합한다는 예를 보여 준다.\n\n개발 출발점과 검증의 간격\nSDK는 드라이버와 예제, 기능을 연결하는 소프트웨어를 제공한다. 참조 설계가 이미 연동돼 있으면 처음부터 통신을 맞추는 작업을 줄일 수 있다. 다만 카메라나 모터, 배터리를 다른 부품으로 바꾸면 다시 확인할 조건이 생긴다. 30분이라는 수치에는 사용자가 새 기구를 설계하고 센서를 보정하며 비행 조건을 검증하는 전체 시간이 포함됐다고 설명되지 않았다. 제품 기획 단계의 납기 기준으로 그대로 쓰기 어렵다.\n\n서비스 로봇과 자율 시스템으로 지원을 확대한다는 계획도 공개됐다. 드론의 자세 제어와 바닥을 달리는 로봇의 장애물 대응은 물리 조건과 고장 양상이 다르다. 편집부의 해석으로는 공통 소프트웨어와 연결 구조를 재사용할 수 있어도 각 용도에 필요한 반응 시간과 안전 동작은 따로 검증해야 한다. 공개 SDK라는 이름만으로 지원 범위 전체가 이미 완성됐거나 모든 보드가 즉시 구매 가능하다고 판단해서는 안 된다.\n\n초기 예제를 실행한 뒤에는 통신이 끊기거나 센서 값이 늦게 도착하는 경우의 동작도 점검해야 한다. 데이터가 올 때까지 기다릴지 모터 출력을 줄일지는 제품 용도에 따라 설계할 부분이다. 예제 성공과 이런 예외 조건의 검증은 서로 다른 평가 항목이다.\n\n개발자는 우선 지금 제공되는 설계의 목록과 보드 버전, 필요한 펌웨어를 맞춰 볼 수 있다. 그 다음 센서 주기와 통신 지연, 전원 변동 때의 모터 응답을 자신의 장치에서 평가해야 한다. 발표에는 모든 지역의 키트 가격과 배송일, 서비스 로봇 지원의 세부 완료 일정이 없다. 통합 플랫폼 발표일과 개별 하드웨어의 주문·지원 가능 상태를 구분하면 개발 계획을 더 현실적으로 세울 수 있다."
+        },
+        "en": {
+          "title": "NXP introduces a unified robotics platform with a 30-minute drone starting point",
+          "summary": "An open SDK and reference designs connect sensing, AI and motor control. The setup claim concerns initial functionality.",
+          "body": "NXP announced a unified robotics platform on November 9, connecting sensing, real-time control, AI and communications through its distributed Neural Axis Architecture. A modular open-source SDK and prevalidated reference designs support integration. NXP says supported designs can deliver initial drone functionality within 30 minutes out of the box. That is a company claim about a specified starting configuration.\n\nNXP supplies automotive, industrial and connectivity semiconductors. High-level computation and time-critical motor control have different requirements. Separate components handle sensing, interpretation, commands and power. The platform packages compatible hardware and software across these tasks.\n\nInitial designs target drones. They include i.MX 95-based NavQ95 for autonomous compute, i.MX RT1064-based Tropic VMU/FMU for flight management, MCX N947-based 100Base-T1 sensor networking, and an MCX A13-based AM32-compatible electronic speed controller. The latter regulates power sent to a motor. The list illustrates distributed roles.\n\nStarting and validating\nAn SDK provides drivers, examples and integration software. Preintegration can reduce work establishing basic communication. Changing a camera, motor or battery introduces new conditions to test. NXP does not describe the 30 minutes as covering new mechanics, calibration and full flight verification. It cannot be used unchanged as a project delivery estimate.\n\nSupport is planned to expand to service robots and autonomous systems. A drone’s stabilization and a wheeled robot’s obstacle handling face different physics and failures. Our interpretation is that shared code can help reuse, while timing and safe behavior still need application testing. The announcement alone does not establish completed support or immediate stock for every board.\n\nAfter the example runs, test lost communications or late sensor data. Waiting or reducing motor output is an application decision. Demonstration success and exception handling are separate evaluation items.\n\nMatch the currently supported design, board version and firmware first. Then evaluate sensor timing, communication delay and motor response to supply changes. The release gives no complete regional kit prices, delivery dates or service-robot completion schedule. Separate the platform announcement from the orderability and support status of each component."
+        },
+        "ja": {
+          "title": "NXP、ロボット統合基盤を発表　ドローン初期機能を30分で動かす経路",
+          "summary": "公開SDKと参照設計で感知、AI、モーターを接続する。30分は指定構成の初動に関する値だ。",
+          "body": "NXPは11月9日、Neural Axis Architectureに基づく分散ロボット基盤を発表した。感知、実時間制御、AI、通信を結び、公開SDKと連動検証済み参照設計を用意する。対応設計で開封後30分以内にドローン初期機能を動かせるという会社の説明だ。\n\nNXPは車載、産業、接続用半導体を供給する。大きな演算と時間を守るモーター制御は要件が異なり、感知、判断、命令、電源を別部品が担う。互換性のある構成を提供する基盤だ。\n\n初期設計はドローンで、i.MX 95のNavQ95、i.MX RT1064のTropic VMU/FMU、MCX N947の100Base-T1センサーノード、MCX A13のAM32対応速度制御器を含む。速度制御器はモーターへの電力を調整する。役割を分担する例になる。\n\nSDKはドライバーや例、接続ソフトを提供する。既存の連動は通信作業を減らせるが、カメラやモーター、電池を替えれば再検証が要る。30分に新しい機構設計、校正、飛行検証の全工程が含まれるとは説明していない。\n\nサービスロボットなどへの拡大も計画する。ドローンと車輪型では物理条件や故障が違う。編集部は共通コードを再利用できても時間条件と安全動作は用途ごとの試験が必要と見る。全基板の在庫や対応完了は発表だけで分からない。\n\n実行後は通信断やセンサー遅延も試したい。待つか出力を下げるかは用途次第で、例の成功とは別の評価項目だ。\n\n現行設計、基板版、ファームウェアを合わせ、センサー周期、通信遅延、電源変動時の応答を測りたい。地域別価格や配送、拡大完了日は一覧化されていない。基盤発表と部品の調達・対応状態を分けて計画する必要がある。"
+        },
+        "zh": {
+          "title": "NXP公布统一机器人平台，提供30分钟启动无人机初始功能的路径",
+          "summary": "开放SDK和参考设计连接感知、AI及电机控制，数字针对指定开发配置。",
+          "body": "NXP11月9日发布基于分布式Neural Axis Architecture的平台，连接感知、实时控制、AI和通信。模块化开放SDK与预验证参考设计辅助集成。公司称支持配置可在开箱后30分钟内实现无人机初始功能，这是对指定起始配置的宣称。\n\nNXP供应汽车、工业和连接半导体。大规模计算与实时电机指令的要求不同，感知、理解、控制和供电由不同部件分担，平台提供互相匹配的组合。\n\n首批无人机设计包括i.MX 95的NavQ95、i.MX RT1064的Tropic VMU/FMU、MCX N947的100Base-T1传感节点和MCX A13的AM32兼容电子调速器。调速器控制送往电机的功率，体现分工结构。\n\nSDK提供驱动、例程和集成软件，预集成可减少初始通信工作。更换相机、电机或电池仍会带来新测试。30分钟未说明包括新机械设计、校准和全面飞行验证，不能直接作为交付周期。\n\n支持还计划扩至服务机器人和自主系统。飞行稳定与地面避障的物理及故障条件不同。本刊认为可以复用代码，但时限和安全行为仍需按用途验证。公告不证明所有支持完成或每块板现货可买。\n\n运行示例后还要测试断链、传感延迟，等待还是降低输出由用途决定，属于示例成功以外的验证。\n\n可先核对设计、板版与固件，再评估采样周期、通信延迟和电源变化下响应。公告没有完整地区价格、交期和服务机器人完成日，应区分平台公布与单项硬件供应状态。"
+        }
+      },
+      "image": {
+        "url": "assets/20261111-nxp.jpg",
+        "alt": {
+          "ko": "제어 보드와 소형 로봇 차체가 있는 실험대",
+          "en": "Lab bench with a control board and small robot chassis",
+          "ja": "制御基板と小型ロボット車体がある実験台",
+          "zh": "放有控制板及小型机器人底盘的实验台"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "arm-cortex-m42-edge-processing-20261110",
+      "date": "2026-11-10",
+      "published": "2026-11-11",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "Arm — Cortex-M42 portfolio expansion",
+      "url": "https://newsroom.arm.com/news/arm-cortex-m42-accelerate-edge-ai-innovation",
+      "sources": [
+        {
+          "name": "Arm — Cortex-M42 portfolio expansion",
+          "url": "https://newsroom.arm.com/news/arm-cortex-m42-accelerate-edge-ai-innovation"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "Arm Cortex-M42 공개…작은 기기에서 신호 처리와 AI 연산 강화",
+          "summary": "Cortex-M33 대비 벡터 처리 수치를 제시했다. 완성 칩과 기기의 판매 일정은 별도 단계다.",
+          "body": "Arm은 11월 10일 Cortex-M42 프로세서 설계를 Flexible Access와 Total Access 포트폴리오에 추가한다고 발표했다. 비용과 칩 면적에 민감한 기기에서 기계학습과 디지털 신호 처리를 강화하는 것이 목표다. 회사는 Cortex-M33과 비교해 벡터 연산 능력 최대 3배, 벡터 연산의 전력 효율 최대 2배를 제시했다. 이는 특정 연산 범위의 회사 비교치이며 모든 프로그램의 전체 속도나 배터리 시간이 같은 비율로 늘어난다는 의미는 아니다.\n\nArm은 최종 소비자용 기기를 직접 판매하는 업체라기보다 반도체 회사가 칩에 넣는 프로세서 설계를 제공한다. Cortex-M은 센서를 읽고 장치를 제어하는 마이크로컨트롤러에 쓰이는 계열이다. 프로세서 설계가 공개된 뒤 칩 업체가 메모리와 주변 회로, 제조 공정을 정하고 완성 칩을 만들어야 실제 보드나 제품으로 이어진다. 발표일을 곧바로 소매 칩 판매일로 읽으면 개발 단계의 차이를 놓치게 된다.\n\nCortex-M42는 Armv8.1-M 구조에 Helium을 결합하고 AHB 기반의 작은 설계를 사용한다. Helium은 여러 데이터에 비슷한 계산을 적용하는 벡터 처리 기능을 제공한다. 오디오의 연속 샘플이나 센서 묶음을 다루는 작업에서 이런 구조를 활용할 수 있다. 반면 데이터 이동이나 외부 장치 대기 시간이 큰 프로그램에서는 벡터 계산만 빠르게 해도 전체 동작이 같은 비율로 변하지 않는다. 실제 작업의 어디에 시간이 쓰이는지 확인해야 성능 비교가 의미를 갖는다.\n\nArm은 웨어러블 오디오와 키워드 감지, 산업 장치의 센서 분석과 상태 감시를 활용 예로 들었다. 로봇 모터나 관절의 이상 징후를 가까이에서 분석하는 기능도 제시했다. 다만 회사는 이 예를 안전 필수 동작 제어와 구분했다. 모터 소리를 듣고 마모 징후를 찾는 기능과 즉시 정지해야 할 때 안전하게 멈추는 제어는 검증 조건이 다르다. 프로세서가 AI 계산을 지원한다는 점만으로 완성 장치의 기능 안전이 보장되지는 않는다.\n\n설계 접근 프로그램의 숫자\n11월 기준 Flexible Access는 활동 회원 319곳, 고유 테이프아웃 500건 이상을 기록했다. Total Access는 파트너 60곳, 누적 프로젝트 600건 이상이다. 테이프아웃은 설계 데이터를 제조로 넘기는 단계이고, 프로젝트 수와 출하 제품 수는 다른 지표다. 이 숫자들은 프로그램의 이용 규모를 보여 주며 M42를 채택한 기기 수로 읽을 수 없다. M42의 구체적인 상용 칩과 소비자 제품 목록은 이번 자료에 없다.\n\n예를 들어 음성 키워드를 감지하는 기기를 비교할 때는 같은 음원과 인식 모델, 샘플링 속도를 써야 한다. 처리 시간과 전력뿐 아니라 인식 결과가 유지되는지 함께 봐야 계산 효율의 의미를 판단할 수 있다. 이번 발표는 그런 완성 기기별 결과표를 제공하지 않았다.\n\n편집부의 해석으로는 기존 M4·M33 설계를 확장하려는 반도체 회사가 검토할 연산 선택지가 늘었다는 데 의미가 있다. 실제 효과는 칩의 메모리 구조와 클록, 소프트웨어 최적화와 센서 처리량에 달려 있다. 보드 개발자는 자신의 응용을 지원하는 완성 칩과 도구가 나오는 시점을 확인해야 한다. 발표에 없는 가격이나 배터리 개선 수치를 예상으로 채우기보다 동일 작업과 전력 조건에서 측정한 자료를 기다릴 필요가 있다."
+        },
+        "en": {
+          "title": "Arm introduces Cortex-M42 for stronger signal and edge-AI processing",
+          "summary": "Its vector claims compare with Cortex-M33. Finished chips and consumer devices follow separate development schedules.",
+          "body": "Arm announced Cortex-M42’s addition to Flexible Access and Total Access on November 10. It targets machine learning and digital signal processing where cost and silicon area matter. Arm claims up to three times Cortex-M33’s vector compute and twice its vector power efficiency. These are scoped company comparisons, not universal application speed or battery-life multipliers.\n\nArm licenses processor designs that semiconductor partners integrate into chips. Cortex-M commonly serves microcontrollers reading sensors and controlling devices. Partners still choose memory, peripherals and manufacturing and produce a chip before boards or consumer products follow. Announcement is distinct from retail availability.\n\nCortex-M42 combines Armv8.1-M, Helium vector processing and a compact AHB-based design. Vectors apply related operations to multiple data elements, useful for audio samples or sensor batches. Programs dominated by data movement or external waits may gain less overall. Meaningful comparison needs the actual workload breakdown.\n\nExamples include wearable audio, keyword spotting, industrial sensor analysis and condition monitoring. Arm also describes local monitoring of robot motors and joints, explicitly separating it from safety-critical motion control. Detecting wear and executing a safe emergency stop have different validation requirements. AI compute support does not establish a finished system’s functional safety.\n\nProgram metrics\nAs of November, Flexible Access has 319 active members and more than 500 unique tape-outs; Total Access has 60 partners and over 600 projects. Tapeout hands design data to manufacturing. Those are program metrics, not M42 product shipments. The announcement lists no specific M42 consumer products.\n\nFor keyword detection, compare the same audio, model and sample rate. Check recognition results together with time and power. The announcement supplies no finished-device table under those matched conditions.\n\nOur interpretation is that semiconductor firms upgrading M4 or M33 designs have another processing option. Outcomes depend on memory, clocks, optimization and sensor throughput. Board developers need a supported finished chip and tools. Prices and battery gains should await matched-workload measurements rather than assumption."
+        },
+        "ja": {
+          "title": "Arm Cortex-M42登場　小型機器の信号処理とAIを強化",
+          "summary": "M33比のベクトル性能を提示。完成チップや機器の販売は別の開発段階になる。",
+          "body": "Armは11月10日、Cortex-M42をFlexible AccessとTotal Accessに追加すると発表した。小面積・低コストの機器でMLと信号処理を強める。M33比でベクトル演算最大3倍、同電力効率最大2倍という会社値であり、全プログラムや電池時間の倍率ではない。\n\nArmは半導体会社が使うプロセッサー設計を提供する。Cortex-Mはセンサーや制御用マイコンで使われる。メモリー、周辺回路、製造を選び完成チップにする段階が残るため、発表と店頭販売は異なる。\n\nM42はArmv8.1-M、Helium、AHB基盤の小型構成を組み合わせる。ベクトルは音声サンプルなど複数データに類似計算を適用する。転送や待機が長い処理では全体効果が違うため、実作業の内訳が重要だ。\n\n音声、キーワード検出、産業センサー、状態監視を想定する。モーターや関節の監視は安全必須の動作制御と区別される。摩耗検知と安全な緊急停止は検証条件が違い、AI対応だけで装置の機能安全は保証されない。\n\n11月時点でFlexible Accessは319活動会員、500超の固有テープアウト、Total Accessは60社、600超の案件。製造へデータを渡す工程やプロジェクトの数で、M42採用製品数ではない。具体的な消費者製品は示していない。\n\n音声検出なら同じ音源、モデル、標本速度で比較し、時間・電力と認識結果を一緒に見る。完成機器の同条件結果表はない。\n\n編集部はM4・M33の拡張を検討する会社の選択肢増加と見る。結果はメモリー、クロック、最適化、処理量による。基板開発者には対応する完成チップとツールが必要で、価格や電池改善は同条件の測定を待ちたい。"
+        },
+        "zh": {
+          "title": "Arm公布Cortex-M42，加强小型设备信号与AI处理",
+          "summary": "提供相对M33的向量性能数据，成品芯片和终端上市仍是后续阶段。",
+          "body": "Arm11月10日宣布将Cortex-M42加入Flexible Access及Total Access，面向成本和面积敏感设备。公司称向量计算最高为M33三倍、向量能效两倍，属于特定比较，不代表所有程序或电池时间同倍率增长。\n\nArm提供让芯片企业集成的处理器设计。Cortex-M用于采集与控制微控制器，伙伴还要选择内存、外设、制造并生产芯片，再进入开发板与终端。因此公布日不同于零售日。\n\nM42结合Armv8.1-M、Helium与紧凑AHB设计。向量可对音频样本、传感批次执行类似运算。若程序主要等待外设或搬运数据，整体收益会不同，需要按实际任务比较。\n\n用途包括穿戴音频、关键词检测、工业传感及状态监视。Arm将机器人电机关节监测与安全关键运动控制区分，识别磨损和紧急安全停机的验证不同。AI支持不证明整机功能安全。\n\n11月统计Flexible Access有319活跃成员、超过500次独立流片，Total Access有60伙伴、600多项目。这是项目与交付制造数据的指标，不是M42产品出货量。公告没有具体M42消费设备清单。\n\n关键词检测应使用同音频、模型和采样率，同时比较识别结果、时间及功耗，公告没有这种整机同条件表。\n\n本刊认为，扩展M4或M33方案的芯片厂商有了更多选择，实际效果取决于内存、时钟、优化及吞吐。开发板使用者还需等待支持的成品芯片和工具，价格与续航收益应依据同任务、同功耗测量。"
+        }
+      },
+      "image": {
+        "url": "assets/20261111-arm.jpg",
+        "alt": {
+          "ko": "센서를 연결한 일반 마이크로컨트롤러 개발 보드",
+          "en": "Generic microcontroller board with sensor connectors",
+          "ja": "センサーをつないだ一般的なマイコン開発基板",
+          "zh": "连接传感器的通用微控制器开发板"
+        },
+        "generated": true
+      }
+    },
     {
       "id": "apple-homeview-november-availability-20261110",
       "date": "2026-10-13",
