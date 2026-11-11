@@ -1,6 +1,265 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "articles": [
+    {
+      "id": "renesas-xplore-developer-hub-20261110",
+      "date": "2026-11-10",
+      "published": "2026-11-12",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "Renesas — Xplore Developer Hub announcement",
+      "url": "https://www.renesas.com/en/about/newsroom/xplore-developer-hub-accelerates-path-discovery-design-application-oriented-software-building-blocks",
+      "sources": [
+        {
+          "name": "Renesas — Xplore Developer Hub announcement",
+          "url": "https://www.renesas.com/en/about/newsroom/xplore-developer-hub-accelerates-path-discovery-design-application-oriented-software-building-blocks"
+        },
+        {
+          "name": "Renesas 365 — November release notes",
+          "url": "https://www.renesas.com/en/renesas365/whats-new"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "르네사스 Xplore, 개발 보드와 소프트웨어를 한곳에…12달러급부터 시제품 지원",
+          "summary": "RA 마이크로컨트롤러 평가와 기능 조합을 Renesas 365 안에서 이어 간다.",
+          "body": "르네사스가 11월 10일 Xplore Developer Hub를 Renesas 365에 통합해 제공한다고 발표했다. RA 마이크로컨트롤러 개발 보드와 확장 모듈, 응용 소프트웨어를 같은 클라우드 개발 환경에서 선택하고 시험하는 방식이다. 회사는 보드 가격이 최저 약 12달러 수준에서 시작한다고 안내한다. 이는 완성된 전자제품 한 대의 제작비가 아니라 개발 보드의 진입 가격이며, 모듈과 배송 등 전체 비용과는 다르다.\n\n르네사스는 기기 내부에서 제어와 신호 처리, 연결을 담당하는 반도체를 공급하는 기업이다. RA는 그 마이크로컨트롤러 계열 중 하나다. 마이크로컨트롤러 MCU는 센서 값을 읽고 모터나 조명을 제어하는 작은 컴퓨터 역할을 한다. 일반 노트북처럼 다양한 프로그램을 실행하는 용도보다는 정해진 기능을 기기 안에서 수행하는 경우가 많다. 개발 보드는 칩과 전원·연결 단자를 갖춰 처음부터 회로를 설계하기 전에 기능을 시험하도록 돕는다.\n\n이번 변화는 부품 목록을 검색하는 단계와 실제 작동하는 시제품을 만드는 단계를 연결한다는 데 있다. 회사 설명에 따르면 개발자는 RA 보드를 고르고 아날로그·전원·통신 모듈을 더한 뒤, 같은 환경에서 응용 기능을 조합할 수 있다. Renesas 365는 Altium 기술을 기반으로 한 전자 시스템 개발 플랫폼으로, 웹 브라우저를 통해 접근한다. 하드웨어와 문서, 소프트웨어가 흩어져 있어 생기는 이동을 줄이려는 구상이다.\n\nHub는 응용 목적에 맞춘 소프트웨어 구성 요소를 100개 넘게 제공한다. 회사가 예로 든 NFC와 BLE 기능은 자산 추적기, 스마트 잠금장치나 가전 등 다른 제품에서도 재사용할 수 있다. NFC는 가까운 거리에서 정보를 교환하는 통신이고, BLE는 저전력 블루투스 방식이다. 다만 구성 요소 수가 완성 제품 수를 뜻하지는 않는다. 조합한 기능이 자신의 센서와 전원, 통신 조건에서 함께 작동하는지는 여전히 검증해야 한다.\n\n예제와 실제 제품 사이\n검증된 소프트웨어 모듈이 있다고 해서 양산 제품의 인증과 안전 시험까지 끝난 것은 아니다. 배터리로 쓰는 기기라면 소비전력과 대기 시간, 무선 제품이라면 실제 설치 환경에서의 연결을 확인해야 한다. 핀 배치나 전압이 맞지 않는 모듈을 이름만 보고 연결할 수도 없다. 개발 플랫폼이 반복 작업을 줄이는 역할과 최종 설계의 책임은 구분된다. 이는 플랫폼을 직접 사용해 얻은 성능 평가가 아니라 개발 과정에서 필요한 일반적 판단 기준이다.\n\n지금 제공되는 범위는 신규·기존 RA 사용자용 Hub다. 다른 MCU·MPU 계열과 추가 확장 모듈, AI 안내 개발 흐름은 앞으로 지원을 더하겠다고 밝혔다. 따라서 모든 르네사스 칩이 현재 같은 방식으로 연결된다고 볼 수 없다. 11월 10~13일 뮌헨 electronica 시연 일정 역시 서비스의 현재 지원 범위와 미래 확장 약속을 대신하지 않는다. 구체적인 추가 지원 날짜는 이번 자료에 없다.\n\n편집부의 해석으로는 가격이 낮은 보드 자체보다 부품 선택에서 코드와 평가까지 이어지는 경로가 정리되는 데 의미가 있다. 개인 개발자와 소규모 팀은 구매할 부품, 필요한 기능과 문서를 한곳에서 비교할 여지가 생긴다. 다만 보드 재고와 지역별 판매가, 계정 및 이용 조건은 별도로 확인할 사항이다. 발표일 현재 이용 가능하다는 설명과 특정 국가에서 즉시 배송된다는 보장은 같은 말이 아니다."
+        },
+        "en": {
+          "title": "Renesas Xplore connects low-cost boards with application software",
+          "summary": "The hub brings RA hardware evaluation into the Renesas 365 development environment.",
+          "body": "Renesas announced on November 10 that Xplore Developer Hub is integrated with Renesas 365, bringing RA microcontroller boards, expansion modules and application software into one cloud development environment. The release describes boards starting around US$12. That is an entry board price, not the complete cost of a finished device, modules and delivery.\n\nRenesas supplies semiconductors for control, signal processing and connectivity. RA is one of its microcontroller families. An MCU acts as a small computer reading sensors and controlling motors or lights, commonly performing a defined embedded function rather than general laptop workloads. A development board adds power and connectors so functionality can be tried before designing a custom circuit.\n\nThe change connects component discovery with building a working prototype. Developers can select an RA board, add analog, power or connectivity modules and assemble functions in the same environment. Renesas 365, powered by Altium, is an electronics system development platform accessed through a browser. Its aim is to reduce movement between disconnected hardware, documents and software resources.\n\nThe hub offers over 100 application-focused software building blocks. Renesas gives NFC and BLE connectivity as functions reusable across trackers, smart locks and appliances. NFC exchanges information over a short range; BLE is low-energy Bluetooth. A building-block count is not a count of complete products. Combined functions still need validation with the selected sensors, power and communication requirements.\n\nValidated modules do not complete a production device’s certification or safety tests. Battery designs need power and standby checks; wireless designs need testing in their actual installation conditions. Pin and voltage compatibility cannot be assumed from module names. Reducing repeated development work does not remove final design responsibility. These are general engineering considerations, not findings from our hands-on use of the platform.\n\nThe currently announced hub serves new and existing RA users. Other MCU and MPU families, further modules and AI-guided workflows are future additions without specific dates in this release. Do not assume every Renesas chip already works this way. Demonstrations at electronica on November 10–13 are separate from the present support list and future roadmap.\n\nOur interpretation is that an organized path from parts to code and evaluation matters alongside inexpensive hardware. Individual developers and small teams gain a place to compare components, functions and documentation. Stock, regional prices, account requirements and service terms still need checking. “Available now” does not guarantee immediate delivery in every country."
+        },
+        "ja": {
+          "title": "ルネサスXplore、開発ボードとソフトを一つに　約12ドルから試作を支援",
+          "summary": "RAマイコンの評価と機能の組み合わせをRenesas 365内で進める。",
+          "body": "ルネサスは11月10日、Xplore Developer HubをRenesas 365に統合して提供すると発表した。RAマイコンの開発ボード、拡張モジュール、応用ソフトを同じクラウド開発環境で選び評価する。ボードは最安約12ドルからと案内するが、これは入口となる基板価格で、完成機器や追加モジュール、送料を含む総費用ではない。\n\nルネサスは制御、信号処理、接続用半導体を供給し、RAはマイコン製品群の一つだ。MCUはセンサーを読み、モーターや照明を制御する小さなコンピューターで、一般的なノートPCより機器内の所定機能を担うことが多い。開発ボードは電源や端子を備え、独自回路を作る前に機能を試すために使う。\n\n今回の変化は、部品を探す段階から動く試作品へつなぐことだ。RA基板にアナログ、電源、通信のモジュールを追加し、同じ環境で機能を組み合わせる。Altium技術を基盤とするRenesas 365にはブラウザーでアクセスする。基板、資料、ソフトが分散しているために生じる移動を減らす狙いである。\n\n100以上の用途別ソフト部品を用意する。例としてNFCやBLEのコードを追跡機、スマートロック、家電に再利用できるという。NFCは近距離の情報交換、BLEは低消費電力のBluetoothだ。ただし部品数は完成製品数ではない。センサー、電源、通信の条件を合わせた動作検証は必要になる。\n\n検証済みモジュールがあっても、量産品の認証や安全試験まで完了したわけではない。電池機器の消費電力と待機時間、無線機器の設置環境での接続を確かめる必要がある。名称だけで端子や電圧の互換性を仮定できない。繰り返し作業の削減と最終設計の責任は別だ。これは実機評価ではなく一般的な開発上の判断基準である。\n\n現在の対象は新規・既存RA利用者だ。他のMCU・MPU、追加モジュール、AI支援の流れは今後拡充するが、具体日はない。すべての同社チップが今同じ方法で使えるとはいえない。11月10～13日のelectronica実演も、現行サポートと将来計画を代替しない。\n\n編集部は安価な基板だけでなく、部品からコード、評価までの経路が整理される点に意味があると考える。個人や小規模チームは必要部品と資料を同じ場所で比べられる。一方、在庫、地域価格、アカウントや利用条件は別途確認が必要だ。提供開始と各国への即日配送は同義ではない。"
+        },
+        "zh": {
+          "title": "瑞萨Xplore把开发板和应用软件整合，约12美元起支持原型开发",
+          "summary": "RA微控制器评估与功能组合可在Renesas 365环境内衔接。",
+          "body": "瑞萨11月10日宣布将Xplore Developer Hub集成至Renesas 365，把RA微控制器开发板、扩展模块和应用软件放进同一云端开发环境。公司介绍开发板入门价格约12美元。这不是完整电子产品成本，也不包括所有模块与运输费用。\n\n瑞萨供应用于控制、信号处理及连接的半导体，RA是其微控制器系列之一。MCU像小型计算机，读取传感器并控制电机或灯光，通常执行设备内的固定任务，而非笔记本的通用工作。开发板提供电源与连接端口，让开发者在自制电路前先验证功能。\n\n变化在于把零件发现与可运行原型连接起来。开发者选择RA板，添加模拟、电源或通信模块，再在同一环境组合应用。基于Altium技术的Renesas 365通过浏览器访问，目标是减少硬件、文档、软件资源分散带来的切换。\n\nHub提供100多个面向应用的软件构件。公司以NFC和BLE为例，可把连接功能复用于追踪器、智能锁和家电。NFC用于近距离信息交换，BLE是低功耗蓝牙。但构件数量并不等于完整产品数量，组合后的功能仍需在所选传感器、电源及通信条件下验证。\n\n经过验证的模块不代表量产设备的认证和安全测试已经完成。电池设备须查功耗和待机，无线设备须在实际安装环境检验连接；引脚和电压兼容也不能只凭模块名称判断。减少重复工作不等于免除最终设计责任。这是一般工程判断，并非本文亲自使用平台后的测试结论。\n\n目前宣布面向新老RA用户。其他MCU、MPU系列、更多模块和AI引导流程属于未来增加内容，没有具体日期。不能认为所有瑞萨芯片已经以同样方式支持。11月10至13日electronica演示也不能替代当前支持清单与后续计划。\n\n编辑部认为，意义不只在低价板卡，还在于零件、代码和评估路径得到整理。个人开发者和小团队可集中比较部件、功能及文档。但库存、地区价格、账户和使用条款仍须确认。“现已可用”不等于每个国家都能立即收到硬件。"
+        }
+      },
+      "image": {
+        "url": "assets/20261112-xplore.jpg",
+        "alt": {
+          "ko": "센서와 마이크로컨트롤러를 연결한 일반 개발 작업대",
+          "en": "Generic microcontroller and sensor prototyping bench",
+          "ja": "マイコンとセンサーを接続した一般的な開発机",
+          "zh": "微控制器与传感器原型开发工作台"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "keysight-high-power-test-portfolio-20261110",
+      "date": "2026-11-10",
+      "published": "2026-11-12",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "Keysight — High-power test portfolio expansion",
+      "url": "https://www.keysight.com/us/en/about/newsroom/catalog/news-release.2026.1110_pr26-125-keysight-expands-high-power-test-portfolio-for-broader-power-validation.html",
+      "sources": [
+        {
+          "name": "Keysight — High-power test portfolio expansion",
+          "url": "https://www.keysight.com/us/en/about/newsroom/catalog/news-release.2026.1110_pr26-125-keysight-expands-high-power-test-portfolio-for-broader-power-validation.html"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "키사이트, 고전력 시험 장비 범위 확대…1500V와 12kW는 모델별 조건",
+          "summary": "전원을 공급하는 장비와 전력을 흡수하는 부하를 구분해야 배터리 시험 사양을 읽을 수 있다.",
+          "body": "키사이트가 11월 10일 자동화 고전력 시험 장비 제품군을 확대한다고 발표했다. 재생형 전원공급기와 전자 부하에 전압 선택지를 더하고, 최대 12kW를 제공하는 새 DC 전원공급기 계열을 소개했다. 범위는 낮은 전압에서 큰 전류를 다루는 시험부터 최대 1500V급 응용까지 걸친다. 다만 이 숫자들은 제품군에 걸친 선택지이며 한 모델이 모든 최대값을 동시에 낸다는 뜻은 아니다.\n\n키사이트는 통신·전자·전력 시스템을 설계하고 시험하는 장비와 소프트웨어를 공급하는 기업이다. 여기서 DC는 직류로, 배터리나 전력 변환기의 입출력을 다룰 때 사용한다. 전원공급기는 시험 대상에 전력을 넣고, 전자 부하는 대상이 내보내는 전력을 받아 정해진 소비 상태를 만든다. 충전기와 배터리를 시험할 때 두 기능을 구분해야 어떤 방향의 전력을 검증하는지 알 수 있다.\n\n새 선택지에는 10V에서 최대 1020A의 공급 전류를 다루는 장비가 포함된다. 낮은 전압이라고 작은 전력을 뜻하지는 않는다. 전력은 전압과 전류를 함께 봐야 하며, 높은 전류에서는 배선과 접속부의 저항과 발열도 중요해진다. 회사는 32V·300V·1500V 옵션도 소개하면서 24V·28V 시스템, 270V DC 항공 장비와 고전압 배터리·변환기 등을 용도로 들었다. 이 수치는 대상 장비의 공칭 전압과 시험 장비 선택지를 섞지 않고 읽어야 한다.\n\n랙 안에서 차지하는 높이도 이번 발표의 한 축이다. 회사는 재생형 전원 및 전자 부하가 1U에 최대 6kW, 2U에 최대 12kW를 제공한다고 설명한다. U는 장비 랙 높이 단위로, 전력이나 채널 수의 단위가 아니다. 같은 공간에서 채널을 늘리려는 시험실에는 의미가 있지만, 설치 가능한 총전력은 전기 공급과 냉각, 안전 조건도 함께 검토해야 한다. 숫자만 보고 기존 랙에 곧바로 넣어도 된다고 판단할 수 없다.\n\n전력을 되돌리는 시험\n재생형 장비는 시험 중 흡수한 에너지 일부를 전원망으로 돌려보내는 방식이다. 모두 열로 처리하는 방식과 다른 선택지가 될 수 있다. 그러나 실제 절감량은 시험 패턴과 전환 효율, 가동 시간에 달려 있다. 이번 자료에는 특정 시험실의 전기요금 절감률이 제시되지 않아 임의의 비용 절감 수치를 붙이지 않았다. 에너지 회수 기능과 장비의 무손실 동작은 같은 뜻이 아니다.\n\n회사는 PathWave 전력 제어·분석과 배터리 시험 소프트웨어로 시험 구성과 결과 분석에 드는 맞춤 프로그래밍을 줄인다고 설명한다. 자동화는 같은 조건의 반복 시험에 도움이 될 수 있지만 시험 절차와 판정 기준이 적절한지는 사용자가 정해야 한다. 편집부의 해석으로는 이번 변화는 소비자에게 보이는 새 배터리보다, 그 배터리와 전력 장치를 평가하는 개발 기반을 넓히는 소식이다. 측정 장비의 최대 정격이 시험 대상 제품의 성능 향상을 직접 입증하지는 않는다.\n\n발표일은 11월 10일이지만 모든 옵션의 지역별 출하 날짜와 가격은 자료에 일괄 제시되지 않았다. 이전에 발표한 7.5kW 장비를 병렬 연결해 최대 90kW로 구성하는 설명도 포함돼 있으나, 새 12kW 한 대의 정격과는 별개다. 구매자는 필요한 전압·전류 영역, 채널 수와 제어 소프트웨어의 조건을 정한 뒤 개별 모델 견적을 확인해야 한다."
+        },
+        "en": {
+          "title": "Keysight broadens high-power testing, with model-specific limits",
+          "summary": "A portfolio spanning 1500 V applications and 12 kW supplies should not be read as one universal rating.",
+          "body": "Keysight announced an expansion of automated high-power test equipment on November 10. It adds voltage options for regenerative supplies and electronic loads and introduces a DC supply family rated up to 12 kW. Coverage stretches from high-current, low-voltage work to applications up to 1500 V. These are portfolio choices, not proof that one model delivers every maximum simultaneously.\n\nKeysight supplies instruments and software for electronics, communications and power systems. DC means direct current, relevant to batteries and converters. A supply puts power into a device under test; an electronic load absorbs its output to create a controlled demand. Distinguishing those directions is essential when reading battery or charger test specifications.\n\nNew 10 V options provide up to 1020 A of source current. Low voltage does not necessarily mean low power: voltage and current must be considered together, while resistance and heat matter at high currents. The release also lists 32 V, 300 V and 1500 V options for nominal 24 V and 28 V systems, 270 VDC aerospace equipment and high-voltage batteries or converters. Nominal device voltages and instrument options describe different things.\n\nKeysight says regenerative supplies and loads offer up to 6 kW in 1U or 12 kW in 2U. U measures rack height, not power or channel count. Greater density may help a lab, but total installation capacity still depends on electricity, cooling and safety arrangements. A compact rating does not establish that a unit can simply be inserted into an existing rack.\n\nRegenerative equipment returns some absorbed energy to the supply network rather than dissipating all of it as heat. Actual savings depend on the test pattern, conversion efficiency and operating hours. The release gives no electricity-bill reduction for a particular lab, so none has been invented. Energy recovery is not lossless operation.\n\nThe company describes PathWave power-control and battery-test software as reducing custom programming for setup and analysis. Automation can support repeatability, but users still choose suitable procedures and pass criteria. Our interpretation is that this expands the infrastructure used to evaluate power devices, rather than proving a new consumer battery’s performance. Instrument ratings do not establish improvements in the device tested.\n\nThe announcement does not give one regional shipping date or price for every option. Its reference to earlier 7.5 kW supplies paralleled up to 90 kW is also different from one new 12 kW unit. Buyers need model-specific quotes after defining voltage/current range, channels and software requirements."
+        },
+        "ja": {
+          "title": "キーサイト、高電力試験装置を拡充　1500Vと12kWはモデル別の条件",
+          "summary": "電源と電子負荷を区別し、製品群の最大値を一台の性能と混同しない。",
+          "body": "キーサイトは11月10日、自動高電力試験装置群の拡充を発表した。回生型電源と電子負荷の電圧選択肢を増やし、最大12kWの新DC電源群を紹介する。低電圧大電流から最大1500V級までをカバーするが、製品群全体の選択肢であり、一台で全最大値を同時に出す意味ではない。\n\n同社は通信、電子、電力システム向けの測定器とソフトを供給する。DCは直流で、電池や電力変換器の入出力に関わる。電源は試験対象へ電力を与え、電子負荷は出力を吸収して所定の消費状態を作る。充電器や電池のどちらの向きを試験するかを区別する必要がある。\n\n新たな10V製品は最大1020Aの供給電流に対応する。低電圧でも小電力とは限らず、電圧と電流を一緒に見る必要がある。大電流では配線や接点の抵抗、発熱も重要だ。32V、300V、1500Vの選択肢も紹介し、公称24V・28V系、270VDC航空装備、高電圧電池や変換器を挙げる。対象の公称電圧と試験器の範囲は別の数値だ。\n\n回生電源と負荷は1Uで最大6kW、2Uで最大12kWという。Uはラックの高さであり、電力やチャネル数の単位ではない。密度は試験室に有用でも、設置総電力は給電、冷却、安全条件を含めて判断する。小型という理由だけで既存ラックへの搭載可否は決められない。\n\n回生は吸収したエネルギーの一部を電源網へ戻す方式で、すべて熱にする方式と異なる。節約量は試験パターン、変換効率、稼働時間次第だ。特定試験室の電気代削減率は資料にないため補わなかった。エネルギー回収は無損失動作ではない。\n\nPathWaveの電力制御・解析、電池試験ソフトで独自プログラム作成を減らすと説明する。自動化は反復を助けても、試験手順や合否基準は利用者が定める。編集部は電池そのものの新性能ではなく評価基盤の拡張と解釈する。測定器の定格は被試験製品の性能向上を直接示さない。\n\nすべての仕様の地域別出荷日や価格は一括公開されていない。既存7.5kW機を並列にして最大90kWとする説明も、新12kW機一台の値とは別だ。電圧・電流範囲、チャネル数、ソフト条件を定め、個別モデルの見積もりを確認したい。"
+        },
+        "zh": {
+          "title": "是德扩展高功率测试产品，1500V与12kW须按型号理解",
+          "summary": "电源输出与电子负载吸收电力不同，产品群上限也不是单机全部能力。",
+          "body": "是德科技11月10日宣布扩展自动化高功率测试设备，增加再生电源及电子负载的电压选择，并介绍最高12kW的新直流电源系列。覆盖低电压大电流至最高1500V级应用，但这些是不同产品选项，不能认为一台设备可同时实现全部最大值。\n\n是德提供通信、电子及电力系统测试仪器和软件。DC指直流，涉及电池及变换器的输入输出。电源向被测设备送电，电子负载吸收其输出，建立可控消耗条件。阅读电池和充电器规格时，必须先区分电力方向。\n\n新增10V选项最高提供1020A电流。低电压不等于低功率，必须结合电压电流判断；大电流下接线与接点电阻和发热也重要。公司另列32V、300V、1500V选项，用于标称24V和28V系统、270VDC航空设备及高压电池、变换器。目标设备标称电压与仪器范围不能混为一谈。\n\n公司称再生电源和负载可在1U提供最高6kW、2U最高12kW。U是机架高度单位，不是功率或通道数。提高密度可能有用，但安装总功率仍受供电、散热及安全条件限制，不能仅凭体积就判断可直接装入旧机架。\n\n再生设备把吸收能量的一部分送回电网，与全部转成热不同。节省取决于测试模式、效率和工作时长。公告未给某实验室电费降幅，因此本文没有补造比例。能量回收不等于无损运行。\n\n公司介绍PathWave电力控制分析及电池测试软件，可减少配置和分析的定制编程。自动化有助重复测试，但流程和合格标准仍由使用者决定。编辑部认为，这是评估电力设备的基础设施扩展，并非某款消费电池性能的证明。测试仪器额定值不能直接证明被测产品改进。\n\n公告没有统一列出所有选项的地区出货日期和价格。此前7.5kW电源并联至90kW的方案，也不同于新12kW单机额定值。采购前应确定所需电压电流范围、通道及软件条件，再核查具体型号报价。"
+        }
+      },
+      "image": {
+        "url": "assets/20261112-power.jpg",
+        "alt": {
+          "ko": "정돈된 전력 전자 시험실의 일반 장비",
+          "en": "Generic power electronics test equipment in a laboratory",
+          "ja": "電力電子試験室に置かれた一般的な測定装置",
+          "zh": "电力电子实验室中的通用测试设备"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "mips-actus-robot-motion-20261109",
+      "date": "2026-11-09",
+      "published": "2026-11-12",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "MIPS — Actus robotic motion control platform",
+      "url": "https://mips.com/press-releases/mips-unveils-actus-platform-for-precise-secure-robotic-motion-control/",
+      "sources": [
+        {
+          "name": "MIPS — Actus robotic motion control platform",
+          "url": "https://mips.com/press-releases/mips-unveils-actus-platform-for-precise-secure-robotic-motion-control/"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "MIPS Actus, 로봇 관절 안에 제어·추론·통신을 모은다",
+          "summary": "AI의 판단을 실제 모터 움직임으로 옮기는 단계에 실시간 처리와 시간 민감형 네트워크를 결합한다.",
+          "body": "MIPS가 11월 9일자 공식 발표에서 로봇 관절용 Actus 참조 플랫폼의 발전 내용을 공개했다. 두 개의 Atlas M8500 실시간 RISC-V 처리기와 모터 제어 가속, 엣지 추론 및 통신을 결합하는 구성이다. 완성된 휴머노이드 로봇을 판매한다는 발표가 아니라, 로봇을 만드는 기업이 정밀한 움직임을 구현할 때 사용할 제어 기반을 제시한 것이다. 전시 일정은 11월 10~13일 electronica다.\n\nMIPS는 처리기 기술과 관련 플랫폼을 제공하며 이번 발표에서는 ‘MIPS, by GF’라는 이름을 사용한다. GF는 반도체 제조사 글로벌파운드리다. Actus는 GF의 FDX FD-SOI 기술을 바탕으로 작은 로봇 관절에서 공간과 전력, 발열을 함께 다루려는 설계다. 로봇 팔에서 손끝에 가까워질수록 모터와 센서, 회로를 넣을 공간이 제한된다. 중앙에서 똑똑한 결정을 내려도 각 관절이 제때 반응하지 못하면 원하는 움직임으로 이어지지 않는다.\n\n실시간 제어의 핵심은 단순히 평균 속도가 빠르다는 데 있지 않다. 센서 값을 읽고 모터에 명령을 보내는 작업을 필요한 시간 안에 반복하는 것이 중요하다. RISC-V는 처리기가 이해하는 명령 체계의 공개 표준으로, 모든 RISC-V 칩의 성능과 주변 장치가 같다는 뜻은 아니다. MIPS는 하드웨어 멀티스레딩으로 인터럽트 처리 중 작업 전환 부담을 줄인다고 설명한다. 실제 효과는 실행 코드와 제어 주기에 따라 확인해야 한다.\n\n회사는 모터 제어 알고리즘에 쓰이는 삼각함수 전용 가속이 표준 삼각함수 라이브러리보다 16배 넘는 성능을 제공한다고 밝혔다. 이는 해당 연산의 비교이며 로봇 팔 전체가 16배 빨라진다는 의미가 아니다. PWM은 모터에 전력을 주는 펄스의 폭을 제어하는 방식으로, 자료는 100피코초급 고해상도 PWM도 제시한다. 이 역시 제어 신호의 세밀함에 관한 수치이지 로봇 손끝의 위치 오차를 직접 나타내는 값은 아니다.\n\n통신도 움직임의 일부다\nActus는 기가비트 이더넷과 3포트 TSN, CAN-FD 등을 통합한다고 설명한다. TSN은 시간에 민감한 데이터가 예측 가능한 방식으로 전달되도록 돕는 네트워크 기술이다. 여러 관절이 위치와 토크 정보를 주고받을 때 지연의 흔들림을 줄이는 것이 중요하다. 통신 규격을 지원한다는 사실만으로 로봇 전체의 동기화가 완료되는 것은 아니며, 네트워크 구성과 다른 제어기의 조건까지 맞아야 한다.\n\n엣지 추론은 데이터를 외부 서버로 모두 보내지 않고 관절 가까이에서 처리하려는 기능이다. 회사는 센서 융합과 예지 정비 모델을 같은 칩에서 실행하는 구상을 제시했다. 기능 안전 지원과 양자내성 암호를 갖춘 보안 모듈도 포함한다. 그러나 ‘지원’이라는 말은 완성 로봇이 모든 안전 인증을 받았다는 뜻이 아니다. 안전한 동작은 기계 구조, 제어 소프트웨어와 전체 시스템 검증을 함께 요구한다.\n\n개발자는 실제 칩을 받기 전 가상 플랫폼에서 소프트웨어를 시작하고, 이후 Actus-1 평가 보드와 SDK로 옮기는 경로를 안내받는다. 구체적인 양산 공급일과 가격은 발표에 없다. 편집부는 AI 성능만 강조하던 설명에서 관절의 제어 주기와 네트워크까지 함께 설계하는 방향에 의미가 있다고 본다. 다만 독립적인 로봇 시험 결과가 제시된 것은 아니므로 전력 절감률이나 실제 작업 정확도를 확정 성능으로 덧붙이지 않았다."
+        },
+        "en": {
+          "title": "MIPS Actus combines control, inference and networking inside robot joints",
+          "summary": "Real-time processing and time-sensitive communication target the gap between AI decisions and motion.",
+          "body": "MIPS detailed advances in its Actus reference platform in an official release dated November 9. It combines two Atlas M8500 real-time RISC-V processors, motor-control acceleration, edge inference and networking. This is a control foundation for robot developers, not the sale of a complete humanoid robot. Its electronica demonstration window is November 10–13.\n\nMIPS supplies processor technology and platforms and identifies itself here as “MIPS, by GF.” GlobalFoundries is the semiconductor manufacturer behind GF. Actus uses its FDX FD-SOI technology to address space, power and heat within compact joints. Near the end of a robotic arm, motors, sensors and circuits compete for limited room. A smart central decision is insufficient if joints cannot respond on time.\n\nReal-time control concerns deadlines and repeated sensor-to-motor work, not just high average speed. RISC-V is an open instruction-set standard, not a promise that every implementing chip has identical performance or peripherals. MIPS describes hardware multithreading that reduces switching overhead during interrupts. Its application benefit still depends on software and control cycles.\n\nThe company claims over 16 times the performance of standard trigonometric libraries for dedicated acceleration used in motor-control algorithms. That is an operation-specific comparison, not a robot arm moving 16 times faster. It also describes 100-picosecond-class PWM, which controls electrical pulse widths. Fine signal timing is not a direct measurement of fingertip position error.\n\nIntegrated gigabit Ethernet, three-port Time-Sensitive Networking and CAN-FD connect joints to the controller. TSN supports predictable delivery of time-critical data; variation in delay matters when exchanging positions and torques. Protocol support alone does not synchronize a whole robot. Topology and other controllers must also meet the timing design.\n\nEdge inference keeps processing near the joint instead of sending all data to a remote server. MIPS describes sensor fusion and predictive-maintenance models on the same chip, alongside functional-safety support and a post-quantum security module. Support for safety is not certification of a completed robot: mechanical design, control software and system validation remain necessary.\n\nThe proposed development path starts on a virtual platform before silicon, then moves to the Actus-1 board and SDK. No specific mass-production supply date or price is given. Our interpretation is that joint timing and networking deserve attention alongside headline AI performance. The release is not an independent robot test, so we have not added guaranteed power savings or task accuracy."
+        },
+        "ja": {
+          "title": "MIPS Actus、ロボット関節に制御・推論・通信を統合",
+          "summary": "AIの判断からモーターの動作まで、実時間処理と時間依存ネットワークを組み合わせる。",
+          "body": "MIPSは11月9日付の公式発表で、関節向けActus参照プラットフォームの進展を公開した。Atlas M8500実時間RISC-V処理器2基とモーター制御の高速化、エッジ推論、通信を組み合わせる。完成した人型ロボットの販売ではなく、メーカーが精密な動作を実装するための基盤だ。electronicaでの紹介は11月10～13日となる。\n\nMIPSは処理器技術とプラットフォームを提供し、今回は「MIPS, by GF」と表記する。GFは半導体製造会社グローバルファウンドリーズだ。FDX FD-SOI技術を用い、小型関節の空間、電力、発熱を扱う。腕の先端ほどモーター、センサー、回路の置き場が限られる。中央の判断が賢くても関節が時間内に応答しなければ動作に結び付かない。\n\n実時間制御は平均速度だけでなく、センサー読み取りと命令を必要時間内に繰り返すことが重要だ。RISC-Vは公開の命令セット標準で、対応チップの性能や周辺回路が全部同じという意味ではない。MIPSはハードウェアのマルチスレッドで割り込み時の切り替え負担を減らすと説明するが、効果はコードと制御周期で確認する必要がある。\n\n三角関数専用の高速化は、モーター制御に使う標準ライブラリー比16倍超とする。対象演算の比較であり、腕全体が16倍速く動く意味ではない。100ピコ秒級のPWMも掲げる。PWMは電力パルス幅の制御で、信号の細かさは指先の位置誤差を直接示さない。\n\nギガビットEthernet、3ポートTSN、CAN-FDなどを統合する。TSNは時間に敏感なデータを予測可能に届ける技術で、位置やトルク交換の遅延変動を抑える点が重要になる。規格対応だけで全関節の同期は完成せず、網構成や他の制御器にも条件がある。\n\nエッジ推論は全情報を外部サーバーへ送らず関節近くで処理する狙いだ。センサー統合や予知保全を同じチップで行い、機能安全支援と耐量子暗号の保護機構も備える。ただし支援は完成ロボットの安全認証取得を意味しない。機械構造、制御ソフト、全体検証が必要だ。\n\n開発は実チップ前の仮想環境からActus-1評価基板とSDKへ移す流れを案内する。量産供給日と価格は未公表だ。編集部はAI性能に加え関節周期と通信を一緒に設計する点に意味を見る。独立したロボット試験ではないため、省電力率や作業精度を確定値として補っていない。"
+        },
+        "zh": {
+          "title": "MIPS Actus将控制、推理和通信放入机器人关节",
+          "summary": "实时处理与时间敏感网络，面向AI决策到电机动作之间的环节。",
+          "body": "MIPS在11月9日的官方公告中介绍Actus参考平台进展，结合两颗Atlas M8500实时RISC-V处理器、电机控制加速、边缘推理和通信。这不是完整人形机器人上市，而是为机器人开发者提供精密动作的控制基础。electronica展示日期为11月10日至13日。\n\nMIPS供应处理器技术与平台，此次使用“MIPS, by GF”名称。GF即半导体制造商格芯。Actus基于其FDX FD-SOI技术，处理小型关节的空间、功耗和热量限制。机械臂越靠近末端，电机、传感器、电路的空间越紧。中央决策再智能，关节不能及时响应也无法实现预期运动。\n\n实时控制强调在期限内反复读取传感器并下发电机指令，而非仅有较高平均速度。RISC-V是开放指令集标准，不表示所有相关芯片性能和外设相同。MIPS称硬件多线程能减少中断时的任务切换负担，具体收益仍取决于代码与控制周期。\n\n公司称用于电机控制的三角函数专用加速，相比标准库超过16倍。这是特定运算比较，不是整条机械臂快16倍。100皮秒级PWM描述电力脉冲宽度控制的精细程度，也不能直接当作指尖位置误差。\n\n平台集成千兆以太网、三端口TSN及CAN-FD。TSN帮助时间关键数据以可预测方式传递，在关节交换位置和转矩时，延迟波动很重要。但支持协议不等于整个机器人已同步，网络布局和其他控制器也要符合时序条件。\n\n边缘推理意在关节附近处理数据，而非全部发往远程服务器。公司提出同芯片运行传感器融合和预测维护模型，并提供功能安全支持及后量子密码安全模块。安全支持不代表成品机器人完成所有认证，机械结构、软件和整体系统仍需验证。\n\n开发路线从硅片到位前的虚拟平台开始，后续迁至Actus-1评估板和SDK。具体量产供应日及价格未公开。编辑部认为，关节控制周期和网络应与AI能力一起设计。公告不是独立机器人测试，因此未补充保证节能比例或实际任务精度。"
+        }
+      },
+      "image": {
+        "url": "assets/20261112-actus.jpg",
+        "alt": {
+          "ko": "실험대 위의 일반 산업용 로봇 손목과 제어 회로",
+          "en": "Generic robotic wrist and control electronics on a laboratory bench",
+          "ja": "実験台上の一般的なロボット手首と制御回路",
+          "zh": "实验台上的通用机械臂腕部及控制电路"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "stm32h7p-industrial-ai-control-20261104",
+      "date": "2026-11-04",
+      "published": "2026-11-12",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "STMicroelectronics — STM32H7P announcement",
+      "url": "https://newsroom.st.com/media-center/press-item.html/stmicroelectronics-stm32h7p-mcus-embed-digital-signal-processing-edge-ai-and-real-time-control-for-demanding-industrial-applications-n4798.html",
+      "sources": [
+        {
+          "name": "STMicroelectronics — STM32H7P announcement",
+          "url": "https://newsroom.st.com/media-center/press-item.html/stmicroelectronics-stm32h7p-mcus-embed-digital-signal-processing-edge-ai-and-real-time-control-for-demanding-industrial-applications-n4798.html"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "STM32H7P, 산업용 제어에 신호 처리·AI 가속 추가…양산은 2027년 1월 계획",
+          "summary": "2773 CoreMark와 최대 85 GOPS는 서로 다른 연산 성능 지표다.",
+          "body": "ST마이크로일렉트로닉스가 11월 4일 STM32H7P 마이크로컨트롤러를 발표했다. Arm Cortex-M7 처리기에 디지털 신호 처리용 HSP와 Neural-ART 신경망 처리 장치 NPU를 더해 모터와 전력 제어, 상태 감시를 겨냥한다. 발표 당시 OEM에 샘플을 제공 중이며 양산은 2027년 1월 계획이다. 같은 달 평가 보드와 Discovery 키트도 공급할 예정으로, 발표를 즉시 일반 판매 시작으로 볼 수는 없다.\n\nST는 자동차와 산업, 소비자 기기 등에서 쓰는 반도체를 공급하는 기업이다. STM32는 그 마이크로컨트롤러 계열이며 H7P는 고성능 제어를 담당하는 H7 계열의 확장이다. MCU는 입력을 읽고 제어 명령을 출력하는 기능을 기기 안에 넣는다. 이번 제품은 기존 제어 작업에 신호 처리와 작은 AI 모델 실행을 결합해, 모든 데이터를 외부 서버로 보내지 않고 현장에서 판단하려는 설계다.\n\n숫자 두 개를 나눠 읽기\n회사는 Cortex-M7에 2773 CoreMark, NPU에 최대 85 GOPS를 제시했다. CoreMark는 정해진 코드로 처리기 성능을 비교하는 시험 점수이고, GOPS는 초당 수십억 단위 연산을 나타낸다. 서로 다른 작업과 장치를 가리켜 두 숫자를 더하거나 일반 컴퓨터의 체감 속도로 곧바로 바꿀 수 없다. AI 모델의 구조와 데이터 형식, 메모리 이동이 실제 처리 시간을 좌우하므로 최대 연산량만으로 응용 속도는 정해지지 않는다.\n\nST가 공개한 속도 비교도 특정 모델을 기준으로 한다. 태양광 인버터의 아크 결함 감지 모델은 소프트웨어 실행보다 40배, 이상 탐지 모델은 20배, 배터리 관리 모델은 15배 빠른 추론을 시연했다고 설명한다. 이 값은 제조사의 해당 모델 비교이며 모든 신경망이나 완성 장치의 처리 속도 상승률이 아니다. 아크 결함은 비정상적인 전기 방전 상황을 감지하는 안전 응용으로, 모델이 빨라져도 전체 보호 시스템의 검증이 대신되는 것은 아니다.\n\n메모리에서는 최대 2MB 플래시와 확대된 TCM을 제시했다. 플래시는 전원을 꺼도 코드와 데이터를 보관하는 공간이고, TCM은 처리기가 빠르고 예측 가능한 방식으로 접근하도록 밀접하게 연결한 메모리다. 코드 저장 용량과 실시간 처리용 접근 특성이 다르다. 회사는 종전 1MB H7과 비슷한 가격대에서 더 높은 저장 밀도를 제공한다고 설명하지만, 실제 비교에는 패키지와 주문량 등 같은 조건이 필요하다.\n\n개발 도구로는 Edge AI Suite, 모터 제어 소프트웨어와 새 STM32Cube 환경의 연결을 안내했다. 아날로그 입력을 디지털 값으로 바꾸는 ADC와 반대로 출력하는 DAC, 비교기와 타이머도 산업 제어에 쓰인다. 주변 회로가 강화됐다는 설명만으로 기존 보드에 핀과 소프트웨어가 그대로 호환된다고 가정할 수는 없다. 설계자는 필요한 입력 수와 속도, 메모리 배치와 발열을 함께 검토해야 한다.\n\n공개 시작 가격은 1MB 플래시·LQFP100 패키지 제품을 1만 개 주문하는 조건에서 개당 4.43달러다. 개발 키트 한 개의 가격이나 개인 소량 구매가와 다르다. 주변 온도 최대 125°C 지원도 개별 시스템의 무조건적인 고온 안전을 보장하지 않는다. 편집부는 제어와 추론을 한 칩 가까이에서 처리하는 선택지가 넓어지는 변화로 보지만, 국내 재고와 최종 가격, 실제 모델 지연 시간은 별도로 확인할 사항으로 남겨 둔다."
+        },
+        "en": {
+          "title": "STM32H7P adds signal processing and AI acceleration to industrial control",
+          "summary": "Production is planned for January 2027; CoreMark and GOPS measure different workloads.",
+          "body": "STMicroelectronics announced STM32H7P microcontrollers on November 4, combining an Arm Cortex-M7 with its HSP signal processor and Neural-ART NPU for motors, power control and monitoring. OEM sampling is underway, with production planned for January 2027. Evaluation and Discovery kits are also scheduled for that month. Announcement is not immediate general retail availability.\n\nST supplies chips across industrial, automotive and consumer markets. STM32 is its MCU family; H7P extends the high-performance H7 range. MCUs read inputs and produce control outputs inside a device. Adding signal processing and small-model inference enables local decisions rather than sending every measurement to a server.\n\nThe release lists 2773 CoreMark for the Cortex-M7 and up to 85 GOPS for the NPU. CoreMark is a score from defined processor-test code; GOPS counts billions of operations per second. They describe different work and hardware, so cannot be added or translated directly into PC responsiveness. Model structure, data format and memory transfers affect real inference latency.\n\nST’s speed comparisons are model-specific: it reports 40-times-faster inference than software for its solar-inverter arc-fault model, 20 times for anomaly detection and 15 times for battery management. These are manufacturer comparisons, not universal gains for every network or complete device. Faster detection of abnormal electrical arcing does not replace validation of the full protection system.\n\nThe range offers up to 2 MB of flash and larger tightly coupled memories. Flash retains code and data without power; TCM provides closely connected, predictable fast access for processing. Capacity and access behavior are distinct. ST describes pricing similar to earlier 1 MB H7 products, but package and order quantity must match in a meaningful comparison.\n\nThe release points to Edge AI Suite, motor-control tools and an updated STM32Cube environment. ADCs convert analog inputs to digital values; DACs do the reverse, while comparators and timers also support control. Improved peripherals do not prove drop-in pin or software compatibility. Inputs, rates, memory placement and thermal behavior remain design checks.\n\nThe stated starting price is US$4.43 for a 1 MB flash device in LQFP100 at 10,000-unit orders, not a development-kit or single-unit retail price. Ambient operation up to 125°C is not unconditional safety for an entire system. Our interpretation is that local control-plus-inference options are broadening; regional stock, final prices and real model latency still need verification."
+        },
+        "ja": {
+          "title": "STM32H7P、産業制御に信号処理とAI高速化　量産は2027年1月予定",
+          "summary": "2773 CoreMarkと最大85 GOPSは異なる処理指標として読む必要がある。",
+          "body": "STマイクロエレクトロニクスは11月4日、STM32H7Pを発表した。Cortex-M7に信号処理HSPとNeural-ART NPUを組み合わせ、モーター、電力制御、状態監視を狙う。OEM向け試供中で、量産と評価ボード、Discoveryキットは2027年1月予定。発表は即日一般販売開始を意味しない。\n\nSTは産業、自動車、消費者機器向けの半導体を供給する。STM32はマイコン群で、H7Pは高性能H7の拡張だ。MCUは機器内で入力を読み制御出力を作る。信号処理と小型AIを加え、全データをサーバーへ送らず現場で判断する用途を想定する。\n\nCortex-M7に2773 CoreMark、NPUに最大85 GOPSを掲げる。CoreMarkは所定コードによる処理器試験点数、GOPSは毎秒10億単位の演算数だ。仕事と回路が違い、足したりPCの体感速度へ直結させたりはできない。モデル構造、データ形式、メモリー転送が実際の遅延に影響する。\n\nSTの比較もモデル別だ。太陽光インバーターのアーク異常検出はソフト実行比40倍、異常検知20倍、電池管理15倍の推論高速化を示したという。メーカーの特定条件で、全モデルや完成機器の向上率ではない。異常放電の検出が速くなっても保護系全体の検証は必要になる。\n\n最大2MBフラッシュと拡大TCMを備える。フラッシュは無通電でコードやデータを保持し、TCMは処理器に近接して高速で予測しやすいアクセスを担う。容量とアクセス特性は別だ。従来1MB H7に近い価格帯とするが、比較にはパッケージや注文数量をそろえる必要がある。\n\nEdge AI Suiteやモーター制御ソフト、新STM32Cubeとの連携も案内する。ADCはアナログ入力をデジタル化し、DACは逆方向を担う。比較器とタイマーも制御に使う。周辺回路の強化だけで既存基板との端子・ソフト互換を仮定できない。入力数、速度、メモリー配置、熱を検討したい。\n\n価格は1MBフラッシュのLQFP100を1万個注文で1個4.43ドルから。キットや単品小売価格ではない。周囲温度最大125℃もシステム全体の無条件の安全保証ではない。編集部は制御と推論を近くで処理する選択肢の拡大と見るが、地域在庫、最終価格、実モデルの遅延は別途確認事項だ。"
+        },
+        "zh": {
+          "title": "STM32H7P为工业控制增加信号处理及AI加速，计划2027年1月量产",
+          "summary": "2773 CoreMark与最高85 GOPS是不同任务的性能指标。",
+          "body": "意法半导体11月4日发布STM32H7P，将Cortex-M7、HSP信号处理器及Neural-ART NPU结合，面向电机、电力控制和状态监测。目前向OEM送样，量产、评估板与Discovery套件计划2027年1月提供。发布不等于立即零售开售。\n\nST供应工业、汽车及消费设备芯片，STM32是其微控制器系列，H7P扩展高性能H7产品。MCU在设备内读取输入并产生控制输出，新增信号处理和小型AI推理可支持本地判断，而非把所有数据上传服务器。\n\n公司列Cortex-M7为2773 CoreMark、NPU最高85 GOPS。前者是规定代码的处理器测试得分，后者是每秒十亿次运算单位。任务与硬件不同，不能相加或直接换成电脑流畅度。模型结构、数据格式及内存传输影响实际推理延迟。\n\n速度比较也针对具体模型。ST称太阳能逆变器电弧故障模型比软件推理快40倍，异常检测20倍，电池管理15倍。这是厂商特定模型比较，并非所有网络或整机普遍提升。更快检测异常放电不等于整个保护系统验证完成。\n\n系列最高2MB闪存并扩大紧耦合存储器TCM。闪存断电保存代码与数据，TCM靠近处理器，提供快速且可预测访问。容量与访问特性不同。公司称价格接近此前1MB H7，但实际比较仍须匹配封装与订单量。\n\n开发支持包括Edge AI Suite、电机控制软件及更新的STM32Cube。ADC将模拟输入数字化，DAC反向转换，比较器与定时器也用于控制。外设增强不代表旧板引脚和软件可直接兼容。输入数量、速率、内存布局及散热仍需检查。\n\n起价4.43美元的条件是1MB闪存、LQFP100封装、订购一万颗，不是开发套件或单件零售价。最高125°C环境温度也不是整套系统无条件安全保证。编辑部认为本地控制与推理选择增多，但地区库存、最终价格和真实模型延迟仍需分别核实。"
+        }
+      },
+      "image": {
+        "url": "assets/20261112-stm32.jpg",
+        "alt": {
+          "ko": "일반 개발 회로와 모터·진동 센서 시험 장면",
+          "en": "Generic development circuit, motor and vibration-sensor bench",
+          "ja": "一般的な開発回路とモーター・振動センサーの試験台",
+          "zh": "通用开发电路、电机与振动传感器测试台"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "infineon-aurix-rc1-riscv-20261104",
+      "date": "2026-11-04",
+      "published": "2026-11-12",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "Infineon — AURIX RC1 platform announcement",
+      "url": "https://www.infineon.com/press-release/2026/infpr202611-026",
+      "sources": [
+        {
+          "name": "Infineon — AURIX RC1 platform announcement",
+          "url": "https://www.infineon.com/press-release/2026/infpr202611-026"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "인피니언 AURIX RC1, 차량 제어기에 RISC-V 도입…샘플은 2027년 상반기 목표",
+          "summary": "여러 차량 기능을 공통 제어기 계열로 개발하는 구상으로, 모델별 사양과 실제 탑재는 남아 있다.",
+          "body": "인피니언이 11월 4일 자동차와 산업 제어용 AURIX RC1을 발표했다. 자사 마이크로컨트롤러 플랫폼 중 처음으로 공개 명령어 표준 RISC-V를 활용하며, 기존 AURIX와 TRAVEO T2G의 적용 영역을 공통 제품군으로 잇겠다는 계획이다. 개념은 11월 10~13일 뮌헨 electronica에서 소개하고, 첫 샘플 공급은 2027년 상반기가 목표다. 발표와 전시, 평가용 샘플, 실제 차량 탑재는 각각 다른 단계다.\n\n인피니언은 자동차와 산업용 반도체를 공급하는 기업이다. AURIX는 차량에서 정해진 시간 안에 센서를 읽고 제어를 수행하는 마이크로컨트롤러 계열이다. 소프트웨어 정의 차량 SDV는 소프트웨어가 기능과 업데이트에서 큰 역할을 하는 자동차를 가리킨다. 과거 기능별로 여러 곳에 나뉘던 제어를 중앙 컴퓨터와 구역 제어기에 모으는 설계가 늘면서, 같은 개발 기반을 여러 영역에 적용하는 것이 이번 플랫폼의 목표다.\n\n구역 제어기는 차체의 특정 물리적 영역에서 센서나 구동 장치와 연결되는 역할을 한다. 같은 계열 칩을 차체, 섀시, 배터리 관리나 동력계에 맞춰 쓰면 도구와 코드를 일부 공유할 여지가 있다. 그러나 모든 역할에 동일한 칩을 쓰거나 모든 기능을 중앙 한 곳으로 옮긴다는 뜻은 아니다. 실시간 제어의 응답 시간, 통신 대역과 장애 발생 시의 동작은 각 기능별로 따져야 한다.\n\nRISC-V는 처리기가 실행하는 명령의 공개 규격이다. 공개 표준을 사용한다는 사실과 특정 칩의 내부 설계나 개발 도구가 모두 공개된다는 것은 다르다. 인피니언은 용도에 따라 최대 12개의 32비트 처리 코어와 최대 40MB 내장 메모리, 병렬 처리 장치를 제시한다. 제품군 상한으로 읽어야 하며 모든 모델의 공통 사양은 아니다. 일부 상위 제품에 64비트 마이크로프로세서 기능을 더하는 계획도 기본 MCU 모델의 사양과 구분된다.\n\n안전과 통신의 기준\n인피니언은 자동차 기능 안전의 높은 수준인 ASIL D까지의 응용을 지원하도록 설계한다고 설명한다. 이는 안전 목표를 만족시키는 시스템 설계에 활용할 수 있다는 뜻이지, 반도체 발표만으로 완성차가 인증됐다는 뜻은 아니다. 통신에는 CAN-XL과 10BASE-T1S, 멀티기가비트 이더넷을 제시했고 일부 제품에는 스위칭과 경로 처리 가속을 넣는다. 같은 계열 이름이라도 실제 포트와 지원 기능은 제품별 문서가 필요하다.\n\n개발 전환에는 DRIVECORE 소프트웨어 생태계를 제공하고, 가상 시제품으로 실물 칩 전에 작업을 시작할 수 있다고 밝혔다. 이전 기종의 코드가 그대로 동작한다는 보장은 아니다. 명령 체계뿐 아니라 주변 장치, 실시간 운영 환경과 안전 검증 절차도 영향을 받는다. 편집부의 해석으로는 공통 기반이 자리 잡으면 도구와 코드를 재사용할 가능성이 커지지만, 전환 비용이 실제로 얼마나 줄어드는지는 프로젝트별 검증이 필요하다.\n\n운전자에게 이번 소식이 곧 새 기능 업데이트나 차량 판매로 이어지는 것은 아니다. 샘플 목표 이후에도 차량 업체의 평가, 설계 채택, 시험과 양산 결정이 남는다. 구체적인 모델별 가격, 전체 공급 일정, 탑재 차량과 출시일은 이번 발표로 확정되지 않았다. 현재 확인할 수 있는 변화는 공통 차량 제어 플랫폼의 방향과 시제품 목표이며, 체감 기능은 실제 제품 채택 공지가 나올 때 판단할 사안이다."
+        },
+        "en": {
+          "title": "Infineon brings RISC-V to AURIX RC1, targeting samples in early 2027",
+          "summary": "A common vehicle-control family is planned, while model details and vehicle adoption remain open.",
+          "body": "Infineon announced AURIX RC1 on November 4 for automotive and industrial control. Its first MCU platform using the open RISC-V instruction set aims to connect application areas served by AURIX and TRAVEO T2G. The concept is presented at electronica on November 10–13, with initial samples targeted for the first half of 2027. Announcement, exhibition, sampling and installation in cars are separate milestones.\n\nInfineon supplies automotive and industrial semiconductors. AURIX microcontrollers read sensors and execute control tasks within deadlines. In software-defined vehicles, software plays a major role in functions and updates. As designs consolidate some previously scattered control units into central computers and zone controllers, Infineon proposes a common development base across domains.\n\nA zone controller connects sensors and actuators in a physical region of a vehicle. A shared family across body, chassis, batteries and powertrains may allow reuse of tools or code. It does not imply that every role uses the same chip or moves to one central computer. Response deadlines, bandwidth and behavior during faults remain application-specific.\n\nRISC-V is an open specification for processor instructions. It does not make every chip design or tool open. Infineon describes up to twelve 32-bit cores, up to 40 MB of embedded memory and parallel processing depending on application. Those are family-level maxima, not uniform model specifications. A planned high-end line with added 64-bit microprocessor capability is distinct from baseline MCU models.\n\nThe platform is designed to support applications up to ASIL D, a high automotive functional-safety level. That supports system design toward safety goals; a chip announcement is not certification of a finished car. Infineon lists CAN-XL, 10BASE-T1S and multi-gigabit Ethernet, with switching and routing acceleration on selected devices. Exact ports and features require model-specific documentation.\n\nInfineon offers the DRIVECORE ecosystem and virtual prototyping before physical chips arrive. That is not a guarantee old software runs unchanged. Peripherals, real-time software and safety validation matter alongside instruction sets. Our interpretation is that a common base could increase tool and code reuse, but actual migration savings need project-level evidence.\n\nDrivers do not get a new update or car from this announcement alone. Sampling is followed by evaluation, design selection, testing and production decisions. Model pricing, full supply schedules, vehicle selections and launch dates are not established here. The confirmed change is the platform direction and sampling target; driver-facing functions require separate adoption announcements."
+        },
+        "ja": {
+          "title": "インフィニオンAURIX RC1、車載制御にRISC-V　試供は2027年上期目標",
+          "summary": "複数の車両機能を共通の制御器群で開発する構想で、個別仕様や搭載先は未確定。",
+          "body": "インフィニオンは11月4日、車載・産業制御向けAURIX RC1を発表した。同社マイコン基盤として初めて公開命令セットRISC-Vを使い、従来AURIXとTRAVEO T2Gの用途を共通製品群でつなぐ。11月10～13日のelectronicaで構想を紹介し、初回試供は2027年上期が目標だ。発表、展示、試供、車両搭載は別の段階である。\n\n同社は車載・産業半導体を供給する。AURIXはセンサー読み取りと制御を期限内に行うマイコン群だ。ソフトウェア定義車両SDVでは機能や更新にソフトが大きな役割を持つ。分散していた制御の一部を中央計算機とゾーン制御器へ集約する設計に対し、共通開発基盤を提案する。\n\nゾーン制御器は車の物理的な領域でセンサーやアクチュエーターとつながる。車体、シャシー、電池、動力系に同じ系統を使えば、ツールやコードを再利用する余地がある。ただし全機能を同じチップに載せたり中央に集めたりする意味ではない。応答期限、通信帯域、故障時動作は用途別に判断する。\n\nRISC-Vは処理器の公開命令規格で、個別チップの内部設計やツールがすべて公開されるという意味ではない。用途に応じて32ビットコア最大12基、内蔵メモリー最大40MB、並列処理装置を掲げる。製品群の上限であり全モデル共通ではない。上位群に64ビットのマイクロプロセッサー機能を加える計画も基本MCUとは区別したい。\n\n車載機能安全の高い水準ASIL Dまでの用途を支援する設計という。システムが安全目標を満たすための支援で、完成車の認証取得ではない。CAN-XL、10BASE-T1S、マルチギガビットEthernetを挙げ、一部にはスイッチングと経路処理の高速化を含める。正確な端子や機能は製品別資料が必要だ。\n\nDRIVECOREのソフト環境と、実チップ前の仮想試作を案内する。旧コードが無変更で動く保証ではない。命令以外に周辺回路、実時間環境、安全検証も影響する。編集部は共通基盤で再利用が広がり得ると見るが、移行費用の削減は案件ごとの確認が必要だ。\n\n運転者向けの更新や新車販売が直ちに始まるわけではない。試供後には評価、採用、試験、量産判断が残る。モデル別価格、供給日程、搭載車、発売日は今回の発表で確定していない。確認できるのは共通基盤の方向と試供目標で、体感できる機能は実際の採用発表で判断したい。"
+        },
+        "zh": {
+          "title": "英飞凌AURIX RC1为车载控制引入RISC-V，目标2027年上半年送样",
+          "summary": "多种车辆功能拟共用控制器家族，具体型号与装车仍待确认。",
+          "body": "英飞凌11月4日发布面向汽车和工业控制的AURIX RC1。这是其首个利用开放指令集RISC-V的微控制器平台，拟将既有AURIX与TRAVEO T2G的应用领域纳入共同家族。概念于11月10至13日electronica介绍，首批样品目标为2027年上半年。发布、展出、送样和装车是不同阶段。\n\n英飞凌提供汽车及工业半导体。AURIX微控制器在期限内读取传感器并控制设备。软件定义汽车SDV让软件在功能与更新中发挥更大作用。随着部分分散控制单元向中央计算机和区域控制器集中，公司提出跨领域的共同开发基础。\n\n区域控制器连接车内特定物理区域的传感器和执行器。车身、底盘、电池及动力系统使用同一家族，有机会复用工具或代码。但这不意味着每项功能使用同一芯片或全部集中到一台计算机。响应期限、带宽与故障行为仍须按用途判断。\n\nRISC-V是公开的处理器指令规范，不表示各芯片内部设计与工具全部开源。英飞凌按应用给出最多12个32位核心、最高40MB内置存储及并行处理单元。这些是家族上限，不是全部型号共同规格。增加64位微处理器能力的高端计划也应与基本MCU型号区分。\n\n平台设计支持最高至ASIL D的汽车功能安全应用。这有助于系统实现安全目标，不是成品车已认证。公司列出CAN-XL、10BASE-T1S及多千兆以太网，部分型号含交换与路由加速。具体端口和功能仍需逐型号文件。\n\n公司提供DRIVECORE软件生态与实物芯片前的虚拟原型，但不保证旧代码不变即可运行。除指令集外，外设、实时软件与安全验证也有影响。编辑部认为共同基础有望增加代码与工具复用，实际迁移节省仍需项目验证。\n\n对驾驶者，此次公告不会立刻带来车辆更新或新车上市。送样之后还有评估、选型、测试及量产决策。各型号价格、完整供货日程、搭载车型和上市日期均未由本次公告确定。现在可确认的是共同平台方向与送样目标，实际用户功能要看后续采用公告。"
+        }
+      },
+      "image": {
+        "url": "assets/20261112-aurix.jpg",
+        "alt": {
+          "ko": "차량용 제어기와 배선이 놓인 일반 전자 실험대",
+          "en": "Generic vehicle controller and harness on an electronics bench",
+          "ja": "車載制御器と配線を置いた一般的な実験台",
+          "zh": "放置通用车载控制器和线束的电子工作台"
+        },
+        "generated": true
+      }
+    },
     {
       "id": "ring-robotics-drone-rover-20261110",
       "date": "2026-11-10",
