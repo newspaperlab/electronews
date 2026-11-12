@@ -1,6 +1,269 @@
 {
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "articles": [
+    {
+      "id": "samsung-intelligent-eyewear-us-release-20261112",
+      "date": "2026-11-12",
+      "published": "2026-11-13",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "Samsung U.S. Newsroom",
+      "url": "https://news.samsung.com/us/samsung-announces-u-s-release-intelligent-eyewear-bringing-smart-way-world/",
+      "sources": [
+        {
+          "name": "Samsung U.S. Newsroom",
+          "url": "https://news.samsung.com/us/samsung-announces-u-s-release-intelligent-eyewear-bringing-smart-way-world/"
+        },
+        {
+          "name": "Samsung Korea, July unveiling",
+          "url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%9D%B8%ED%85%94%EB%A6%AC%EC%A0%84%ED%8A%B8-%EC%95%84%EC%9D%B4%EC%9B%A8%EC%96%B4-%EA%B3%B5%EA%B0%9C"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "삼성 스마트 안경, 미국 12월 10일 판매…휴대전화 호환부터 확인",
+          "summary": "11월 12일 예약을 시작했다. 9시간은 안경 한 번 충전 기준, 72시간은 충전 케이스를 포함한 수치다.",
+          "body": "삼성전자 미국법인이 11월 12일 인텔리전트 아이웨어의 예약을 시작하고 미국 일반 판매일을 12월 10일로 발표했다. 워비파커 제품은 395달러부터, 젠틀몬스터 제품은 모델별 449~489달러로 안내됐다. 지난 7월 갤럭시 언팩에서 소개했던 안경형 기기에 이번에는 판매 시점과 가격이 붙었다. 미국 일정과 가격이며 한국 출시일과 가격은 이 자료에서 확인되지 않는다.\n\n삼성은 구글과 협력해 제미나이를 적용했고, 안경 브랜드 두 곳과 프레임을 구성했다. 30가지 디자인이라는 숫자는 프레임 모양뿐 아니라 색상과 렌즈 등 선택지의 조합을 포함한다. 30종의 서로 다른 전자 장치가 들어갔다는 뜻으로 볼 수 없다. 사양표의 약 41g도 표준 렌즈를 단 특정 모델 기준이다. 도수 렌즈를 넣을 경우의 무게와 얼굴에 닿는 느낌은 실제 주문 구성에서 달라질 수 있다.\n\n안경에는 1200만 화소 HDR 카메라, 개방형 스피커와 마이크 네 개가 있다. 카메라가 본 대상에 관해 음성으로 묻거나 길 안내를 듣는 것이 회사가 제시한 사용 사례다. 개방형 스피커는 귓구멍을 막는 이어폰과 달리 주변 소리가 들어오는 구조다. 시끄러운 길에서 얼마나 잘 들리는지, 다른 사람에게 소리가 어느 정도 들리는지는 자료만으로 판단하기 어렵다.\n\n스냅드래곤 AR1 1세대를 쓰면서 일부 연산은 연결한 휴대전화가 나눠 처리한다. 회사가 말하는 분산 처리란 카메라와 소리를 받는 기기, 그 신호를 해석하는 기기가 일을 나눠 맡는 구조다. 구매 전에는 휴대전화 이름과 운영체제 버전을 함께 봐야 한다. 사양표에는 One UI 9 이상을 쓰는 지정 갤럭시, 안드로이드 17의 지정 업데이트를 적용한 픽셀 7 이후 기종, iOS 26.6 이상과 최소 6GB RAM 조건을 충족하는 아이폰 13 이후 기종이 나온다. 빅스비는 갤럭시 연결 조건이다.\n\n회사가 제시한 최대 9시간은 안경 단독으로 한 번 충전했을 때, 최대 72시간은 충전된 케이스를 쓸 때의 기준이다. 72시간 동안 안경을 벗지 않고 연속 사용할 수 있다는 보장은 아니다. 네트워크 상태와 실행 기능, 충전 횟수가 영향을 준다. 출퇴근의 짧은 음성 사용과 장시간 카메라 사용을 같은 소비 전력으로 가정할 수 없다.\n\n호환 목록은 기기를 연결할 수 있는 범위부터 보여 준다. 연결 뒤에도 기능에 따라 필요한 앱이나 계정, 네트워크가 다를 수 있다. 예를 들어 카메라로 회의의 화이트보드를 읽고 삼성 노트에 정리하는 회사 사례에는 사진을 찍는 단계와 내용을 처리해 저장하는 단계가 있다. 기존 휴대전화에서 쓰는 앱과 그 저장 위치를 확인하면 실제로 필요한 기능만 비교할 수 있다. 호환 명단에 올라 있다는 이유로 모든 운영체제에서 같은 기능을 쓴다고 단정하기는 어렵다.\n\n카메라 작동 시 외부 표시등이 켜지고, 회사는 표시등이 가려지거나 고장 나면 촬영을 차단한다고 설명했다. 활성화에는 18세 이상 확인이 필요하다. 표시등은 주변 사람이 작동 여부를 알 수 있도록 돕지만, 촬영 허용 여부는 장소와 상황에 따라 따로 판단해야 한다. 편집부는 일상에서 쓸 수 있는 범위를 안경의 기능 목록보다 휴대전화 호환, 렌즈 구성, 이용 장소가 먼저 결정할 수 있다고 본다. 예약을 할 때도 실제 수령일과 지역별 서비스 범위는 주문 화면에서 확인할 사항이다."
+        },
+        "en": {
+          "title": "Samsung’s intelligent eyewear reaches US stores December 10",
+          "summary": "Preorders began November 12. The nine-hour glasses rating and 72-hour case-assisted rating describe different use.",
+          "body": "Samsung Electronics America opened preorders on November 12 and set US general availability for December 10. Warby Parker starts at $395, while Gentle Monster ranges from $449 to $489. The announcement adds prices and timing to eyewear shown at July’s Unpacked. It does not establish a Korean launch or local price.\n\nSamsung worked with Google on Gemini and with two eyewear brands on frames. The 30 designs include combinations of shape, color and lens options. They do not represent 30 different electronic systems. The roughly 41 g specification refers to a reference configuration with standard lenses. Prescription lenses can change weight and fit.\n\nHardware includes a 12-megapixel HDR camera, open-ear speakers and four microphones. Samsung gives asking about visible objects and listening to directions as use cases. An open-ear design leaves the ear canal exposed to ambient sound. The announcement does not establish audibility in traffic or how much sound others can hear.\n\nThe Snapdragon AR1 Gen 1 shares some processing with a connected phone. Check the phone and OS together. Samsung lists specified Galaxy models on One UI 9 or later, Pixel 7 and later with the specified Android 17 update, and iPhone 13 and later on iOS 26.6 or newer with at least 6 GB of RAM. Bixby requires a Galaxy phone.\n\nUp to nine hours refers to one glasses charge and up to 72 hours includes a charged case. The latter is not continuous wear without recharging. Network, features and charging patterns affect runtime. Brief voice queries and lengthy camera use need not draw the same power.\n\nCompatibility lists identify devices that can connect. Individual features can also need particular apps, accounts or networking. Samsung’s whiteboard example involves capture and then processing and saving into Samsung Notes. Check the phone’s apps and where results are stored. Being on the compatibility list does not establish identical features across operating systems.\n\nSamsung says an external LED signals camera use and capture is disabled if the indicator is covered or faulty. Activation requires verification of age 18 or older. Recording permission still depends on the setting. We see phone compatibility, lenses and location as practical limits on daily use. Delivery dates and regional service coverage require checking at purchase."
+        },
+        "ja": {
+          "title": "サムスンのスマート眼鏡、米国12月10日発売　スマートフォンの条件を確認",
+          "summary": "11月12日に予約開始。最大9時間は本体、最大72時間は充電ケース込みの値だ。",
+          "body": "サムスン米国法人は11月12日にIntelligent Eyewearの予約を開始し、12月10日に一般販売すると発表した。Warby Parkerは395ドルから、Gentle Monsterは449～489ドル。7月のUnpackedで紹介した眼鏡型機器に価格と日程が加わった。韓国の発売日と価格はこの資料では分からない。\n\nGoogleと協力しGeminiを搭載、眼鏡2社がフレームを展開する。30種は形、色、レンズなどの組み合わせを含む。電子回路が30種類あるという意味ではない。約41gは標準レンズを付けた特定構成で、度付きレンズでは重量や掛け心地が変わり得る。\n\n1200万画素HDRカメラ、開放型スピーカー、4基のマイクを備える。見ている物を尋ねたり案内を聞いたりする用途を紹介した。耳をふさがないため周囲の音が入るが、騒がしい場所での聞こえ方や音漏れは資料からは判断できない。\n\nSnapdragon AR1 Gen 1と接続スマートフォンが処理を分担する。対象GalaxyはOne UI 9以降、Pixel 7以降は指定Android 17更新、iPhone 13以降はiOS 26.6以降とRAM 6GB以上が条件となる。BixbyにはGalaxyが必要だ。\n\n最大9時間は本体1充電、最大72時間は充電済みケースを使った値。72時間連続で装着できる保証ではない。通信、機能、充電が持続時間に影響する。短い音声質問と長い撮影では消費が異なり得る。\n\n互換リストは接続できる範囲を示す。個別機能にはアプリ、アカウント、通信の条件もある。ホワイトボードの例でも撮影と処理、Samsung Notesへの保存は別段階だ。利用中のアプリと保存先を確認したい。接続対応だけでOS間の全機能が同一とは言えない。\n\n撮影時は外部LEDが点灯し、遮られたり故障したりすると撮影を停止するという。有効化には18歳以上の確認が必要だ。撮影の可否は場所ごとの判断が残る。編集部は電話、レンズ、場所が日常の利用範囲を左右すると見る。納期と地域別サービスは注文時に確認したい。"
+        },
+        "zh": {
+          "title": "三星智能眼镜12月10日在美国开售，先核对手机兼容性",
+          "summary": "11月12日开启预订。9小时为眼镜单次充电，72小时包含充电盒补电。",
+          "body": "三星美国11月12日开启Intelligent Eyewear预订，定于12月10日公开销售。Warby Parker款395美元起，Gentle Monster款449至489美元。7月Unpacked展示后，此次公布美国日期和价格，韩国上市及价格尚未在该公告确认。\n\n三星与谷歌合作采用Gemini，两家眼镜品牌提供镜架。30种设计涵盖形状、颜色和镜片等组合，并非30套不同电子系统。约41克对应装标准镜片的特定配置，加入处方镜片可能改变重量与佩戴感。\n\n设备有1200万像素HDR摄像头、开放式扬声器和四个麦克风。公司举例可询问眼前物体或听导航。开放式结构让环境声进入耳朵，但公告不能判断嘈杂路上的清晰度或漏音程度。\n\nSnapdragon AR1第一代与所连手机分担计算。指定Galaxy需One UI 9以上，Pixel 7及以后需指定Android 17更新，iPhone 13及以后需iOS 26.6以上及至少6GB内存。Bixby要求Galaxy连接。\n\n最长9小时为眼镜单次充电，最长72小时计入已充电盒的补电，不是连续佩戴时间保证。网络、功能及充电方式影响续航，短时语音与长时间录像的耗电可能不同。\n\n兼容清单先说明可连接设备，具体功能还可能要求应用、账户或网络。白板例子包含拍摄、处理和保存到Samsung Notes等步骤。可核查手机应用和结果存放位置，列入兼容清单不代表各系统功能完全相同。\n\n三星称拍摄会亮外部LED，指示灯被遮或故障时禁用拍摄。激活要求验证年满18岁。场所是否允许拍摄仍须单独判断。编辑部认为手机、镜片和使用场所会界定日常用途，交付日期及地区服务应在下单时核实。"
+        }
+      },
+      "image": {
+        "url": "assets/20261113-eyewear.jpg",
+        "alt": {
+          "ko": "나무 탁자 위 일반 안경과 뒤집어 놓은 휴대전화",
+          "en": "Ordinary glasses and a face-down phone on a wooden table",
+          "ja": "木のテーブルに置いた普通の眼鏡と伏せたスマートフォン",
+          "zh": "木桌上的普通眼镜和背面朝上的手机"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "samsung-onyx-scottsdale-cinema-led-20261112",
+      "date": "2026-11-12",
+      "published": "2026-11-13",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "Samsung U.S. Newsroom",
+      "url": "https://news.samsung.com/us/samsung-onyx-premium-moviegoing-experience-roadhouse-cinemas-scottsdale/",
+      "sources": [
+        {
+          "name": "Samsung U.S. Newsroom",
+          "url": "https://news.samsung.com/us/samsung-onyx-premium-moviegoing-experience-roadhouse-cinemas-scottsdale/"
+        },
+        {
+          "name": "RoadHouse Cinemas Scottsdale",
+          "url": "https://www.roadhousecinemas.com/movie-theater/scottsdale"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "스코츠데일 극장에 12m 삼성 오닉스…영사 대신 화면이 빛을 낸다",
+          "summary": "로드하우스 시네마 10관에 직접 발광 LED를 설치했다. 작품별 HDR과 상영 속도는 별도다.",
+          "body": "삼성전자 미국법인이 11월 12일 미국 애리조나주 스코츠데일의 로드하우스 시네마 10관에 12m 삼성 오닉스 스크린을 설치했다고 발표했다. 삼성은 이를 애리조나주의 첫 시네마 LED라고 설명했다. 설치 장소는 해당 지점의 한 상영관이다. 발표에서 설치 완료는 확인되지만 일반 관객을 받기 시작한 정확한 날짜와 첫 작품의 시간표는 제시되지 않았다.\n\n오닉스는 삼성의 극장용 직접 발광 LED 제품군이다. 일반 영사 방식에서는 프로젝터가 쏜 빛이 스크린에 반사돼 관객에게 닿는다. 직접 발광 방식은 화면을 이루는 LED가 빛을 낸다. 어두운 부분의 발광을 낮추고 밝은 부분을 따로 표현할 수 있어, 검은 배경과 작은 광원이 함께 나오는 장면을 다르게 다룰 수 있다. 실제로 보이는 검은색은 비상등과 출입문에서 들어오는 빛, 화면 반사 등 상영관의 조건에도 영향을 받는다.\n\n삼성은 오닉스의 HDR 최대 밝기를 300니트로 제시하고 일반 극장 기준으로 인용한 48니트와 비교했다. 니트는 화면 단위 면적에서 보이는 밝기의 단위다. 300을 48로 나누면 6.25배다. 이 비교는 제시된 두 밝기 수치를 나눈 값이며 같은 작품이 처음부터 끝까지 6.25배 밝게 재생된다는 뜻은 아니다. HDR은 어두운 부분과 밝은 부분을 넓은 범위로 다루는 방식으로, 콘텐츠가 해당 상영 형식으로 준비됐는지에 따라서도 달라진다.\n\n상영 속도 역시 장비를 나눠 읽을 필요가 있다. 자료는 오닉스 화면의 4K와 초당 120프레임 지원을 소개한다. 이번 상영관의 GDC SR-5520 미디어 서버와 결합한 설명에는 최대 4K 96Hz가 나온다. 화면이 받아들일 수 있는 상한과 서버가 재생할 수 있는 조합이 다르다. 실제 작품이 어떤 해상도와 프레임률로 제작·배급됐는지도 상영 조건에 들어간다. 높은 최대 수치가 기존 영화의 프레임을 자동으로 늘려 주는 것은 아니다.\n\nDCI 인증은 영화관에서 디지털 영화를 재생하는 데 쓰이는 기술 요건과 관련된다. 영화 파일을 처리해 스크린에 전달하는 미디어 서버와 화면, 음향은 각각 맡는 역할이 있다. 로드하우스는 DTS:X 음향과 열선 리클라이너를 이 상영관에 함께 도입했다. 화면 차이를 보려는 관객은 같은 극장 이름만 보고 예약하기보다 예매한 회차가 10관인지 확인할 수 있다. 삼성은 운영 첫 달에 이 형식의 추가 요금을 받지 않는다고 안내했지만 정확한 적용 시작일은 자료에 없다.\n\n운영사의 스코츠데일 지점 페이지도 오닉스를 도입 예정 형식으로 소개한다. 장비가 상영관에 설치돼도 실제 회차에 편성되기까지는 다른 과정이 남을 수 있다. 같은 영화라도 관별로 일반 상영과 프리미엄 상영이 나뉘면 관객이 사는 것은 특정 상영 회차의 좌석이다. 장비 발표에서 본 화면을 경험하려면 극장 전체에 붙은 로고보다 예매 화면의 관 번호를 확인해야 한다. 운영사 페이지에 첫 상영 날짜가 추가되면 설치 발표와 구분해 확인할 수 있다.\n\n편집부는 이번 설치를 대형 화면에 적합한 영화가 어떤 장비와 형식으로 상영되는지 비교할 사례로 본다. 화면 밝기와 명암은 제조사 사양이고, 좌석 위치별 화질이나 장시간 상영에서의 밝기는 독립 측정으로 확인되지 않았다. 관람 전에는 해당 회차의 상영관, 영상 형식과 예매 가격을 운영사 안내에서 확인해야 한다."
+        },
+        "en": {
+          "title": "A 12-meter Samsung Onyx goes into a Scottsdale cinema",
+          "summary": "RoadHouse installed a direct-view LED screen in auditorium 10. Film formats still depend on the screening.",
+          "body": "Samsung’s US division announced on November 12 that a 12-meter Onyx screen had been installed in auditorium 10 at RoadHouse Cinemas in Scottsdale, Arizona. It calls this Arizona’s first Cinema LED screen. The project covers one auditorium. The release confirms installation, without giving the exact public opening date or first film schedule.\n\nOnyx is Samsung’s direct-view cinema LED line. A projector sends light onto a reflective screen. In a direct-view system the LEDs themselves emit light, allowing dark areas and small bright highlights to be handled separately. Exit lighting, doors and reflections can still affect perceived blacks.\n\nSamsung cites a 300-nit HDR peak and compares it with a 48-nit conventional cinema reference. Nits measure luminance. Dividing the numbers gives 6.25, a ratio of quoted values rather than an increase across every frame. HDR extends the presentation range between shadows and highlights, with actual presentation depending on the available content format.\n\nThe display supports 4K and 120 frames per second. The release describes up to 4K 96 Hz with the GDC SR-5520 server used in this installation. Display capability, server output and a movie’s distributed frame rate are separate limits. A higher display ceiling does not automatically add frames to an existing movie.\n\nDCI certification concerns technical requirements for digital cinema. The media server, display and audio system serve different jobs. RoadHouse also added DTS:X and heated recliners. Check whether a screening is in auditorium 10. Samsung says the format carries no surcharge in its first operating month, but provides no exact starting date.\n\nRoadHouse’s Scottsdale page also presents Onyx as coming soon. Installation and programming a public screening are different milestones. A ticket buys a particular showing, even when the same film plays in multiple formats. Check the auditorium identifier, and use an operator listing to confirm the first public date once available.\n\nWe see the installation as a case for comparing what equipment and formats a screening uses. Brightness and contrast are manufacturer specifications, with no independent measurements of seating positions or sustained output in the cited release. Auditorium, format and ticket price need checking for the selected showing."
+        },
+        "ja": {
+          "title": "スコッツデールの映画館に12mのサムスンOnyx　画面が直接発光",
+          "summary": "RoadHouseの第10スクリーンに設置。HDRやフレームレートは上映作品にもよる。",
+          "body": "サムスン米国法人は11月12日、アリゾナ州スコッツデールのRoadHouse Cinemas第10スクリーンに12mのOnyxを設置したと発表した。同社は州初のCinema LEDと説明する。対象は1室で、一般上映開始日や初回作品の時刻は示していない。\n\nOnyxは直視型LEDの映画館向け製品だ。従来の投影はスクリーンに反射した光を見る。直視型ではLED自体が発光し、暗部と小さな明部を別に扱える。実際の黒の見え方には非常灯や出入口、反射も影響する。\n\n同社のHDR最大輝度は300ニトで、従来の基準として挙げた48ニトの6.25倍となる。ニトは輝度の単位。これは提示された値の比で、すべての場面が一律に明るくなる倍率ではない。HDRは暗部と明部の表示範囲を広げるが、作品の上映形式にも依存する。\n\n画面は4Kと毎秒120フレームに対応する。導入したGDC SR-5520サーバーとの組み合わせでは最大4K 96Hzと説明される。画面、サーバー、配給作品の速度は別の上限で、既存映画のフレームが自動で増えるわけではない。\n\nDCI認証はデジタル映画上映の技術要件に関係する。サーバー、画面、音響の役割は異なる。同館はDTS:Xとヒーター付きリクライニング席も導入した。予約時は第10スクリーンかを確認できる。最初の運用月は追加料金なしとするが、正確な開始日は資料にない。\n\n運営会社の店舗ページもOnyxを近日導入として紹介する。設置と一般上映の編成は別段階で、同じ映画でも券は個別回の座席だ。劇場全体の表示より予約のスクリーン番号を確認し、初回日程は運営会社の掲載で確かめたい。\n\n編集部は上映設備と形式を比較する事例と見る。輝度やコントラストはメーカー仕様で、座席別の見え方や持続輝度の独立測定は示されていない。上映回の劇場、形式と料金は運営側の案内で確かめたい。"
+        },
+        "zh": {
+          "title": "斯科茨代尔影院安装12米三星Onyx，以屏幕直接发光",
+          "summary": "RoadHouse十号厅采用直显LED，HDR与帧率仍取决于场次。",
+          "body": "三星美国11月12日宣布，在亚利桑那州斯科茨代尔RoadHouse Cinemas十号厅装好12米Onyx，称这是该州首块影院LED。项目仅涉及一个影厅，公告未给公众开放确切日期或首场片单。\n\nOnyx是三星影院直显LED产品。传统放映利用幕面反射投影光，直显屏由LED本身发光，可分别控制暗部和小面积高光。实际黑位仍受应急灯、出入口及反射影响。\n\n三星给出300尼特HDR峰值，比较传统影院48尼特参考。尼特是亮度单位，两数相除为6.25倍，并非影片每个画面都会如此提高。HDR扩大明暗表现范围，实际表现也取决于片源格式。\n\n屏幕支持4K及每秒120帧，而搭配现场GDC SR-5520服务器时公告给出最高4K 96Hz。屏幕、服务器与电影发行帧率分别构成限制，较高上限不会自动增加旧电影的帧数。\n\nDCI认证涉及数字电影放映技术要求。媒体服务器、屏幕和音响各有职责。十号厅还引入DTS:X和加热躺椅。三星称运行首月不另收该格式附加费，但没有给出精确起算日期。\n\n运营商的斯科茨代尔门店页也显示Onyx即将推出。装好设备和安排公众场次是不同阶段。同一影片可有多种格式，购买的是特定场次座位。应核对厅号，首次公开放映日期可在运营方公布后确认。\n\n编辑部认为，该安装可用来理解场次设备和格式的差异。亮度及对比度是厂商规格，公告没有独立测得的不同座位观感或持续亮度。购票时应查看具体厅号、格式和票价。"
+        }
+      },
+      "image": {
+        "url": "assets/20261113-onyx.jpg",
+        "alt": {
+          "ko": "일반 극장의 좌석과 대형 화면",
+          "en": "Seats and a large screen in a generic cinema",
+          "ja": "一般的な映画館の座席と大画面",
+          "zh": "普通影院中的座椅和大屏幕"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "asus-oled-black-friday-models-20261112",
+      "date": "2026-11-12",
+      "published": "2026-11-13",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "ASUS Pressroom",
+      "url": "https://press.asus.com/news/press-releases/asus-black-friday-2026-oled-monitor-lineup/",
+      "sources": [
+        {
+          "name": "ASUS Pressroom",
+          "url": "https://press.asus.com/news/press-releases/asus-black-friday-2026-oled-monitor-lineup/"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "ASUS, OLED 모니터 최대 30% 할인 예고…패널 표면과 보증은 모델별",
+          "summary": "ROG·ProArt·ZenScreen을 한 행사에 묶었으며, 해상도와 주사율은 용도별로 다르다.",
+          "body": "ASUS가 11월 12일 블랙프라이데이 OLED 모니터 대상 제품을 공개했다. 게임용 ROG, 제작용 ProArt, 휴대용 ZenScreen을 포함해 최대 30% 절감을 내세웠다. 30%는 행사 전체의 상한이다. 공개 자료에는 모든 모델의 할인율, 판매점별 적용일, 한국 판매가가 나오지 않는다. 구매할 수 있는 날짜와 실제 결제 가격은 발표일과 별개로 확인해야 한다.\n\nOLED는 픽셀이 직접 빛을 내는 화면이다. 백라이트를 따로 쓰는 LCD와 달리 픽셀 단위로 밝기를 조절한다. 그러나 모니터를 끈 상태에서도 창과 조명이 비치듯, 패널 자체가 어둡게 표시하는 능력과 화면 표면에서 생기는 반사는 다른 문제다. 광택 표면은 조명을 제어한 방에서 선명하게 보일 수 있고, 무광은 강한 반사를 넓게 흩뜨리는 대신 화면의 인상을 바꿀 수 있다. 방에서 책상을 옮길 수 있는지도 패널을 비교할 때 고려할 조건이다.\n\n같은 OLED 행사 제품이라도 사양은 여러 갈래다. 회사 표에서 27인치급 XG27AQWMG는 탠덤 WOLED, 2560×1440과 280Hz다. 32인치급 PG32UCDM3은 QD-OLED, 3840×2160과 240Hz로 안내된다. 주사율은 화면이 초당 갱신되는 횟수다. 픽셀 수와 갱신 횟수는 다른 수치여서, 높은 주사율이 더 많은 픽셀이나 더 좋은 색 정확도를 뜻하지 않는다. 게임이 그만큼의 프레임을 실제로 만들 수 있는지도 함께 봐야 한다.\n\n휴대용 ZenScreen은 비교 기준이 또 다르다. MQ16FC는 16인치 1920×1200 화면 하나로, MQ149CD는 같은 해상도의 14인치 화면 두 개를 접는 형태로 소개됐다. 책상에서 두 창을 나눠 띄우는 활용과 가방 무게, 케이블 연결은 별개의 문제다. ProArt의 색 보정 기능도 자신이 쓰는 색공간과 작업 프로그램에서 어떤 조건으로 사용할 수 있는지 모델별로 살펴봐야 한다.\n\nASUS는 화면 위치를 조금씩 바꾸는 기능과 픽셀 관리, 일부 제품의 근접 센서를 안내했다. 번인은 정적인 요소가 오래 반복될 때 픽셀별 열화 차이가 남아 보이는 현상이다. 보호 기능은 노출을 줄이려는 장치다. 발표에 포함된 번인 보장 3년은 선택된 지역의 대상 모델 조건이어서, 모든 모니터와 모든 판매 경로에 같은 약관이 적용되지는 않는다. 같은 이름의 제품이라도 구매 지역과 보증 문서를 대조해야 한다.\n\n두 ROG 모델의 수치를 비교하면 장비에 요구하는 부하 차이도 보인다. 3840×2160 화면은 2560×1440 화면보다 프레임 하나의 픽셀 수가 2.25배다. 그래픽 카드가 같은 게임을 같은 속도로 처리할 수 있는지는 효과 설정, 해상도 조정, 게임 자체에 달려 있다. 240Hz와 280Hz라는 숫자만 비교하면 이 차이를 놓치기 쉽다. 텍스트나 사진 편집에 주로 쓴다면 게임 프레임 대신 글자 크기와 작업 공간이 실제 선택에 더 중요할 수 있다.\n\n편집부는 이번 행사에서 할인 상한보다 장시간 띄워 두는 화면과 방 조명, 입력 기기가 모델 선택을 더 크게 좌우할 수 있다고 본다. 콘솔의 경우 4K 신호를 받을 수 있다는 설명과 패널 자체의 해상도도 구분할 필요가 있다. 실구매 판단에는 정확한 모델 번호, 최종 가격, 반품·보증 조건이 필요하다. 행사 종료일과 지역별 재고는 공식 발표로 확정되지 않았다."
+        },
+        "en": {
+          "title": "ASUS lists OLED monitors for Black Friday with savings up to 30%",
+          "summary": "ROG, ProArt and ZenScreen models differ in finish, resolution, refresh rate and warranty.",
+          "body": "ASUS announced its Black Friday OLED selection on November 12, covering ROG gaming, ProArt creator and ZenScreen portable displays. The 30% figure is the advertised maximum. Model discounts, retailer start dates and Korean prices were not specified for every item. Actual purchase dates and checkout prices need separate confirmation.\n\nOLED pixels emit their own light, with brightness controlled per pixel. That does not eliminate reflections from a window or room lights. Gloss can look crisp under controlled lighting, while matte finishes scatter strong reflections and change the appearance of the image. Desk placement can be part of the comparison.\n\nThe 27-inch-class XG27AQWMG is listed as tandem WOLED at 2560×1440 and 280 Hz. The 32-inch-class PG32UCDM3 is QD-OLED at 3840×2160 and 240 Hz. Refresh rate counts updates per second. It describes neither pixel count nor color accuracy. Games also need to produce frames fast enough to make use of a high refresh rate.\n\nPortable ZenScreen models bring different trade-offs. The MQ16FC uses one 16-inch 1920×1200 panel. The foldable MQ149CD has two 14-inch panels of that resolution. Extra workspace, bag weight and cabling are separate considerations. ProArt calibration features should likewise be matched to the model, software and color space used.\n\nASUS lists pixel shifting, panel maintenance and proximity sensing on selected devices. Burn-in is visible uneven aging after repeated static content. Protection features aim to limit exposure. Three-year coverage including burn-in applies to eligible models in selected regions. Check the warranty attached to the specific purchase.\n\nThe 3840×2160 panel contains 2.25 times as many pixels per frame as 2560×1440. Whether a graphics card keeps pace depends on the game, settings and scaling. Comparing 240 Hz with 280 Hz alone misses that difference. Text and photo work may depend more on readable sizing and workspace.\n\nIn our view, room lighting, persistent content and input devices may matter more to fit than the top discount. Console acceptance of a 4K input also differs from native panel resolution. Verify the model number, final price, returns and warranty. The release does not establish every regional stock level or promotion end date."
+        },
+        "ja": {
+          "title": "ASUSのOLEDモニター、最大30％のセール予告　表面と保証は機種別",
+          "summary": "ROG、ProArt、ZenScreenを対象に、用途ごとに解像度や周波数が異なる。",
+          "body": "ASUSは11月12日、ブラックフライデーのOLED対象を発表した。ゲーム用ROG、制作用ProArt、携帯用ZenScreenを含み、最大30％とする。機種ごとの値引き、店舗別の開始日、韓国価格は一律には示されていない。購入日と支払額は別途確認が必要だ。\n\nOLEDは画素ごとに発光して輝度を変える。窓や照明の映り込みは画素の黒とは別問題だ。光沢は光を抑えた部屋で鮮明に見えやすく、非光沢は強い反射を拡散する一方で画面の印象が変わる。机を置く位置も比較材料になる。\n\n27型級XG27AQWMGはタンデムWOLED、2560×1440、280Hz。32型級PG32UCDM3はQD-OLED、3840×2160、240Hzとされる。リフレッシュレートは毎秒の画面更新回数で、画素数や色精度とは異なる。ゲーム側が十分なフレームを出せるかも重要だ。\n\n携帯型MQ16FCは16型1920×1200が1枚、折りたたみ型MQ149CDは同解像度の14型が2枚。作業領域の増加と持ち運ぶ重量や配線は別に考える。ProArtの色調整も使うソフトと色空間に合うか、製品ごとに確認する。\n\n画素位置の移動やパネル管理、一部の近接センサーを案内した。焼き付きは静止要素の繰り返しで画素の劣化差が見える現象だ。保護機能は露出を抑える。焼き付き込みの3年保証は選定地域の対象機種に限られ、購入時の保証書を確認したい。\n\n3840×2160は2560×1440の1フレーム当たり2.25倍の画素を持つ。GPUが十分な速度を出せるかはゲーム、設定、スケーリング次第。240Hzと280Hzだけでは違いを見落とす。文章や写真作業なら文字の見やすさと作業領域も重要だ。\n\n編集部は割引の最大値より、照明、固定表示、入力機器の相性が選択を左右すると見る。4K入力の受付とパネルの物理解像度も別だ。型番、最終価格、返品と保証を確認し、地域の在庫と終了日は販売店情報を参照したい。"
+        },
+        "zh": {
+          "title": "华硕公布OLED显示器黑五阵容，最高折扣30%",
+          "summary": "涵盖ROG、ProArt和ZenScreen，屏幕表面与保修按型号和地区区分。",
+          "body": "华硕11月12日公布黑五OLED阵容，包含游戏ROG、创作ProArt及便携ZenScreen，宣称最高节省30%。这是折扣上限，公告未逐项列出折扣、商家起始日和韩国售价。购买日期与实付价格需另行确认。\n\nOLED像素自行发光并可分别调节。窗户或灯光反射是另一回事。光面在控光房间可显得清晰，哑光将强反射扩散，也可能改变画面观感。桌面位置同样影响比较。\n\n27英寸级XG27AQWMG是串联WOLED、2560×1440、280Hz，32英寸级PG32UCDM3是QD-OLED、3840×2160、240Hz。刷新率是每秒更新次数，不代表像素数或色彩准确度，游戏自身也要输出足够的帧。\n\n便携MQ16FC有一块16英寸1920×1200屏，折叠MQ149CD有两块同分辨率的14英寸屏。工作区增大与重量、接线是不同考量。ProArt校色功能也应按软件、色彩空间和型号核查。\n\n部分产品具像素移动、面板维护或接近感应。烧屏是静态内容反复显示后，不均匀老化留下可见痕迹。防护旨在降低暴露。含烧屏的三年保修只适用部分地区和型号，应查看购买对应条款。\n\n3840×2160每帧像素数是2560×1440的2.25倍。显卡能否跟上取决于游戏、特效及缩放设置。只看240Hz与280Hz会忽略差异，文字和照片工作可能更关注可读性与工作区。\n\n编辑部认为，房间光线、长期固定画面和输入设备可能比最大折扣更影响适用性。接受4K信号也不等于原生4K。应核对型号、最终价格、退货与保修，公告未确定各地库存及活动结束日。"
+        }
+      },
+      "image": {
+        "url": "assets/20261113-oled.jpg",
+        "alt": {
+          "ko": "창가 책상에 놓인 전원이 꺼진 일반 모니터",
+          "en": "Generic monitor turned off on a desk near a window",
+          "ja": "窓辺の机に置いた電源オフの一般的なモニター",
+          "zh": "窗边桌上关闭的通用显示器"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "playstation-prism-preorders-20261110",
+      "date": "2026-10-28",
+      "published": "2026-11-13",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "PlayStation Blog",
+      "url": "https://blog.playstation.com/2026/10/28/first-look-inside-the-prism-collection-with-three-new-transparent-designs-for-ps5-accessories",
+      "sources": [
+        {
+          "name": "PlayStation Blog",
+          "url": "https://blog.playstation.com/2026/10/28/first-look-inside-the-prism-collection-with-three-new-transparent-designs-for-ps5-accessories"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "PS5 프리즘 액세서리 예약 일정 개시…출시는 2027년 2월부터",
+          "summary": "투명 색상의 듀얼센스와 본체 커버가 대상이며, 본체 모델과 판매 지역을 확인해야 한다.",
+          "body": "소니 인터랙티브 엔터테인먼트가 PS5용 프리즘 컬렉션의 예약 시작일로 11월 10일을 안내했다. 10월 28일 처음 공개한 제품으로, 판매 개시는 2027년 2월 4일부터다. 예약할 수 있는 시점과 제품을 받아 사용할 수 있는 시점 사이에 약 석 달이 있다. 나라와 판매처에 따라 출시 날짜와 재고가 다를 수 있어, 공식 공지에 적힌 날짜를 모든 국가의 배송일로 해석할 수는 없다.\n\n프리즘은 플레이스테이션의 듀얼센스 무선 컨트롤러와 PS5 본체 커버에 적용한 디자인 컬렉션이다. 플레어 오렌지, 에메랄드 그린, 그래파이트 그레이 세 가지 색상이 공개됐다. 투명한 유광 재료를 써 안쪽 구조가 비치는 외관을 강조한다. 기존에 작동하는 컨트롤러를 바꾸려는 사용자에게 이번 발표가 알려 주는 변화는 주로 색과 소재다. 소니는 이번 공개에서 입력 지연이나 배터리 수명 개선을 발표하지 않았다.\n\n컨트롤러와 본체 커버는 구매 단위가 다르다. 듀얼센스는 손으로 잡고 버튼과 스틱을 조작하는 입력 기기다. 본체 커버는 콘솔 외부의 외장 부품이어서 본체 세대와 형상에 맞는 제품인지 확인해야 한다. 같은 컬렉션의 같은 색상이어도 컨트롤러와 커버가 한 세트로 자동 포함되지는 않는다. 커버를 구매할 때는 판매 페이지에 적힌 호환 본체 번호를 자신의 콘솔 모델과 대조하는 것이 정확하다.\n\n발표한 미국 권장 소비자가는 컨트롤러 84.99달러, 커버 74.99달러다. 미국의 권장가를 환율로 바꾼 값은 한국 판매점의 확정 가격이 아니다. 공지는 커버를 플레이스테이션 직판이 가능한 곳에서는 직판으로, 다른 일부 지역에서는 지정 판매점을 통해 한정 수량으로 제공한다고 안내했다. 예약 버튼이 있는지와 실제 공급처가 어디인지는 두 제품에서 다를 수 있다.\n\n예약 시작 시간도 지역별로 안내됐다. 미국 직판은 11월 10일 오전 7시 태평양시간, 동부시간으로 오전 10시다. 영국과 프랑스 등 공지에 열거한 유럽 국가의 직판은 해당일 현지 오전 10시였다. 예약 시간은 행사에 맞춰 주문을 받을 수 있는 기준이며, 발표일이나 출시 날짜와 역할이 다르다. 현재 재고가 남았는지는 시간표만으로 확인할 수 없다.\n\n권장가 두 개를 합산하면 미국 가격 기준 159.98달러다. 이 수치에는 세금과 배송료가 어떻게 붙을지 반영되지 않았고, 같은 판매점에서 두 물건을 함께 살 수 있다는 전제도 확인되지 않았다. 각각의 예약 주문으로 결제하면 배송 날짜나 취소 조건이 다를 수 있다. 이미 보유한 컨트롤러와 본체를 계속 쓸 수 있으므로, 구매자는 외장을 하나만 바꾸는 경우와 두 제품을 함께 사는 경우를 실제 결제 금액으로 나누어 비교할 수 있다.\n\n편집부는 이번 컬렉션의 구매 판단에서 선호하는 색상과 콘솔 커버의 호환 여부가 가장 직접적인 차이를 만든다고 본다. 디자인을 맞추고 싶다면 두 제품의 실제 판매 여부와 배송 날짜를 각각 확인할 필요가 있다. 국내 정식 판매처, 한국 가격과 초기 물량은 이 발표에 나와 있지 않다. 새 컬렉션을 입력 성능이 다른 기기로 가정하기보다 공식 상품 페이지에 적힌 구성을 비교하는 편이 정확하다."
+        },
+        "en": {
+          "title": "PS5 Prism preorder window opens ahead of February availability",
+          "summary": "Translucent DualSense controllers and console covers have different compatibility and regional sales terms.",
+          "body": "Sony Interactive Entertainment scheduled Prism Collection preorders for November 10 after its October 28 reveal. Availability begins February 4, 2027. Ordering and receiving an accessory are about three months apart. The exact launch and stock can vary by country and retailer.\n\nPrism applies a design to DualSense wireless controllers and PS5 console covers in Flare Orange, Emerald Green and Graphite Gray. Translucent glossy material reveals some inner structure. The disclosed change is color and finish. Sony did not announce a reduction in input lag or longer battery life in this release.\n\nControllers and covers are separate purchases. A controller is the input device, while a cover fits the console exterior. Compare the cover’s listed console compatibility with the model you own. Matching color names do not make the two items a bundle.\n\nUS recommended prices are $84.99 for a controller and $74.99 for a cover. Converting these figures does not establish Korean retail prices. Covers are sold directly by PlayStation where available, with limited quantities through selected retailers in other regions. Sales channels can differ between products.\n\nUS direct preorders were scheduled at 7 a.m. Pacific, 10 a.m. Eastern on November 10. The listed European markets began at 10 a.m. local time. A preorder opening time is separate from launch or shipping. The schedule does not show current stock.\n\nThe two US recommended prices total $159.98 before any taxes or shipping, without establishing that both items are sold by one retailer. Separate orders may have different delivery and cancellation terms. Existing hardware remains usable, so compare changing one piece with buying both using checkout totals.\n\nWe see color preference and cover fit as the immediate purchasing differences. Buyers matching both pieces should check availability and delivery for each. Korean retailers, pricing and initial quantities are not established in this release. Use the actual listing to compare configurations."
+        },
+        "ja": {
+          "title": "PS5 Prismの予約日到来　発売は2027年2月から",
+          "summary": "半透明のDualSenseと本体カバーは別商品。対応本体と販売地域を確認したい。",
+          "body": "ソニー・インタラクティブエンタテインメントは10月28日発表のPrism Collectionを11月10日から予約受付と案内した。発売は2027年2月4日から。注文と利用開始には約3カ月の間があり、国や店舗で発売日や在庫は異なる。\n\nDualSense無線コントローラーとPS5本体カバーに、フレアオレンジ、エメラルドグリーン、グラファイトグレーを展開する。光沢のある半透明材で内部がのぞく。公表された変更は主に色と外観で、入力遅延や電池の改善は今回発表されていない。\n\nコントローラーは入力機器、カバーは本体外装で、購入単位が別だ。カバーの商品ページの適合本体を自分の型番と照合したい。同じ色でも自動的にセットにはならない。\n\n米国希望小売価格はコントローラー84.99ドル、カバー74.99ドル。換算額は韓国販売価格とは別だ。カバーは直販対応地域でPlayStation直販、ほかの一部地域では指定店の限定数量となる。製品によって販売経路が異なり得る。\n\n米国直販の予約は11月10日太平洋時間7時、東部時間10時。記載された欧州の対象国では現地10時だ。予約受付時刻と発売、配送は別で、現在の在庫は予定表では分からない。\n\n米国希望価格の合計は159.98ドルだが、税・送料や同じ店で買えるかは含まない。別注文では配送日と取消条件が異なり得る。既存機器は引き続き使えるので、片方だけ替える場合と両方の決済額を比べられる。\n\n編集部は色の好みとカバー適合が購入の直接の違いと見る。そろえる場合は双方の販売と配送を個別に確認したい。韓国の正式販売先、価格、初回在庫はこの発表では分からない。"
+        },
+        "zh": {
+          "title": "PS5 Prism配件开启预订，计划2027年2月起上市",
+          "summary": "半透明DualSense手柄和主机外壳分开销售，需查主机型号和销售地区。",
+          "body": "索尼互动娱乐10月28日公布Prism系列，将11月10日定为预订起点，2027年2月4日起上市。下单和收到配件约隔三个月，实际日期和库存因国家及商家而异。\n\n系列给DualSense无线手柄和PS5外壳增加橙、绿、灰三色，使用有光泽的半透明材料让部分内部结构可见。此次公布主要涉及颜色和外观，未宣布输入延迟或续航改善。\n\n手柄是输入设备，外壳安装在主机外部，购买单位不同。应将外壳商品页列出的兼容主机与自有型号核对。同色不表示两件自动捆绑。\n\n美国建议价为手柄84.99美元、外壳74.99美元，换算金额不等于韩国售价。支持直销的地区由PlayStation直售外壳，其他部分地区由指定商家限量销售。两件的购买渠道可能不同。\n\n美国直销11月10日太平洋时间上午7时、东部上午10时开始预订，公告列出的欧洲市场为当地上午10时。预订、上市和配送各有时间，公告无法显示现时库存。\n\n两个美国建议价相加为159.98美元，未计税费和运费，也未确认同一店可买齐。分开下单的交货和取消条件可能不同。现有设备仍可使用，可比较只换一件与购买两件的结账金额。\n\n编辑部认为颜色偏好和外壳适配是直接购买差别。想配齐时应分别检查有无销售及交付日期。公告未给韩国正式零售渠道、售价或首批数量。"
+        }
+      },
+      "image": {
+        "url": "assets/20261113-prism.jpg",
+        "alt": {
+          "ko": "반투명 소재 표본과 흐릿하게 보이는 일반 게임 컨트롤러",
+          "en": "Translucent material samples near a blurred generic controller",
+          "ja": "半透明素材の見本とぼかした一般的なコントローラー",
+          "zh": "半透明材料样片与虚化的通用游戏手柄"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "stm32g5-digital-power-timer-20261104",
+      "date": "2026-11-04",
+      "published": "2026-11-13",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "STMicroelectronics Newsroom",
+      "url": "https://newsroom.st.com/media-center/press-item.html/stmicroelectronics-reveals-advanced-microcontrollers-for-real-time-power-control-in-ai-datacenters-and-robotics-p4797.html",
+      "sources": [
+        {
+          "name": "STMicroelectronics Newsroom",
+          "url": "https://newsroom.st.com/media-center/press-item.html/stmicroelectronics-reveals-advanced-microcontrollers-for-real-time-power-control-in-ai-datacenters-and-robotics-p4797.html"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "STM32G5 양산, 12채널 타이머로 전원·모터 제어 겨냥",
+          "summary": "ST는 G4 대비 연산 성능 두 배를 제시했다. 듀얼코어 모델은 2027년 계획이다.",
+          "body": "ST마이크로일렉트로닉스가 11월 4일 디지털 전원과 모터 제어에 쓰이는 STM32G5 마이크로컨트롤러를 공개했다. 회사는 280MHz Arm Cortex-M33과 개선한 12채널 고해상도 타이머를 소개하고, 발표 당시 단일 코어 제품군을 생산 중이라고 밝혔다. 이중 코어 제품을 추가하는 시점은 2027년 계획이다. 11월 4일은 발표일로 확인되며, 개별 모델이 생산을 시작한 날과 국내 유통점 입고일은 따로 제시하지 않았다.\n\nST는 산업과 자동차, 소비자 제품에 들어가는 반도체를 공급한다. STM32G5는 아날로그 신호를 읽고 디지털 방식으로 연산하며 제어 신호를 내보내는 혼합신호 MCU다. 서버의 GPU가 AI 모델을 계산하는 동안, 이런 MCU는 전원 장치가 부하 변화에 대응하도록 전압과 전류를 감시하는 역할을 맡을 수 있다. 같은 데이터센터에 쓰여도 수행하는 작업의 단위와 성능 기준이 다르다.\n\n회사는 전작 STM32G4 대비 연산 성능이 두 배라고 설명했다. 사양으로 제시한 1136 CoreMark와 420 DMIPS는 280MHz에서의 처리기 벤치마크다. 보드가 두 배 더 효율적이거나 모터가 두 배 빠르게 반응한다는 의미는 아니다. 실제 제어에는 센서가 값을 바꾸는 시간, 계산 뒤 타이머가 출력을 바꾸는 순간, 전력 소자와 모터의 반응이 모두 포함된다. 같은 알고리즘이라도 주변 회로 구성에 따라 달라진다.\n\n고해상도 타이머는 전력 스위치를 여닫는 짧은 펄스의 시간을 조정한다. 전력 변환기는 입력 전기를 필요한 전압과 전류로 바꾸는데, 얼마나 자주 그리고 얼마나 오래 스위치를 켜는지가 출력에 영향을 준다. 회사는 탄화규소와 질화갈륨 소자를 쓰는 고속 스위칭 전원에 이 타이머를 활용할 수 있다고 설명한다. 12채널은 제어 신호를 내는 타이머의 규모이며, 모든 설계에서 모터 12개를 즉시 구동할 수 있다는 뜻은 아니다.\n\n칩에는 센서의 연속 전압을 숫자로 바꾸는 12비트 ADC와 반대로 전압을 내보내는 DAC, 위치 인코더 기능도 있다. 프로그래밍 가능한 논리 블록으로 특정 신호 조건을 칩 안에서 처리하는 구상도 공개했다. 보안에서는 신뢰할 수 있는 코드로 시작하는 보안 부팅과 양자내성 암호 라이브러리 지원을 설명했다. 이 기능들은 개발자가 쓰는 도구이며 완성 장치의 안전이나 보안 수준은 구현과 검증을 거쳐야 한다.\n\n새 제어기를 시험할 때에는 타이머의 해상도와 실제 회로에서 출력이 바뀌는 시간을 함께 보면 좋다. 개발 키트에서 원하는 파형을 만들었다 해도 전원부 스위치가 전환하는 동안 생기는 손실과 발열은 별도의 측정 대상이다. 특히 작은 기판에서 여러 모터를 구동하면 전류 센서의 응답과 제어기의 연산 일정이 서로 맞아야 한다. 사양표의 계산 성능을 출발점으로 삼되, 같은 부하 조건에서 전압 변화와 온도를 비교해야 완성 회로의 차이를 설명할 수 있다.\n\nST는 1만 개 주문 조건에서 개당 1.0340달러부터라고 밝혔다. 플래시 저장공간은 제품별 64~512KB이며 개발 보드와 전원·모터용 평가 키트를 따로 안내했다. 소량 구매 가격은 이 단가와 다르다. 편집부는 G4에서 옮길 때 처리기 점수뿐 아니라 핀 배치와 제어 주기, 기존 펌웨어가 새 주변 장치와 맞는지를 먼저 검토할 필요가 있다고 본다. 모델별 재고와 이중 코어 출시일은 후속 확인이 필요하다."
+        },
+        "en": {
+          "title": "STM32G5 enters production with a 12-channel timer for power and motors",
+          "summary": "ST cites twice STM32G4 compute performance, with dual-core additions planned for 2027.",
+          "body": "STMicroelectronics unveiled STM32G5 on November 4, featuring a 280 MHz Arm Cortex-M33 and enhanced 12-channel high-resolution timer. Single-core devices were in production at announcement, with dual-core additions planned for 2027. The release does not give each model’s manufacturing start or Korean retail arrival.\n\nST supplies chips for industrial, automotive and consumer devices. These mixed-signal microcontrollers read analog signals, compute digitally and output control signals. While a server GPU calculates AI models, a controller like this can monitor power supply voltage and current as load changes. Their jobs have different performance criteria.\n\nST reports twice STM32G4 compute performance, with 1136 CoreMark and 420 DMIPS at 280 MHz. These are processor benchmarks. Power efficiency and motor response depend on the whole system, including sensing, timing and the response of power components. The same software can behave differently with different circuits.\n\nA high-resolution timer sets the timing of short pulses that switch power devices. A converter changes input electricity into the required voltage and current, with switching frequency and duration affecting output. ST proposes this timer for fast-switching silicon-carbide and gallium-nitride supplies. Twelve timer channels do not specify twelve ready-to-run motors.\n\nThe chip includes a 12-bit analog-to-digital converter, digital-to-analog output and a position encoder. Programmable logic can handle particular signal conditions on-chip. ST also describes secure boot and post-quantum cryptography libraries. Finished equipment still needs a suitable implementation and validation.\n\nTest timer resolution alongside the time it takes an actual circuit to change output. A desired waveform on a kit does not measure switching losses or heat. With multiple motors on a small board, current sensing must align with the control schedule. Compare voltage response and temperature under the same load to evaluate the finished design.\n\nPrices start at US$1.0340 at 10,000 units. Flash ranges from 64 to 512 KB, with development and evaluation kits listed separately. Small-order prices differ. We see pin assignments, timing and firmware fit as migration checks alongside benchmarks. Model stock and dual-core release dates still need confirmation."
+        },
+        "ja": {
+          "title": "STM32G5が量産、12チャネルタイマーで電源とモーターを制御",
+          "summary": "STはG4比で演算性能2倍と説明。デュアルコアは2027年の計画。",
+          "body": "STマイクロエレクトロニクスは11月4日、280MHz Cortex-M33と改良12チャネル高分解能タイマーを持つSTM32G5を公開した。発表時点でシングルコア製品を生産中で、デュアルコア追加は2027年の予定。個別型番の生産開始日や韓国での入荷日は示していない。\n\nSTは産業、自動車、消費者機器の半導体を供給する。混載信号MCUはアナログ信号を読み、デジタル演算し、制御信号を出す。GPUがAIを計算する間、電源側では負荷に応じて電圧や電流を監視できる。同じサーバーでも性能基準が違う。\n\nG4比2倍とし、280MHzで1136 CoreMarkと420 DMIPSを挙げる。処理器の指標で、機器効率やモーターの応答は回路全体に依存する。センサー、タイマー、電力素子の応答も時間に含まれ、同じソフトでも回路で変わる。\n\n高分解能タイマーは電力スイッチに与える短いパルスの時刻を調整する。変換器の出力にはスイッチの頻度と時間が関わる。STは炭化ケイ素や窒化ガリウムの高速電源を用途に挙げる。12チャネルはタイマー規模で、すぐ12モーターを駆動できる数ではない。\n\n12ビットADC、DAC、位置エンコーダーを搭載し、プログラム可能な論理で特定信号を処理する。セキュアブートと耐量子暗号ライブラリーも案内した。完成機器の安全性と保護には設計と検証が必要だ。\n\nタイマーの分解能と実回路の出力変化時間は併せて確認したい。評価基板の波形だけでは電力スイッチの損失や発熱は分からない。小基板で複数モーターを扱うなら電流測定と制御周期を合わせ、同一負荷の電圧応答と温度を測る必要がある。\n\n1万個注文で1個1.0340ドルから。フラッシュは64～512KBで、評価キットは別だ。小口の価格とは異なる。編集部は移行時にはスコアに加え端子、制御周期、既存ソフトの適合を重視する。型番別在庫とデュアルコア発売日は今後確認する事項だ。"
+        },
+        "zh": {
+          "title": "STM32G5已量产，以12通道定时器面向电源和电机",
+          "summary": "意法半导体称计算性能为G4两倍，双核型号计划2027年增加。",
+          "body": "意法半导体11月4日公布STM32G5，采用280MHz Cortex-M33及增强的12通道高分辨率定时器。公告时单核产品已在生产，双核计划2027年加入。各型号开始生产与韩国到货日未单列。\n\n意法供应工业、汽车及消费设备芯片。混合信号MCU读取模拟量、数字计算并输出控制信号。服务器GPU计算AI模型时，此类芯片可监控电源随负载变化的电压电流，两者的性能标准不同。\n\n公司称计算性能为G4两倍，在280MHz为1136 CoreMark和420 DMIPS。这是处理器基准。整机效率和电机响应还受传感、定时及功率部件影响，相同软件配不同电路也可有不同结果。\n\n高分辨率定时器精确调整功率开关的短脉冲。转换器输出取决于开关频率和持续时间。公司提出用于碳化硅和氮化镓高速电源。12通道描述定时器规模，不等于可直接驱动12台电机。\n\n芯片提供12位模数转换、数模输出和位置编码器，也有可编程逻辑处理特定信号。安全启动及后量子密码库仍需系统正确实现和验证。\n\n应同时测试定时器分辨率与实际电路输出变化所需时间。开发板波形不能直接测出开关损耗和发热。小板驱动多电机时要协调电流检测和控制时序，并在相同负载下比较电压响应和温度。\n\n订购一万颗时每颗1.0340美元起，闪存为64至512KB，开发评估套件另列，零售小单价格不同。编辑部认为迁移时还应检查引脚、控制周期及固件适配。各型号库存和双核上市日仍待确认。"
+        }
+      },
+      "image": {
+        "url": "assets/20261113-stm.jpg",
+        "alt": {
+          "ko": "전력 변환 보드와 계측기가 놓인 일반 실험대",
+          "en": "Generic lab bench with power conversion boards and test instruments",
+          "ja": "電力変換基板と計測器を置いた一般的な実験台",
+          "zh": "配有电力转换板和仪器的通用实验台"
+        },
+        "generated": true
+      }
+    },
     {
       "id": "renesas-xplore-developer-hub-20261110",
       "date": "2026-11-10",
