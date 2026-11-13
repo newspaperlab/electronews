@@ -1,6 +1,265 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "articles": [
+    {
+      "id": "samsung-galaxy-a18-singapore-20261113",
+      "date": "2026-11-13",
+      "published": "2026-11-14",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "Samsung Newsroom Singapore",
+      "url": "https://news.samsung.com/sg/everyday-experiences-elevated-samsung-announces-the-new-galaxy-a18",
+      "sources": [
+        {
+          "name": "Samsung Newsroom Singapore",
+          "url": "https://news.samsung.com/sg/everyday-experiences-elevated-samsung-announces-the-new-galaxy-a18"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "갤럭시 A18, 싱가포르에서 328싱가포르달러에 판매 시작",
+          "summary": "4GB 메모리·128GB 저장공간의 LTE 모델이다. 최대 여섯 세대 OS 업그레이드를 안내했다.",
+          "body": "삼성전자는 11월 13일 싱가포르에서 갤럭시 A18을 공개하고 같은 날 판매를 시작했다. 공개 가격은 4GB 메모리와 128GB 저장공간을 갖춘 LTE 모델에 328싱가포르달러다. 밝은 파랑, 검정, 은색을 안내했다. 이번 가격과 유통 채널은 싱가포르 발표의 범위다. 한국에서 같은 조합이 출시될지, 가격이 얼마일지는 이 자료에 없다.\n\n갤럭시 A는 삼성의 보급형부터 중급형까지 포함하는 스마트폰 제품군이다. 삼성은 A18을 입문형으로 소개하면서 6.7인치 FHD+ 슈퍼 아몰레드 화면과 헬리오 G99+ 처리기를 탑재했다고 밝혔다. 슈퍼 아몰레드는 픽셀 단위로 빛을 조절하는 OLED 계열 화면이다. 6.7인치는 화면의 대각선 크기이고 FHD+는 해상도 등급이다. 이 두 수치로 화면의 야외 밝기나 게임 중 일정하게 유지되는 프레임을 판단하긴 어렵다.\n\n회사는 LPDDR5 메모리를 적용했다고 밝혔다. 앱을 실행할 때 쓰는 4GB 메모리와 사진이나 앱을 저장하는 128GB 공간은 용도가 다르다. 램 플러스는 저장공간 일부를 가상 메모리로 쓰는 기능이다. 여러 앱을 오갈 때 사용 가능한 작업 공간을 늘리는 데 도움을 줄 수 있으나, 처리기가 직접 접근하는 물리 메모리가 더 붙는 방식은 아니다. 저장공간이 적게 남은 사용자라면 사진과 앱이 쓸 여유까지 놓고 설정을 비교할 수 있다.\n\n후면에는 5000만 화소 광각, 500만 화소 초광각, 200만 화소 접사 카메라가 있다. 세 렌즈는 넓은 풍경과 가까운 피사체처럼 서로 다른 구도를 담당한다. 숫자를 더한 값이 사진 한 장의 해상도가 되지는 않는다. 5000mAh는 배터리 용량이고 25W는 행사에서 제공하는 어댑터의 전력 표기다. 두 수치만으로 실제 사용 시간이나 완전 충전 시간을 계산할 수 없다. 화면 밝기와 통신 환경, 충전 중 동작도 결과에 영향을 준다.\n\n운영체제는 최대 여섯 세대 업그레이드, 보안 업데이트는 6년간 지원한다고 삼성은 안내했다. 운영체제 주요 버전이 바뀌는 횟수와 보안 패치를 받는 기간은 서로 다른 기준이다. 지원 약속은 기기를 오래 쓰려는 사람에게 비교할 요소가 된다. 다만 지역과 기능별 업데이트 날짜, 화면 검색과 음성 기능의 실제 언어·앱 지원은 제품 안내를 따로 확인해야 한다. 편집부는 이 가격대에서 저장공간과 메모리 사용량을 함께 보는 것이 장기 지원을 활용하는 데 중요하다고 본다.\n\nLTE는 4세대 이동통신 규격이다. 이번 싱가포르 구성에 붙은 이름이므로 다른 지역의 비슷한 이름 제품까지 같은 통신 사양이라고 볼 수 없다. 해외에서 구매하는 경우에는 판매 페이지의 모델 번호와 국내에서 쓰는 주파수 대역, 개통 조건을 비교해야 한다. 제조사가 제공하는 지역별 수리와 부품 조건도 다를 수 있다. 가격을 비교할 때 통신과 수리 지원을 함께 봐야 하는 이유다.\n\n싱가포르의 일부 판매 채널은 12월 8일까지 30싱가포르달러 즉시 할인과 지정 매장의 25W 어댑터 제공을 안내했다. 어댑터 행사에는 케이블이 포함되지 않으며 판매 채널과 재고 조건이 붙는다. 일반 판매가와 할인 적용 상품의 구성을 나누어 비교하면, 해외 발표 가격을 국내 확정 가격으로 오해하지 않으면서 실제 필요한 비용을 볼 수 있다."
+        },
+        "en": {
+          "title": "Galaxy A18 goes on sale in Singapore for S$328",
+          "summary": "The LTE configuration has 4 GB of memory and 128 GB of storage, with up to six OS generations of upgrades.",
+          "body": "Samsung announced and began selling the Galaxy A18 in Singapore on November 13. The 4 GB/128 GB LTE version costs S$328 in light blue, black or silver. The release covers Singapore and does not establish a Korean configuration, date or price.\n\nThe Galaxy A line includes Samsung’s entry and midrange phones. The A18 uses a 6.7-inch FHD+ Super AMOLED display and Helio G99+ processor. AMOLED controls light at pixel level. The diagonal and resolution class cannot establish outdoor brightness or sustained game frame rates.\n\nSamsung specifies LPDDR5. The 4 GB memory serves running apps, while 128 GB storage holds apps and files. RAM Plus uses some storage as virtual memory. It can help with switching between apps, but does not add physical memory. Consider how much space remains for photos and apps.\n\nThe rear cameras are 50 MP wide, 5 MP ultrawide and 2 MP macro. Each provides different framing. Their pixel counts do not add to a single image resolution. The 5000 mAh figure measures battery capacity, and 25 W describes the promotional adapter. Actual runtime and charging duration also depend on usage and conditions.\n\nSamsung promises up to six OS generations and six years of security updates. Major versions and the duration of security support are separate measures. Regional timing, app and language support for search and voice features need checking. We see memory and storage usage as practical considerations when keeping the phone over that support period.\n\nLTE identifies the published 4G configuration. A similarly named phone elsewhere may have different connectivity. With an import, check the model number, carrier bands and activation terms. Regional repair and parts policies can also differ, so the listed price is only one consideration.\n\nSelected Singapore channels list a S$30 discount through December 8 and selected stores offer a 25 W adapter without a cable, subject to channel and stock. Compare the normal price with the offer’s actual contents and terms."
+        },
+        "ja": {
+          "title": "Galaxy A18、シンガポールで328シンガポールドルで発売",
+          "summary": "4GB・128GBのLTE版。OS更新は最大6世代を案内した。",
+          "body": "サムスンは11月13日、シンガポールでGalaxy A18を発表し同日発売した。4GB・128GBのLTE版は328シンガポールドルで、薄青、黒、銀を用意する。韓国の構成、価格、発売日は未確認だ。\n\nGalaxy Aは入門～中級機の系列で、A18は6.7型FHD+ Super AMOLEDとHelio G99+を搭載する。画素が自ら発光する。対角サイズと解像度だけでは屋外輝度やゲームの持続速度は分からない。\n\nLPDDR5の4GBはアプリ実行、128GBは保存に使う。RAM Plusは保存領域を仮想メモリーに使う仕組みで、物理メモリーの追加とは異なる。写真やアプリ用の空き容量も影響する。\n\n背面は5000万画素広角、500万超広角、200万マクロ。画角や用途が違い、画素数を足して1枚の解像度にはできない。5000mAhは電池容量、25Wは特典アダプターの表示だ。利用時間と充電時間には環境や使い方も関わる。\n\nOSは最大6世代、セキュリティ更新は6年。回数と期間は異なる。更新日や検索・音声の言語とアプリ対応は別途確認する。編集部は長く使うならメモリーと保存容量の使い方も重要と見る。\n\nLTEは公表された4G構成の表記だ。他地域の同名機と同じ通信仕様とは限らない。輸入時は型番、周波数帯、開通条件と地域別修理を確認したい。\n\n対象販路では12月8日まで30シンガポールドル引き、対象店舗ではケーブルなしの25Wアダプターが付く。販路と在庫条件を含め通常価格と比較したい。"
+        },
+        "zh": {
+          "title": "Galaxy A18在新加坡开售，定价328新元",
+          "summary": "LTE版配4GB内存和128GB存储，最多支持六代系统升级。",
+          "body": "三星11月13日在新加坡发布并开售Galaxy A18。4GB加128GB LTE版为328新元，有浅蓝、黑、银三色。公告未确定韩国的版本、日期和价格。\n\nGalaxy A涵盖入门与中端手机。A18配6.7英寸FHD+ Super AMOLED和Helio G99+。像素自行发光，屏幕尺寸和分辨率等级无法确定户外亮度与游戏持续帧率。\n\n4GB LPDDR5用于运行应用，128GB保存文件及应用。RAM Plus用部分存储作虚拟内存，并非增加物理内存，也需要考虑照片及应用剩余空间。\n\n后摄包括5000万像素广角、500万超广角与200万微距，各负责不同构图，不能相加为单张分辨率。5000mAh是容量，25W是促销适配器标称。实际续航与充电时间还受环境和用法影响。\n\n三星承诺最多六代系统升级和六年安全更新。版本次数与时长不同，功能语言、应用支持和地区推送时间可另查。编辑部认为长期使用也要考虑内存及存储空间。\n\nLTE指公告中的4G配置，其他地区同名机未必相同。进口时可核对型号、频段、入网条件及地区维修和零件政策。\n\n指定渠道至12月8日减30新元，指定门店另有不含线的25W适配器，受库存和渠道限制。应按实际套餐比较通常售价。"
+        }
+      },
+      "image": {
+        "url": "assets/20261114-a18.jpg",
+        "alt": {
+          "ko": "창가 탁자의 일반 스마트폰과 충전 케이블",
+          "en": "Generic smartphone and charging cable on a sunlit desk",
+          "ja": "窓辺の机にある一般的なスマートフォンと充電ケーブル",
+          "zh": "阳光下桌面的通用手机与充电线"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "amd-versal-tr-backside-protection-20261112",
+      "date": "2026-11-12",
+      "published": "2026-11-14",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "AMD Newsroom",
+      "url": "https://newsroom.amd.com/news/amd-advances-built-in-protection-physical-attacks-security-critical-systems/",
+      "sources": [
+        {
+          "name": "AMD Newsroom",
+          "url": "https://newsroom.amd.com/news/amd-advances-built-in-protection-physical-attacks-security-critical-systems/"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "AMD 버설 TR 공개, 칩 뒷면 물리 공격 방어 기능 통합",
+          "summary": "세 모델의 샘플은 2027년 하반기, 생산은 2028년 상반기가 목표다.",
+          "body": "AMD는 11월 12일 물리적 변조 저항 기능을 결합한 버설 TR 제품군을 발표했다. 버설 AI 엣지 2세대를 기반으로 한 세 모델로, 실리콘 뒷면을 겨냥한 특정 물리 공격에 대한 보호 기능을 칩 안에 통합했다. 첫 샘플은 2027년 하반기, 생산은 2028년 상반기로 예상한다고 밝혔다. 지금 개발에 쓸 수 있다는 설명은 대응하는 표준 제품을 가리킨다.\n\nAMD는 CPU와 GPU뿐 아니라 회로 구성을 프로그램할 수 있는 적응형 칩도 공급한다. 버설에는 명령을 수행하는 Arm CPU, 일부 연산을 병렬로 처리하는 AI 엔진, 사용자가 설계한 회로를 구현하는 프로그래머블 로직이 함께 들어간다. 이종 연산이란 역할이 다른 장치를 같은 시스템에 두고, 작업에 맞는 곳에 계산을 보내는 방식이다. 티알 제품은 이런 연산 기능을 유지하면서 보안 설계가 필요한 산업 장비나 네트워크 장치 등에 쓰는 구상이다.\n\n칩에 물리적으로 접근할 수 있는 상황에서는 소프트웨어 업데이트만으로 모든 공격을 막기 어렵다. 예를 들어 전원 레일은 회로 블록에 특정 전압을 공급하는 전기 경로인데, 순간적으로 전압이 정상 범위를 벗어나면 연산이나 검증이 잘못 진행될 수 있다. 이런 짧은 이상을 글리치라고 부른다. AMD는 두 전원 레일에서 동시에 생기는 글리치까지 감지 범위를 넓혔다고 설명한다. 공개된 자료만으로 모든 접근 방식이 감지된다고 판단할 수는 없다.\n\n보안 기능에는 ML-DSA와 SLH-DSA 서명 가속, 여러 서명 알고리즘을 이용할 수 있는 부팅 흐름이 포함된다. 전자서명은 펌웨어가 신뢰할 수 있는 곳에서 왔고 바뀌지 않았는지 검증하는 수단이다. 부팅 과정에서 이를 쓰려면 장치에 올바른 검증 키를 넣고 업데이트까지 관리해야 한다. 칩이 알고리즘을 지원한다고 완성 장치 전체가 같은 위협에 대응하도록 검증됐다는 뜻은 아니다.\n\n회사는 제품군에서 최대 369 INT8 TOPS를 제시한다. 이는 초당 369조 회의 8비트 정수 연산을 나타내는 사양이며, 특정 프로그램의 실제 실행 속도는 연산 구성과 메모리 전송에 따라 달라진다. 2VE3358TR, 2VE3558TR, 2VE3858TR마다 대응하는 표준 부품의 장착 형상이 같다고 AMD는 설명했다. 편집부는 이를 기판 개발을 먼저 시작할 수 있는 선택으로 보지만, 변경 후 보안 효과는 완성 기기에서 별도로 확인해야 한다고 본다.\n\n개발 일정에서 기존 표준품을 쓰는 단계에는 입력과 출력이 맞는지, 필요한 처리량을 얻는지 시험하는 일이 포함된다. 그러나 물리 방어 기능을 검증하려면 실제 보호 기능이 들어간 부품이 필요하다. 편집부는 기판과 응용 코드 시험을 앞당길 수 있는 부분과 TR 샘플을 기다려야 하는 시험을 나눠 계획하는 것이 합리적이라고 본다. 동일한 장착 형상 자체는 시험을 통과했다는 결과가 아니다.\n\n가격과 국가별 공급, 실제 적용 대상과 검증 조건의 세부는 이번 발표에 없다. 공급 계획 역시 샘플과 양산으로 나뉜다. 개발팀에는 표준 칩으로 설계를 시작할 수 있는 일정과 변조 저항 부품을 받을 수 있는 일정이 각각 중요하다. 공격 범위는 회사가 지정한 위협 모델과 제품 문서를 기준으로 판단해야 한다."
+        },
+        "en": {
+          "title": "AMD unveils Versal TR devices with backside attack protection",
+          "summary": "AMD expects initial samples in the second half of 2027 and production in the first half of 2028.",
+          "body": "On November 12 AMD announced three tamper-resistant Versal TR devices based on Versal AI Edge Series Gen 2. They add built-in protection against specified physical attacks on the silicon backside. The first samples are expected in late 2027, with production in early 2028. Standard counterparts are available for development now.\n\nAMD also supplies adaptive chips with programmable circuits. Versal combines Arm CPUs, AI Engines and programmable logic. Heterogeneous computing assigns different tasks to hardware suited to them. The TR devices add safeguards for applications such as industrial and networking systems while retaining these different compute resources.\n\nPhysical access can expose devices to attacks software alone cannot address. A power rail supplies a circuit voltage; a brief deviation may affect execution or verification. Such a disturbance is a glitch. AMD says it expands detection to simultaneous glitches on two rails. The announcement does not establish protection against every physical technique.\n\nFeatures include acceleration for ML-DSA and SLH-DSA signatures and boot support for multiple signature algorithms. A signature can verify who supplied firmware and whether it changed. A system must still provision trusted keys and manage updates. Supporting algorithms does not validate a complete device against all threats.\n\nAMD quotes up to 369 INT8 TOPS, or 369 trillion 8-bit operations per second. Real workloads depend on computation and memory traffic. The 2VE3358TR, 2VE3558TR and 2VE3858TR have footprint-compatible standard counterparts. We see a path to start board work earlier, with system security verification still needed after migration.\n\nStandard parts can be used to check board interfaces and workload throughput. Physical defenses require the protected device for validation. In our view, board and app work can proceed ahead of tests that need TR silicon. Footprint compatibility does not certify either result.\n\nPricing, regional supply and detailed implementation conditions were not announced. Compare the schedule for developing with standard chips with the schedule for receiving TR samples and production parts. The documented threat model defines the protection scope."
+        },
+        "ja": {
+          "title": "AMD、裏面からの物理攻撃対策を組み込むVersal TRを発表",
+          "summary": "3品種のサンプルは2027年下期、量産は2028年上期を見込む。",
+          "body": "AMDは11月12日、Versal AI Edge第2世代を基に、シリコン裏面の指定された物理攻撃への対策を組み込んだ3製品を発表した。初回サンプルは2027年下期、量産は2028年上期の見込み。現時点で開発に使えるのは対応する標準品だ。\n\nVersalはArm CPUとAIエンジン、プログラム可能な回路を組み合わせ、用途に応じて処理を分担する。TRは産業機器やネットワーク機器などでこの処理資源と保護を両立させる設計だ。\n\n電源レールは回路に電圧を供給する経路。短い電圧異常で処理や検証に影響することがあり、グリッチと呼ぶ。AMDは2系統同時の異常も検知対象に加えたとする。あらゆる物理攻撃への防御を示す資料ではない。\n\nML-DSAとSLH-DSAの署名処理を高速化し、複数署名方式を使える起動を支援する。署名はファームウェアの出所と改変の有無の検証に使う。信頼する鍵の設定と更新管理は機器側で必要だ。\n\n最大369 INT8 TOPSは毎秒369兆回の8ビット整数演算を示す。実効速度は演算とメモリー転送で変わる。3モデルには基板上の実装寸法が合う標準品がある。編集部は基板開発を先行できる選択肢と見るが、移行後の機器でも検証が要る。\n\n標準品で基板の入出力と処理量を試せるが、物理対策の検証には保護機能付きの実物が必要だ。編集部は先行できる試験とTRを待つ試験を分けるのが妥当と見る。\n\n価格、地域別供給、詳細な実装条件は未発表だ。標準品で開発を始められる時期とTRのサンプル・量産を区別し、保護範囲は製品資料の脅威モデルで確認する。"
+        },
+        "zh": {
+          "title": "AMD发布Versal TR，集成对芯片背面物理攻击的防护",
+          "summary": "三款预计2027年下半年送样，2028年上半年量产。",
+          "body": "AMD于11月12日宣布基于第二代Versal AI Edge的三款TR器件，为指定的硅片背面物理攻击提供内置防护。首批样品预计2027年下半年，量产预计2028年上半年。目前可开发的是对应标准器件。\n\nVersal结合Arm处理器、AI引擎和可编程逻辑，将任务交给合适的计算资源。TR在这套异构处理基础上增加工业或联网设备所需的保护。\n\n电源轨给电路供电，短暂异常可能干扰运算与验证，称为毛刺。AMD称检测范围扩大到两路电源同时发生毛刺。公告未覆盖所有物理手法。\n\n硬件支持ML-DSA和SLH-DSA签名加速以及多签名算法启动流程。签名可核实固件来源及是否改变，设备仍须配置可信密钥和管理更新。\n\n最高369 INT8 TOPS即每秒369万亿次8位整数运算，实速取决于任务和内存传输。三个型号有安装尺寸兼容的标准器件。编辑部认为可提前开发板卡，但迁移后仍需系统验证。\n\n标准器件可检查接口和吞吐量，验证物理防护仍需要有该功能的实体芯片。编辑部认为可将先行板卡测试与等待TR样品的测试分别排期。\n\n价格、各地供应和详细实施条件尚未公布。应区分标准器件开发与TR样品及量产日期，防护范围以产品威胁模型为准。"
+        }
+      },
+      "image": {
+        "url": "assets/20261114-amd.jpg",
+        "alt": {
+          "ko": "실험실 기판 옆의 무표식 반도체 패키지",
+          "en": "Unmarked chip package beside a laboratory circuit board",
+          "ja": "試験基板のそばの無印半導体パッケージ",
+          "zh": "实验电路板旁的无标识芯片封装"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "dell-pro-headset-five-models-20261110",
+      "date": "2026-11-10",
+      "published": "2026-11-14",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "Dell Technologies blog",
+      "url": "https://www.dell.com/en-us/blog/dell-raises-the-bar-for-business-headsets-with-smarter-audio-and-lasting-comfort/",
+      "sources": [
+        {
+          "name": "Dell Technologies blog",
+          "url": "https://www.dell.com/en-us/blog/dell-raises-the-bar-for-business-headsets-with-smarter-audio-and-lasting-comfort/"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "델, 업무용 헤드셋 5종 공개…교체 배터리는 무선 모델에",
+          "summary": "유선 2종과 무선 2종은 판매를 시작했다. 상위 무선 모델은 2027년 2월 4일 예정이다.",
+          "body": "델이 11월 10일 기업과 재택근무를 겨냥한 델 프로 헤드셋 다섯 모델을 공개했다. 유선 WH327과 WH527, 무선 WL327과 WL527은 발표 시점부터 판매한다고 안내했다. 최상위 무선 WL727은 2027년 2월 4일 판매 예정이다. 발표에서 제시된 가격은 미국 달러 기준이며 유선 기본형 64.99달러부터 상위 무선 369.99달러까지다. 한국 판매일과 가격은 해당 자료에 나오지 않았다.\n\n델은 PC와 기업용 장비를 공급하며, 이번 제품을 여러 대 배치하는 조직의 관리 도구와 연결했다. 두 유선 모델은 USB-C 오디오를 사용하고 USB-A 변환 어댑터가 제공된다. 세 무선 모델에는 블루투스 6.0, 무선 동글과 USB 오디오가 있고, 상위 WL727은 3.5mm 연결도 지원한다. 무선에서 최대 여덟 기기를 등록한다는 것은 저장할 수 있는 연결 기록이다. 동시에 활성 연결을 유지하는 범위는 두 기기다. 노트북과 휴대전화를 오가려는 사람에게는 후자의 수치가 더 직접적이다.\n\n델은 다섯 제품에 마이크 쪽 소음 저감을 넣었다. 상대방에게 전달되는 목소리에서 주변 소리를 줄이는 기능이다. 착용자에게 들리는 소음을 줄이는 능동 소음 제어 ANC는 별도의 기능이다. 이번에 무선 세 제품으로 ANC를 넓혔고, 유선에서는 WH527에 하이브리드 ANC가 들어간다. 두 기능이 필요한 업무 환경이라면 마이크 사양과 헤드폰 내부 소음 제어를 따로 읽어야 한다. 주변 음성을 얼마나 줄이는가는 장소와 말하는 사람의 위치에 따라서도 달라진다.\n\n무선 최대 배터리 수치로는 WL327의 75시간, WL527의 95시간, WL727의 115시간이 나온다. 델의 시험 주석은 ANC를 끈 조건이라고 밝힌다. 회의에서 마이크를 계속 쓰고 소음 제어도 켠 경우의 시간을 이 표로 확정할 수 없다. 장시간 통화가 중요하면 모델 이름보다 동일한 통화 조건에서의 시험을 비교하는 게 적합하다. 충전할 수 있는 시간과 케이블로 연결해 쓸 수 있는지도 업무 환경을 좌우한다.\n\n무선 모델은 사용자가 배터리를 교체할 수 있고, 다섯 모델의 이어 쿠션도 교체할 수 있다. 부품은 별도 판매다. 편집부는 같은 장비를 여러 해 운영하는 조직에서 초기 가격과 함께 배터리·쿠션의 입수 가능성이 중요하다고 본다. 교체할 수 있다는 설계와 구매하는 지역에서 필요한 부품이 제때 공급된다는 것은 서로 다른 조건이다. 펌웨어 관리나 문제 해결은 델 디바이스 매니지먼트 콘솔을 통해 지원된다.\n\n팀 단위로 선택하면 개인이 구매할 때와 비교 기준이 달라진다. 연결된 장치가 많지 않은 고정 좌석에서는 유선형이 충전 절차를 없애고, 좌석을 옮겨 다니거나 휴대전화에 번갈아 연결할 때는 무선형의 두 연결이 더 유용할 수 있다. 편집부는 장비를 나눠 비교할 때 전체 구성원에게 같은 가격대를 적용하기보다, 통화 환경과 연결 방식별로 실제 필요한 기능을 먼저 확인할 수 있다고 본다.\n\n회사 발표에는 다섯 모델 모두 팀즈와 줌 인증을 받았다고 나온다. 인증은 정해진 호환 기준을 다루며 각 사무실의 무선 혼잡과 통화 품질을 예측하는 수치는 아니다. 배치할 때는 연결 방식, 회사 계정에서 허용된 관리 설정, 실제 부품 공급과 보증 조건을 지역별로 확인할 수 있다."
+        },
+        "en": {
+          "title": "Dell unveils five business headsets with replaceable wireless batteries",
+          "summary": "Four models are listed as available, with the flagship wireless model due February 4, 2027.",
+          "body": "Dell announced five Dell Pro headsets on November 10. The wired WH327 and WH527 and wireless WL327 and WL527 were listed as available at announcement. The flagship WL727 is due February 4, 2027. US prices run from $64.99 to $369.99. Korean pricing and dates were not specified.\n\nThe lineup ties PC accessories into Dell’s fleet tools. Wired models use USB-C audio and include a USB-A adapter. Wireless models support Bluetooth 6.0, a dongle and USB audio, with a 3.5 mm option on WL727. Pairing records for eight devices differ from two simultaneous active connections. The latter matters for switching between a phone and laptop.\n\nAll five reduce background noise on the microphone signal heard by callers. Active noise cancellation, or ANC, addresses sound heard by the wearer. It covers three wireless models, while WH527 adds hybrid ANC on the wired side. Check both functions when needed, as surroundings and speaker position also affect outcomes.\n\nThe quoted wireless maxima are 75 hours for WL327, 95 for WL527 and 115 for WL727. Dell’s footnotes specify ANC off. Continuous calls with the microphone and ANC active may differ. Compare equivalent call conditions and consider charging and wired use during a workday.\n\nWireless batteries and all five models’ ear cushions can be replaced. Parts are sold separately. For a fleet, we see regional parts supply as relevant alongside initial price. Replaceability does not establish local availability. Firmware management and troubleshooting are supported through Dell Device Management Console.\n\nA team can compare different needs. Wired sets remove charging at fixed desks. Two wireless connections are more relevant for people moving between work areas and phones. Our assessment is that call environment and connection requirements can guide model selection across a team.\n\nDell lists Teams and Zoom certification across the range. Certification addresses defined compatibility conditions, while local wireless congestion and room acoustics still matter. Check regional connection, management, parts and warranty terms before deployment."
+        },
+        "ja": {
+          "title": "デルの業務用ヘッドセット5機種、無線機は電池交換に対応",
+          "summary": "4機種は提供開始。上位無線機は2027年2月4日予定。",
+          "body": "デルは11月10日、Dell Proの5機種を発表した。有線WH327、WH527と無線WL327、WL527は提供中、WL727は2027年2月4日予定。米国価格は64.99～369.99ドルで、韓国価格と日程は未公表だ。\n\n有線はUSB-CとUSB-A変換。無線はBluetooth 6.0、ドングルとUSB音声に対応し、WL727は3.5mmも備える。登録8台と同時接続2台は別で、PCとスマートフォンの切り替えには後者が関わる。\n\n全機種のマイクは相手に届く周囲音を抑える。装着者が聞く雑音を抑えるANCとは機能が違う。無線3機種にANC、有線WH527にハイブリッドANCを備える。部屋や話者位置も結果に関わる。\n\n無線の最大値は順に75、95、115時間。デルの試験注記はANCオフだ。連続通話とANCの併用時は別条件になる。充電機会や有線利用も検討したい。\n\n無線電池と全機種のイヤークッションは交換でき、部品は別売り。編集部は導入価格と地域の部品入手性を重視する。ファームウェアや問題対応は管理コンソールを通じて行える。\n\n組織では固定席なら有線で充電を省ける。移動や携帯との切替には無線の同時接続が役立ち得る。編集部は通話環境と接続要求に応じて機種を選べると見る。\n\n全機種がTeamsとZoom認証を取得したという。認証は所定の互換基準で、無線混雑や通話品質を予測する値ではない。接続方式、管理、部品と保証条件を地域別に確認したい。"
+        },
+        "zh": {
+          "title": "戴尔发布五款办公耳机，无线款支持换电池",
+          "summary": "四款在公告时已可购买，旗舰无线款计划2027年2月4日上市。",
+          "body": "戴尔11月10日公布五款Dell Pro耳机。有线WH327、WH527及无线WL327、WL527已上市，WL727计划2027年2月4日开售。美国售价64.99至369.99美元，韩国日期和价格未给。\n\n有线使用USB-C并配USB-A转换，无线支持蓝牙6.0、接收器和USB音频，WL727另有3.5毫米。登记八台与同时保持两台连接不同，后者影响电脑和手机切换。\n\n五款均可降低麦克风传给对方的背景声。佩戴者听到的噪声由主动降噪处理，是另一功能。无线三款均有ANC，有线WH527为混合ANC，环境和说话位置也影响结果。\n\n无线最高续航分别是75、95及115小时，戴尔注明关闭ANC测试。长时间通话并开降噪的条件不同，应比较同条件表现和充电机会。\n\n无线电池及所有耳垫可更换，零件另售。编辑部认为企业应把区域零件供应和初始价格一起考虑。管理控制台可提供固件及故障处理。\n\n团队固定座位可用有线省去充电，经常移动或切换手机则可用无线双连接。编辑部认为可按通话环境及连接需求分配不同型号。\n\n五款均获Teams及Zoom兼容认证，实际通话还受当地无线拥堵和空间声学影响。部署前可核对连接、管理权限、零件和保修。"
+        }
+      },
+      "image": {
+        "url": "assets/20261114-dell.jpg",
+        "alt": {
+          "ko": "노트북 옆 거치대에 걸린 일반 업무용 헤드셋",
+          "en": "Generic office headset on a stand beside a laptop",
+          "ja": "ノートPCのそばに置いた一般的な業務用ヘッドセット",
+          "zh": "笔记本旁支架上的通用办公耳机"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "asus-xg-core-radeon-usb4-20261106",
+      "date": "2026-11-06",
+      "published": "2026-11-14",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "ASUS Pressroom",
+      "url": "https://press.asus.com/news/press-releases/asus-xg-core-radeon-rx-9060-xt-lp-external-graphics-dock/",
+      "sources": [
+        {
+          "name": "ASUS Pressroom",
+          "url": "https://press.asus.com/news/press-releases/asus-xg-core-radeon-rx-9060-xt-lp-external-graphics-dock/"
+        },
+        {
+          "name": "ASUS IBC showcase",
+          "url": "https://press.asus.com/news/press-releases/asus-proart-ai-creator-solutions-ibc-2026/"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "ASUS XG Core, USB4로 노트북에 라데온 그래픽 연결",
+          "summary": "16GB 전용 메모리를 갖춘 외장 그래픽 장치다. 연결 단자와 호스트 지원을 함께 봐야 한다.",
+          "body": "ASUS는 11월 6일 라데온 RX 9060 XT LP와 16GB GDDR6를 결합한 XG Core 외장 그래픽 장치를 발표했다. 앞서 IBC 전시에서 제작용 장비로 소개한 뒤, 공식 발표에서 노트북과 소형 PC, 휴대용 게임기를 USB4로 연결하는 구성을 설명했다. 11월 6일은 발표일이며 지역별 판매일, 가격, 재고는 이 발표에서 확인되지 않는다.\n\nASUS는 PC와 그래픽카드, 주변기기를 만드는 회사다. 외장 GPU는 그래픽 연산을 노트북 안의 칩 대신 외부 장치에 맡길 수 있게 한다. 화면을 만들거나 영상 효과를 계산할 때 도움이 될 수 있고, 호환되는 소프트웨어에서는 로컬 AI의 연산에도 사용할 수 있다. 제품이 제공하는 16GB는 그래픽 장치가 직접 쓰는 전용 메모리다. 노트북의 시스템 메모리가 자동으로 16GB 늘어나거나 프로그램 전체가 그 공간을 자유롭게 쓴다는 뜻은 아니다.\n\nUSB4의 최대 40Gbps는 연결에서 제시하는 전송 규격이다. 초당 40기가비트를 바이트로 단순 환산하면 5GB/s지만, 실제로는 프로토콜 처리와 다른 신호가 대역폭을 사용한다. 그래픽카드와 기판이 내부에서 사용하는 연결 방식과 같은 실효 속도로 간주할 수 없다. 이미 외부 장치의 메모리에 올라간 데이터를 반복 연산하는 작업과, 이미지나 모델의 일부를 호스트에서 자주 보내는 작업은 연결 부담이 달라진다.\n\nUSB-C는 단자의 모양이고 USB4는 전송 기능이다. 같은 모양의 포트라도 외장 그래픽을 지원하는지는 노트북이나 휴대용 게임기의 사양과 펌웨어가 결정한다. ASUS는 호환되는 썬더볼트 3 장치도 안내하지만, 포트에 케이블이 꽂힌다는 이유만으로 외장 GPU가 동작하는 것은 아니다. 케이블의 지원 규격과 운영체제 및 드라이버, 전원 연결 요구도 함께 확인해야 한다.\n\n장치에 붙은 HDMI와 디스플레이포트로 외부 모니터를 연결할 수 있다. 작업에 따라 외장 GPU에서 만든 화면을 노트북 내장 패널로 다시 보내는 방식과 장치에서 외부 화면으로 바로 출력하는 구성의 데이터 흐름이 다를 수 있다. 편집부는 모니터를 이미 갖춘 작은 작업 공간이나, 이동할 때 가벼운 본체를 쓰고 돌아와 그래픽 성능을 더하려는 경우에 비교할 만하다고 본다. 독립 게임 성능이나 장시간 소음은 공개 자료에서 확인되지 않았다.\n\n메모리 용량만으로 실행 가능한 AI 모델의 크기를 정하기도 어렵다. 모델을 저장하는 정밀도 외에 입력 길이, 처리 중 임시 데이터와 화면 출력에 사용하는 공간이 함께 들어가기 때문이다. 그래픽 도구가 설치된다고 그 프로그램의 모든 기능이 해당 GPU에서 같은 방식으로 가속되는 것도 아니다. 평소 쓰는 프로젝트의 크기와 소프트웨어 호환 목록을 대조하면 16GB 수치가 자신의 작업에서 어떤 의미가 있는지 판단하기 쉽다.\n\nASUS가 제시한 ComfyUI, LM Studio, Ollama 사례에도 소프트웨어 버전과 모델의 지원 조건이 붙는다. 구매 판단에는 그래픽 메모리 크기, 실제 쓰는 앱에서의 지원과 케이블 연결 환경을 함께 봐야 한다. 국내 가격과 출시 시점, 기존 데스크톱 GPU와 동일한 조건에서 비교한 측정값은 추후 확인할 항목이다."
+        },
+        "en": {
+          "title": "ASUS XG Core connects Radeon graphics to compatible systems over USB4",
+          "summary": "The external GPU has 16 GB of dedicated memory, with host support required.",
+          "body": "ASUS announced XG Core with a Radeon RX 9060 XT LP and 16 GB GDDR6 on November 6. Following an earlier IBC showcase, the release describes USB4 connections to compatible laptops, mini PCs and handhelds. It does not establish regional sale dates, prices or stock.\n\nASUS makes PCs and graphics hardware. An external GPU can handle rendering, video effects or compatible local AI workloads. Its 16 GB is graphics memory, separate from the host’s system RAM and ordinary app memory allocation.\n\nUSB4’s stated up to 40 Gbps describes the link. Dividing by eight gives a nominal 5 GB/s, before protocol overhead and other traffic. It does not establish desktop internal GPU bandwidth. A workload reusing data already on the GPU can make different link demands from one repeatedly transferring assets.\n\nUSB-C describes a connector. USB4 describes data capabilities. A port’s shape cannot establish external GPU support. ASUS also lists compatible Thunderbolt 3 hosts. Check cable capability, host firmware, operating system, driver and power requirements.\n\nHDMI and DisplayPort allow direct connection to external monitors. Sending frames to the laptop panel can involve different data flows. We see a possible fit for a small workspace where a light mobile computer gains graphics resources at a desk. Independent gaming speed and sustained noise remain unverified.\n\nModel size cannot be inferred from graphics memory alone. Precision, input length, temporary data and display allocation also use space. Installing an app does not establish acceleration for all its features. Compare the actual project with the software support list.\n\nLocal AI examples include ComfyUI, LM Studio and Ollama, subject to model and software compatibility. Compare target apps and the whole connection. Korean price, sale date and controlled comparisons with desktop graphics remain open."
+        },
+        "ja": {
+          "title": "ASUS XG Core、USB4でRadeon外付けグラフィックス",
+          "summary": "専用メモリー16GB。端子とホスト側の対応は併せて確認したい。",
+          "body": "ASUSは11月6日、RX 9060 XT LPと16GB GDDR6のXG Coreを発表した。IBCでの紹介に続き、対応ノートPC、小型PC、携帯ゲーム機へのUSB4接続を案内した。地域別の発売、価格と在庫は未確認だ。\n\nASUSはPCやグラフィックス機器を供給する。外付けGPUは描画、映像や対応AI処理を担える。16GBはGPU専用で、PCのシステムメモリー増設ではない。\n\nUSB4最大40Gbpsは接続の表記で、換算上は毎秒5GBとなる。プロトコルや他の通信分を引いた実効値とは違う。GPU内のデータを再利用する処理と、頻繁に転送する処理では負荷が変わる。\n\nUSB-Cは端子形状で、USB4は転送機能だ。対応するThunderbolt 3も案内するが、挿せることだけでは動作を判断できない。ケーブル、ファームウェア、OS、ドライバーと電源を確認したい。\n\nHDMIとDisplayPortで外部画面に接続する。内蔵画面へ戻す場合はデータ経路が異なり得る。編集部は軽いPCを机で強化する選択肢と見るが、ゲーム性能と長時間の騒音は独立測定がない。\n\nAIモデルの大きさはVRAMだけでは決まらず、精度、入力長、一時データ、画面にも容量を使う。アプリ導入だけで全機能が加速するとは限らない。扱う作業と対応表を比べたい。\n\nComfyUI、LM Studio、Ollamaもモデルとソフトの対応条件がある。韓国価格と発売日、同条件での内蔵GPUとの比較は今後の確認事項だ。"
+        },
+        "zh": {
+          "title": "华硕XG Core通过USB4连接外置Radeon显卡",
+          "summary": "配16GB独立显存，仍要核对接口和主机支持。",
+          "body": "华硕11月6日发布RX 9060 XT LP与16GB GDDR6的XG Core。此前在IBC展示，此次说明USB4连接兼容笔记本、迷你电脑和掌机。各地售价、开售和库存未说明。\n\n华硕提供电脑与显卡产品。外置GPU可承担渲染、视频效果和兼容的本地AI工作。16GB是显卡独立内存，不能直接加到主机系统内存。\n\nUSB4最高40Gbps名义换算为每秒5GB，协议和其他数据会占带宽，并非桌面内部连接实速。重复利用显存数据与频繁传送资料的任务，链路需求不同。\n\nUSB-C描述插头，USB4描述传输。也有兼容Thunderbolt 3主机，但能插入不代表支持外置GPU。应查线材、固件、系统、驱动及电源。\n\nHDMI与DisplayPort可直连外屏，回传到内屏可能有不同数据路径。编辑部认为适合比较轻便设备在桌面扩展的方案。独立游戏实速与持续噪声未确认。\n\n可运行模型大小不只取决于显存，精度、输入长度、临时数据和显示也占空间。安装软件不表示所有功能都会加速，应对照实际项目及支持列表。\n\nComfyUI、LM Studio和Ollama也受版本及模型兼容限制。韩国价格、发售日和与桌面显卡的同条件对比仍需核查。"
+        }
+      },
+      "image": {
+        "url": "assets/20261114-xg.jpg",
+        "alt": {
+          "ko": "노트북과 케이블로 연결한 일반 금속 장치",
+          "en": "Generic metal electronics enclosure cabled to a laptop",
+          "ja": "ノートPCとケーブル接続した一般的な金属筐体",
+          "zh": "与笔记本用电缆相连的通用金属设备"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "asus-gallop-factory-packing-20261113",
+      "date": "2026-11-13",
+      "published": "2026-11-14",
+      "category": {
+        "ko": "전자기기",
+        "en": "Electronics",
+        "ja": "電子機器",
+        "zh": "电子设备"
+      },
+      "source": "ASUS Pressroom development update",
+      "url": "https://press.asus.com/blog/factory-proven-physical-ai-asus-gallop-humanoid-robot/",
+      "sources": [
+        {
+          "name": "ASUS Pressroom development update",
+          "url": "https://press.asus.com/blog/factory-proven-physical-ai-asus-gallop-humanoid-robot/"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "ASUS, 갤럽 로봇을 메인보드 부속품 포장에 시험",
+          "summary": "15개 부품을 20초 안에 포장하는 작업이 첫 검증 대상이다. 고객 시험은 2027년 계획이다.",
+          "body": "ASUS가 11월 13일 로봇 갤럽의 첫 적용 작업을 공개했다. 그룹의 전자제품 제조 서비스 공장에서 메인보드 부속품 15개를 포장하는 공정이다. 회사가 제시한 목표는 20초 안에 성공률 99.5%다. 사람이 맡을 때의 기준과 맞춰 보는 목표로 설명했다. 공개된 자료에는 전체 시험 횟수나 실제 성공률이 없어, 목표를 달성했다는 실적으로 볼 수 없다.\n\nASUS는 메인보드와 PC를 판매하며 이번 개발은 그 전자제품 생산 환경에 맞닿아 있다. 현재 갤럽은 고정된 받침 위에서 두 팔을 쓰고, 바퀴를 달아 이동하는 형태는 이후 계획이다. 이미 사람에 맞춰 설계한 작업대와 부품 상자를 이용하려는 구상이다. 사람이 쓰는 공정에 맞춘다고 공장 안에서 혼자 이동하거나 여러 작업을 즉시 바꿔 수행한다는 뜻은 아니다. 공개된 첫 과제는 정해진 위치에서 작은 부품을 골라 포장하는 일이다.\n\n회사 설명에 따르면 포장 대상 중에는 투명한 얇은 봉지에 든 작은 부품이 있다. 봉지가 반사하는 빛이나 부품이 겹친 상태는 카메라로 위치를 찾는 작업에 영향을 줄 수 있다. 로봇은 위치를 확인하는 것 외에도 올바른 부품을 집고 놓아야 한다. 첫 시도가 실패했을 때 부품을 다시 놓거나 공정을 멈추는 시간도 생산 속도에 들어간다. 평균 작업 시간만 제시하면 긴 지연이나 재작업이 얼마나 자주 생겼는지 알기 어렵다.\n\n회사는 장면을 보고 작업 순서를 나누는 계획 단계와 이를 검사하고 필요하면 다시 계획하는 감독 단계, 집고 놓는 동작과 실제 팔을 움직이는 제어 단계를 설명했다. AI가 다음에 무엇을 할지 정하는 기능과 모터가 힘과 위치를 빠르게 조절하는 기능은 다른 역할이다. 작업자의 동의를 얻어 머리에 장착한 카메라로 작업 방법을 기록해 학습에 쓴다는 설명도 담겼다. 회사 자료는 데이터 사용과 학습 방법을 소개하지만 작업장 안전 검증 결과를 제시하지 않았다.\n\n편집부는 99.5%라는 목표를 이해하려면 성공 정의와 반복 횟수가 필요하다고 본다. 예를 들어 200회에서 199회 성공은 수치상 99.5%지만, 잘못 집은 부품 하나를 작업자가 바로 고쳤는지, 상자를 폐기했는지에 따라 현장의 부담은 달라진다. 특정 작업대를 대상으로 한 결과가 다른 조명이나 다른 포장재에도 유지되는지도 별도의 검증이 필요하다. 한 번의 시연과 교대 내내 반복되는 공정은 요구하는 기록이 다르다.\n\n20초가 연속해서 유지된다고 가정하면 한 작업대에서 시간당 180개를 처리하는 계산이 나온다. 이는 휴식과 재시도, 부품 보충이나 공정 전환을 모두 빼고 3600초를 20초로 나눈 값이다. 회사는 시간당 실제 생산량을 발표하지 않았다. 현장에서는 처리량을 계산할 때 속도뿐 아니라 작업을 시작할 수 있었던 시간과 검사를 통과한 완성 수량도 필요하다.\n\n프로그램은 2026년 초 시작했고 자체 로봇 손과 이동형 구성을 개발할 계획이라고 회사는 밝혔다. 컴퓨텍스 2027 시연과 2027년 고객 시험, 2028년 하반기 시장 공급이 일정상 서로 다른 단계다. 가격, 고객 현장의 설치 조건, 목표를 달성한 데이터는 미공개다. 당장 확인되는 변화는 실제 제조 작업을 첫 평가 대상으로 정했다는 점이다."
+        },
+        "en": {
+          "title": "ASUS tests Gallop on motherboard accessory packing",
+          "summary": "The first task involves 15 parts, with a target of 99.5% success within 20 seconds. Customer pilots are planned for 2027.",
+          "body": "ASUS described Gallop’s first application on November 13: packing 15 motherboard accessories at a group electronics manufacturing plant. It targets 99.5% success within 20 seconds, using a human work standard as a benchmark. The post gives no sample count or measured success rate, so this remains a target.\n\nASUS sells motherboards and computers. Its current robot uses two arms on a fixed base, with a wheeled version planned. The design aims to use existing human-scale workstations and bins. The initial task involves picking and placing small parts at a station, with autonomous movement around a plant still outside the disclosed work.\n\nSome parts are in thin clear bags. Reflection and overlap can affect vision, and the robot must identify, grasp and place the correct part. Time spent recovering or stopping after an error matters alongside the average cycle time. An average alone cannot expose how often long delays occur.\n\nASUS describes a planner, a supervisor that checks steps and can replan, a manipulation skills layer and a motion controller. Selecting the next task differs from controlling motor force and position. The company also describes consent-based recording of workers’ methods with head cameras. The post does not provide workplace safety validation results.\n\nWe see the success definition and number of repetitions as necessary to interpret the target. For example, 199 successes out of 200 equals 99.5%, but manual correction and scrapping carry different costs. Other lighting and packaging conditions require separate validation. A shift of repeated work needs different evidence from a one-off demonstration.\n\nAt an uninterrupted 20 seconds per cycle, arithmetic gives 180 units an hour. That excludes breaks, retries, replenishment and changeovers. ASUS did not publish actual hourly throughput. A real measurement also needs uptime and the number of completed units passing inspection.\n\nThe program began in early 2026. ASUS plans its own robot hand and a mobile format, a Computex 2027 presentation and customer pilots in 2027. Market availability is targeted for the second half of 2028. Prices, customer installation terms and evidence of hitting the target remain undisclosed."
+        },
+        "ja": {
+          "title": "ASUSのGallop、マザーボード付属品の梱包工程で試験",
+          "summary": "15点を20秒以内に扱う工程が最初の対象。顧客試験は2027年予定。",
+          "body": "ASUSは11月13日、グループの電子機器受託製造工場で、付属品15点の梱包をGallopの初用途と説明した。20秒以内で成功率99.5％が目標で、人の作業基準に合わせる。試行数や実測成功率は示していない。\n\nASUSは基板やPCを販売する。現在は固定台に2本の腕を置き、車輪付きは次の計画だ。人向けの作業台や容器を使う構想で、初課題は定位置で小部品を拾い、置く作業となる。\n\n薄い透明袋は光を反射し、重なりも画像認識に関わる。正しい部品を見つけてつかみ、置く必要がある。再試行や停止の時間も工程に含まれるため、平均時間だけでは長い遅れの頻度は分からない。\n\n会社は計画、確認と再計画、把持・配置、運動制御を説明した。次の作業の選択とモーターの力・位置制御は別だ。同意を得た作業者の頭部カメラ記録も学習に使うとする。職場での安全検証結果は示されていない。\n\n編集部は成功の定義と反復数を重視する。200回中199回なら99.5％だが、手直しと廃棄では負担が違う。照明や包装を変えた検証も要る。単発の実演と一交代での反復は必要な記録が異なる。\n\n20秒を途切れず繰り返す仮定なら毎時180個だが、停止、再試行、補充や切替を除く計算だ。実測の毎時処理数は未公表で、稼働時間と検査合格数も必要になる。\n\n開発は2026年初めに始まり、独自の手と移動型を計画。Computex 2027展示、2027年の顧客試験、2028年下期の市場供給目標は別の日程だ。価格、設置条件、目標達成データは未公表。"
+        },
+        "zh": {
+          "title": "华硕在主板附件包装工位试验Gallop机器人",
+          "summary": "首项任务涉及15件配件，目标20秒内成功率99.5%，计划2027年客户试点。",
+          "body": "华硕11月13日介绍Gallop首个应用，在集团电子制造服务工厂包装15件主板配件。目标是在20秒内达到99.5%成功率，参照人工标准。资料没有试验次数或实测成功率。\n\n华硕销售主板和电脑。当前设备用固定底座与双臂，轮式版本待开发。设计想沿用人类尺度的工作台和容器，公开首项任务是定点抓取及放置小零件。\n\n部分零件装在薄透明袋，反光和重叠会影响定位。还要抓放正确物品，失误重试及停机时间也算在工序内。平均节拍无法显示长延迟出现频率。\n\n公司描述了规划、检查与重规划、抓放技能及运动控制。选择任务与快速控制电机力和位置是不同职责。公司表示获得同意后利用员工头戴摄像机记录学习，未披露工作场所安全验证结果。\n\n编辑部认为需明确成功定义和重复次数。200次成功199次即99.5%，但人工修正与报废的成本不同。更改照明或包装应另测，单次演示与整班重复需要不同记录。\n\n若20秒周期无中断，算术上每小时180件，但未计休息、重试、补料与换线。公司未公布实测产量，现场还需统计实际运行时间与检验合格量。\n\n项目于2026年初启动，后续计划自研手部及移动版本。Computex 2027展示、2027年客户试点与2028年下半年市场供应目标是不同阶段。价格、安装条件和达标数据未公布。"
+        }
+      },
+      "image": {
+        "url": "assets/20261114-robot.jpg",
+        "alt": {
+          "ko": "작업 지그 옆의 일반 산업용 로봇팔",
+          "en": "Generic industrial robot arm next to a work fixture",
+          "ja": "治具の横にある一般的な産業用ロボットアーム",
+          "zh": "工装旁的通用工业机械臂"
+        },
+        "generated": true
+      }
+    },
     {
       "id": "samsung-intelligent-eyewear-us-release-20261112",
       "date": "2026-11-12",
